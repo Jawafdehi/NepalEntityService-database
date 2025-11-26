@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Deumai Municipality, Ward 4, Ilam, Koshi Pradesh / Ilam / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Deumai Municipality, Ward 4, Ilam, Koshi Pradesh / Ilam / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/ilam"
+  },
+  "attributes": {
+    "contact_mobile": "9862068967",
+    "contact_person": "Sudhir Chaudhary ",
+    "coordinates": {
+      "latitude": "26.9781",
+      "longitude": "87.768"
+    },
+    "facility_level": "Basic Ayurveda Service Centre",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:17.922757Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Ayurveda Service Centre (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1100400011",
+      "value": "1100400011"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "637"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PHAKPHOK AAYURVED DISPENSARY",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "phakphok-aayurved-dispensary",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:17.922755Z",
+    "entity_or_relationship_id": "entity:organization/hospital/phakphok-aayurved-dispensary",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

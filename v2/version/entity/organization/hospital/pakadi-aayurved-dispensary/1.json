@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:28.662769Z",
+  "entity_or_relationship_id": "entity:organization/hospital/pakadi-aayurved-dispensary",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Mayadevi Rural Municipality, Kapilvastu, Lumbini Pradesh / Kapilvastu / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Mayadevi Rural Municipality, Kapilvastu, Lumbini Pradesh / Kapilvastu / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/kapilvastu"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "27.5201",
+        "longitude": "83.1522"
+      },
+      "facility_level": "Ayurveda Aushadhalaya",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:28.662771Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Ayurveda Aushadhalaya (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/pakadi-aayurved-dispensary",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5090900011",
+        "value": "5090900011"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "7407"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PAKADI AAYURVED DISPENSARY",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": null,
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "pakadi-aayurved-dispensary",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:28.662769Z",
+      "entity_or_relationship_id": "entity:organization/hospital/pakadi-aayurved-dispensary",
+      "id": "version:entity:organization/hospital/pakadi-aayurved-dispensary:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

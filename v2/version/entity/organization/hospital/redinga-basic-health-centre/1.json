@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:37.276406Z",
+  "entity_or_relationship_id": "entity:organization/hospital/redinga-basic-health-centre",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Mudkechula Rural Municipality, Ward 3, Dolpa, Karnali Pradesh / Dolpa / Karnali Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Mudkechula Rural Municipality, Ward 3, Dolpa, Karnali Pradesh / Dolpa / Karnali Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/dolpa"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "29.03465833",
+        "longitude": "82.55060333"
+      },
+      "facility_level": "Basic Health Service Centre",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:37.276409Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Centre (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/redinga-basic-health-centre",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/6010400051",
+        "value": "6010400051"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "12780"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "REDINGA BASIC HEALTH CENTRE",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": null,
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "redinga-basic-health-centre",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:37.276406Z",
+      "entity_or_relationship_id": "entity:organization/hospital/redinga-basic-health-centre",
+      "id": "version:entity:organization/hospital/redinga-basic-health-centre:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

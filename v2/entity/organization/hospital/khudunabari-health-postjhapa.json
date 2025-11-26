@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Arjundhara Municipality, Ward 3, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Arjundhara Municipality, Ward 3, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/jhapa"
+  },
+  "attributes": {
+    "contact_mobile": "9860634796",
+    "contact_person": "DAMBER BALLVE MISRAW",
+    "coordinates": {
+      "latitude": "26.7267",
+      "longitude": "87.9618"
+    },
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:18.036919Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1110300041",
+      "value": "1110300041"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "701"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "KHUDUNABARI HEALTH POSTJHAPA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "khudunabari-health-postjhapa",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:18.036917Z",
+    "entity_or_relationship_id": "entity:organization/hospital/khudunabari-health-postjhapa",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

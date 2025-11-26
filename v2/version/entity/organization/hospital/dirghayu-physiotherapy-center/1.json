@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:40.990852Z",
+  "entity_or_relationship_id": "entity:organization/hospital/dirghayu-physiotherapy-center",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Ghorahi Sub-Metropolitan City, Ward 15, Dang, Lumbini Pradesh / Dang / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Ghorahi Sub-Metropolitan City, Ward 15, Dang, Lumbini Pradesh / Dang / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/dang"
+    },
+    "attributes": {
+      "contact_mobile": "9866975176",
+      "contact_person": "DR.SUJIT THAKUR ",
+      "coordinates": {
+        "latitude": "28.0381102",
+        "longitude": "82.489058"
+      },
+      "facility_level": "Rehabilitation Centre (Physical)",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:40.990855Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Rehabilitation Centre (Physical) (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/dirghayu-physiotherapy-center",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5100200492",
+        "value": "5100200492"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "15062"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "DIRGHAYU PHYSIOTHERAPY CENTER",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "dirghayu-physiotherapy-center",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:40.990852Z",
+      "entity_or_relationship_id": "entity:organization/hospital/dirghayu-physiotherapy-center",
+      "id": "version:entity:organization/hospital/dirghayu-physiotherapy-center:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

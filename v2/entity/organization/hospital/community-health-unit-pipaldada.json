@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Chhathar Jorpati Rural Municipality, Ward 5, Dhankuta, Koshi Pradesh / Dhankuta / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Chhathar Jorpati Rural Municipality, Ward 5, Dhankuta, Koshi Pradesh / Dhankuta / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/dhankuta"
+  },
+  "attributes": {
+    "contact_mobile": "9749736349",
+    "contact_person": "Budharaj Limbu",
+    "coordinates": {
+      "latitude": "27.040763",
+      "longitude": "87.418307"
+    },
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:35.855766Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1070300071",
+      "value": "1070300071"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "12034"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "COMMUNITY HEALTH UNIT PIPALDADA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "community-health-unit-pipaldada",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:35.855764Z",
+    "entity_or_relationship_id": "entity:organization/hospital/community-health-unit-pipaldada",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Thulung Dudhkoushi Rural Municipality, Ward 9, Solukhumbu, Koshi Pradesh / Solukhumbu / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Thulung Dudhkoushi Rural Municipality, Ward 9, Solukhumbu, Koshi Pradesh / Solukhumbu / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/solukhumbu"
+  },
+  "attributes": {
+    "contact_mobile": "9862503350",
+    "contact_person": "ramnarayan mahato",
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:41.803218Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1030500191",
+      "value": "1030500191"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "15486"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "BASIC HEALTH SERVICE CENTER GOPE",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "basic-health-service-center-gope",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:41.803215Z",
+    "entity_or_relationship_id": "entity:organization/hospital/basic-health-service-center-gope",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

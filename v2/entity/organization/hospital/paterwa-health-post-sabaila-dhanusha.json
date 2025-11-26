@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Sabaila Municipality, Ward 4, Dhanusha, Madesh Pradesh / Dhanusha / Madesh Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Sabaila Municipality, Ward 4, Dhanusha, Madesh Pradesh / Dhanusha / Madesh Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/dhanusha"
+  },
+  "attributes": {
+    "contact_mobile": "9827691308",
+    "contact_person": "Dhirendra kumar yadav",
+    "coordinates": {
+      "latitude": "26.79319667",
+      "longitude": "86.12768333"
+    },
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:19.432591Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/2030900061",
+      "value": "2030900061"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "1448"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PATERWA HEALTH POST SABAILA , DHANUSHA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "paterwa-health-post-sabaila-dhanusha",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:19.432589Z",
+    "entity_or_relationship_id": "entity:organization/hospital/paterwa-health-post-sabaila-dhanusha",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

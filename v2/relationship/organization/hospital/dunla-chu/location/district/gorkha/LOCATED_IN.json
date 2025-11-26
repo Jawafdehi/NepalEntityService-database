@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:39.145623Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/dunla-chu",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/gorkha",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Gorkha",
+    "created_at": "2025-11-26T03:56:39.145632Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/dunla-chu:location/district/gorkha:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

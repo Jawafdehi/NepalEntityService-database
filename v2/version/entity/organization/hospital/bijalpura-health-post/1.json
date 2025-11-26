@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:19.598539Z",
+  "entity_or_relationship_id": "entity:organization/hospital/bijalpura-health-post",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Bardibas Municipality, Ward 13, Mahottari, Madesh Pradesh / Mahottari / Madesh Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Bardibas Municipality, Ward 13, Mahottari, Madesh Pradesh / Mahottari / Madesh Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/mahottari"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "26.91585732",
+        "longitude": "85.85612488"
+      },
+      "facility_level": "Basic Health Service Center",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:19.598542Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Center (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/bijalpura-health-post",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/2040100051",
+        "value": "2040100051"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "1557"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "BIJALPURA HEALTH POST",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "bijalpura-health-post",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:19.598539Z",
+      "entity_or_relationship_id": "entity:organization/hospital/bijalpura-health-post",
+      "id": "version:entity:organization/hospital/bijalpura-health-post:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:41.058608Z",
+  "entity_or_relationship_id": "entity:organization/hospital/community-health-unit-soure",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Chaubise Rural Municipality, Ward 1, Dhankuta, Koshi Pradesh / Dhankuta / Koshi Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Chaubise Rural Municipality, Ward 1, Dhankuta, Koshi Pradesh / Dhankuta / Koshi Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/dhankuta"
+    },
+    "attributes": {
+      "contact_mobile": "9862181886",
+      "contact_person": "Thames Kumar Magar",
+      "coordinates": {
+        "latitude": "26.879337",
+        "longitude": "87.517142"
+      },
+      "facility_level": "Basic Health Service Center",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:41.058610Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Center (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/community-health-unit-soure",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/1070700121",
+        "value": "1070700121"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "15119"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "COMMUNITY HEALTH UNIT SOURE",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "community-health-unit-soure",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:41.058608Z",
+      "entity_or_relationship_id": "entity:organization/hospital/community-health-unit-soure",
+      "id": "version:entity:organization/hospital/community-health-unit-soure:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

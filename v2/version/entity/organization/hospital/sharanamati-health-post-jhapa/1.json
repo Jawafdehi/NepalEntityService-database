@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:18.116099Z",
+  "entity_or_relationship_id": "entity:organization/hospital/sharanamati-health-post-jhapa",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Jhapa Rural Municipality, Ward 6, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Jhapa Rural Municipality, Ward 6, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/jhapa"
+    },
+    "attributes": {
+      "contact_mobile": "9806043533",
+      "contact_person": "lila prasad pokhrel",
+      "coordinates": {
+        "latitude": "26.5442",
+        "longitude": "87.8924"
+      },
+      "facility_level": "Basic Health Service Center",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:18.116101Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Center (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/sharanamati-health-post-jhapa",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/1111000031",
+        "value": "1111000031"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "746"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SHARANAMATI HEALTH POST JHAPA",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "sharanamati-health-post-jhapa",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:18.116099Z",
+      "entity_or_relationship_id": "entity:organization/hospital/sharanamati-health-post-jhapa",
+      "id": "version:entity:organization/hospital/sharanamati-health-post-jhapa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

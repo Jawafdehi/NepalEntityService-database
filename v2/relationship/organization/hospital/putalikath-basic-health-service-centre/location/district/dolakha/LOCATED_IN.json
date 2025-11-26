@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:34.398301Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/putalikath-basic-health-service-centre",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/dolakha",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Dolakha",
+    "created_at": "2025-11-26T03:56:34.398310Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/putalikath-basic-health-service-centre:location/district/dolakha:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

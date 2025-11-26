@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:27.621988Z",
+  "entity_or_relationship_id": "entity:organization/hospital/hardineta-hp-gulmi",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Chhatrakot Rural Municipality, Ward 3, Gulmi, Lumbini Pradesh / Gulmi / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Chhatrakot Rural Municipality, Ward 3, Gulmi, Lumbini Pradesh / Gulmi / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/gulmi"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "27.98120094",
+        "longitude": "83.34304157"
+      },
+      "facility_level": "Health Post",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:27.621991Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Health Post (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/hardineta-hp-gulmi",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5041100021",
+        "value": "5041100021"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "5572"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "HARDINETA HP_GULMI",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "hardineta-hp-gulmi",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:27.621988Z",
+      "entity_or_relationship_id": "entity:organization/hospital/hardineta-hp-gulmi",
+      "id": "version:entity:organization/hospital/hardineta-hp-gulmi:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

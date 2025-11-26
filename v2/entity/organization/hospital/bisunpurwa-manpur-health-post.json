@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Madhav Narayan Municipality, Ward 4, Rautahat, Madesh Pradesh / Rautahat / Madesh Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Madhav Narayan Municipality, Ward 4, Rautahat, Madesh Pradesh / Rautahat / Madesh Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/rautahat"
+  },
+  "attributes": {
+    "contact_mobile": "9845135576",
+    "contact_person": "ram prakash prasad",
+    "coordinates": {
+      "latitude": "26.90478563",
+      "longitude": "85.32216148"
+    },
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:20.047146Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/2060700011",
+      "value": "2060700011"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "1829"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "BISUNPURWA MANPUR HEALTH POST",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "bisunpurwa-manpur-health-post",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:20.047143Z",
+    "entity_or_relationship_id": "entity:organization/hospital/bisunpurwa-manpur-health-post",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:28.995053Z",
+  "entity_or_relationship_id": "entity:organization/hospital/everest-polyclinic-research-center",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Nepalganj Sub-Metropolitan City, Ward 10, Banke, Lumbini Pradesh / Banke / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Nepalganj Sub-Metropolitan City, Ward 10, Banke, Lumbini Pradesh / Banke / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/banke"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "28.0545",
+        "longitude": "81.6215"
+      },
+      "facility_level": "Poly Clinic",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:28.995057Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Poly Clinic (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/everest-polyclinic-research-center",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5110600452",
+        "value": "5110600452"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "7572"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "EVEREST POLYCLINIC & RESEARCH CENTER",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "everest-polyclinic-research-center",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:28.995053Z",
+      "entity_or_relationship_id": "entity:organization/hospital/everest-polyclinic-research-center",
+      "id": "version:entity:organization/hospital/everest-polyclinic-research-center:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

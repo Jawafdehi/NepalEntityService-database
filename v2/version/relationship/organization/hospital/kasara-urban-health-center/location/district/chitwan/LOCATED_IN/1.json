@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Hospital located in Chitwan",
+  "created_at": "2025-11-26T03:56:25.262054Z",
+  "entity_or_relationship_id": "relationship:organization/hospital/kasara-urban-health-center:location/district/chitwan:LOCATED_IN",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "created_at": "2025-11-26T03:56:25.262045Z",
+    "end_date": null,
+    "id": "relationship:organization/hospital/kasara-urban-health-center:location/district/chitwan:LOCATED_IN",
+    "source_entity_id": "entity:organization/hospital/kasara-urban-health-center",
+    "start_date": null,
+    "target_entity_id": "entity:location/district/chitwan",
+    "type": "LOCATED_IN",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Hospital located in Chitwan",
+      "created_at": "2025-11-26T03:56:25.262054Z",
+      "entity_or_relationship_id": "relationship:organization/hospital/kasara-urban-health-center:location/district/chitwan:LOCATED_IN",
+      "id": "version:relationship:organization/hospital/kasara-urban-health-center:location/district/chitwan:LOCATED_IN:1",
+      "type": "RELATIONSHIP",
+      "version_number": 1
+    }
+  },
+  "type": "RELATIONSHIP",
+  "version_number": 1
+}

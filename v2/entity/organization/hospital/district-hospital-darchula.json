@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Mahakali Municipality, Ward 5, Darchula, Sudurpashchim Pradesh / Darchula / Sudurpashchim Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Mahakali Municipality, Ward 5, Darchula, Sudurpashchim Pradesh / Darchula / Sudurpashchim Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/darchula"
+  },
+  "attributes": {
+    "contact_mobile": "9860033141",
+    "contact_person": "Dr. Sanjib Shrestha",
+    "coordinates": {
+      "latitude": "29.8369598",
+      "longitude": "80.5333273"
+    },
+    "facility_level": "Basic Hospital (5 to 15 beds)",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 35,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:30.954987Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Hospital (5 to 15 beds) (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/7030300031",
+      "value": "7030300031"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "9548"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "DISTRICT HOSPITAL_ DARCHULA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "district-hospital-darchula",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:30.954984Z",
+    "entity_or_relationship_id": "entity:organization/hospital/district-hospital-darchula",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

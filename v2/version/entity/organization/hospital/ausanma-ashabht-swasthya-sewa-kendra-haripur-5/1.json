@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:41.278592Z",
+  "entity_or_relationship_id": "entity:organization/hospital/ausanma-ashabht-swasthya-sewa-kendra-haripur-5",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Haripur Municipality, Ward 5, Sarlahi, Madesh Pradesh / Sarlahi / Madesh Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Haripur Municipality, Ward 5, Sarlahi, Madesh Pradesh / Sarlahi / Madesh Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/sarlahi"
+    },
+    "attributes": {
+      "contact_mobile": "9864080900",
+      "contact_person": "Rasilal ray yadav",
+      "coordinates": {
+        "latitude": "27.0340646",
+        "longitude": "85521291"
+      },
+      "facility_level": "Basic Health Service Center",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:41.278595Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Center (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/ausanma-ashabht-swasthya-sewa-kendra-haripur-5",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/2050500161",
+        "value": "2050500161"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "15239"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "AUSANMA ASHABHT SWASTHYA SEWA KENDRA HARIPUR 5",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "ausanma-ashabht-swasthya-sewa-kendra-haripur-5",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:41.278592Z",
+      "entity_or_relationship_id": "entity:organization/hospital/ausanma-ashabht-swasthya-sewa-kendra-haripur-5",
+      "id": "version:entity:organization/hospital/ausanma-ashabht-swasthya-sewa-kendra-haripur-5:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

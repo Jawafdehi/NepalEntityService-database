@@ -1,0 +1,129 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:33.799744Z",
+  "entity_or_relationship_id": "entity:organization/hospital/phulbari-basic-health-service-centre",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Madhuwan Municipality, Ward 2, Bardiya, Lumbini Pradesh / Bardiya / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Madhuwan Municipality, Ward 2, Bardiya, Lumbini Pradesh / Bardiya / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/bardiya"
+    },
+    "attributes": {
+      "facility_level": "Basic Health Service Centre",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:33.799747Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Centre (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/phulbari-basic-health-service-centre",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5120600091",
+        "value": "5120600091"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "11006"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PHULBARI BASIC HEALTH SERVICE CENTRE",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "phulbari-basic-health-service-centre",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:33.799744Z",
+      "entity_or_relationship_id": "entity:organization/hospital/phulbari-basic-health-service-centre",
+      "id": "version:entity:organization/hospital/phulbari-basic-health-service-centre:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

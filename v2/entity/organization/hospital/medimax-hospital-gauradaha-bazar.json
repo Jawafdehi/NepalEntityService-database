@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Gauradaha Municipality, Ward 1, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Gauradaha Municipality, Ward 1, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/jhapa"
+  },
+  "attributes": {
+    "contact_mobile": "9852670026",
+    "contact_person": "Rosan Bista",
+    "coordinates": {
+      "latitude": "26.564287544330135",
+      "longitude": "87.71645605838609"
+    },
+    "facility_level": "General Hospital",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 25,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:41.977943Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "General Hospital (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1110800162",
+      "value": "1110800162"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "15564"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "MEDIMAX HOSPITAL GAURADAHA BAZAR",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "medimax-hospital-gauradaha-bazar",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:41.977941Z",
+    "entity_or_relationship_id": "entity:organization/hospital/medimax-hospital-gauradaha-bazar",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

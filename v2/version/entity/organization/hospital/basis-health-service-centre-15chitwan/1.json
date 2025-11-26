@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:34.570920Z",
+  "entity_or_relationship_id": "entity:organization/hospital/basis-health-service-centre-15chitwan",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Ratnanagar Municipality, Ward 15, Chitawan, Bagmati Pradesh / Chitawan / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Ratnanagar Municipality, Ward 15, Chitawan, Bagmati Pradesh / Chitawan / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/chitwan"
+    },
+    "attributes": {
+      "contact_mobile": "9845958359",
+      "contact_person": "rojina giri",
+      "coordinates": {
+        "latitude": "27.65841317",
+        "longitude": "84.53246957"
+      },
+      "facility_level": "Basic Health Service Center",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:34.570924Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Health Service Center (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/basis-health-service-centre-15chitwan",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3130500181",
+        "value": "3130500181"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "11391"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "BASIS HEALTH SERVICE CENTRE 15,CHITWAN",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "basis-health-service-centre-15chitwan",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:34.570920Z",
+      "entity_or_relationship_id": "entity:organization/hospital/basis-health-service-centre-15chitwan",
+      "id": "version:entity:organization/hospital/basis-health-service-centre-15chitwan:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

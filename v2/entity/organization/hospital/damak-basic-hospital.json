@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Damak Municipality, Ward 1, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Damak Municipality, Ward 1, Jhapa, Koshi Pradesh / Jhapa / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/jhapa"
+  },
+  "attributes": {
+    "contact_mobile": "9842168791",
+    "contact_person": "krishna prasad sha",
+    "coordinates": {
+      "latitude": "26.671498",
+      "longitude": "87.702922"
+    },
+    "facility_level": "Basic Hospital (5 to 15 beds)",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 15,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:18.065785Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Hospital (5 to 15 beds) (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1110700011",
+      "value": "1110700011"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "719"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "DAMAK BASIC HOSPITAL",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "damak-basic-hospital",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:18.065783Z",
+    "entity_or_relationship_id": "entity:organization/hospital/damak-basic-hospital",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

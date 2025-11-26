@@ -1,0 +1,117 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Siddharthanagar Municipality, Ward 3, Rupandehi, Lumbini Pradesh / Rupandehi / Lumbini Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Siddharthanagar Municipality, Ward 3, Rupandehi, Lumbini Pradesh / Rupandehi / Lumbini Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/rupandehi"
+  },
+  "attributes": {
+    "contact_mobile": "9857011492",
+    "contact_person": "Kaushal shrestha",
+    "facility_level": "Eye Treatment Centre",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:43.282568Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Eye Treatment Centre (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/5081101692",
+      "value": "5081101692"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "16574"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "MINAKSHI EYE CARE",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "minakshi-eye-care",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:43.282565Z",
+    "entity_or_relationship_id": "entity:organization/hospital/minakshi-eye-care",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

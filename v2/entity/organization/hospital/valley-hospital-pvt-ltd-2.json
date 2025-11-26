@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Kathmandu Metropolitan City, Ward 29, Kathmandu, Bagmati Pradesh / Kathmandu / Bagmati Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Kathmandu Metropolitan City, Ward 29, Kathmandu, Bagmati Pradesh / Kathmandu / Bagmati Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/kathmandu"
+  },
+  "attributes": {
+    "contact_mobile": "9841316189",
+    "contact_person": "kumar raj pant",
+    "coordinates": {
+      "latitude": "27.696",
+      "longitude": "85.3536"
+    },
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 25,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:43.053239Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/3060810072",
+      "value": "3060810072"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "16447"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "VALLEY HOSPITAL PVT LTD",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "valley-hospital-pvt-ltd-2",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:43.053236Z",
+    "entity_or_relationship_id": "entity:organization/hospital/valley-hospital-pvt-ltd-2",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

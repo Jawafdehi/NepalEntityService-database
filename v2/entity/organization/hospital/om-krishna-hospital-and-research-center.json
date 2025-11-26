@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Tikapur Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Tikapur Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/kailali"
+  },
+  "attributes": {
+    "contact_mobile": "9861094838",
+    "contact_person": "Sunita Rimal",
+    "coordinates": {
+      "latitude": "28.54203606",
+      "longitude": "81.11923218"
+    },
+    "facility_level": "General Hospital",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 25,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:38.413415Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "General Hospital (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/7081000172",
+      "value": "7081000172"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "13361"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "OM KRISHNA HOSPITAL AND RESEARCH CENTER",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "om-krishna-hospital-and-research-center",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:38.413412Z",
+    "entity_or_relationship_id": "entity:organization/hospital/om-krishna-hospital-and-research-center",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

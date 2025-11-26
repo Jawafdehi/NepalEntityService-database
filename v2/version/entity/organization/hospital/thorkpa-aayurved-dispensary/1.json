@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:21.098246Z",
+  "entity_or_relationship_id": "entity:organization/hospital/thorkpa-aayurved-dispensary",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sunkoshi Rural Municipality, Sidhupalchowk, Bagmati Pradesh / Sidhupalchowk / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Sunkoshi Rural Municipality, Sidhupalchowk, Bagmati Pradesh / Sidhupalchowk / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/sindhupalchok"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "27.68495062",
+        "longitude": "85.78173641"
+      },
+      "facility_level": "Ayurveda Aushadhalaya",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:21.098249Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Ayurveda Aushadhalaya (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/thorkpa-aayurved-dispensary",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3021200011",
+        "value": "3021200011"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "2379"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "THORKPA AAYURVED DISPENSARY",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": null,
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "thorkpa-aayurved-dispensary",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:21.098246Z",
+      "entity_or_relationship_id": "entity:organization/hospital/thorkpa-aayurved-dispensary",
+      "id": "version:entity:organization/hospital/thorkpa-aayurved-dispensary:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

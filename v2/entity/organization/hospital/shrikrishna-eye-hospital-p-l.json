@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Tikapur Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Tikapur Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/kailali"
+  },
+  "attributes": {
+    "contact_mobile": "9866913221",
+    "contact_person": "Gulab Chaudhary",
+    "coordinates": {
+      "latitude": "28.523676",
+      "longitude": "81.122649"
+    },
+    "facility_level": "Eye Treatment Centre",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 5,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:38.215093Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Eye Treatment Centre (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/7081000152",
+      "value": "7081000152"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "13289"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SHRIKRISHNA EYE HOSPITAL P. L.",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "shrikrishna-eye-hospital-p-l",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:38.215090Z",
+    "entity_or_relationship_id": "entity:organization/hospital/shrikrishna-eye-hospital-p-l",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:42.865559Z",
+  "entity_or_relationship_id": "entity:organization/hospital/swargadwari-dat-upachar-kendra",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Pyuthan Municipality, Ward 4, Pyuthan, Lumbini Pradesh / Pyuthan / Lumbini Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Pyuthan Municipality, Ward 4, Pyuthan, Lumbini Pradesh / Pyuthan / Lumbini Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/pyuthan"
+    },
+    "attributes": {
+      "contact_mobile": "9847838968",
+      "contact_person": "Yadav Bhattarai",
+      "facility_level": "Dental Clinic",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:42.865562Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Dental Clinic (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/swargadwari-dat-upachar-kendra",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/5030400222",
+        "value": "5030400222"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "16354"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SWARGADWARI DAT UPACHAR KENDRA",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "swargadwari-dat-upachar-kendra",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:42.865559Z",
+      "entity_or_relationship_id": "entity:organization/hospital/swargadwari-dat-upachar-kendra",
+      "id": "version:entity:organization/hospital/swargadwari-dat-upachar-kendra:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

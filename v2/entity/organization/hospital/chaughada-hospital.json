@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Hetauda Sub-Metropolitan City, Ward 6, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Hetauda Sub-Metropolitan City, Ward 6, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/makwanpur"
+  },
+  "attributes": {
+    "contact_mobile": "9817226844",
+    "contact_person": "Raju Gurung",
+    "coordinates": {
+      "latitude": "27.403492",
+      "longitude": "85.071994"
+    },
+    "facility_level": "Basic Hospital (5 to 15 beds)",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 10,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:40.792758Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Hospital (5 to 15 beds) (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/3120600902",
+      "value": "3120600902"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "14916"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Chaughada Hospital",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "chaughada-hospital",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:40.792755Z",
+    "entity_or_relationship_id": "entity:organization/hospital/chaughada-hospital",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Putalibazar Municipality, Ward 13, Syangja, Gandaki Pradesh / Syangja / Gandaki Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Putalibazar Municipality, Ward 13, Syangja, Gandaki Pradesh / Syangja / Gandaki Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/syangja"
+  },
+  "attributes": {
+    "coordinates": {
+      "latitude": "28.08435435",
+      "longitude": "83.793788"
+    },
+    "facility_level": "Urban Health Center",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:26.597826Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Urban Health Center (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/4090100191",
+      "value": "4090100191"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "5092"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "HIRAPATA URBAN HEALTH CENTER_SYANGJA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "hirapata-urban-health-center-syangja",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:26.597824Z",
+    "entity_or_relationship_id": "entity:organization/hospital/hirapata-urban-health-center-syangja",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

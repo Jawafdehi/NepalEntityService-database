@@ -1,0 +1,131 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:40.643165Z",
+  "entity_or_relationship_id": "entity:organization/hospital/hetauda-everest-dental-clinic",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 1, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 1, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/makwanpur"
+    },
+    "attributes": {
+      "contact_mobile": "9863483123",
+      "contact_person": "Arun kumar Nepal",
+      "facility_level": "Dental Clinic",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:40.643168Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Dental Clinic (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/hetauda-everest-dental-clinic",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3120600712",
+        "value": "3120600712"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "14853"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hetauda Everest Dental Clinic",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "hetauda-everest-dental-clinic",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:40.643165Z",
+      "entity_or_relationship_id": "entity:organization/hospital/hetauda-everest-dental-clinic",
+      "id": "version:entity:organization/hospital/hetauda-everest-dental-clinic:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

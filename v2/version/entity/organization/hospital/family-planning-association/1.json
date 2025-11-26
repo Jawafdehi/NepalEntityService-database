@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:17.920636Z",
+  "entity_or_relationship_id": "entity:organization/hospital/family-planning-association",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Ilam Municipality, Ward 7, Ilam, Koshi Pradesh / Ilam / Koshi Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Ilam Municipality, Ward 7, Ilam, Koshi Pradesh / Ilam / Koshi Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/ilam"
+    },
+    "attributes": {
+      "contact_mobile": "9842627482",
+      "contact_person": "KAMAL SUBEDI",
+      "coordinates": {
+        "latitude": "26.9081",
+        "longitude": "87.9234"
+      },
+      "facility_level": "Health Clinic",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:17.920639Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Health Clinic (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/family-planning-association",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/1100300172",
+        "value": "1100300172"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "632"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "FAMILY PLANNING ASSOCIATION",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": null,
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "family-planning-association",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:17.920636Z",
+      "entity_or_relationship_id": "entity:organization/hospital/family-planning-association",
+      "id": "version:entity:organization/hospital/family-planning-association:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

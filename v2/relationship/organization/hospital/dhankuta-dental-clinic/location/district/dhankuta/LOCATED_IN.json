@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:41.063852Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/dhankuta-dental-clinic",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/dhankuta",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Dhankuta",
+    "created_at": "2025-11-26T03:56:41.063862Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/dhankuta-dental-clinic:location/district/dhankuta:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

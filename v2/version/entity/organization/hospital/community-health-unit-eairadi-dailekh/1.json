@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:37.058369Z",
+  "entity_or_relationship_id": "entity:organization/hospital/community-health-unit-eairadi-dailekh",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Mahabu Rural Municipality, Ward 2, Dailekh, Karnali Pradesh / Dailekh / Karnali Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Mahabu Rural Municipality, Ward 2, Dailekh, Karnali Pradesh / Dailekh / Karnali Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/dailekh"
+    },
+    "attributes": {
+      "coordinates": {
+        "latitude": "28.88392",
+        "longitude": "81.67352167"
+      },
+      "facility_level": "Community Health Unit",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:37.058372Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Community Health Unit (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/community-health-unit-eairadi-dailekh",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/6060200111",
+        "value": "6060200111"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "12689"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "COMMUNITY HEALTH UNIT, EAIRADI_DAILEKH",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "community-health-unit-eairadi-dailekh",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:37.058369Z",
+      "entity_or_relationship_id": "entity:organization/hospital/community-health-unit-eairadi-dailekh",
+      "id": "version:entity:organization/hospital/community-health-unit-eairadi-dailekh:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

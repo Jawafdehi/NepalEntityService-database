@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Jayaprithbi Municipality, Ward 10, Bajhang, Sudurpashchim Pradesh / Bajhang / Sudurpashchim Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Jayaprithbi Municipality, Ward 10, Bajhang, Sudurpashchim Pradesh / Bajhang / Sudurpashchim Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/bajhang"
+  },
+  "attributes": {
+    "contact_mobile": "9848610675",
+    "contact_person": "Kabendra Bohora",
+    "coordinates": {
+      "latitude": "29.55399465593051",
+      "longitude": "81.19941884292913"
+    },
+    "facility_level": "Basic Hospital (5 to 15 beds)",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 10,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:30.516361Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Hospital (5 to 15 beds) (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/7020600132",
+      "value": "7020600132"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "9346"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "AMISHA HOSPITAL PVT. LTD BAJHANG",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "amisha-hospital-pvt-ltd-bajhang",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:30.516359Z",
+    "entity_or_relationship_id": "entity:organization/hospital/amisha-hospital-pvt-ltd-bajhang",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

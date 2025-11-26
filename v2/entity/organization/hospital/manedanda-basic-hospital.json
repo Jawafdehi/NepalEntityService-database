@@ -1,0 +1,115 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Pauwa Dunma Rural Municipality, Ward 4, Bhojpur, Koshi Pradesh / Bhojpur / Koshi Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Pauwa Dunma Rural Municipality, Ward 4, Bhojpur, Koshi Pradesh / Bhojpur / Koshi Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/bhojpur"
+  },
+  "attributes": {
+    "facility_level": "Basic Hospital (5 to 15 beds)",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 5,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:35.761104Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Hospital (5 to 15 beds) (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/1060600071",
+      "value": "1060600071"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "11979"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "MANEDANDA BASIC HOSPITAL",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "manedanda-basic-hospital",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:35.761101Z",
+    "entity_or_relationship_id": "entity:organization/hospital/manedanda-basic-hospital",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

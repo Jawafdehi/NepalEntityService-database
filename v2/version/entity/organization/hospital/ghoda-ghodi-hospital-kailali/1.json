@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:31.167065Z",
+  "entity_or_relationship_id": "entity:organization/hospital/ghoda-ghodi-hospital-kailali",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Ghodaghodi Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Ghodaghodi Municipality, Ward 1, Kailali, Sudurpashchim Pradesh / Kailali / Sudurpashchim Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/kailali"
+    },
+    "attributes": {
+      "contact_mobile": "9865576484",
+      "contact_person": "Chiranjivi joshi",
+      "coordinates": {
+        "latitude": "28.674677",
+        "longitude": "80.962475"
+      },
+      "facility_level": "General Hospital",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": 25,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:31.167067Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "General Hospital (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/ghoda-ghodi-hospital-kailali",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/7080500072",
+        "value": "7080500072"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "9642"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "GHODA GHODI HOSPITAL_KAILALI",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "ghoda-ghodi-hospital-kailali",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:31.167065Z",
+      "entity_or_relationship_id": "entity:organization/hospital/ghoda-ghodi-hospital-kailali",
+      "id": "version:entity:organization/hospital/ghoda-ghodi-hospital-kailali:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

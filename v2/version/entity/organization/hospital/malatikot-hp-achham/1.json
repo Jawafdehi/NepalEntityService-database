@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:31.303896Z",
+  "entity_or_relationship_id": "entity:organization/hospital/malatikot-hp-achham",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Ramaroshan Rural Municipality, Ward 1, Achham, Sudurpashchim Pradesh / Achham / Sudurpashchim Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Ramaroshan Rural Municipality, Ward 1, Achham, Sudurpashchim Pradesh / Achham / Sudurpashchim Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/acham"
+    },
+    "attributes": {
+      "contact_mobile": "9868448403",
+      "contact_person": "Damber bhadur shah",
+      "coordinates": {
+        "latitude": "29.1540184",
+        "longitude": "81.35895538"
+      },
+      "facility_level": "Dialysis Centre",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:31.303898Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Dialysis Centre (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/malatikot-hp-achham",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/7070200041",
+        "value": "7070200041"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "9800"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "MALATIKOT HP_ACHHAM",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "malatikot-hp-achham",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:31.303896Z",
+      "entity_or_relationship_id": "entity:organization/hospital/malatikot-hp-achham",
+      "id": "version:entity:organization/hospital/malatikot-hp-achham:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

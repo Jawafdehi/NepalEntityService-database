@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Birgunj Metropolitan City, Ward 14, Parsa, Madesh Pradesh / Parsa / Madesh Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Birgunj Metropolitan City, Ward 14, Parsa, Madesh Pradesh / Parsa / Madesh Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/parsa"
+  },
+  "attributes": {
+    "coordinates": {
+      "latitude": "27.04740334",
+      "longitude": "84.90111542"
+    },
+    "facility_level": "General Hospital",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:20.618645Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "General Hospital (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/2080700502",
+      "value": "2080700502"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "2140"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "GANDAK HOSPITAL PVT. LTD._PARSA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Private",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "gandak-hospital-pvt-ltd-parsa",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:20.618642Z",
+    "entity_or_relationship_id": "entity:organization/hospital/gandak-hospital-pvt-ltd-parsa",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

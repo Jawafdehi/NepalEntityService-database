@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:40.242749Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/chhalditari-basic-health-service-centre",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/gulmi",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Gulmi",
+    "created_at": "2025-11-26T03:56:40.242759Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/chhalditari-basic-health-service-centre:location/district/gulmi:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Ramechhap Municipality, Ward 8, Ramechhap, Bagmati Pradesh / Ramechhap / Bagmati Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Ramechhap Municipality, Ward 8, Ramechhap, Bagmati Pradesh / Ramechhap / Bagmati Pradesh"
+      }
+    },
+    "location_id": "entity:location/municipality/ramechhap-municipality"
+  },
+  "attributes": {
+    "contact_mobile": "9851335989",
+    "contact_person": "Dhurba Khadka/ Basant Tamang HA",
+    "coordinates": {
+      "latitude": "27.342653",
+      "longitude": "86.068466"
+    },
+    "facility_level": "General Hospital",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 15,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:24.694634Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "General Hospital (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/3100400021",
+      "value": "3100400021"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "4108"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "RAMECHHAP HOSPITAL",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": null,
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "ramechhap-hospital",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:24.694631Z",
+    "entity_or_relationship_id": "entity:organization/hospital/ramechhap-hospital",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

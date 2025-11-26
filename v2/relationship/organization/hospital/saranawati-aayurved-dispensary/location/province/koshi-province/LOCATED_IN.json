@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:18.113605Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/saranawati-aayurved-dispensary",
+  "start_date": null,
+  "target_entity_id": "entity:location/province/koshi-province",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Koshi Province",
+    "created_at": "2025-11-26T03:56:18.113614Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/saranawati-aayurved-dispensary:location/province/koshi-province:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

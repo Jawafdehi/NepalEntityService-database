@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:40.606511Z",
+  "entity_or_relationship_id": "entity:organization/hospital/hetauda-pathology",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 1, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 1, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/makwanpur"
+    },
+    "attributes": {
+      "contact_mobile": "9845029977",
+      "contact_person": "Tank Dahal",
+      "coordinates": {
+        "latitude": "27.431845038628236",
+        "longitude": "85.02941238759789"
+      },
+      "facility_level": "Laboratory \"D\"",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:40.606513Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Laboratory \"D\" (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/hetauda-pathology",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3120600672",
+        "value": "3120600672"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "14791"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hetauda Pathology",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "hetauda-pathology",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:40.606511Z",
+      "entity_or_relationship_id": "entity:organization/hospital/hetauda-pathology",
+      "id": "version:entity:organization/hospital/hetauda-pathology:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

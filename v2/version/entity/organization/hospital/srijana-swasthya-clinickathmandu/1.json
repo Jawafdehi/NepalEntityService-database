@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:43.222039Z",
+  "entity_or_relationship_id": "entity:organization/hospital/srijana-swasthya-clinickathmandu",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Chandragiri Municipality, Ward 6, Kathmandu, Bagmati Pradesh / Kathmandu / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Chandragiri Municipality, Ward 6, Kathmandu, Bagmati Pradesh / Kathmandu / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/kathmandu"
+    },
+    "attributes": {
+      "contact_mobile": "9849439468",
+      "contact_person": "Ramesh Aryal",
+      "coordinates": {
+        "latitude": "27.688325",
+        "longitude": "85.225795"
+      },
+      "facility_level": "Health Clinic",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:43.222042Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Health Clinic (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/srijana-swasthya-clinickathmandu",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3061000362",
+        "value": "3061000362"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "16534"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SRIJANA SWASTHYA CLINIC,KATHMANDU",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "srijana-swasthya-clinickathmandu",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:43.222039Z",
+      "entity_or_relationship_id": "entity:organization/hospital/srijana-swasthya-clinickathmandu",
+      "id": "version:entity:organization/hospital/srijana-swasthya-clinickathmandu:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

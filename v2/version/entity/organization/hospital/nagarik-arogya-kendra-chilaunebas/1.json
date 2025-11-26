@@ -1,0 +1,134 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:36.494465Z",
+  "entity_or_relationship_id": "entity:organization/hospital/nagarik-arogya-kendra-chilaunebas",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aandhikhola Rural Municipality, Ward 2, Syangja, Gandaki Pradesh / Syangja / Gandaki Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Aandhikhola Rural Municipality, Ward 2, Syangja, Gandaki Pradesh / Syangja / Gandaki Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/syangja"
+    },
+    "attributes": {
+      "contact_person": "Jyoti Malla Gurung ",
+      "coordinates": {
+        "latitude": "28.18505965",
+        "longitude": "83.79908018"
+      },
+      "facility_level": "Basic Ayurveda Service Centre",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": null,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:36.494467Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Basic Ayurveda Service Centre (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/nagarik-arogya-kendra-chilaunebas",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/4090300071",
+        "value": "4090300071"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "12382"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "NAGARIK AROGYA KENDRA CHILAUNEBAS",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": null,
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "nagarik-arogya-kendra-chilaunebas",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:36.494465Z",
+      "entity_or_relationship_id": "entity:organization/hospital/nagarik-arogya-kendra-chilaunebas",
+      "id": "version:entity:organization/hospital/nagarik-arogya-kendra-chilaunebas:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

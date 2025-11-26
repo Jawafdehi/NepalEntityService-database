@@ -1,0 +1,121 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Lahan Municipality, Ward 3, Siraha, Madesh Pradesh / Siraha / Madesh Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Lahan Municipality, Ward 3, Siraha, Madesh Pradesh / Siraha / Madesh Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/siraha"
+  },
+  "attributes": {
+    "contact_mobile": "9852861136",
+    "contact_person": "DR. BRIJENDRA KR. SAH",
+    "coordinates": {
+      "latitude": "26.70879967479465",
+      "longitude": "86.49326115846635"
+    },
+    "facility_level": "General Hospital",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 67,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:18.987910Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "General Hospital (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/2020100061",
+      "value": "2020100061"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "1219"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "RAM KUMAR SHARDA UMA PRASAD MURARKA PROVINCIAL HOSPITAL LAHAN",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "ram-kumar-sharda-uma-prasad-murarka-provincial-hospital-lahan",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:18.987907Z",
+    "entity_or_relationship_id": "entity:organization/hospital/ram-kumar-sharda-uma-prasad-murarka-provincial-hospital-lahan",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

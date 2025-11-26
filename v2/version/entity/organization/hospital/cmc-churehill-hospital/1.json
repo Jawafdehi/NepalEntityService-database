@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:34.451062Z",
+  "entity_or_relationship_id": "entity:organization/hospital/cmc-churehill-hospital",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 11, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Hetauda Sub-Metropolitan City, Ward 11, Makawanpur, Bagmati Pradesh / Makawanpur / Bagmati Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/makwanpur"
+    },
+    "attributes": {
+      "contact_mobile": "9817020666",
+      "contact_person": "Rabindra kumar Thapa",
+      "coordinates": {
+        "latitude": "27.431173035423903",
+        "longitude": "85.01072823060865"
+      },
+      "facility_level": "General Hospital",
+      "facility_type": "Non-Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": 25,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:34.451065Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "General Hospital (Non-Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/cmc-churehill-hospital",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/3120600412",
+        "value": "3120600412"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "11321"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CMC-CHUREHILL HOSPITAL",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Private",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "cmc-churehill-hospital",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:34.451062Z",
+      "entity_or_relationship_id": "entity:organization/hospital/cmc-churehill-hospital",
+      "id": "version:entity:organization/hospital/cmc-churehill-hospital:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

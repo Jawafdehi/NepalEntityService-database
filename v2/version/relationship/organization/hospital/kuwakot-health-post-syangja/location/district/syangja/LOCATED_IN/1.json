@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Hospital located in Syangja",
+  "created_at": "2025-11-26T03:56:26.712004Z",
+  "entity_or_relationship_id": "relationship:organization/hospital/kuwakot-health-post-syangja:location/district/syangja:LOCATED_IN",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "created_at": "2025-11-26T03:56:26.711995Z",
+    "end_date": null,
+    "id": "relationship:organization/hospital/kuwakot-health-post-syangja:location/district/syangja:LOCATED_IN",
+    "source_entity_id": "entity:organization/hospital/kuwakot-health-post-syangja",
+    "start_date": null,
+    "target_entity_id": "entity:location/district/syangja",
+    "type": "LOCATED_IN",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Hospital located in Syangja",
+      "created_at": "2025-11-26T03:56:26.712004Z",
+      "entity_or_relationship_id": "relationship:organization/hospital/kuwakot-health-post-syangja:location/district/syangja:LOCATED_IN",
+      "id": "version:relationship:organization/hospital/kuwakot-health-post-syangja:location/district/syangja:LOCATED_IN:1",
+      "type": "RELATIONSHIP",
+      "version_number": 1
+    }
+  },
+  "type": "RELATIONSHIP",
+  "version_number": 1
+}

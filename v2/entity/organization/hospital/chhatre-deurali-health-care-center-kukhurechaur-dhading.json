@@ -1,0 +1,116 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Dhunibenshi Municipality, Ward 2, Dhading, Bagmati Pradesh / Dhading / Bagmati Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Dhunibenshi Municipality, Ward 2, Dhading, Bagmati Pradesh / Dhading / Bagmati Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/dhading"
+  },
+  "attributes": {
+    "contact_person": "Sangita Nepal",
+    "facility_level": "Basic Health Service Center",
+    "facility_type": "Non-Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:21.354080Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Center (Non-Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/3041300042",
+      "value": "3041300042"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "2505"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "CHHATRE DEURALI HEALTH CARE CENTER, KUKHURECHAUR DHADING",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": null,
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "chhatre-deurali-health-care-center-kukhurechaur-dhading",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:21.354077Z",
+    "entity_or_relationship_id": "entity:organization/hospital/chhatre-deurali-health-care-center-kukhurechaur-dhading",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

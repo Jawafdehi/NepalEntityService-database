@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Birendranagar Municipality, Ward 8, Surkhet, Karnali Pradesh / Surkhet / Karnali Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Birendranagar Municipality, Ward 8, Surkhet, Karnali Pradesh / Surkhet / Karnali Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/surkhet"
+  },
+  "attributes": {
+    "coordinates": {
+      "latitude": "28.59180832",
+      "longitude": "81.62458801"
+    },
+    "facility_level": "Basic Health Service Centre",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:37.599953Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Basic Health Service Centre (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/6100600601",
+      "value": "6100600601"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "12945"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "NAULAPUR BASIC HEALTH SERVICE CENTRE",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": null,
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "naulapur-basic-health-service-centre",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:37.599951Z",
+    "entity_or_relationship_id": "entity:organization/hospital/naulapur-basic-health-service-centre",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

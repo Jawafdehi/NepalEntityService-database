@@ -1,0 +1,117 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Janakpur Sub-Metropolitan City, Ward 10, Dhanusha, Madesh Pradesh / Dhanusha / Madesh Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Janakpur Sub-Metropolitan City, Ward 10, Dhanusha, Madesh Pradesh / Dhanusha / Madesh Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/dhanusha"
+  },
+  "attributes": {
+    "contact_mobile": "9818389286",
+    "contact_person": "Birendra Sah",
+    "facility_level": "Academy of Health Science/ Teaching hospital/ Institute of Health Sciences",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": 260,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:19.545874Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Academy of Health Science/ Teaching hospital/ Institute of Health Sciences (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/2031500191",
+      "value": "2031500191"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "1504"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "MADHESH INSTITUTE OF HEALTH SCIENCES",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": "Government",
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "madhesh-institute-of-health-sciences",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:19.545872Z",
+    "entity_or_relationship_id": "entity:organization/hospital/madhesh-institute-of-health-sciences",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

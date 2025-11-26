@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-11-26T03:56:18.986378Z",
+  "end_date": null,
+  "source_entity_id": "entity:organization/hospital/sisbani-ayurveda-aushadhalaya",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/siraha",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Hospital located in Siraha",
+    "created_at": "2025-11-26T03:56:18.986387Z",
+    "entity_or_relationship_id": "relationship:organization/hospital/sisbani-ayurveda-aushadhalaya:location/district/siraha:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Tila Rural Municipality, Ward 7, Jumla, Karnali Pradesh / Jumla / Karnali Pradesh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Tila Rural Municipality, Ward 7, Jumla, Karnali Pradesh / Jumla / Karnali Pradesh"
+      }
+    },
+    "location_id": "entity:location/district/jumla"
+  },
+  "attributes": {
+    "coordinates": {
+      "latitude": "29.19623184",
+      "longitude": "81.91106415"
+    },
+    "facility_level": "Community Health Unit",
+    "facility_type": "Government"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Health Facility Registry"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+        }
+      }
+    }
+  ],
+  "beds": null,
+  "contacts": null,
+  "created_at": "2025-11-26T03:56:38.063814Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Community Health Unit (Government)"
+    },
+    "ne": null
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR Facility Code"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://nhfr.mohp.gov.np/health-facility/6040700131",
+      "value": "6040700131"
+    },
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "NHFR ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "13207"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "GHODESIN CHU",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "ownership": null,
+  "pictures": null,
+  "services": null,
+  "short_description": null,
+  "slug": "ghodesin-chu",
+  "sub_type": "hospital",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:subash-rijal",
+      "name": "Subash Rijal",
+      "slug": "subash-rijal"
+    },
+    "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+    "created_at": "2025-11-26T03:56:38.063811Z",
+    "entity_or_relationship_id": "entity:organization/hospital/ghodesin-chu",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

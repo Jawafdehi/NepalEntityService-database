@@ -1,0 +1,135 @@
+{
+  "author": {
+    "id": "author:subash-rijal",
+    "name": "Subash Rijal",
+    "slug": "subash-rijal"
+  },
+  "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+  "created_at": "2025-11-26T03:56:16.742958Z",
+  "entity_or_relationship_id": "entity:organization/hospital/district-hospital-taplejung",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Phungling Municipality, Ward 6, Taplejung, Koshi Pradesh / Taplejung / Koshi Pradesh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Phungling Municipality, Ward 6, Taplejung, Koshi Pradesh / Taplejung / Koshi Pradesh"
+        }
+      },
+      "location_id": "entity:location/district/taplejung"
+    },
+    "attributes": {
+      "contact_mobile": "9852032315",
+      "contact_person": "Bijaya Rai",
+      "coordinates": {
+        "latitude": "27.3593264",
+        "longitude": "87.6738436"
+      },
+      "facility_level": "General Hospital",
+      "facility_type": "Government"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from Nepal Health Facility Registry (https://nhfr.mohp.gov.np/) on 2025-11-26"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री (https://nhfr.mohp.gov.np/) बाट 2025-11-26 मा आयात गरिएको"
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Health Facility Registry"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल स्वास्थ्य सुविधा रजिस्ट्री"
+          }
+        }
+      }
+    ],
+    "beds": 35,
+    "contacts": null,
+    "created_at": "2025-11-26T03:56:16.742962Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "General Hospital (Government)"
+      },
+      "ne": null
+    },
+    "id": "entity:organization/hospital/district-hospital-taplejung",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR Facility Code"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://nhfr.mohp.gov.np/health-facility/1010600061",
+        "value": "1010600061"
+      },
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "NHFR ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "40"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "DISTRICT HOSPITAL_ TAPLEJUNG",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "ownership": "Government",
+    "pictures": null,
+    "services": null,
+    "short_description": null,
+    "slug": "district-hospital-taplejung",
+    "sub_type": "hospital",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:subash-rijal",
+        "name": "Subash Rijal",
+        "slug": "subash-rijal"
+      },
+      "change_description": "Initial sourcing from nhfr.mohp.gov.np",
+      "created_at": "2025-11-26T03:56:16.742958Z",
+      "entity_or_relationship_id": "entity:organization/hospital/district-hospital-taplejung",
+      "id": "version:entity:organization/hospital/district-hospital-taplejung:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

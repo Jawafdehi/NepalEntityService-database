@@ -1,0 +1,16 @@
+{
+  "migration_name": "006-source-hospitals",
+  "author": "Subash Rijal",
+  "date": "2025-01-23T00:00:00",
+  "description": "Import hospitals from nhfr.mohp.gov.np",
+  "executed_at": "2025-11-25T19:57:26.877017",
+  "duration_seconds": 30.68150234222412,
+  "status": "completed",
+  "changes": {
+    "entities_created": 11399,
+    "relationships_created": 22798,
+    "versions_created": 34197,
+    "summary": "Created 11399 entities, 22798 relationships, and 34197 versions",
+    "has_diff": true
+  }
+}
