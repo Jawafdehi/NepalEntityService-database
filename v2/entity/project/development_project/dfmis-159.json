@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.572595Z",
+  "dates": [
+    {
+      "date": "2007-02-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2007-02-23",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2010-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project include four components \r\n\r\n    Social Mobilization and Adult Literacy\r\n    Strengthening of Income Generation\r\n    Support to Capacity Building of Stakeholders \r\n    Project Management, Monitoring and Audit."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Japan Fund for Poverty Reduction",
+      "donor_project_id": "159",
+      "raw_payload": {
+        "id": 2732,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Japan Fund for Poverty Reduction",
+        "organization_id": 6,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 1000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan Fund for Poverty Reduction",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-02-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/159",
+      "value": "159"
+    }
+  ],
+  "implementing_agency": "Ministry of Agriculture and Livestock Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Improving Livelihood for Poor Farmers and Disadvantaged Groups in the Eastern Development Region (JFPR Project No. 9101-NEP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/159",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-159",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1000000.0,
+  "total_disbursement": 782632.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.572593Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-159",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

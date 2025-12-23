@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.346524Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1306",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.346527Z",
+    "dates": [
+      {
+        "date": "2016-02-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-01-28",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-01-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Education, therapeutic and income generation support to dysfunctional families (alcoholism, violence, mental ill-health) (Kaski)Education, therapeutic and income generation support to families at risk of child labour, trafficking and street children (Dhading)Educational Support and Family Strengthening of Urban Poor Children (Kaski)Parenting education and training for excluded families (Rupandehi)Basic Services, Rehabilitation and Reintegration of Street-Involved Children (Kaski)Rescue, Rehabilitation and Reintegration of Girl Victims of Sexual Abuse and Exploitation (Kaski)Basic Services, Withdrawal and Reintegration of Child Labourers (Kaski)Education and Reintegration of Working, Street and At Risk Children (Rupandehi)Service strengthening and community capacity building for safe motherhood (Rupandehi)Community capacity building for inclusion of marginalised children in mainstream ECD (Kapilvastu)Primary health care service provision and education in urban and rural areas (Kaski)Sustainability support for Community-based Day Care Centres (Kaski)Primary Healthcare provision and SRH Education for Marginalised Children and Young Persons (Rupandehi)SRH and empowerment of marginalised young people for their reproductive rights (Kapilvastu)Primary Healthcare provision and SRH Education for Marginalised Children and Young Persons (Kaski)Education and Material Support for Vulnerable EQ Migrants (Kaski)TLCs, Nutrition and Therapy for U5 Children (Dhading)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Kidasha",
+        "donor_project_id": "1306",
+        "raw_payload": {
+          "id": 9645,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Kidasha",
+          "organization_id": 598,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Kidasha",
+    "financing": [
+      {
+        "amount": 760300.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Kidasha",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-02-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1306",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1306",
+        "value": "1306"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Improving the health, learning and well-being of excluded children and families.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1306",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1306",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 760300.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.346524Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1306",
+      "id": "version:entity:project/development_project/dfmis-1306:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

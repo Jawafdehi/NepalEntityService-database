@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.740401Z",
+  "dates": [
+    {
+      "date": "2017-09-04",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-09-04",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-09-03",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "To establish and operationalize TB Referral Centers. Support in Development , Training and Implementation guidelines of DR TB Mangement.Leprosy Case detection CampaignProvide Technical Assistance in Leprosy Post Exposure Prophylaxis program .Procurement of STR ( DR TB) drugs.Procurement of newer drugs ( Delamanid)Procurement of SL LPA Kits for Second Line Drug Susceptibility TestingMedical Support to patientsSupport in aDSM guidelines developmentSupport NTP in development and implementation of Shorter Treatment Regimen and Newer Drugs implementation guidelinesSupport to Stregnthen DR TB Treatment Centers and Referral Centers.Suport to provide POID service and Leprosy training to health workers.To Provide Income Generation Support to DR TB and Leprosy patients and people affected by LeprosyTo support in COVID Response"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Damien Foundation Belgium Nepal",
+      "donor_project_id": "1578",
+      "raw_payload": {
+        "id": 11383,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Damien Foundation Belgium Nepal",
+        "organization_id": 735,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "INGO",
+  "financing": [
+    {
+      "amount": 2071520.247,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Damien Foundation Belgium Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-09-04",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1578",
+      "value": "1578"
+    }
+  ],
+  "implementing_agency": "INGO",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TB Leprosy Control Support Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1578",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1578",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2071520.247,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.740399Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1578",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

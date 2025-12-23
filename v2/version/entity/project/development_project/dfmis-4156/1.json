@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.957250Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4156",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.957252Z",
+    "dates": [
+      {
+        "date": "2023-05-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2026-05-10",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Coordination and rewiew meeting of LDMC1.2 Coordination and review meeting of WDMC1.3 Preparation of ward level DRR policy, DRR strategy action plan (ward no. 2)1.4 Preperation of ward level risk sensitive land use planning (RSLUP)1.5 Preparation of ward level and municipal level LDCRP/DPRP1.6 Learning and sharing visit for the representative of CDMC, WDMC and LDMC.1.7 Establishment of ward level Local Emergency Operation Center (LEOC) and preparation of operation guideline1.8 Ward level evacuation drill program1.9 Establishment of the Community managed early warning system for community disaster preparedness and response1.10 Formation/promotion of CDMCs1.11 Community based disaster risk reduction and climate resilience training  to CDMC members1.12 Preparation of household emergency plan1.13 Community level evacuation drill program at high vulnerable communities1.14 Light search and rescue (LSAR)  training to community members1.15 Develop IEC materials on DRR and CCA to community people and stakeholders (hording board, poster, risk/hazard map, resource map, calenders etc.)1.16 Support of resilient livelihood (river bank farming, fruits farming to the flood vulnerable households located in the river bank)1.17 Awareness rising activities in DRR and CCA in the community level1.18 School DRR and climate change training to teachers, child club and students1.19 Preparation of school DRR and Climate resilience plan (SDCRP)1.20 Installation of hoarding board of risk/hazard map, resource map, of schools.1.21 School evacuation drill program at high vulnerable school by flood (located in the river basin)2.1 Feasibility study of infrastructure2.2 Sharing meeting on findings of feasibility study2.3 Construction of appropriate flood resilience infrastructures2.4 Infrastructure Management2.5 Ecological engineering for the sustainability of infrastructure3.1 Support for watershed management for water recharge (water recharge pond, rainwater harvesting) and maintenance3.2 Construction and maintenance of appropriate community managed irrigation infrastructures (surface and underground)4.1 Project start-up meeting (District/provincial level)4.2 Local Project Advisory Committee (LPAC) Meeting and Field Monitoring4.3 Coordination with local government for emergency response or preparedness activities4.4 Provincial/Federal level project sharing/Outcome workshop/ mainstreaming program on local government5.1 Orientation on project activities to project staffs and development of Project Implementation Plan (PIP)5.2 Training of Trainers (TOT) on Disaster Risk Reduction (DRR) and Climate Change Adaptation (CCA) to project staff5.3 ToT on Monitoring & Evaluation/Facilitation training/learning sharing visit5.4 Annual review and planning meeting5.5 Project related meetings5.6Publication/documentary of project achievements6.1 Baseline and End line survey6.2 Joint Mid-term and Final Evaluation6.3 Social Audit/Public Audit"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Shapla Neer",
+        "donor_project_id": "4156",
+        "raw_payload": {
+          "id": 41802,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Shapla Neer",
+          "organization_id": 566,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Home Affairs",
+    "financing": [
+      {
+        "amount": 2414655.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Shapla Neer",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-05-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4156",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4156",
+        "value": "4156"
+      }
+    ],
+    "implementing_agency": "Rural Reconstruction Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Community Resilience to Climate-Induced Disaster Risks in Morang District, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4156",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Civil Defense",
+        "donor_subsector": null,
+        "normalized_sector": "Civil Defense",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4156",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2414655.0,
+    "total_disbursement": 1451852.34280156,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.957250Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4156",
+      "id": "version:entity:project/development_project/dfmis-4156:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

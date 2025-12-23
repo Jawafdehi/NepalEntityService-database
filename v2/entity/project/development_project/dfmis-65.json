@@ -1,0 +1,229 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.111676Z",
+  "dates": [
+    {
+      "date": "2009-06-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2009-06-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Increased recognition by leadership of political parties of the importance of intra-party democracy, inclusion and inter-party cooperation.\r\n \r\n2.  Women, youth and other marginalized and excluded groups have increased awareness of and capacity to participate in and influence political process, including constitution making.\r\n \r\n3. Increased knowledge and constructive engagement of civil society for civil, political and cultural rights of people.\r\n \r\n4. Increased capacity of partner organizations (POs) to effectively implement projects on democratization process, inclusion and human rights."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Danish International Development Agency",
+      "donor_project_id": "65",
+      "raw_payload": {
+        "id": 466,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 8,
+        "organization__development_cooperation_group__name": "Denmark",
+        "organization__logo": "",
+        "organization__name": "Danish International Development Agency",
+        "organization_id": 21,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "65",
+      "raw_payload": {
+        "id": 467,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "65",
+      "raw_payload": {
+        "id": 473,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "65",
+      "raw_payload": {
+        "id": 474,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 25
+      }
+    }
+  ],
+  "executing_agency": "National Human Rights Commission",
+  "financing": [
+    {
+      "amount": 827526.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Danish International Development Agency",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-06-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1864347.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-06-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3774681.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-06-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1959930.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-06-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/65",
+      "value": "65"
+    }
+  ],
+  "implementing_agency": "Foreign, Commonwealth & Development Office",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rights, Democracy and Inclusion Fund (RDIF)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/65",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-65",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8426484.0,
+  "total_disbursement": 6970801.17225,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.111673Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-65",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

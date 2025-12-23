@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.995599Z",
+  "dates": [
+    {
+      "date": "2012-04-02",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-04-02",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "An umbrella institute established by the Governments of the South Asia Association for Regional Cooperation (SAARC) Member States comprising of the Islamic Republic of Afganistan, the peoples Republic of Bangladesh,  the Kingdom of Bhutan, The Republic of India, the Republic of Maldives, the  Federal Democratic Republic of Nepal, the Islamic Republic of Pakistan ,and the Democratic  Sociolist Republic of Sr"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "South Asian Association For Regional Cooperation",
+      "donor_project_id": "427",
+      "raw_payload": {
+        "id": 7798,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 44,
+        "organization__development_cooperation_group__name": "South Asian Association for Regional Cooperation",
+        "organization__logo": "",
+        "organization__name": "South Asian Association For Regional Cooperation",
+        "organization_id": 479,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 45684.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "South Asian Association For Regional Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-04-02",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/427",
+      "value": "427"
+    }
+  ],
+  "implementing_agency": "Ministry of Women, Children and Senior Citizens",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "South Asia Initiative to End Violence Against Children(SAIEVAC)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/427",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-427",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 45684.0,
+  "total_disbursement": 45684.34095,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.995595Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-427",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

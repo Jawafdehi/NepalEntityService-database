@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.555226Z",
+  "dates": [
+    {
+      "date": "2016-01-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-01-21",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Outcome 1\r\n\r\n\r\n\tConduct assessments of existing damaged health posts\r\n\tEstablish contractor agreements\r\n\tCommencement of civil works\r\n\tSupervision of civil works\r\n\tInstallation of above ground structures\r\n\tInspection of prefabricated sections\r\n\tInternal fit-out of 13 health posts\r\n\tProcure 3 month medical supplies and equipment per health post\r\n\tFinal supervision and approval by MoHP\r\n\tHandover of facilities to MoHP\r\n\r\n\r\n \r\n\r\nOutcome 2\r\n\r\n1. Providing a physical structure (tent) attached to the hospital (on-site)\r\n\r\n2. Provide physiotherapists to Gorkha hospital, in-patient and out-patient\r\n\r\n3. Provide nurses to assist/support physiotherapists\r\n\r\n4. Procure PT unit supplies (mobility/ assistive devices/ basic mediations)\r\n\r\n5. Distribution of mobility and assistive devices (wheel chairs, crutches)\r\n\r\n6. Provide mobile PT services through a mobile PT unit\r\n\r\n          7. Provide mobile orthopedic camps\r\n\r\n \r\n\r\nOutcome 3\r\n\r\n\r\n\tProcure prefab material for dispatch center and communications systems\r\n\tInstall prefabs for dispatch center\r\n\tInstall communications systems in dispatch centers and hospitals in Kathmandu\r\n\tProcure ambulances per established specifications\r\n\tHandover of dispatch centers and ambulances\r\n\tSupply necessary medicines for trainings\r\n\tProvide trainings to emergency medical technicians"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Medical Corps",
+      "donor_project_id": "552",
+      "raw_payload": {
+        "id": 9847,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "International Medical Corps",
+        "organization_id": 636,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "International Medical Corps",
+  "financing": [
+    {
+      "amount": 1983598.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "International Medical Corps",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-01-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 49453.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "International Medical Corps",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-03-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/552",
+      "value": "552"
+    }
+  ],
+  "implementing_agency": "NGOs, Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "RISE (Rebuild, Integrate, Strengthen, Empower): Health Systems Strengthening, Integration of Services and Community Empowerment",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/552",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-552",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2033051.0,
+  "total_disbursement": 1492750.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.555224Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-552",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

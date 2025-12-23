@@ -1,0 +1,171 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.164620Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3696",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.164623Z",
+    "dates": [
+      {
+        "date": "2019-01-23",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-01-23",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2022-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "3696",
+        "raw_payload": {
+          "id": 39664,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 1477322.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-01-23",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2201028.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-01-23",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3696",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3696",
+        "value": "3696"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Forest and Farm Facility Phase II Climate Resilient Landscapes and Improved Livelihoods",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3696",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3696",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3678350.0,
+    "total_disbursement": 3229622.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.164620Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3696",
+      "id": "version:entity:project/development_project/dfmis-3696:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

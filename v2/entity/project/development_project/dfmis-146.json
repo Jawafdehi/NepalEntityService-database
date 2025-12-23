@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.513121Z",
+  "dates": [
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-03-23",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "To improve health of childern under age of five with respect to diarrheal disease in target districts\r\n\t\r\n\t\tTo increase correct and consistent use of safe water treatment product adn safe storage at the point of use\r\n\t\r\n\t\tIncrease use of safe water treatment in households with childern under five\r\n\t\r\n\t\tIncrease safe storage of treated water in households with childern under five"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Population Services International Nepal",
+      "donor_project_id": "146",
+      "raw_payload": {
+        "id": 3685,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Population Services International Nepal",
+        "organization_id": 199,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Population Services International Nepal",
+  "financing": [
+    {
+      "amount": 81000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Population Services International Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-12-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/146",
+      "value": "146"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Water Guard - Safe Water System (SWS)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/146",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-146",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 81000.0,
+  "total_disbursement": 73702.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.513119Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-146",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

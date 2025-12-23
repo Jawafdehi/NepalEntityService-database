@@ -1,0 +1,150 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:17.778446Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1926",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:17.778449Z",
+    "dates": [
+      {
+        "date": "2016-01-22",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Japan International Cooperation Agency",
+        "donor_project_id": "1926",
+        "raw_payload": {
+          "id": 11201,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 17,
+          "organization__development_cooperation_group__name": "Japan",
+          "organization__logo": "",
+          "organization__name": "Japan International Cooperation Agency",
+          "organization_id": 3,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Physical Infrastructure and Transport",
+    "financing": [
+      {
+        "amount": 142252301.448206,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "Japanese Yen",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2016-01-22",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1926",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1926",
+        "value": "1926"
+      }
+    ],
+    "implementing_agency": "Department of Roads",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nagdhunga Tunnel Construction Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1926",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Transport",
+        "donor_subsector": null,
+        "normalized_sector": "Transport",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1926",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 142252301.448206,
+    "total_disbursement": 99284788.2675759,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:17.778446Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1926",
+      "id": "version:entity:project/development_project/dfmis-1926:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

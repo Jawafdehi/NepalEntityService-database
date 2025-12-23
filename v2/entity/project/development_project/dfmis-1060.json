@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.796892Z",
+  "dates": [
+    {
+      "date": "2017-09-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "A) Minimization of unsafe and forced migration of Vulnerable Women and men in Kathmandu District of Nepal and promotion of migrants rights in Nepal\r\n\r\n1) Vulnerable women migrants and returnee male migrants enjoy safe migration and migrants rights\r\n\r\n\r\n\tLeadership training to Cluster level network members and representative from CAG(3days)\r\n\tRefresher training on Safe Migration to Cluster level Network & New CAG Members\r\n\tAwareness rising on Safe Migration to Community People plus School Students\r\n\tAwareness rising on Safe Migration at Gangabu Buspark- Street Drama\r\n\tCluster Level Paralegal support & Counseling\r\n\tConsultative Coordination with  National network for Safe Migration (NNSM)\r\n\tConsultation Coordination  with local Govt bodies, political party representative, civil society members, existing local NGO's, other concerned stake holders (incl. buspark management)\r\n\r\n\r\n2) Vulnerable women migrants  and returnee male migrants of the targeted area have improved  their socio-economic status(  includes effective use of Remittance) and sensitized on Gender issues\r\n\r\n\r\n\tEntrepreneurship training/ Need based vocational training plus Material support to vulnerable Women & returnee Male Migrants/entrepreneurs\r\n\tRemittance management training to Migrants and families\r\n\tMeeting with Producer and traders (Market Linkages)\r\n\r\n\r\n3) Migration/ foreign employment related policies and provisions are positively influenced and effectively implemented\r\n\r\n\r\n\tRound table meeting with policy maker and Practitioners (Representative from MoLE, DOFE, FEPB, Advocate, media, UN Agencies, INGO/NGO\r\n\tRadio Program development and broadcasting\r\n\tNational level Celebration/Rally/Workers hearing/Interaction and press release\r\n\tCoordination with Migrant forum Asia (MFA)/CARAM Asia & Rapid Assessment in Gulf Cooperation council country ( GCC)+ Malaysia\r\n\r\n\r\n \r\n\r\n4) Project Coordination\r\n\r\n\r\n\tProject Inception Meeting\r\n\tProject Monitoring (incl. district line agencies)\r\n\tDPAC meetings\r\n\tSocial Audits\r\n\tBaseline and endline survey\r\n\r\n\r\nB) Action at Community on Trafficking Intervention Violence End (ACTIVE)\r\n\r\n1.Women & girls who are vulnerable to trafficking are intercepted/rescued, and cases of trafficking are reduced through prevention measures.\r\n\r\n\r\n\tConduct orientation sessions to transport workers to sensitize on human trafficking\r\n\tConduct orientation sessions to the police personnel\r\n\tFormation and briefing of joint patrolling team (Maiti Nepal, border police, armed police)\r\n\tOrientation sessions to lower secondary and secondary school students\r\n\tCelebrating national anti-human trafficking day  and various marking days\r\n\tCoordination meeting with local government agencies including WCO, DDC, DAO, District Police Office\r\n\tEducational Radio programs broadcasted through national FM stations\r\n\tConduct one day orientation sessions for media (print and electronic)\r\n\tOrganize workshops and interactions with judge, lawyers, government attorneys (Public prosecutors) with survivors and human rights defenders\r\n\tConduct workshop for police personnel, government and non-government stakeholders to sensitize on human trafficking issue\r\n\tPublication and distribution of IEC materials including Hoarding boards\r\n\tCoordination meetings as per need\r\n\r\n\r\n2) Anti-Trafficking structures and policies are improved\r\n\r\n\r\n\tOrganize cross border coordination meetings\r\n\tOrganize annual press meetings\r\n\tCoordination with SMC/PTA/Child clubs\r\n\tPeriodic consultation meeting to capacitate DCCHT members on the issues of trafficking and safe migration\r\n\tCommunication, facilitation and mobilization skills to MNV and Community Safety Nets for effective functioning\r\n\tRefresher training on changing dimensions of trafficking to LCCHT members including explanation of planned interventions.\r\n\tSafety Net and MNV Groups mobilization\r\n\r\n\r\n3) Potential victims/survivors/unsuccessful returnee migrants are economically skillful and socially accepted\r\n\r\n\r\n\tCounselling to parents and relatives\r\n\tIncome generation trainings including life skill and entrepreneurship training to survivors and initial support for business start\r\n\tCommunity awareness and sensitization to community or parents on social reintegration\r\n\tShelter Support for victims\r\n\tStaff Capacity Development\r\n\tMonitoring Visit from central office\r\n\tBriefing/orientation on project for project staff\r\n\tProject review meeting\r\n\tProject inception meeting with district line agencies\r\n\tDPAC meeting\r\n\r\n\r\nC) Promotion of Safe Migration & Prevention of Human Trafficking in Doti and Kanchanpur Districts of Nepal\r\n\r\n1) Migrants & their families take informed decision on Migration & contribute meaningfully in Governmental Social Development Services and communities network against human trafficking\r\n\r\n \r\n\r\n\r\n\t1. Development, distribution & installation of IEC materials, Hoarding boards, Wall painting\r\n\t2. Street dramas for public awareness by spouse groups\r\n\t3. Conduction of infotainment (local music competition, informal cultural pr"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "AWO International",
+      "donor_project_id": "1060",
+      "raw_payload": {
+        "id": 10890,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "AWO International",
+        "organization_id": 516,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "AWO International",
+  "financing": [
+    {
+      "amount": 1271897.513,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "AWO International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1271897.513,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "AWO International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1060",
+      "value": "1060"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Program for Promotion of Safe Migration and Combating Trafficking in Nepal (2017-19)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1060",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1060",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2543795.026,
+  "total_disbursement": 1607904.500955,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.796890Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1060",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

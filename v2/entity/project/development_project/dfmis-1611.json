@@ -1,0 +1,132 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.834705Z",
+  "dates": [
+    {
+      "date": "2014-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "MLA expected result(s):ER 2: Contribution of World Heritage properties to sustainable development enhancedGrouping expected result(s) (as appropriate):Promote heritage conservation as an essential vector for sustainable developmentPromoting the application of UNESCO Recommendation on Historic Urban Landscape (HUL) in the Asian context; Mitigate the impacts of Climage Change on World Heritage sites."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_project_id": "1611",
+      "raw_payload": {
+        "id": 8341,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+        "organization_id": 168,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Culture, Tourism and Civil Aviation",
+  "financing": [
+    {
+      "amount": 12500.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1611",
+      "value": "1611"
+    }
+  ],
+  "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "72-40113101-KAT (Culture) - Enhancing national capacities for the effective implementation of the 1972 Convention",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1611",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1611",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 12500.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.834702Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1611",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

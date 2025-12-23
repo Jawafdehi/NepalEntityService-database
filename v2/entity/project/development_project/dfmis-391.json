@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.774106Z",
+  "dates": [
+    {
+      "date": "2010-12-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-12-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The outputs of the TA will be (i) coordinate, in consultation with the pooling and non pooling Development partners (DPs),  (ii) prepare in consultation with the pooling partners the statement of indicative commitments on an annual basis as per the JFA requirement; (iii) provide technical and reporting audit; (iv) monitor and ensure delivery of reports (v) serve as the main entry point for communication; (vi) link closely with related agencies (viii) resolve any urgent issuesa s they come up"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "391",
+      "raw_payload": {
+        "id": 1558,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Center for Education and Human Resource Development",
+  "financing": [
+    {
+      "amount": 225000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-12-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/391",
+      "value": "391"
+    }
+  ],
+  "implementing_agency": "Center for Education and Human Resource Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TA 7760: Support for the Implementation of School Sector Reform",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/391",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-391",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 225000.0,
+  "total_disbursement": 380372.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.774102Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-391",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

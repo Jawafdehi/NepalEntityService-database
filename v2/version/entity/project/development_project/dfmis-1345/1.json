@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.487203Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1345",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.487205Z",
+    "dates": [
+      {
+        "date": "2015-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-08-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Review of completed and ongoing training programmes at the national and district levels and preparation of training needs assessment and agree on list of traineesTraining needs assessment and training resources developmentPreparation of draft training manual based on the needs assessment and review before the training programmeConduct of training events in two phases ( 2 trainings) at the national levelConduct of training events in two phases ( 2 x 25 x 2 times) at district levelConsultations to integrate training curriculum into the MOAD’s (DOA, DLS, NARC) regular training programmes.Training needs assessment and training resources developmentConduct of training events in two phases ( 2)Improvement of logistics and technical capacity of the Environment Unit of Ministry of Agricultural Development (MOAD)Establishment of mechanism for information exchange, collaboration and coordinationMonitoring of climate change related activities at the national levelReview of current policies, strategies and plans to identify the elements that needs integration of climate change related concernsConduct of consultation workshops and multi-stakeholder dialogue process to support cross-sectoral coordinationSupport to the technical working group on agriculture and food security towards contribution to the preparation of National Adaptation Plan (NAP) to complement Global NAP support programmeStrengthening technical capacity of NARC by provision of training to Junior staff on crop modelling (2 staff trained)Establishment of necessary computing systems and data base, model calibration, validation and assessment of impacts of climate change on major cropsStrengthening capacity through targeted hands on training to staff of Agri-business promotion and Statics Division of MOADEstablishment of crop monitoring and crop yield forecasting facility within MOAD and sustainable operation and maintenance of facility and continuous production of crop assessment bulletinsImprovement of database, methods for vulnerability and risk assessment and hotspots of vulnerability in agriculture sectorTraining needs assessment, conduct of training programmes, on tools and methods for assessment of vulnerability and risksAnalysis and development of risks and vulnerability maps for four districts and 24  VDCsAcquiring improved  agrometeorological forecast products and agro-advisory products from the PPCR project and modify them to suit to the target districtsAssessment of agro-meteorological observatories at the district level (4) and upgradation to cater the needsTrain district level government staff and project staff (District Technical Coordinator and VDC Level Mobilisers) on the use of improved  agro-meteorological forecast products and agro-advisory productsDevelop cell phone based SMS products using improved  agro-meteorological forecast productsTrain 120 farmers groups to interpret and use improved  agro-meteorological forecast products and agro-advisory products through the FFSFormulation of awareness raising, knowledge management and communication strategyNational level consultation workshop with the government agencies and non-government organizations on awareness raising, knowledge management and communication strategyDistrict level consultation workshops with the government agencies and non-government organizations on awareness raising, knowledge management and communication strategy in 4 districtsFinalization and adoption of the comprehensive and multi-stakeholder awareness raising, knowledge management and communication strategyIdentification of FFS facilitators already trained by FAO pilot project and other programs and selection of 24 of them (from the project VDCs or nearby area)Preparation of training curricula for the training and refresher training for FFS FacilitatorsRefresher training to 24 FFS facilitatorsIdentification of 96 FFS facilitators (4 from each VDC)Training of 96 FFS facilitators (1 training each in 4 districtsIdentification, reconstitution or formation of one farmers’ group of 25 to 30 farmers in each of the 24 VDCsAdoption/ development of FFS module for climate change adaptationImplementation of 24 FFS (one each in the 24 VDCs)Identification, reconstitution or formation of 4 additional farmers’ groups, each of 25 to 30 farmers each in the 24 VDCsImplementation of 96 FFS (4 in each of the 24 VDCs)Follow ups of the FFSIdentification and elaboration of climate adaptation good practices for agriculture (at least 25)Documentation of lessons learned from the projectPublication of good practices and lessons learned through MOAD website: www.moad.gov.npPublication of good practices and lessons learned government websites and integrated into global databasesRecruitment of LAPA preparation teams, 4 teams (one for 6 VDCs in each district)Organization of district level workshop, 4 (1 in each district)VDC level workshops, 24 (1 in each VDC)LAPA preparation and finalization 24 (1 for each VDC)LAPA endorsement workshop at VDC level"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Global Environment Facility",
+        "donor_project_id": "1345",
+        "raw_payload": {
+          "id": 9199,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 39,
+          "organization__development_cooperation_group__name": "Global Environment Facility",
+          "organization__logo": "",
+          "organization__name": "Global Environment Facility",
+          "organization_id": 169,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 2689498.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Environment Facility",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1345",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1345",
+        "value": "1345"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reducing vulnerability and increasing adaptive capacity to respond to impacts of climate change and variability for sustainable livelihoods in agriculture sector in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1345",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1345",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2689498.0,
+    "total_disbursement": 2680096.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.487203Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1345",
+      "id": "version:entity:project/development_project/dfmis-1345:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

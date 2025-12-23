@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.427886Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-121",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.427888Z",
+    "dates": [
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Post training skills of SBAs (inservice-pre-service) monitored\r\n\r\n\tStrategic directions for nursing and midwifery developed\r\n\r\n\tFacility based MPDR strengthened\r\n\r\n\tAccess and utilization of MNH services improved in accordance to community and outreach strategy\r\n\r\n\tMaster trainers on ENCC developed\r\n\r\n\tIMCI programme strengthened and sustained through integrated support and monitoring quality of implementation\r\n\r\n\tNational child and newborn health programmes strengthened through support to service delivery and academic training\r\n\r\n\tInstitutionalization of Adolescent Friendly Clinics at district levels\r\n\r\n\tReproductive Health Care services strengthened\r\n\r\n\tImplementation of the National guideline on cervical cancer screening and prevention"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "World Health Organization",
+        "donor_project_id": "121",
+        "raw_payload": {
+          "id": 3578,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "World Health Organization",
+          "organization_id": 26,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "World Health Organization",
+    "financing": [
+      {
+        "amount": 165000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Health Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 210000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Health Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-121",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/121",
+        "value": "121"
+      }
+    ],
+    "implementing_agency": "World Health Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SENEP1206729 - Improving health during key stage of life including pregnancy, childbirth, neonatal period, childhood, adolescent, older age promoting gender equality, equity and human rights",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/121",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-121",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 375000.0,
+    "total_disbursement": 305125.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.427886Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-121",
+      "id": "version:entity:project/development_project/dfmis-121:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

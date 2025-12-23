@@ -1,0 +1,276 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.539802Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4431",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.539805Z",
+    "dates": [
+      {
+        "date": "2017-06-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Small Development Projects (High Impact Community Developmental Projects)Nepal-Bharat Maitri PolytechnicDharamshala at Pashupati Temple ComplexLines of CreditRiver training worksGifting of ambulances and school to various health and ecucational institutions on NepalSupply of equipments."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ministry of External Affairs",
+        "donor_project_id": "4431",
+        "raw_payload": {
+          "id": 40112,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 14,
+          "organization__development_cooperation_group__name": "India",
+          "organization__logo": "",
+          "organization__name": "Ministry of External Affairs",
+          "organization_id": 27,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology, Ministry of Federal Affairs & General Administration, Ministry of Health and Population, Ministry of Water Supply",
+    "financing": [
+      {
+        "amount": 25559308.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 27281138.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 14979660.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2018-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 45955351.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2019-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 4604296.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2020-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 60000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2021-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 52690000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2022-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4431",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4431",
+        "value": "4431"
+      }
+    ],
+    "implementing_agency": "India Exim Bank",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Economic and Development Cooperation",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4431",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4431",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 231069753.0,
+    "total_disbursement": 260889981.574587,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.539802Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4431",
+      "id": "version:entity:project/development_project/dfmis-4431:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

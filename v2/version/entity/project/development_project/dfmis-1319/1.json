@@ -1,0 +1,280 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.403573Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1319",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.403576Z",
+    "dates": [
+      {
+        "date": "2013-04-23",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-04-23",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "1319",
+        "raw_payload": {
+          "id": 7450,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "1319",
+        "raw_payload": {
+          "id": 7451,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Finnish International Development Agency",
+        "donor_project_id": "1319",
+        "raw_payload": {
+          "id": 7447,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 10,
+          "organization__development_cooperation_group__name": "Finland",
+          "organization__logo": "",
+          "organization__name": "Finnish International Development Agency",
+          "organization_id": 23,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "United Nations Peace Fund",
+        "donor_project_id": "1319",
+        "raw_payload": {
+          "id": 7448,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Peace Fund",
+          "organization_id": 362,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "1319",
+        "raw_payload": {
+          "id": 7449,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "United Nations Development Programme",
+    "financing": [
+      {
+        "amount": 1465426.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-23",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 4186508.975,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-09-12",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1400000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Peace Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-23",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 4364313.897,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Danish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": -337006.7064,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-20",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 7399287.476,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finnish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-04-07",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1319",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1319",
+        "value": "1319"
+      }
+    ],
+    "implementing_agency": "Supreme Court",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Rule of Law and Human Rights Protection System in Nepal Programme",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1319",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Services",
+        "donor_subsector": null,
+        "normalized_sector": "General Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1319",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 18478529.6416,
+    "total_disbursement": 16699485.501389,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.403573Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1319",
+      "id": "version:entity:project/development_project/dfmis-1319:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

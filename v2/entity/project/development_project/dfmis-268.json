@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.409632Z",
+  "dates": [
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Etheme: Emergency\r\n\t\t\r\n\t\r\n\r\n\r\n\t\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tSub theme: Preparedness and risk reduction"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "268",
+      "raw_payload": {
+        "id": 2881,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 361494.1759,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/268",
+      "value": "268"
+    }
+  ],
+  "implementing_agency": "PNGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Safer Schools and Communities through Child Centered Disaster Risk  Reduction Initiatives",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/268",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-268",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 361494.1759,
+  "total_disbursement": 372926.3914,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.409629Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-268",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

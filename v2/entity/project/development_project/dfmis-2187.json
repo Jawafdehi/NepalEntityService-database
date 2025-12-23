@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.294876Z",
+  "dates": [
+    {
+      "date": "2021-03-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-03-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Case investigations and Supervision and verification of case investigationFoci Response/Active case detection and follow-up at Active FociRadio/FM messages broadcastingCase detection at community by FCHVs and Village Malaria WorkersEngaging the private sector provider case notification, recording and reporting malaria casesOnsite mentoring and coaching on integrated TB/HIV and malaria in existing border health deskProcurement of LLINs for continuous distributionResponsive spraying the insecticides for possible out brakeRDT test at communityDevelopment of pre and post-travel information materials (print materials/jingles) for broadcasting in inter-country/province bus services, by existing border health deskWorkshop for dissemination of Laboratory plan and improving internal QA/QC of malaria microscopy at province levelEstablish microscopy/RDT quality database at province levelMeeting for Integration of malaria surveillance into national DHIS systemAdvocacy meeting with MoHP, Ministry of Communication, select corporate sectorMeetings for strong political commitment for malaria elimination central levelToT for Province, district level staff on case detection, case investigation, transmission focus investigation and transmission focus responseTraining for field staff in the local level and volunteers on case detection, case investigation, transmission focus investigation and transmission focus responseTraining and refresher training of medical doctors on NMTP and case management - public sectorOrientation of FCHVs and Village Malaria Workers for case detection in communityTraining and refresher training of medical doctors on treatment guidelines case management - Private sectorOrientation on elimination and training NMTP for health care providers- Private sectorRefresher-training on malaria entomology at central level and in selected districts for entomologists and techniciansOrientation and program Briefing at Local level of High and moderate risk DistrictsConduct external malaria microscopy competency assessmentsAssessment of Surveillance system- NationalInternal and External program evaluationHousehold survey for availability and use of LLINs"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2187",
+      "raw_payload": {
+        "id": 12828,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 2665255.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-03-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2187",
+      "value": "2187"
+    }
+  ],
+  "implementing_agency": "Save the Children",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "To get to zero indigenous case by 2022 and sustain it thereafter to achieve Malaria elimination by 2025",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2187",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2187",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2665255.0,
+  "total_disbursement": 1171939.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.294873Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2187",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

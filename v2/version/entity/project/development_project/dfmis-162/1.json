@@ -1,0 +1,161 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.584618Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-162",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.584620Z",
+    "dates": [
+      {
+        "date": "2004-04-08",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2005-12-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A. Community Development and Capacity Building\r\nidentification of livestock pockets by district Livestock Action Team by using poverty maps of the project districts; development of about 6,900 livestock groups with at least 35% women participation; social mobilization through local NGO's/CBO's ; community level extension by Community Livestock Assistants(CLS); capacity developement of farmer groups, DLS staff, partner NGO's/CBO's and livestock- based enterpreneurs.\r\nB. Livestock Productivity Improvement\r\nFifteen livestock improvement models identified as suitable for small and resource poor farmers; livestock productivity improvement through intensive forage development, provision of veterinary and breeding services(with emphasis on promotion of private practice), financing through microfinance intermediaries\r\nC. Livestock Processing and Marketing\r\nImprovement and/or establishment of milk market infrastructure (chilling centres) and retail outlets (dairy shops); meat processing marketing infrastructure development(slaughter houses/slabs/meat shops). improvement and/or establishment of live animal market/ market animal collection centres.\r\nD. Project Management Services\r\nA multi-sectoral project interventions for improved livelihood of the project beneficiaries.\r\nE. Higher Altitude Livelihood Pilot Project\r\nEstablishment of a central office led by a Project Manager, supported by technical assistance team to support project implementation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "162",
+        "raw_payload": {
+          "id": 1120,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 20000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2004-04-08",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-162",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/162",
+        "value": "162"
+      }
+    ],
+    "implementing_agency": "Department of Livestock Services",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Livestock Development Program (CLDP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/162",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-162",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 20000000.0,
+    "total_disbursement": 20331291.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.584618Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-162",
+      "id": "version:entity:project/development_project/dfmis-162:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

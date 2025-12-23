@@ -1,0 +1,59 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Development Partner"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.773415Z",
+  "description": null,
+  "government_type": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Alternative Energy Promotion Centre (AEPC),Department of Electricity Development,Nepal Electricity Authority",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "alternative-energy-promotion-centre-aepcdepartment-of-electricity-developmentnepal-electricity-autho",
+  "sub_type": "government_body",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Alternative Energy Promotion Centre (AEPC),Department of Electricity Development,Nepal Electricity Authority",
+    "created_at": "2025-12-23T19:11:23.773413Z",
+    "entity_or_relationship_id": "entity:organization/government_body/alternative-energy-promotion-centre-aepcdepartment-of-electricity-developmentnepal-electricity-autho",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

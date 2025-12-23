@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.341427Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1136",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.341430Z",
+    "dates": [
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "-Male and female drug users will get residential counseling, treatment and rehabilitation as well as day care services from rehabilitation center and Baglung hospital.\r\n\r\n\t-The clients who visit the rehabilitation center for day care services and all the graduated and positively discharged clients will receive counseling, follow up support and implement their respective rehabilitation plan for the successful rehabilitation.\r\n\r\n\t-Drug, HIV and AIDS Prevention and Control Committee at selected 3 VDCs of Kaski district, 6 wards of Pokhara Sub Metropolitan City and two wards of Lekhnath Municipality will be actively mobilized.\r\n\r\n\t-Women, youths, students and migrant population of the targeted community will get knowledge on drug, HIV/AIDS, STI and SRHR."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ICCO COOPERATION",
+        "donor_project_id": "1136",
+        "raw_payload": {
+          "id": 6837,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "ICCO COOPERATION",
+          "organization_id": 502,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "ICCO COOPERATION",
+    "financing": [
+      {
+        "amount": 402434.8027,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "ICCO COOPERATION",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-03-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1136",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1136",
+        "value": "1136"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reducing the risk of HIV/AIDS spread in project areas",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1136",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1136",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 402434.8027,
+    "total_disbursement": 365195.2251,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.341427Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1136",
+      "id": "version:entity:project/development_project/dfmis-1136:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

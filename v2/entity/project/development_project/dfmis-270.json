@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.419248Z",
+  "dates": [
+    {
+      "date": "2008-02-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Reproductive Health\r\n\r\n    Advocacy with politicians, policy makers, civil society, community leaders—and emphasizing the involvement of men—to address key RH, ASRH, prolapse, gender and social-inclusion issues. \r\n    Strengthening the institutional capacity of Divisions under the Department of Health to deliver RH services. \r\n    Strengthening the technical proficiency of health-service personnel to provide client-friendly RH services including safe motherhood, family planning, ASRH and GBV.\r\n    Strengthen partnerships and capacity of I/NGOs for technical advisory services on BCC and communication strategies for uterine prolapse, quality of care, ASRH and FP.\r\n    Enhancing the institutional capacity of implementing partners at district level and below to deliver quality RH services including support the establishment of BEOC sites; (g) strengthen the referral system at district level; (h) support the revitalization of PHC ORCs at district level; \r\n    Enhancing the skills of service providers in providing quality RH services. \r\n    Support for mobile outreach services.\r\n    Training district/community level on RH, gender and social inclusion; \r\n    Establishing a supportive environment for ASRH activities. A key activity will be to orient community gatekeepers on ASRH issues.\r\n    Capacity building of sex workers in combating HIV-AIDS, increase women’s negotiation skills for safe sex, ensure the availability of condoms, disseminate information especially on the feminization of HIV/AIDS, and integrate HIV issues into RH services at the district level.\r\n    Support for “Choose Your Future” programme for girls, peer education programme; \r\n    Strengthening the technical proficiency health-service providers on youth- friendly ASRH services and teachers on ASRH and HIV/AIDS using student-friendly methodologies.\r\n\r\nPopulation and Development\r\n\r\n    Support training needs assessment and train staff of statistical offices and Implementing Partners at central and district levels; \r\n    Equipment for census data production and dissemination to line ministries at national level and DDCs of project districts; \r\n    Development and implementation of a plan for the 2011 population census;\r\n    Development of advocacy materials for policy makers, religious leaders, uniformed forces and the general public on emerging population and development issues;\r\n    Develop and institutionalize an integrated data and information management system, including DPMAS for monitoring of indicators at district level;\r\n    Establish baseline and endline information for monitoring and evaluation of the CPAP; \r\n    Provide technical support for the 2011 Population and Housing Census;\r\n    Conduct surveys on RH, migration, SGBV and conflict-related issues to inform policy decision on IDPs, ex-combatants, refugees and persons affected by emergencies; \r\n    Undertake evidence-based advocacy and sensitization of policy and decision makers and civil society on emerging PD issues such as migration, urbanisation, youth, aging, sex ratio at birth; \r\n    Building capacities of partner institutions to integrate population, gender, RH, social inclusion, peace-building and emergency concerns into their plans and programmes; \r\n    Integration of the Nepal Population Perspective Plan into the Government’s development plans; \r\n    Training to national and district level staff on programme management, M&E evaluation and integration of population concerns into development plans and programmes. \r\n\r\nGender \r\n\r\n    Support to (a) the GoN’s programmes for reintegration of ex-combatants and internally displaced women, and implementation of UN Resolution 1325;\r\n    Mainstream SGBV in training modules of health sector; \r\n    Enhance capacity in community-based monitoring initiatives with health facilities for tracking SGBV; \r\n    Conduct evidence-based capacity-building of police, lawyers and media on caste and GBV;\r\n    Increasing public awareness about role of males in violence prevention; \r\n    Strengthening local capacity to monitor and respond to SGBV together with other actors;\r\n    Building capacity of women, especially of excluded groups, to participate in design and implementation of peace-building initiatives;\r\n    Develop and implement a National Action Plan on UNSCR 1325; (b) develop directives and action plan on reintegration of women affected by conflict; and (c) support analytical evidence-base submissions to the CA on gender and women’s protection and reintegration issues;\r\n    Support access to justice and rehabilitation for women affected by GBV during conflict in selected districts;\r\n    Develop a national action plan on UNSCR 1325; \r\n    Mainstreaming gender in planning and monitoring mechanisms in the health sector and in the police will be supported;\r\n    Strengthen gender-responsive mechanisms in the police and justice sectors; (d) develop a database for evidence-based advocacy on GBV; \r\n    Strengthen community-based gender- and social-inc"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Population Fund",
+      "donor_project_id": "270",
+      "raw_payload": {
+        "id": 1137,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Population Fund",
+        "organization_id": 10,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 17000000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-02-25",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 8000000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-02-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/270",
+      "value": "270"
+    }
+  ],
+  "implementing_agency": "Sindhuli District Development Committee, Bajhang District Development Committee, Advocary Forum, Accham District Development Committee, Rukum District Development Committee, Dadeldhura District Development Committee, Baitadi District Development Committee, Argakhanchi District Development Committee, Department of Health Services, Ministry of Women, Children and Senior Citizens, Kapilvastu District Development Committee, National Planning Commission, Rautahat District Development Committee, Ministry of Federal Affairs & General Administration, National Centre for AIDS and STD Control, Ministry of Youth and Sports, Saptari District Development Committee, Rolpa District Development Committee, Dang District Development Committee, Department of Health Services, Mahottari District Development Committee, Ministry of Health and Population, Sunsari District Development Committee, Udayapur District Development Committee, Pyuthan District Development Committee, Sarlahi District Development Committee, Bajura District Development Committee",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "COUNTRY PROGRAMME ACTION PLAN (CPAP), 2008-2010 (extended to 2012) for the Programme of Cooperation between The Government of Nepal and The United Nations Population Fund (UNFPA)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/270",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-270",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 25000000.0,
+  "total_disbursement": 21980000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.419245Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-270",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

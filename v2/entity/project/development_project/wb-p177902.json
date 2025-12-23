@@ -1,0 +1,304 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.388559Z",
+  "dates": [
+    {
+      "date": "2028-07-15",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The development objective of First Phase of the Accelerating Transport and Trade Connectivity in Eastern South Asia Project is to increase the efficiency and resilience of trade and transport along selected corridors in Nepal. This project has four components. 1) The first component, Digital Systems for Trade, has the following sub-components: (i) Design, supply, development, installation, configuration, and testing of an electronic automated border management system, including an electronic cargo tracking system; (ii) – Design, supply, development, installation, configuration, and testing of a business intelligence and data analytics system and risk engine; (iii) Deployment of intelligence systems related to data networks, closed-circuit television (CCTV) systems, and other monitoring systems, through the upgrading of hardware and software systems; and (iv) Design, supply, development, installation, configuration, and testing of a web-based supply management information system for the automation of registration processes and permits. 2) The second component, Green and Resilient Transport and Trade Infrastructure, has the following sub-components: (i) Upgrading works and construction supervision for the Butwal-Gorusinghe-Chanauta (BGC) road section; (ii) Detailed design, construction, and construction supervision of a green resilient urban bridge, including the construction of a green climate-resilient four-lane bridge; (iii) Development and implementation of a green resilient highway corridor concept and strategy to support the development, approval, and implementation of an integrated strategy. 3) The third component, Institutional and Policy Strengthening for Transport and Trade, has the following sub-components: (i) Providing technical assistance to advance Nepal’s preparedness and subsequent implementation of the Motor Vehicle Agreement (MVA); (ii) Supporting customs reforms; (iii) – Supporting implementation of private sector support initiatives; (iv) Supporting training, consultants’ recruitment, and capacity strengthening activities for the Implementing Agencies (IAs), other relevant agencies at the central, provincial, and local levels, and the private sector, on critical issues; and (v) Providing support for the preparation of future projects through relevant preparatory studies. 4) The fourth component, Contingency Emergency Response (CERC), will provide support for an immediate response to an eligible crisis or emergency, as needed."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P177902",
+      "raw_payload": {
+        "boardapprovaldate": "2022-06-28T00:00:00Z",
+        "borrower": "Ministry of Finance",
+        "closingdate": "2028-07-15",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "305000000",
+        "esrc_ovrl_risk_rate": "Substantial",
+        "grantamt": "0",
+        "id": "P177902",
+        "impagency": "Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+        "major_sector_code": "CX,TX,YX",
+        "major_sector_name": "FY17 - Industry, Trade and Services,FY17 - Information and Communications Technologies,FY17 - Transportation",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "CX",
+              "major_sector_name": "FY17 - Information and Communications Technologies",
+              "sectors": [
+                {
+                  "sector_code": "CI",
+                  "sector_name": "FY17 - ICT Infrastructure",
+                  "sector_percent": "30.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "TX",
+              "major_sector_name": "FY17 - Transportation",
+              "sectors": [
+                {
+                  "sector_code": "TC",
+                  "sector_name": "FY17 - Urban Transport",
+                  "sector_percent": "11.0"
+                },
+                {
+                  "sector_code": "TF",
+                  "sector_name": "FY17 - Public Administration - Transportation",
+                  "sector_percent": "4.0"
+                },
+                {
+                  "sector_code": "TI",
+                  "sector_name": "FY17 - Rural and Inter-Urban Roads",
+                  "sector_percent": "54.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "YX",
+              "major_sector_name": "FY17 - Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YY",
+                  "sector_name": "FY17 - Trade",
+                  "sector_percent": "1.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - ICT Infrastructure,FY17 - Public Administration - Transportation,FY17 - Rural and Inter-Urban Roads,FY17 - Trade,FY17 - Urban Transport",
+        "proj_id": "P177902",
+        "project_abstract": "The development objective of First Phase of the Accelerating Transport and Trade Connectivity in Eastern South Asia Project is to increase the efficiency and resilience of trade and transport along selected corridors in Nepal. This project has four components. 1) The first component, Digital Systems for Trade, has the following sub-components: (i) Design, supply, development, installation, configuration, and testing of an electronic automated border management system, including an electronic cargo tracking system; (ii) – Design, supply, development, installation, configuration, and testing of a business intelligence and data analytics system and risk engine; (iii) Deployment of intelligence systems related to data networks, closed-circuit television (CCTV) systems, and other monitoring systems, through the upgrading of hardware and software systems; and (iv) Design, supply, development, installation, configuration, and testing of a web-based supply management information system for the automation of registration processes and permits. 2) The second component, Green and Resilient Transport and Trade Infrastructure, has the following sub-components: (i) Upgrading works and construction supervision for the Butwal-Gorusinghe-Chanauta (BGC) road section; (ii) Detailed design, construction, and construction supervision of a green resilient urban bridge, including the construction of a green climate-resilient four-lane bridge; (iii) Development and implementation of a green resilient highway corridor concept and strategy to support the development, approval, and implementation of an integrated strategy. 3) The third component, Institutional and Policy Strengthening for Transport and Trade, has the following sub-components: (i) Providing technical assistance to advance Nepal’s preparedness and subsequent implementation of the Motor Vehicle Agreement (MVA); (ii) Supporting customs reforms; (iii) – Supporting implementation of private sector support initiatives; (iv) Supporting training, consultants’ recruitment, and capacity strengthening activities for the Implementing Agencies (IAs), other relevant agencies at the central, provincial, and local levels, and the private sector, on critical issues; and (v) Providing support for the preparation of future projects through relevant preparatory studies. 4) The fourth component, Contingency Emergency Response (CERC), will provide support for an immediate response to an eligible crisis or emergency, as needed.",
+        "project_name": "Accelerating Transport and Trade Connectivity in Eastern South Asia – Nepal Phase 1 Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Active",
+        "themev2_level1_exact": [
+          "FY17 - Economic Policy",
+          "FY17 - Economic Policy",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Private Sector Development",
+          "FY17 - Public Sector Management",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Climate change",
+          "FY17 - Climate change",
+          "FY17 - Data Development and Capacity Building",
+          "FY17 - Disaster Risk Management",
+          "FY17 - Environmental policies and institutions",
+          "FY17 - ICT",
+          "FY17 - Road Safety",
+          "FY17 - Trade",
+          "FY17 - Trade",
+          "FY17 - Urban Development",
+          "FY17 - Urban Development"
+        ],
+        "totalamt": "275000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 275000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2022-06-28",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177902",
+      "value": "p177902"
+    }
+  ],
+  "implementing_agency": "Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Accelerating Transport and Trade Connectivity in Eastern South Asia – Nepal Phase 1 Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177902",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Information and Communications Technologies",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Transportation",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p177902",
+  "stage": "ongoing",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 275000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.388556Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p177902",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

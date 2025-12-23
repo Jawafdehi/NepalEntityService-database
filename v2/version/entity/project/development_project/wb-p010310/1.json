@@ -1,0 +1,254 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.764979Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010310",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.764983Z",
+    "dates": [
+      {
+        "date": "1998-03-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This project comprises four separate components. First, the loan will finance the Mahakali irrigation stage ll project, which involves the construction of irrigation and drainage facilities to serve an additional 6,800 ha under the Mahakali irrigation project. Second, an irrigation line of credit pilot project,  which will finance subprojects for the construction of new small and medium surface and groundwater irrigation schemes, and the rehabilitation of existing surface schemes to cover a total of about 9,000 ha, these schemes will be operated and maintained by farmer groups. Third, the project will finance an emergency flood rehabilitation works to repair flood-damaged irrigation and river control facilities. Finally, the project will provide institutional development support to assist the Department of Irrigation to strengthen it's capability for sector program development and implementation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010310",
+        "raw_payload": {
+          "boardapprovaldate": "1988-06-15T00:00:00Z",
+          "closingdate": "1998-03-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "46700000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "0",
+          "id": "P010310",
+          "major_sector_code": "AX,BX",
+          "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Public Administration",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AI",
+                    "sector_name": "FY17 - Irrigation and Drainage",
+                    "sector_percent": "92.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BC",
+                    "sector_name": "FY17 - Central Government (Central Agencies)",
+                    "sector_percent": "8.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Irrigation and Drainage",
+          "proj_id": "P010310",
+          "project_abstract": "This project comprises four separate components. First, the loan will finance the Mahakali irrigation stage ll project, which involves the construction of irrigation and drainage facilities to serve an additional 6,800 ha under the Mahakali irrigation project. Second, an irrigation line of credit pilot project,  which will finance subprojects for the construction of new small and medium surface and groundwater irrigation schemes, and the rehabilitation of existing surface schemes to cover a total of about 9,000 ha, these schemes will be operated and maintained by farmer groups. Third, the project will finance an emergency flood rehabilitation works to repair flood-damaged irrigation and river control facilities. Finally, the project will provide institutional development support to assist the Department of Irrigation to strengthen it's capability for sector program development and implementation.",
+          "project_name": "MAHAKALI IRRIG. II",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Finance",
+            "FY17 - Finance",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Disaster Risk Management",
+            "FY17 - Disaster Risk Management",
+            "FY17 - Disaster Risk Management",
+            "FY17 - Finance for Development",
+            "FY17 - Finance for Development",
+            "FY17 - Rural Development",
+            "FY17 - Rural Development"
+          ],
+          "totalamt": "41300000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 41300000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1988-06-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010310",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010310",
+        "value": "p010310"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "MAHAKALI IRRIG. II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010310",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010310",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 41300000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.764979Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010310",
+      "id": "version:entity:project/development_project/wb-p010310:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

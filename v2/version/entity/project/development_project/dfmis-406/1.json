@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.827519Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-406",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.827522Z",
+    "dates": [
+      {
+        "date": "2010-03-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-03-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Feasibility Studies for 300 km of Strategic Road Network (SRN) roads for the proposed RCP, comprising technical, economic, financial, and safeguard analysis, including (a) Involuntarily resettlement screenig and impact categorization checklists; (b) draft resettlement plans; (c) consultation and participation plan; (d) indigenous peoples screening and impact categorization checklist; (e) summary poverty reduction and social strategy; (f) indigenous peoples development plans, if necessary; (g) gender strategy; (h) complementary poverty reduction program; (i) environmental screening and impact categorization checklist; (j) environmental assessment (IEE nad EIA) reports.\r\n    Capacity assessments of the proposed IA for the ensuing loan in particular in the areas of procurement and financial management.\r\n    On-the-job training and knowledge transfer to advance project readiness in line with the subsequent preparation of Detailed Design to ensure awards of the first civil works contract simultaneously with loan effectiveness."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "406",
+        "raw_payload": {
+          "id": 1583,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Physical Infrastructure and Transport",
+    "financing": [
+      {
+        "amount": 600000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-03-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-406",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/406",
+        "value": "406"
+      }
+    ],
+    "implementing_agency": "Department of Roads",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 7411-NEP: Road Connectivity Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/406",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Transport",
+        "donor_subsector": null,
+        "normalized_sector": "Transport",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-406",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 600000.0,
+    "total_disbursement": 550059.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.827519Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-406",
+      "id": "version:entity:project/development_project/dfmis-406:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

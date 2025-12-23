@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.272060Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-324",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.272063Z",
+    "dates": [
+      {
+        "date": "2011-03-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.     Implement behavior change communication activities supported for increasing awareness and adoption of maternal, newborn, child health and nutrition practices especially of socially excluded, and marginalized groups in DACAW districts.\r\n2.     Mobilize youth as community advocates for maternal, newborn and child health and nutrition related care and practices.\r\n3.     Health and nutrition related activities promoted through child clubs, mothers groups and WATCH groups in DACAW districts. \r\n4.   Develop National hand washing with soap and water Strategy & Action plan and its operationalisation in cooperation with government, NGOs and Private sector"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Children's Fund",
+        "donor_project_id": "324",
+        "raw_payload": {
+          "id": 2714,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Children's Fund",
+          "organization_id": 11,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Children's Fund",
+    "financing": [
+      {
+        "amount": 789000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-03-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-324",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/324",
+        "value": "324"
+      }
+    ],
+    "implementing_agency": "Maxpro Pvt. Ltd., Department of Health Services",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PCR 1, IR 4: Maternal, Newborn, child health and adolescents survival- Communication for Development",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/324",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-324",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 789000.0,
+    "total_disbursement": 665724.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.272060Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-324",
+      "id": "version:entity:project/development_project/dfmis-324:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

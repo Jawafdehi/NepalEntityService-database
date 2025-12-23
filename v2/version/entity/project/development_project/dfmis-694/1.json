@@ -1,0 +1,258 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.202153Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-694",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.202156Z",
+    "dates": [
+      {
+        "date": "2008-11-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-02-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-09-01",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Food for Work Programs/ Cash for work\r\n    Support for Fertilizer and Seeds Use in Remote  Areas\r\n    Project Implementation Support; Evaluation of Existing Cash Transfer  Programs"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "International Development Association",
+        "donor_project_id": "694",
+        "raw_payload": {
+          "id": 950,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "International Development Association",
+          "organization_id": 17,
+          "percentage": 50
+        }
+      },
+      {
+        "donor": "World Bank Trust Funds",
+        "donor_project_id": "694",
+        "raw_payload": {
+          "id": 955,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "World Bank Trust Funds",
+          "organization_id": 86,
+          "percentage": 50
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 23297000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Development Association",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2010-08-18",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 24451880.46,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Development Association",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-08-18",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2700000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Development Association",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2008-11-02",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 13245841.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Development Association",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-02",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-02",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 5000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-694",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/694",
+        "value": "694"
+      }
+    ],
+    "implementing_agency": "World Food Programme, Department of Agriculture, Ministry of Federal Affairs & General Administration",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Social Safety Nets Project (Nepal Food Crisis Programme)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/694",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-694",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 68694722.46,
+    "total_disbursement": 52130530.98259,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.202153Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-694",
+      "id": "version:entity:project/development_project/dfmis-694:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

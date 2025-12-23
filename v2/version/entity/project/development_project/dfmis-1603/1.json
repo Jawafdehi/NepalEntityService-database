@@ -1,0 +1,146 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.809510Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1603",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.809513Z",
+    "dates": [
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "According to GMR 2011, Nepal has illiterate population of 7.6 million (or 42% of the total) of whom 67 percent are women. Literacy rates vary by ecological regions with the Hills with highest literacy rate (55%) and the Mountains with the lowest (41%). However, the Terai has the highest number of illiterates followed by the Hills. Large disparities exist between male and female literacy rates in all age groups. According to the 2001 census, the literacy rate for six years and older males (66%) is 23 percentage points higher than that for the same age group of females (43%). The youth literacy rate (15 to 24 years) of 70 percent is significantly higher than the adult literacy rate (age 15 years and above) of 48 percent The weak capacity in the Nepal education sector in general, and in literacy and NFE in particular, have been highlighted in recent studies, discussions, consultations, workshops and reports on education in Nepal. There is general consensus that the capacity of the Ministry of education in general and NFEC in particular is very weak to plan, develop, implement and manage programs aimed at increasing literacy and lifelong education. There is lack of capacity for evidence-based planning and lack of adequate capacity for managing the NFE sub-sector. Nepal is one of the 20 CapEFA countries in the biennium 2009 - 2011 and is being engaged in the capacity development of Non-formal Education staff and CLC management committee members mainly focusing Education Sector Analysis for NFE sub-sector, identification of potential target group and beneficiaries, setting benchmark and target indicator values, and action planning for operationalization of reviewed NFE policy for achieving target indicator values. The outcomes of this effort resulted in the enhancement of capacity of leadership, ownership and harmonization; institutional capacity; organizational capacity; quality and equity; and knowledge-generation for capacity development in the NFE sub-sector as envisaged in Cap EFA Strategic Framework. The concrete and tangible outputs that have evolved so far include: (a) National Plan of Action for developing and expanding CLCs, (b) Establishment of NFE-MIS in three pilot districts, (c) Reliable estimates of current literacy skills through literacy survey. In this context, following a request from the Non formal Education Centre for UNESCO's support in the NFE sub-sector, it has been agreed that UNESCO will arrange for the continuation of support for capacity development in the implementation of the NFE Sub-sector Programme. As such identification of what key capacities are already developed/existing and what additional capacities are needed in the NFE sub-sector in order to enable the country to be on track with EFA goals by 2015 is crucial. Hence UNESCO Kathmandu aspires to further play an active role in assisting the MoE in the area of Literacy and non-formal education. In collaboration with MOE, UNESCO Bangkok, UNESCO HQ, UIL and other relevant partners, the Office will provide support to the MOE for the development of capacity development plan for literacy and NFE subsector in Nepal."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_project_id": "1603",
+        "raw_payload": {
+          "id": 7572,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+          "organization_id": 168,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "financing": [
+      {
+        "amount": 450000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-03-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1603",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1603",
+        "value": "1603"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "467GLO1007.26 (ED) - CAP EFA: Capacity Assessment for Non-formal Education in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1603",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1603",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 450000.0,
+    "total_disbursement": 160544.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.809510Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1603",
+      "id": "version:entity:project/development_project/dfmis-1603:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

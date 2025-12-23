@@ -1,0 +1,132 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.322525Z",
+  "dates": [
+    {
+      "date": "2016-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The two earthquakes of 25 April and 12 May 2015, have heavily affected the monuments and temples within the Kathmandu Valley World Heritage property, as well as many other cultural sites in the north western area of Nepal. UNESCO has been assigned by the government a coordination role for all cultural heritage rehabilitation projects. This concerns assessment of damage, inventorying, documentation, capacity building of national experts, emergency consolidation, restoration and rebuilding of historical structures and fundraising efforts. It is a key challenge to reach a common understanding to improve seismic resilience, maintaining the values and  finding appropriate approaches for reconstruction (whether using traditional construction methods and/ or integrating modern reversible technologies). In this context, the Kathmandu Office will continue its coordinating role and garner international support. It will support Nepal’s Department of Archaeology (DoA) in the rehabilitation and reconstruction of the heritage sites through implementing multiple extra-budgetary projects with participation of various national, international and local stakeholders."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_project_id": "718",
+      "raw_payload": {
+        "id": 10135,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+        "organization_id": 168,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "financing": [
+    {
+      "amount": 26681.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/718",
+      "value": "718"
+    }
+  ],
+  "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "8240113043KAT (CLT) Contribution from Oriental Cultural Heritage Site Protection Alliance for the project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/718",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-718",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 26681.0,
+  "total_disbursement": 1941.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.322523Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-718",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

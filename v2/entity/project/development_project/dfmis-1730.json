@@ -1,0 +1,157 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.271763Z",
+  "dates": [
+    {
+      "date": "2018-07-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-12",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-01-13",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Provide rescue, repatriation, economic opportunity, and rehabilitation opportunities for  sex trafficking survivorsProviding scholarship at-risk children in high trafficking areas.Basic education and vocational training for sex trafficking survivors and at-risk individuals.Sensitizing program against human trafficking at school and villages.Intensive human trafficking awareness orientation campaigns, so far 25 have been conducted."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "NGOs",
+      "donor_project_id": "1730",
+      "raw_payload": {
+        "id": 12034,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 50,
+        "organization__development_cooperation_group__name": "NGO",
+        "organization__logo": "",
+        "organization__name": "NGOs",
+        "organization_id": 498,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "World Mobilization Nepal",
+      "donor_project_id": "1730",
+      "raw_payload": {
+        "id": 12035,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "World Mobilization Nepal",
+        "organization_id": 577,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "NGOs, World Mobilization Nepal",
+  "financing": [
+    {
+      "amount": 1810886.379,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Mobilization Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-07-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1730",
+      "value": "1730"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "The Apple of Gods Eyes III",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1730",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1730",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1810886.379,
+  "total_disbursement": 1788783.8916,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.271760Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1730",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

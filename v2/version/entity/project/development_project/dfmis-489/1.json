@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.324929Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-489",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.324931Z",
+    "dates": [
+      {
+        "date": "2014-08-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-08-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-05-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Preparation of  National Action Plan for Zero Hunger\r\n\r\nIdentification of potential forestry projects in Nepal"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "489",
+        "raw_payload": {
+          "id": 7836,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development, Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 137006.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-08-18",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 137006.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-08-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-489",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/489",
+        "value": "489"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TCP Facility - Component 1: National Action Plan for Zero Hunger ; Component 2: Identification of potential forestry projects in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/489",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-489",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 274012.0,
+    "total_disbursement": 111715.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.324929Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-489",
+      "id": "version:entity:project/development_project/dfmis-489:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

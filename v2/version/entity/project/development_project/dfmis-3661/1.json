@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.157108Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3661",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.157113Z",
+    "dates": [
+      {
+        "date": "2019-12-20",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "European Commission",
+        "donor_project_id": "3661",
+        "raw_payload": {
+          "id": 39647,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+    "financing": [
+      {
+        "amount": 899244.4,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-12-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3661",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3661",
+        "value": "3661"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Local Initiatives to Reduce Impacts of Climate Change (LIRIC) CTR 413495",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3661",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3661",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 899244.4,
+    "total_disbursement": 646498.79,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.157108Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3661",
+      "id": "version:entity:project/development_project/dfmis-3661:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

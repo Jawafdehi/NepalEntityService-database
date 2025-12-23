@@ -1,0 +1,254 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.381483Z",
+  "dates": [
+    {
+      "date": "2018-06-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2018-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2020-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "UNICEF will support  the government to strengthen the education sector, including the operationalization of  federal education system within the context of  SSDP; capacity strengthening of the concerned government personnel and systems to monitor out-of- school children including children with disabilities through the Education Management Information System (EMIS); capacity development of local bodies to prepare for their roles in decentralized planning and implementation; implementation of the Comprehensive Safe Schools Master Plan supported by strengthening technical and institutional capacity of the education sector for DRR and CCA, education in emergencies and the Schools as Zones of Peace initiative. Efforts will focus on planned DLI results on equity strategy, early grade reading, learning outcomes, EMIS and safe schools. UNICEF will continue to co-lead the Education Cluster for  better preparedness and coordination for education response in emergencies; including construction of Transitional Learning Centers in both earthquake affected and non-earthquake affected areas."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "3236",
+      "raw_payload": {
+        "id": 40133,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 521011.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-02-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 22614.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-02-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 6927004.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-06-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 249073.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-06-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 406885.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 170060.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-02-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 220000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-05-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 200000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1199.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3236",
+      "value": "3236"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "3.4 Systems Strengthening & Safe Schools",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3236",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3236",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8717846.0,
+  "total_disbursement": 4714500.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.381479Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3236",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.730896Z",
+  "dates": [
+    {
+      "date": "2011-08-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-08-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Technical Assistance to RISMFP funded by ADB with following inputs/activities:\r\n\r\n    Establish agribusiness promotion grant imprest account by month 3 after loan effectiveness\r\n    Appoint IAP for grant awards - define operational procedures \r\n    Review applications \r\n    Disburse grants approved by IAP for cooperative strengthening, post harvest investment, farm input grants, and farm technology\r\n    Mobilize technical service providers as required\r\n    PMU and AEC pre qualify post harvest service providers, and national and local on-farm service providers \r\n    Implement awareness and market networking programs \r\n    Implement a market linkages program in two regions and develop supply agreement, identify farmer cooperatives develop business plans and grant applications\r\n    Design and implement the AMIS program\r\n    Design and implement post harvest training programs \r\n    Upgrade DADO, CASC and ARCs, on-farm services providers contracted \r\n    Contract on farm service providers, farmer group sensitization and market linkages program with training, production planning and grant applications\r\n    Mobilize new groups for DP and IP link to farmer cooperatives support training and grant applications\r\n    DADO-trained and implementing  monitoring and impact assessment programs \r\n    Establish and implement project management arrangements including structure and procedures, staff recruitment\r\n    Select and train ASPs in HVC production, post-harvest handling and marketing, and awareness of gender, indigenous peoples, and climate change issues\r\n    Conduct overall project promotion and awareness campaign including study tours\r\n    Establish and operate PPMS\r\n    Train staff in ADB project procedures, 8 postgraduate trainees trained\r\n    Procure and operate vehicles and equipment\r\n    Prepare and submit project accounts and progress reports\r\n    Support DOA of MOAC in preparation of PCR"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "586",
+      "raw_payload": {
+        "id": 2704,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 20,
+        "organization__development_cooperation_group__name": "Netherlands",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 19,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs, Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 513490.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-08-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 543770.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-10-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/586",
+      "value": "586"
+    }
+  ],
+  "implementing_agency": "Ministry of Agriculture and Livestock Development, Ministry of Foreign Affairs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Raising Income of Small and Medium Farmers Project (RISMFP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/586",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-586",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1057260.0,
+  "total_disbursement": 330000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.730893Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-586",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

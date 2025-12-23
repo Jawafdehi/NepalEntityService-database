@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.903797Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3561",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.903802Z",
+    "dates": [
+      {
+        "date": "2019-07-05",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "German Corporation for International Cooperation",
+        "donor_project_id": "3561",
+        "raw_payload": {
+          "id": 38744,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "German Corporation for International Cooperation",
+          "organization_id": 24,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+    "financing": [
+      {
+        "amount": 10159200.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-07-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3561",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3561",
+        "value": "3561"
+      }
+    ],
+    "implementing_agency": "Nepal Electricity Authority",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promotion of Solar Energy on Rural Area",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3561",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3561",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 10159200.0,
+    "total_disbursement": 2031564.3,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.903797Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3561",
+      "id": "version:entity:project/development_project/dfmis-3561:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

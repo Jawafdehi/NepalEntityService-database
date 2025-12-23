@@ -1,0 +1,190 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.819505Z",
+  "dates": [
+    {
+      "date": "2010-03-11",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-06-04",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project has 9 components under three (Energy Access, Clean Energy and Capacity Building) main categories; 5 components for Loan portion and 2 components for Grant portion. Asian Development has provided a Loan of SDR 41.127 million (equivalent to US$ 65 million) and  a Grant of US$ 4.5 million.\r\nThe Loan portion consists of following components: \r\n1. Facilitating Access to Clean Energy\r\n2. Energy Access Quality Enhancement\r\n3. Clean Energy Improvement\r\n4. Supply-side Energy Efficiency Improvement; and\r\n5. Capacity Building.\r\nThe Grant portion consists of following components:\r\n1. Energy Efficiency in Lighting; and\r\n2. Renewable Energy for Street Lighting.\r\nBudget Head                   Name of the Project                                                  Allocated amount (in Rs. ’ooo)\r\n                                                                                                                                      Loan                     Grant\r\n \r\n87-4655   132 kv and Other transmission Line Expansion Projects:\r\n                    i)  Dumre-Damauli-Marsyangdi 132 kv TL     (loan)                                          \r\n                    ii) Butwal- Kohalpur- Mahendranagar 132 kv TL   (loan)                                 \r\n                     iii) Matatirtha S/SExpansion Project  (loan)                                                         \r\n                     iv) Chapali  132kv Subststion Project    (loan)                                                 \r\n                    v) Distribution System Augmentation Project      (loan)                                    \r\n                   vi) Loss reduction in Kathmandu, Birjinj and Simara Corridor   (loan)         \r\n                   vii) Street Light Rehabilitation     (grant)                                                                                                \r\n                   viii) CFL Program      (grant)                                                                                             \r\n                    ix) Capacitor Bank      (loan)                                                                               \r\n                    x) Distribution System Consuling Service    (loan & grant)                                            \r\n87-4-714     Power Station Reinforcement and Maintenance & Repair Projects:\r\n                    i)  Marsyangdi HPS  (loan)                                                                                               \r\n                   ii)  Gandaki HPS    (loan)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "1065",
+      "raw_payload": {
+        "id": 1659,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 50
+      }
+    },
+    {
+      "donor": "Clean Energy Fund",
+      "donor_project_id": "1065",
+      "raw_payload": {
+        "id": 1660,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 33,
+        "organization__development_cooperation_group__name": "Clean Energy Fund",
+        "organization__logo": "",
+        "organization__name": "Clean Energy Fund",
+        "organization_id": 647,
+        "percentage": 50
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "financing": [
+    {
+      "amount": 62942103.73,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2010-03-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4500000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-03-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 241000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-03-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1065",
+      "value": "1065"
+    }
+  ],
+  "implementing_agency": "Nepal Electricity Authority",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Energy Access and Efficiency Improvement Project (EAEIP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1065",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1065",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 67683103.73,
+  "total_disbursement": 68840452.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.819503Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1065",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

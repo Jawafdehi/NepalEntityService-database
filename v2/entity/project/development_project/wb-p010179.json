@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.804287Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project aims at ensuring the proper operation and maintenance of the tubewells included under Stage I, introducing improved tubewell irrigation systems on a pilot basis, promoting the participation of farmers in the project, ensuring the provision of adequate inputs and extension services to farmers and strengthening the institutions concerned with the project. The project would comprise: (a) the completion, operation and maintenance of 64 tubewells built under Stage I; (b) the construction of 15 improved tubewells on a pilot basis; (c) the construction of power transmission facilities; (d) the provision of technical support and training; (e) the provision of agricultural extension; (f) improvement and repairs of Birganj tubewells; and (g) a study to determine groundwater development strategies for the Terai. The major benefits would be increased foodgrain production, foreign exchange earnings, employment opportunities and net farm income."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010179",
+      "raw_payload": {
+        "boardapprovaldate": "1983-01-18T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010179",
+        "major_sector_code": "AX",
+        "major_sector_name": "Agriculture, Fishing and Forestry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AI",
+                  "sector_name": "Irrigation and Drainage",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Irrigation and Drainage",
+        "proj_id": "P010179",
+        "project_abstract": "The project aims at ensuring the proper operation and maintenance of the tubewells included under Stage I, introducing improved tubewell irrigation systems on a pilot basis, promoting the participation of farmers in the project, ensuring the provision of adequate inputs and extension services to farmers and strengthening the institutions concerned with the project. The project would comprise: (a) the completion, operation and maintenance of 64 tubewells built under Stage I; (b) the construction of 15 improved tubewells on a pilot basis; (c) the construction of power transmission facilities; (d) the provision of technical support and training; (e) the provision of agricultural extension; (f) improvement and repairs of Birganj tubewells; and (g) a study to determine groundwater development strategies for the Terai. The major benefits would be increased foodgrain production, foreign exchange earnings, employment opportunities and net farm income.",
+        "project_name": "IRRIG. VII (BHAIRAWA",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010179",
+      "value": "p010179"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "IRRIG. VII (BHAIRAWA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010179",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010179",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.804285Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010179",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.695096Z",
+  "dates": [
+    {
+      "date": "2010-11-30",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-11-30",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Stakeholder workshop/coordination meeting, project lunching etc.\r\n            \r\n        \r\n        \r\n            \r\n            Identification of new areas, and production pockets and Baseline survey in new districts\r\n            \r\n        \r\n        \r\n            \r\n            Preparation of training manuals and materials \r\n            \r\n        \r\n        \r\n            \r\n            Social Mobilization (Group formation, management meeting training, counseling etc)\r\n            \r\n        \r\n        \r\n            \r\n            Skill development trainings ( seed production technology, quality control, marketing, etc)\r\n            \r\n        \r\n        \r\n            \r\n            Refresher training for existing farmer groups and project staff (as required ) on new production and marketing technologies\r\n            \r\n        \r\n        \r\n            \r\n            Support to new farmers group for plant protection tools and inputs supplies (sprayer, watercane, plastic sheet etc.)\r\n            \r\n        \r\n        \r\n            \r\n            Induction/orientation and Trainer’s Training (ToT) to staff (central & district level)\r\n            \r\n        \r\n        \r\n            \r\n            Planning of source seed production with concerned partners and stakeholders\r\n            \r\n        \r\n        \r\n            \r\n            Support construction and rehabilitation of micro-irrigation schemes\r\n            \r\n        \r\n        \r\n            \r\n            Support to cooperative for source seed production and management\r\n            \r\n        \r\n        \r\n            \r\n            Agri-inputs support and intensive coaching to DAG and women farmers\r\n            \r\n        \r\n        \r\n            \r\n            Complementary multiple income generating activities with SDC supported and other projects for connected development (as needed)\r\n            \r\n        \r\n        \r\n            \r\n            Promotion of project produced seed in commercial vegetable production pocket/areas\r\n            \r\n        \r\n        \r\n            \r\n            Pilot production of hybrid seed of tomato \r\n            \r\n        \r\n        \r\n            \r\n            Seed health heating testing processing equipment and materials for seed testing laboratory\r\n            \r\n        \r\n        \r\n            \r\n            Annual learning /experience sharing and interactive workshop of project staff\r\n            \r\n        \r\n        \r\n            \r\n            Gender sensitization mass meeting to aware DAGs and women farmers (District/pocket)\r\n            \r\n        \r\n        \r\n            \r\n            Interactive planning workshop among entrepreneurs, cooperatives and line agencies (for demand based seed production and to facilitate contract agreement at cluster level)\r\n            \r\n        \r\n        \r\n            \r\n            Support to construct and furnish seed collection centers/cooperatives and storages\r\n            \r\n        \r\n        \r\n            \r\n            Organization of National Seed Conference for seed system development\r\n            \r\n        \r\n        \r\n            \r\n            Formation & registration of new seed production and marketing cooperatives\r\n            \r\n        \r\n        \r\n            \r\n            Strengthening & support to existing & new seed production and marketing cooperatives material support and training (as per need)\r\n            \r\n        \r\n        \r\n            \r\n            Formation of federated central/district union of seed production and marketing cooperatives\r\n            \r\n        \r\n        \r\n            \r\n            Study tour and visits for farmers, cooperative members and local agro-vets on marketing (in-country)\r\n            \r\n        \r\n        \r\n            \r\n            Capacity building training to new cooperative members (business plan, account keeping , leadership development etc. )\r\n            \r\n        \r\n        \r\n            \r\n            Support for seed field inspection at critical stages by licensee for internal quality assurance\r\n            \r\n        \r\n        \r\n            \r\n            Training to cooperative technicians and staff on internal seed quality assurance procedures\r\n            \r\n        \r\n        \r\n            \r\n            Support to cooperative technicians and staff to apply internal quality assurance (travel & logistic)\r\n            \r\n        \r\n        \r\n            \r\n            Support on packaging, branding, labeling and materials to co-operatives and entrepreneurs\r\n            \r\n        \r\n        \r\n            \r\n            Organize value chain actors meeting in each cluster\r\n            \r\n        \r\n        \r\n            \r\n            Support to SEAN for seed market information study for analyzing demand, supply, and import export situation\r\n            \r\n        \r\n        \r\n            \r\n            Market Information Collection (domestic)\r\n            \r\n        \r\n        \r\n            \r\n            Conduction of periodic socio-economic study in the project areas to analyze the pr"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "383",
+      "raw_payload": {
+        "id": 3077,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 50
+      }
+    },
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "383",
+      "raw_payload": {
+        "id": 3078,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 50
+      }
+    }
+  ],
+  "executing_agency": "Swiss Agency for Development and Cooperation",
+  "financing": [
+    {
+      "amount": 167748.9177,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2315642.458,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 139664.8045,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/383",
+      "value": "383"
+    }
+  ],
+  "implementing_agency": "Centre for Environment and Agricultural Policy Research Extension and Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Vegetable Seed Project Phase 3",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/383",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-383",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2623056.1802,
+  "total_disbursement": 2239504.227,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.695093Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-383",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

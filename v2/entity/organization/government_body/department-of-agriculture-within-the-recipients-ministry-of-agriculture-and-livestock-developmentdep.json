@@ -1,0 +1,59 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Development Partner"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.760830Z",
+  "description": null,
+  "government_type": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Department of Agriculture within the Recipient’s Ministry of Agriculture and Livestock Development,Department of Irrigation,Department of Irrigation within the Recipient’s Ministry of Energy, Water Resources and Irrigation",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "department-of-agriculture-within-the-recipients-ministry-of-agriculture-and-livestock-developmentdep",
+  "sub_type": "government_body",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Department of Agriculture within the Recipient’s Ministry of Agriculture and Livestock Development,Department of Irrigation,Department of Irrigation within the Recipient’s Ministry of Energy, Water Resources and Irrigation",
+    "created_at": "2025-12-23T19:11:23.760828Z",
+    "entity_or_relationship_id": "entity:organization/government_body/department-of-agriculture-within-the-recipients-ministry-of-agriculture-and-livestock-developmentdep",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

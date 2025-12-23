@@ -1,0 +1,255 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.565826Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p045052",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.565829Z",
+    "dates": [
+      {
+        "date": "2007-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Road Maintenance and Development Project supports the Country Assistance Strategy objective to reduce poverty in rural areas, by improving rural access, and, prompting higher agricultural output, as well as non-farm income, in remote hill areas of the country. The project components will: 1) support policy reform, through the establishment of a Roads Board, the amendment of regulatory frameworks, and the development of a Road Fund; 2) construct dry-weather feeder roads, and, upgrade roads to gravel standard, including resettlement assistance, environmental monitoring, and, technical assistance provision for project design, coordination, and construction supervision. The component will further assist on land acquisition issues; 3) include the rehabilitation of strategic highway, and feeder road network; 4) provide measures for periodic maintenance of strategic roads; 5) strengthen institutional development of, and provide training to, the Department of Roads, and the Ministry of Works and Transport. In addition, consulting will be included for auditing, pre-investment, and socioeconomic studies, and, office modernization, and equipment will be improved, and supplied, respectively; and, 6) include a Project Preparation Facility to support project preparation and implementation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P045052",
+        "raw_payload": {
+          "boardapprovaldate": "1999-11-23T00:00:00Z",
+          "closingdate": "2007-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "65900000",
+          "envassesmentcategorycode": "A",
+          "grantamt": "0",
+          "id": "P045052",
+          "major_sector_code": "BX,SX,TX",
+          "major_sector_name": "FY17 - Public Administration,FY17 - Social Protection,Transportation",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BC",
+                    "sector_name": "FY17 - Central Government (Central Agencies)",
+                    "sector_percent": "30.0"
+                  },
+                  {
+                    "sector_code": "BG",
+                    "sector_name": "FY17 - Law and Justice",
+                    "sector_percent": "1.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "SX",
+                "major_sector_name": "FY17 - Social Protection",
+                "sectors": [
+                  {
+                    "sector_code": "SA",
+                    "sector_name": "FY17 - Social Protection",
+                    "sector_percent": "14.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "TX",
+                "major_sector_name": "Transportation",
+                "sectors": [
+                  {
+                    "sector_code": "TA",
+                    "sector_name": "Roads and highways",
+                    "sector_percent": "55.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Law and Justice,FY17 - Social Protection,Roads and highways",
+          "proj_id": "P045052",
+          "project_abstract": "The Road Maintenance and Development Project supports the Country Assistance Strategy objective to reduce poverty in rural areas, by improving rural access, and, prompting higher agricultural output, as well as non-farm income, in remote hill areas of the country. The project components will: 1) support policy reform, through the establishment of a Roads Board, the amendment of regulatory frameworks, and the development of a Road Fund; 2) construct dry-weather feeder roads, and, upgrade roads to gravel standard, including resettlement assistance, environmental monitoring, and, technical assistance provision for project design, coordination, and construction supervision. The component will further assist on land acquisition issues; 3) include the rehabilitation of strategic highway, and feeder road network; 4) provide measures for periodic maintenance of strategic roads; 5) strengthen institutional development of, and provide training to, the Department of Roads, and the Ministry of Works and Transport. In addition, consulting will be included for auditing, pre-investment, and socioeconomic studies, and, office modernization, and equipment will be improved, and supplied, respectively; and, 6) include a Project Preparation Facility to support project preparation and implementation.",
+          "project_name": "ROAD MAINTENANCE AND DEVELOPMENT",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Public Sector Management",
+            "FY17 - Public Sector Management",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Public Administration",
+            "FY17 - Public Administration",
+            "FY17 - Rural Development",
+            "FY17 - Rural Development"
+          ],
+          "totalamt": "54500000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 54500000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1999-11-23",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p045052",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P045052",
+        "value": "p045052"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "ROAD MAINTENANCE AND DEVELOPMENT",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P045052",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Social Protection",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Transportation",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p045052",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 54500000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.565826Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p045052",
+      "id": "version:entity:project/development_project/wb-p045052:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

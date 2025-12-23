@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.675671Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3968",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.675674Z",
+    "dates": [
+      {
+        "date": "2020-10-12",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Issuing cards to farmers(Kishan Card)Establishing cash-out points and others"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "International Fund for Agricultural Development",
+        "donor_project_id": "3968",
+        "raw_payload": {
+          "id": 41040,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "International Fund for Agricultural Development",
+          "organization_id": 12,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Finance, Ministry of Finance",
+    "financing": [
+      {
+        "amount": 543000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Fund for Agricultural Development",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-10-12",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 663000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Fund for Agricultural Development",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-06-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3968",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3968",
+        "value": "3968"
+      }
+    ],
+    "implementing_agency": "International Fund for Agricultural Development",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "COVI-19 Recovery through Accelerating Private Investment in Agriculture",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3968",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3968",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1206000.0,
+    "total_disbursement": 878084.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.675671Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3968",
+      "id": "version:entity:project/development_project/dfmis-3968:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

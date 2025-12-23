@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.751817Z",
+  "dates": [
+    {
+      "date": "2017-07-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-07-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Children’s Home (24-hour/12-hour care)\r\n\tSponsorship Program for Non-Resident Children (Overall/Education)\r\n\tPost-secondary Education/ Bachelor Education and Scholarships/Sponsoring\r\n\tGreen Tara Child Haven School (Montessori to Grade 10)\r\n\tVocational Training\r\n\tFamily Support Program \r\n\tSupport children/youth through other organizations\r\n\tLong Term Sustainability of the Children’s Home"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Child Haven International",
+      "donor_project_id": "591",
+      "raw_payload": {
+        "id": 10807,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Child Haven International",
+        "organization_id": 733,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "NGOs",
+  "financing": [
+    {
+      "amount": 2088574.93,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Child Haven International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-07-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/591",
+      "value": "591"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Children’s and Women’s Development Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/591",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-591",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2088574.93,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.751814Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-591",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

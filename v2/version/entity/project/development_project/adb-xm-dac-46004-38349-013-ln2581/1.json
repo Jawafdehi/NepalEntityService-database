@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.694239Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-38349-013-ln2581",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.694244Z",
+    "dates": [
+      {
+        "date": "2009-11-30",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2010-05-25",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2015-06-30",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2019-10-29",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Air Transport Capacity Enhancement Project will enhance safety and capacity at Tribhuvan International Airport (TIA) in Kathmandu and three remote domestic airports--Lukla, Rara, and  Simikot. TIA's airfield side infrastructure will be reconfigured and upgraded to international safety standards, including provision or construction of (i) about 1,400 meters (m) of new main taxiways and link taxiways, (ii) runway end safety area and extension, (iii) runway approach lights, (iv) an instrument landing system localizer, (v) an uninterrupted power supply system for essential airfield and security area lights, (vi) air traffic communication equipment,(vii) additional international and domestic aircraft parking apron area, and (viii) upgrading of rescue and fire fighting system. TIA's terminal infrastructure will be rehabilitated with the existing international terminal refurnished and upgraded, and a new temporary domestic terminal of about 10,000 square meters (m2) constructed. Basic safety improvements at the three remote domestic airports include a visual approach guidance system and abbreviated precision approach path indicator at Lukla airport, and runway threshold identifiers and runway end lights, air traffic control equipment, and meteorological equipment at Simikot and Rara airports.\n\nThe Project will also improve overall sector management by implementing a 3-year capacity development program for the Civil Aviation Authority of Nepal (CAAN). CAAN's organizational and management capacity will be strengthened by updating the existing regulations, developing a strategy to adapt the regulatory framework based on international standards, improving human resources development, upgrading the financial and management information system, implementing a systematic maintenance program, and identifying viable opportunities for private sector participation for future airport infrastructure development and maintenance."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-38349-013-LN2581",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Sin Wai Chong",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=38349-013 (Closed)&officer= schong@adb.org&division= Transport and Communications Division, SARD&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-38349-013-LN2581",
+          "last_updated": "2025-11-24T08:37:30+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 27.69658,
+              "location_id": "1282644",
+              "lon": 85.3591,
+              "name": "Tribhuvan International Airport",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 29.52164,
+              "location_id": "8425999",
+              "lon": 82.14666,
+              "name": "Talcha Airport",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 29.9711,
+              "location_id": "7668631",
+              "lon": 81.8189,
+              "name": "Simikot Airport",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.6869,
+              "location_id": "7668622",
+              "lon": 86.7297,
+              "name": "Tenzing-Hillary Airport",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-38349-013-ln2581",
+    "identifiers": null,
+    "implementing_agency": "Civil Aviation Authority of Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Air Transport Capacity Enhancement Project (formerly Civil Aviation Airport Development Project)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:21050",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-38349-013-ln2581",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.694239Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-38349-013-ln2581",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-38349-013-ln2581:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,185 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.129702Z",
+  "dates": [
+    {
+      "date": "2011-12-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-12-26",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Enable the Government to adopt climate change policies and actions that increase the benefits and sustainability of public as well as public private development efforts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "907",
+      "raw_payload": {
+        "id": 3103,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 50
+      }
+    },
+    {
+      "donor": "European Commission",
+      "donor_project_id": "907",
+      "raw_payload": {
+        "id": 3107,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 50
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 11566913.25,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-26",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 10997643.36,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-01-10",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3932977.737,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-08-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/907",
+      "value": "907"
+    }
+  ],
+  "implementing_agency": "Ministry of Education, Science and Technology",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Climate Change Support Programme: Building Climate Resilience in Nepal(NCCSP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/907",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-907",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 26497534.347,
+  "total_disbursement": 31571683.9941,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.129699Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-907",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.877227Z",
+  "dates": [
+    {
+      "date": "2026-07-15",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "for the Relief stage, the design addresses gaps in the immediate impacts of the pandemic, especially by supporting the demand side of utilizing health and education services through mobilization of communities.  For the Restructuring stage, the focus is on strengthening gaps in health systems and education services that affect early childhood development services, i.e. supporting minor upgrades of ECD centers, health facilities, systems for planning and budgeting.  For the Resilient recovery stage, the focus is on data systems for health, education and social protection that would ensure informed policy decisions are made and systems in The project will achieve its objectives by first supporting implementation of the government’s national strategies in a complex institutional environment that requires continued high level engagement and commitment and high level leverage over sectoral programs, then promoting and stimulating investments at the Local Levels, which are the may agent on implementation of policies. The project will support parts of the broader human capital development agenda by focusing on selected activities to improve utilization of basic services by population, mainly the poor and vulnerable to as per the mandate of the Local Levels. It will follow a life cycle approach focusing on early years and adolescence, which are two key moments in life to intervene.  Hence, it will help GoN to achieve its goals by (i) providing a clear operational framework; (ii) helping to fix management problems that constrain effective delivery of programs and interventions; (iii) maintaining focus on a core package of priority services critical to early years development and adolescent girls; (iv) providing incentives for multi-sectoral and multi-level coordination; (v) helping generate data across the results chain and levels of government, including outputs and intermediate outcomes at the three government levels. Therefore, Local Level Government will have the knowledge, tools and financing to ensure implementation of existent programs and policies through an effective delivery system centered around the people.  To enhance people centric services, digital tools including media and outreach activities to communities and households will be made to reach the unreached. In the end, the project will address significant levels of malnutrition (which also contributes to learning poverty), geographical disparities, social exclusion, and gender inequality, promoting an effective delivery system and harnessing digital technology to improve Local Level service delivery  and to create more resilient sector in presence of shocks. As such the project supports the World Bank agenda and the Nepal 3R agenda (Relief, Restructuring, Resilient Recovery) as it is aligned with CPF objectives and GoN agenda. For the Relief stage, the design addresses gaps in the immediate impacts of the pandemic, especially by supporting the demand side of utilizing health and education services through mobilization of communities.  For the Restructuring stage, the focus is on strengthening gaps in health systems and education services that affect early childhood development services, i.e. supporting minor upgrades of ECD centers, health facilities, systems for planning and budgeting.  For the Resilient recovery stage, the focus is on data systems for health, education and social protection that would ensure informed policy decisions are made and systems in place under federalism which can respond to shocks and continue to deliver essential services."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P167531",
+      "raw_payload": {
+        "borrower": "Nepal                                                                                               ",
+        "closingdate": "2026-07-15",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "80000000",
+        "esrc_ovrl_risk_rate": "Substantial",
+        "grantamt": "0",
+        "id": "P167531",
+        "impagency": "National Planning Commission                                                                        ",
+        "major_sector_code": "SX",
+        "major_sector_name": "FY17 - Social Protection",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "SX",
+              "major_sector_name": "FY17 - Social Protection",
+              "sectors": [
+                {
+                  "sector_code": "SA",
+                  "sector_name": "FY17 - Social Protection",
+                  "sector_percent": "0.0"
+                },
+                {
+                  "sector_code": "SG",
+                  "sector_name": "FY17 - Public Administration - Social Protection",
+                  "sector_percent": "0.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+        "proj_id": "P167531",
+        "project_abstract": "for the Relief stage, the design addresses gaps in the immediate impacts of the pandemic, especially by supporting the demand side of utilizing health and education services through mobilization of communities.  For the Restructuring stage, the focus is on strengthening gaps in health systems and education services that affect early childhood development services, i.e. supporting minor upgrades of ECD centers, health facilities, systems for planning and budgeting.  For the Resilient recovery stage, the focus is on data systems for health, education and social protection that would ensure informed policy decisions are made and systems in The project will achieve its objectives by first supporting implementation of the government’s national strategies in a complex institutional environment that requires continued high level engagement and commitment and high level leverage over sectoral programs, then promoting and stimulating investments at the Local Levels, which are the may agent on implementation of policies. The project will support parts of the broader human capital development agenda by focusing on selected activities to improve utilization of basic services by population, mainly the poor and vulnerable to as per the mandate of the Local Levels. It will follow a life cycle approach focusing on early years and adolescence, which are two key moments in life to intervene.  Hence, it will help GoN to achieve its goals by (i) providing a clear operational framework; (ii) helping to fix management problems that constrain effective delivery of programs and interventions; (iii) maintaining focus on a core package of priority services critical to early years development and adolescent girls; (iv) providing incentives for multi-sectoral and multi-level coordination; (v) helping generate data across the results chain and levels of government, including outputs and intermediate outcomes at the three government levels. Therefore, Local Level Government will have the knowledge, tools and financing to ensure implementation of existent programs and policies through an effective delivery system centered around the people.  To enhance people centric services, digital tools including media and outreach activities to communities and households will be made to reach the unreached. In the end, the project will address significant levels of malnutrition (which also contributes to learning poverty), geographical disparities, social exclusion, and gender inequality, promoting an effective delivery system and harnessing digital technology to improve Local Level service delivery  and to create more resilient sector in presence of shocks. As such the project supports the World Bank agenda and the Nepal 3R agenda (Relief, Restructuring, Resilient Recovery) as it is aligned with CPF objectives and GoN agenda. For the Relief stage, the design addresses gaps in the immediate impacts of the pandemic, especially by supporting the demand side of utilizing health and education services through mobilization of communities.  For the Restructuring stage, the focus is on strengthening gaps in health systems and education services that affect early childhood development services, i.e. supporting minor upgrades of ECD centers, health facilities, systems for planning and budgeting.  For the Resilient recovery stage, the focus is on data systems for health, education and social protection that would ensure informed policy decisions are made and systems in place under federalism which can respond to shocks and continue to deliver essential services.",
+        "project_name": "Unlocking Human Capital for a Prosperous Nepal",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped",
+        "themev2_level1_exact": [
+          "FY17 - Finance",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development",
+          "FY17 - Social Development and Protection",
+          "FY17 - Social Development and Protection",
+          "FY17 - Social Development and Protection"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Financial Infrastructure and Access",
+          "FY17 - Fragility, Conflict and Violence",
+          "FY17 - ICT",
+          "FY17 - Jobs",
+          "FY17 - Jobs",
+          "FY17 - Social Inclusion",
+          "FY17 - Social Protection"
+        ],
+        "totalamt": "80000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 80000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": null,
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167531",
+      "value": "p167531"
+    }
+  ],
+  "implementing_agency": "National Planning Commission                                                                        ",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Unlocking Human Capital for a Prosperous Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167531",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Social Protection",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p167531",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 80000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.877224Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p167531",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

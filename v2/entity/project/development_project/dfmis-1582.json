@@ -1,0 +1,170 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.750082Z",
+  "dates": [
+    {
+      "date": "2018-04-19",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2018-01-19",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-01-18",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Improve drinking water supply and sanitation facilities at communities.Provide school latrine support to schools in the Ramechhap District.Provide training for disabled and disadvantaged people. Provide knowledge and skills to empower them to make more out of their lives.Provide vocational training (masonry and plumbing) in Dolakha District where there is an identified need.Improve health and prevention of neonatal asphyxia management skills to health workers on Helping Babies Breath. Provide baby mannequins to practice on and training manuals.Monitor the effects of the Helping Babies Breathe training to document if it is having the desired effect.Provide training and funding to improve family food security and nutrition in the Lamjung District.Provide school furniture support to 15 schools in the Lamjung District."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Latter-day Saint Charities",
+      "donor_project_id": "1582",
+      "raw_payload": {
+        "id": 12058,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Latter-day Saint Charities",
+        "organization_id": 587,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Latter-day Saint Charities",
+  "financing": [
+    {
+      "amount": 1172177.903,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Latter-day Saint Charities",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-04-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1582",
+      "value": "1582"
+    }
+  ],
+  "implementing_agency": "Latter-day Saint Charities",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Community Water Supply, Sanitation, Health and Rehabilitation Project, Phase II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1582",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1582",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1172177.903,
+  "total_disbursement": 1145353.744413,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.750062Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1582",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.016277Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1107",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.016280Z",
+    "dates": [
+      {
+        "date": "2016-03-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-03-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The goal of this project is to contribute to the sustainable recovery of the education sector in Nepal by providing safe and child-friendly school environments for students, teachers and School Management Committees in 31 schools of Duwachaur, Palchowk, Ichok, Talamarang, Mahankal and Helambu VDCs of Sindhupalchok district."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Caritas Switzerland",
+        "donor_project_id": "1107",
+        "raw_payload": {
+          "id": 10332,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Caritas Switzerland",
+          "organization_id": 664,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Caritas Switzerland",
+    "financing": [
+      {
+        "amount": 7624137.875,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Caritas Switzerland",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-03-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1107",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1107",
+        "value": "1107"
+      }
+    ],
+    "implementing_agency": "Caritas Switzerland",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Rehabilitation of Earthquake Affected Schools in Sindhupalchok, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1107",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1107",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 7624137.875,
+    "total_disbursement": 7595286.852,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.016277Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1107",
+      "id": "version:entity:project/development_project/dfmis-1107:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

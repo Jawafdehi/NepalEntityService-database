@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.465541Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-366",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.465544Z",
+    "dates": [
+      {
+        "date": "2014-12-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-05-26",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-05-25",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.0Preparation:\r\n\r\n\t1.1 Staff orientation\r\n\r\n\t1.2 Concept Sharing  Visit and women workshop\r\n\r\n\t1.3 Massage finalization for IEC materials.\r\n\r\n\t1.4 IEC materials designing and production\r\n\r\n\t1.5 Press Meet          \r\n\r\n\t1.6Visit offices of likeminded organizations\r\n\r\n\t2.0Awareness Activity for Target C \r\n\r\n\t2.1  Flex banner with message demonstration through tempo and hoarding board\r\n\r\n\t2.2  PSA airing through community and private FMs\r\n\r\n\t2.3Video show in public buses\r\n\r\n\t2.4 Celebration of National EQ safety  day; information desk\r\n\r\n\t3.0Awareness & training for Target B\r\n\r\n\t3.1 information stall and documentary shows at vegetable market, temple, public places\r\n\r\n\t3.2Mobile documentary show\r\n\r\n\t3.3Group Orientation\r\n\r\n\t4.0 Coordination and collaboration:(Outcome-3 related)\r\n\r\n\t4.1 Workshop and training for Target A\r\n\r\n\t4.3 Reflection meeting with Target A\r\n\r\n\t4.4Reflection meeting with likeminded organization.\r\n\r\n\t4.5 Sharing of Best practice"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Shapla Neer",
+        "donor_project_id": "366",
+        "raw_payload": {
+          "id": 7650,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Shapla Neer",
+          "organization_id": 566,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Shapla Neer",
+    "financing": [
+      {
+        "amount": 66545.01118,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Shapla Neer",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-12-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-366",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/366",
+        "value": "366"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Training & Campaign for Earthquake Non-structural Mitigation Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/366",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-366",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 66545.01118,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.465541Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-366",
+      "id": "version:entity:project/development_project/dfmis-366:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

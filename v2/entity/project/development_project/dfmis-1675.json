@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.049106Z",
+  "dates": [
+    {
+      "date": "2020-05-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-05-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2020-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1)      Risk communication and community engagement (RCCE)a.       Train community volunteers on essential health messagesb.       Production and dissemination of COVID-19 related Information, communication and education (ICE) material2)      Infection prevention and control (IPC)a.       Train health care workers (HCW) at supported heath facilities on COVID-19 case identification and case management according to local protocolsb.       Ensure supported facilities have screening and referral of infrastructure and procedure in place to handle suspect casesc.       Provide and train staff at healthcare facilities on appropriate PPE and use 3)      Community case managementa.       Train community health workers (CHW) and/or mobile teams on WHO guidance for home care of suspected COVID-19 patientsb.      Train community health workers (CHW) and/or mobile teams on community-based surveillance and contract tracing"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "1675",
+      "raw_payload": {
+        "id": 14023,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 61620.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-05-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1675",
+      "value": "1675"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "EHU_COVID-19",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1675",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1675",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 61620.0,
+  "total_disbursement": 61640.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.049103Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1675",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.278774Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2180",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.278777Z",
+    "dates": [
+      {
+        "date": "2018-01-06",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-12-05",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1 Conducting an assessment of the presence of newly elected government converts (Ward and RM/MC level) and their capacity building needs1.2 Training/Capacity Building incl. refresher training on rights/claims with focus on right to food & information (right-based approach), SDG 2&5 for civil society groups/networks and for the local government (Ward & RM/MC level) 1.3 Training/Capacity Building including refresher training on good governance principles, accountability tools and Core Humanitarian Standards (CHS) for CBOs/civil society groups/networks and for the local government (Ward & RM/MC level) 1.4 Participatory annual planning & budgeting at Ward and RM/MC level 1.5 Participatory Organisational Capacity Assessment Programme (POCAP) 1.6 Information campaigns  1.7 Strengthening of community monitoring groups (RtF awareness raising) 1.8 Forum for citizens' complaints 1.9 Multi-Stakeholder Joint Monitoring  1.10 Third Party MonitoringActivity 2.1 Capacity building for local resource people (LRPs) and development / establishment of integrated multi-purpose plant schools 2.2 Promotion of Agro-Vet development: mobile and stationary shops 2.3 Promotion of better practices and technologies (SIFFS)2.4 Development of collection points, entrepreneurial capacities, sales markets, processing and post-harvest management methods (Value addition) 2.5 Digital agricultural services and market accessActivity 3.1 Participatory Food and Nutrition Security Learning and Action (PLA) 3.2 Promoting appropriate breastfeeding practices: early initiation, exclusive and continuous breastfeeding3.3 Awareness raising of nutritional awareness through training and mobilization of FCHVs (Female Community Health Workers), local resource people and change agents.3.4 Provide training, follow-up and input on vegetable gardening"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_project_id": "2180",
+        "raw_payload": {
+          "id": 12180,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Deutsche Welthungerhilfe e.V",
+          "organization_id": 529,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Deutsche Welthungerhilfe e.V",
+    "financing": [
+      {
+        "amount": 1640012.42,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-12-06",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 282273.5448,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-12-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2180",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2180",
+        "value": "2180"
+      }
+    ],
+    "implementing_agency": "NGOs, Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Resilience of Disadvantaged Population groups in Mugu and Bajura districts, Western Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2180",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2180",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1922285.9648,
+    "total_disbursement": 1969969.362,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.278774Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2180",
+      "id": "version:entity:project/development_project/dfmis-2180:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

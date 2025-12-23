@@ -1,0 +1,131 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.294540Z",
+  "dates": [
+    {
+      "date": "2021-03-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-05-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "1735",
+      "raw_payload": {
+        "id": 13230,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Department of Foreign Affairs and Trade",
+  "financing": [
+    {
+      "amount": 3356591.994,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-03-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1735",
+      "value": "1735"
+    }
+  ],
+  "implementing_agency": "Asia Foundation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sub-National Governance Program for Nepal - Bridging Phase",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1735",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1735",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3356591.994,
+  "total_disbursement": 3356591.994,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.294536Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1735",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

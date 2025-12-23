@@ -1,0 +1,244 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.664069Z",
+  "dates": [
+    {
+      "date": "1999-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Road Maintenance Project includes policy and institutional development components and maintenance and rehabilitation programs. The policy components include introduction of new maintenance funding mechanisms to ensure timely, adequate funding for maintenance, and improvement of sectoral planning. The institutional development component includes: institutional strengthening of the regional and divisional capacities of the Department of Roads (DOR) and 4 District Development Committees (DDC) to implement maintenance and rehabilitation on contract.t; training of DOR and 4 DDCs; specialist inputs for supervision of works; and studies. The maintenance and rehabilitation programs to be financed by IDA include: (a) support for a backlog periodic maintenance program of roads and bridges of the strategic road network in the Central, Western, Mid-Western and Far-Western regions including about 500 km of resealing, 150 km of gravelling and sealing, and minor bridge repairs; (b) rehabilitation and overlays of 300 km of selected highways and 130 km of feeder roads of the strategic road network; and (c) a pilot labor-based district road rehabilitation and maintenance component to rehabilitate and maintain 140 km of roads in 4 selected districts and promotion of appropriate rural transport technology to encourage community participation in road maintenance and related activities. The Government will fund the development of a comprehensive routine maintenance program by contract."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010475",
+      "raw_payload": {
+        "boardapprovaldate": "1994-03-15T00:00:00Z",
+        "closingdate": "1999-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "81100000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "16200000",
+        "id": "P010475",
+        "major_sector_code": "BX,EX,TX",
+        "major_sector_name": "FY17 - Education,FY17 - Public Administration,Transportation",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "FY17 - Central Government (Central Agencies)",
+                  "sector_percent": "3.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "FY17 - Education",
+              "sectors": [
+                {
+                  "sector_code": "EW",
+                  "sector_name": "FY17 - Workforce Development and Vocational Education",
+                  "sector_percent": "2.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "TX",
+              "major_sector_name": "Transportation",
+              "sectors": [
+                {
+                  "sector_code": "TA",
+                  "sector_name": "Roads and highways",
+                  "sector_percent": "95.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Workforce Development and Vocational Education,Roads and highways",
+        "proj_id": "P010475",
+        "project_abstract": "The Road Maintenance Project includes policy and institutional development components and maintenance and rehabilitation programs. The policy components include introduction of new maintenance funding mechanisms to ensure timely, adequate funding for maintenance, and improvement of sectoral planning. The institutional development component includes: institutional strengthening of the regional and divisional capacities of the Department of Roads (DOR) and 4 District Development Committees (DDC) to implement maintenance and rehabilitation on contract.t; training of DOR and 4 DDCs; specialist inputs for supervision of works; and studies. The maintenance and rehabilitation programs to be financed by IDA include: (a) support for a backlog periodic maintenance program of roads and bridges of the strategic road network in the Central, Western, Mid-Western and Far-Western regions including about 500 km of resealing, 150 km of gravelling and sealing, and minor bridge repairs; (b) rehabilitation and overlays of 300 km of selected highways and 130 km of feeder roads of the strategic road network; and (c) a pilot labor-based district road rehabilitation and maintenance component to rehabilitate and maintain 140 km of roads in 4 selected districts and promotion of appropriate rural transport technology to encourage community participation in road maintenance and related activities. The Government will fund the development of a comprehensive routine maintenance program by contract.",
+        "project_name": "Road Maintenance and Rehabilitation",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Finance",
+          "FY17 - Private Sector Development",
+          "FY17 - Social Development and Protection",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Financial Infrastructure and Access",
+          "FY17 - Jobs",
+          "FY17 - Rural Development",
+          "FY17 - Social Inclusion",
+          "FY17 - Urban Development"
+        ],
+        "totalamt": "50500000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 16200000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "1994-03-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010475",
+      "value": "p010475"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Road Maintenance and Rehabilitation",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010475",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Transportation",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010475",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 50500000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.664062Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010475",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

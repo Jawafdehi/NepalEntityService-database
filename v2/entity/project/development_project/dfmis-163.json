@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.613518Z",
+  "dates": [
+    {
+      "date": "2007-03-20",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2007-03-20",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Fulfilling international SPS/TBT requirements is a major precondition for developing Nepal’s economy and the export potential that exists for the agricultural sector as well as laying a solid foundation for the development of the manufacturing sector\r\n    Significant awareness rising on WTO issues on WTO issue and capacity development to address the challenges presented among government and private sector and the public is required along with a legislative review."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "163",
+      "raw_payload": {
+        "id": 1158,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Industry, Commerce and Supplies",
+  "financing": [
+    {
+      "amount": 2911293.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-03-20",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/163",
+      "value": "163"
+    }
+  ],
+  "implementing_agency": "Ministry of Industry, Commerce and Supplies",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "EC-Nepal, WTO Assistance Programme",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/163",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-163",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2911293.0,
+  "total_disbursement": 1157681.1387,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.613515Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-163",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

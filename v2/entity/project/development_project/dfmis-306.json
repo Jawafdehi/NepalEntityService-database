@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.694095Z",
+  "dates": [
+    {
+      "date": "2008-02-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "·         Technical assistance and funding support for quality vitamin ’A’ supplementation for 6-59 months girls and boys provided and coordinated with partners biannually in all 75 districts.\r\n\r\n ·         Technical assistance and funding support for micronutrients supplementation to adolescents, pregnant and lactating women provided and coordinated with partners in Kapilvastu, Nawalparasi, Udaypur, Dang, Tanahu, Dadeldhura and Kavre districts.\r\n·         Technical assistance and funding support for MNP distribution along with IYCF promotion to 6-23 months children provided and coordinated with partners in Rupandehi, Parsa, Makanpur, Rasuwa, Gorkha and Palpa districts.\r\n.    Technical assistance and funding support for monitoring and social marketing  of adequately  iodized salt use  at household level provided and coordinated with partners in Dhanusha, Sarlahi, Mahottari, Siraha, Bara, Rautahat, Sunsari, Jhapa and Saptari districts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "306",
+      "raw_payload": {
+        "id": 2341,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population, United Nations Children's Fund, Department of Health Services",
+  "financing": [
+    {
+      "amount": 1628324.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-03-28",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 442274.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-03-28",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/306",
+      "value": "306"
+    }
+  ],
+  "implementing_agency": "Department of Health Services, Maxpro Pvt. Ltd., Nepali Technical Assistance Group",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PCR 1, IR 3: Access & utilization of micronutrients (Vitamin A, iron tablets, MNP Powder, Iodized salt)   with focus on children, adolescent girls & mothers in disadvantaged groups and urban areas increased.",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/306",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-306",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2070598.0,
+  "total_disbursement": 2320345.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.694092Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-306",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

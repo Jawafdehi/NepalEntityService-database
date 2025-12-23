@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.982273Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5271",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.982276Z",
+    "dates": [
+      {
+        "date": "2008-12-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-12-19",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Materials and resources needed by the Committee and also the services of skilled facilitators, trainers and conciliators."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "5271",
+        "raw_payload": {
+          "id": 40333,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 4500000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-12-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5271",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5271",
+        "value": "5271"
+      }
+    ],
+    "implementing_agency": "Ministry of Home Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Local Peace Committee",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5271",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5271",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4500000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.982273Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5271",
+      "id": "version:entity:project/development_project/dfmis-5271:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

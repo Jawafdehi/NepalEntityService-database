@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.236526Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1292",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.236530Z",
+    "dates": [
+      {
+        "date": "2016-01-22",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-01-22",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-01-21",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ACTIVITIES ONE:1.1  Support to end child marriage by promoting legal accountability1.2 Together with the National Women's Commission (NWC) and Reproductive Health Rights Working Group (RHRWG) continue to advocate for the practical realization of women and girls reproductive rights1.3 Together with NWC conduct provincial level public hearings with a focus on understanding gaps and challenges in women's and girls’ access to reproductive health services and their enjoyment of guarantees of reproductive health rights.   ACTIVITIES TWO:2.1 Develop strategies for addressing concerns about sex selective abortion (SSA) with focus on the root causes of the problem2.2 Address the reproductive rights violations from new and emerging issues including surrogacy2.3. Develop strategies that promote women's dignity and safety during childbirth.ACTIVITIES THREE:3.1 Awareness raising on reproductive rights as human rights with an aim to help women identify barriers and strengthen   their access to reproductive health services in select VDCs of Sarlahi and Dhanusha.3.2 Organise workshops with law schools to promote greater understanding of international and comparative reproductive rights law.3.3 Internship/Fellowship program in the Nepal office."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Center for Reproductive Rights",
+        "donor_project_id": "1292",
+        "raw_payload": {
+          "id": 10360,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Center for Reproductive Rights",
+          "organization_id": 528,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Center for Reproductive Rights",
+    "financing": [
+      {
+        "amount": 907173.8347,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Center for Reproductive Rights",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-05-22",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 907173.8347,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Center for Reproductive Rights",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-05-22",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1292",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1292",
+        "value": "1292"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting Reproductive Health Rights and Justice in Nepal II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1292",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1292",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1814347.6694,
+    "total_disbursement": 815618.36735,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.236526Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1292",
+      "id": "version:entity:project/development_project/dfmis-1292:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

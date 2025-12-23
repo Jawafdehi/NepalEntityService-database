@@ -1,0 +1,211 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.368075Z",
+  "dates": [
+    {
+      "date": "2028-07-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Nepal Enhancing Access to Benefits while Lowering Emissions (EnABLE) aims to increase the inclusion of marginalized groups in sustainability forest management processes and access to benefits provided by the Emission Reductions Program (ERP) and associated Benefit Sharing Plan (BSP). EnABLE interventions are focused in four ER districts across three provinces: Kanchanpur and Kailali in the Sudurpaschim province, Chitwan in the Bagmati Province, and Nawalpur in the Gandaki province and target the most marginalized groups, including women, endangered Indigenous groups, Dalits, ex-bonded laborer, and poor or marginalized communities facing particularly challenging environmental risks. Component 1 provides technical assistance to local forest management groups and agencies to enhance capacities to engage in the ER-P, access its associated benefits, and understand the broader carbon finance landscape. Component 2 will finance sub-grants direct to target communities for community-led activities, and technical assistance and facilitation to support inclusive and participatory prioritization, planning, and implementation of these community activities."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P505651",
+      "raw_payload": {
+        "boardapprovaldate": "2025-07-31T00:00:00Z",
+        "borrower": "Asia Network for Sustainable Agriculture and Bio-Resources ",
+        "closingdate": "2028-07-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "esrc_ovrl_risk_rate": "Moderate",
+        "grantamt": "3000000",
+        "id": "P505651",
+        "major_sector_code": "NNX",
+        "major_sector_name": "Social Sustainability and Inclusion",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "NNX",
+              "major_sector_name": "Social Sustainability and Inclusion",
+              "sectors": [
+                {
+                  "sector_code": "NNI",
+                  "sector_name": "Social Inclusion",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Social Inclusion",
+        "proj_id": "P505651",
+        "project_abstract": "The Nepal Enhancing Access to Benefits while Lowering Emissions (EnABLE) aims to increase the inclusion of marginalized groups in sustainability forest management processes and access to benefits provided by the Emission Reductions Program (ERP) and associated Benefit Sharing Plan (BSP). EnABLE interventions are focused in four ER districts across three provinces: Kanchanpur and Kailali in the Sudurpaschim province, Chitwan in the Bagmati Province, and Nawalpur in the Gandaki province and target the most marginalized groups, including women, endangered Indigenous groups, Dalits, ex-bonded laborer, and poor or marginalized communities facing particularly challenging environmental risks. Component 1 provides technical assistance to local forest management groups and agencies to enhance capacities to engage in the ER-P, access its associated benefits, and understand the broader carbon finance landscape. Component 2 will finance sub-grants direct to target communities for community-led activities, and technical assistance and facilitation to support inclusive and participatory prioritization, planning, and implementation of these community activities.",
+        "project_name": "Nepal Enhancing Access to Benefits while Lowering Emissions",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped",
+        "themev2_level1_exact": [
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "Access to Climate Finance",
+          "Climate Change",
+          "Environmental Policies and Institutions",
+          "Environmental Policies and Institutions",
+          "Environmental Policies and Institutions",
+          "Rural Development"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 3000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2025-07-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505651",
+      "value": "p505651"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Enhancing Access to Benefits while Lowering Emissions",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505651",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Social Sustainability and Inclusion",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p505651",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.368072Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p505651",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

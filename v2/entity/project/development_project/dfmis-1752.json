@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.393231Z",
+  "dates": [
+    {
+      "date": "2021-02-02",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-08-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1. Consultation with local governments and agreeing on targeting approach1.1.2. Formation of project advisory committee at a local level representing local governments and beneficiaries:1.1.3. Identification of target HHs for cash transfer and livelihood inputs1.1.4. Identification of financial institutions and accessible distribution modality1.1.5. Cash distribution2.1.1. Identification of early recovery needs2.1.2. Drafting of context specific voucher guideline2.1.3. Selection of vendors and printing vouchers2.1.4. Livelihood input distribution2.2.1. Training of lead farmer group leaders2.2.2. Coaching/one-to-one follow-up with lead farmers2.2.3. Follow-up visits and small group sessions by lead farmers2.2.4. Training on non-agricultural livelihoods for selected people"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Adventist Development and Relief Agency",
+      "donor_project_id": "1752",
+      "raw_payload": {
+        "id": 12788,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Adventist Development and Relief Agency",
+        "organization_id": 340,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Adventist Development and Relief Agency",
+  "financing": [
+    {
+      "amount": 423562.2413,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Adventist Development and Relief Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-02-02",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1752",
+      "value": "1752"
+    }
+  ],
+  "implementing_agency": "Adventist Development and Relief Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Livelihood and Economic Recovery of Corona Crisis Affected Families (LERC)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1752",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1752",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 423562.2413,
+  "total_disbursement": 211290.7791,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.393227Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1752",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

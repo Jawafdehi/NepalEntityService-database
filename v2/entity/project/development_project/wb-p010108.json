@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.854804Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Second Water Supply and Sewerage Project provides for improving and extending water supply facilities in Kathmandu Valley, Pokhara, Biratnagar, and Birganj, and also sewerage facilities in Kathmandu and Lalitpur. It includes: (A) rehabilitation of distribution equipment, improvement of existing wells and pipelines, construction of new reservoirs and tubewell schemes, installation of metered service connections, and provision of equipment and tools for maintenance and leak detection; (B) extension of the collector sewer network in Kathmandu and Lalitpur; (C) consulting services including updating of water supply and sewerage master plans for the project towns, detailed design, preparation of tender documents, evaluation of bids, supervision of project implementation, a tariff study and feasibility studies in six provincial towns for future projects. (D) Providing the staff with on-the-job training under the supervision of the UK team."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010108",
+      "raw_payload": {
+        "boardapprovaldate": "1977-04-26T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010108",
+        "major_sector_code": "WX",
+        "major_sector_name": "Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WU",
+                  "sector_name": "(Historic)Urban water supply",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Urban water supply",
+        "proj_id": "P010108",
+        "project_abstract": "The Second Water Supply and Sewerage Project provides for improving and extending water supply facilities in Kathmandu Valley, Pokhara, Biratnagar, and Birganj, and also sewerage facilities in Kathmandu and Lalitpur. It includes: (A) rehabilitation of distribution equipment, improvement of existing wells and pipelines, construction of new reservoirs and tubewell schemes, installation of metered service connections, and provision of equipment and tools for maintenance and leak detection; (B) extension of the collector sewer network in Kathmandu and Lalitpur; (C) consulting services including updating of water supply and sewerage master plans for the project towns, detailed design, preparation of tender documents, evaluation of bids, supervision of project implementation, a tariff study and feasibility studies in six provincial towns for future projects. (D) Providing the staff with on-the-job training under the supervision of the UK team.",
+        "project_name": "WATER SUPPLY II",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010108",
+      "value": "p010108"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "WATER SUPPLY II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010108",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010108",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.854801Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010108",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

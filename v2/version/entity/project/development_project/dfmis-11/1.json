@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:06.875315Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-11",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.875318Z",
+    "dates": [
+      {
+        "date": "2009-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity # 2.1 Support HSCB to roll-out M & E system in selected district and monitoring the coverage under comprehensive package of services by developing capacities of Government and CSOs.\r\n\r\n\tActivity # 2.2 Technical assistance to review/revise 2006 National M&E Guideline and build country's capacities in collating and analysing data and packaging it into strategic information-at the district& national levels.\r\n\r\n\tActivity # 2.3 Support in develolpment process and writing of UNGASS Report including NASA (including printing, launching, dessimination and documentation of its utilization) \r\n\r\n\tActivity # 2.4 Support in the 2010 projection and estimation of HIV infection and size estimation of MARP and vulnerable groups like CABA\r\n\r\n\tActivity # 2.5 Support in the development and implementation of a National Research Agenda (including studies on stigma index, changing patterns of sex work / drug use, impact and vulnerabilities to HIV infection of migrant workers from the Far and Mid-West) conducted and findings disseminated and used.\r\n\r\n\tActivity # 2.6. Support to strengthen human resources of country' s M & E system and coordination to enhance harmonization of evidence-based response."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_project_id": "11",
+        "raw_payload": {
+          "id": 2825,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Joint United Nations Programme on HIV/AIDS",
+          "organization_id": 172,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 129551.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-11",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/11",
+        "value": "11"
+      }
+    ],
+    "implementing_agency": "Joint United Nations Programme on HIV/AIDS",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strategic information strengthened and available to support knowing your epidemic, guiding an evidence informed response and improving accountability.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/11",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-11",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 129551.0,
+    "total_disbursement": 79662.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:06.875315Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-11",
+      "id": "version:entity:project/development_project/dfmis-11:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

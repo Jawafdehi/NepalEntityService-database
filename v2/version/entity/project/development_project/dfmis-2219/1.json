@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.375041Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2219",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.375044Z",
+    "dates": [
+      {
+        "date": "2019-08-21",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Economic Empowerment:•         Hardware activities: supports for skill development training, agriculture inputs supports for women and youth friendly enterprise, market infrastructures, agriculture demonstrations/model plots, micro irrigation supports, integrated pond development and management, support for setting up handicraft based enterprises, technical training to farmers/target groups on sustainable agriculture technologies, agriculture model development and replication, market linkage, government programs and institutional development of target groups and local partners•         Software activities: awareness and social mobilization for target groups' social and economic empowerment, local resource mobilization and access to government programs, linkages of best practices to national level and advocacy for effective policy implementation. Social Empowerment and Education:•         Hardware activities: Support 6 schools with quality education materials, basic repair and maintenance for girls’ and boys’ friendly school environment, income generation support to very needy poorest families with women and youth friendly enterprises/income generation activities, capacity building of schools actors (SMC, PTAs, Teachers, Child clubs and girls education groups) for inclusive school governance, skill development for youth, young women, facilitate for development and effective implementation of school improvement plans, Local Governments’ Education Plans.•         Software activities: Social mobilization and awareness on access to government programs, services, and linkages of best practices to national level, campaign on child marriage etc, mobilizing youth clubs, GESI work, access to government services related to social and economic rights, youth leadership and mobilization."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "IM-Swedish Development Partner",
+        "donor_project_id": "2219",
+        "raw_payload": {
+          "id": 12603,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "IM-Swedish Development Partner",
+          "organization_id": 607,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "IM-Swedish Development Partner",
+    "financing": [
+      {
+        "amount": 3411031.478,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "IM-Swedish Development Partner",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-08-21",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2219",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2219",
+        "value": "2219"
+      }
+    ],
+    "implementing_agency": "IM-Swedish Development Partner",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Economic and Social Empowerment of Marginalized Communities in Kapilvastu, Dang, Nawalpur and Gorkha districts (second phase)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2219",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2219",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3411031.478,
+    "total_disbursement": 2896204.0585,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.375041Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2219",
+      "id": "version:entity:project/development_project/dfmis-2219:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

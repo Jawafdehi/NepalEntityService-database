@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.381039Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6631",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.381046Z",
+    "dates": [
+      {
+        "date": "2025-06-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2025-07-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2030-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Output 1: Clean Energy Technology and DRR measures Feasibility Studies and design of 145 systems - contributes to outcomes 1, 2, 3, 4, 5 and 6Output 2: Procurement and installation of 145 clean energy systems including DRR measures in communities, schools and health units - contributes to outcome 1, 2, 3, 4, 5 and 6.Output 3:  Capacity building of Local Institutions (community groups and individuals, schools, health units and Local Government) for effective governance and management of installed clean energy technologies and DRR measures - contributes to outcome 1, 2, 3, 4, 5 and 6.Output 4: 77 Newly installed technologies are utilised for productive end uses - contributes to outcome 1 and 6.Output 5: Market enhanced for agriculture, aquaculture and dairy supply chain - contributes to outcome 1 and 6.Output 6: Behaviour change and capacity building programme implemented in targeted communities to sustain project interventions - contributes to outcome 2 to 6.Output 7: Monitoring, evaluation, accountability and learning is carried out, learnings disseminated at multi-stakeholder forums and advocacy for change - contributes to all outcomes."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Renewable World UK",
+        "donor_project_id": "6631",
+        "raw_payload": {
+          "id": 44268,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Renewable World UK",
+          "organization_id": 604,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Water Supply, Energy and Irrigation, Ministry of Land Management, Agriculture and Cooperatives, Ministry of Forest, Tourism and Water Supply, Minisry of Water Resource and Energy",
+    "financing": [
+      {
+        "amount": 4722583.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Renewable World UK",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2025-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6631",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6631",
+        "value": "6631"
+      }
+    ],
+    "implementing_agency": "Renewable World UK",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Renewable Energy for Impact (RE4I)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6631",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6631",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4722583.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.381039Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6631",
+      "id": "version:entity:project/development_project/dfmis-6631:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.287372Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-325",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.287375Z",
+    "dates": [
+      {
+        "date": "2008-02-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.       Technical and financial support provided to department of health services to revise and update immunization , IMCI, newborn , safemotherhood, nutrition ,emergency nutrition  and FCHV  polices and strategies with focus on reaching the most disadvantaged\r\n2.       High level policy and advocacy meetings related to MNCH, nutrition and SWAp  coordinated and supported.\r\n3.       Provide technical and financial support to develop MNH referral system guidelines to ensure equitable access for the socially excluded and marginalized groups  \r\n4.       Technical assistance, financial and coordination support provided to NPC, MoHP and nutrition stakeholders for multi sectoral nutrition approach.\r\nInvestment case focussing on equity develped using MBB tool for annual work planning and budgetting for ministry of health."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Children's Fund",
+        "donor_project_id": "325",
+        "raw_payload": {
+          "id": 2727,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Children's Fund",
+          "organization_id": 11,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Children's Fund",
+    "financing": [
+      {
+        "amount": 353368.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-03-28",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 282000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-03-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-325",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/325",
+        "value": "325"
+      }
+    ],
+    "implementing_agency": "Ministry of Health and Population",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PCR 1, IR 1: Maternal and Child Health and Nutrition –Equity focused Policy and Strategy Support",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/325",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-325",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 635368.0,
+    "total_disbursement": 314206.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.287372Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-325",
+      "id": "version:entity:project/development_project/dfmis-325:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

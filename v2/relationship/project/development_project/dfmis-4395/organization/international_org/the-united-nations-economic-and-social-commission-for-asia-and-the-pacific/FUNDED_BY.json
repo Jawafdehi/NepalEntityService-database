@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:21.516474Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-4395",
+  "start_date": null,
+  "target_entity_id": "entity:organization/international_org/the-united-nations-economic-and-social-commission-for-asia-and-the-pacific",
+  "type": "FUNDED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project funded by The United Nations Economic and Social Commission for Asia and the Pacific",
+    "created_at": "2025-12-23T19:11:21.516484Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-4395:organization/international_org/the-united-nations-economic-and-social-commission-for-asia-and-the-pacific:FUNDED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

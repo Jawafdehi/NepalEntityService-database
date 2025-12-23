@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.699242Z",
+  "dates": [
+    {
+      "date": "2019-06-30",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1Interaction, meetings, workshop, and dialogue between CSOs, communities and local government on food/nutrition security schemes, financial services , insurance schemes and technologies including market services1.1.2Support to organize special day’s celebrations, and mass meeting in collaboration with local government related to food security, Rights to Food, food sovereignty  1.1.3Agriculture inputs support to poor and vulnerable households ( seed, fertilizer, bio-pesticides)  1.1.4Construction of multiple Use Water Systems (MUS) and water source protection 1.1.5Orientation and training to leader farmers, cooperative members, communities on government policies, programme and provisions related to agriculture, micro-enterprise development and youth employment    1.1.6Support to disseminate best practices and technologies related to land management, agriculture development, climate change adaptation and mitigation, food security and natural resources issues among government, policy makers, parliamentary and other stakeholder  1.1.7Develop LDCRP in working Wards/Municipalities in collaboration with local government  1.1.8Study and research on indigenous crops, climate friendly technologies, climate change adaptation, high value crops and market jointly with university, LI-BIRD  and government research institutions  1.1.9Technical training to local disaster management committees and networks on disaster preparedness and response (EWS, FA, CBSAR, assessment and safety planning) 1.2.1Technical training to farming communities and leader farmers in diversifying livelihood options, climate change, value chain products in collaboration with thematic unit of local government 1.2.2Interaction between market management committee/cooperatives and market actors (wholesaler, private sectors) to promote agro-based micro-enterprises and market system 1.2.3Material support to establish farm/off farm based micro-enterprise (poly house, drip irrigation, mulching carpet, nets, bee keeping, mushroom farming etc)1.2.4Gender friendly basic tools and equipment support (corn shellar, water can, mini tiller, thresher,  harvester etc) 1.2.5Local human resource (youth and migrant returnees) developed on VAHW, EDF, CFT, JTA, Insurance Agent etc through vocational training  1.2.6Demonstration established in zero tillage practices, indigenous crops (tharu alu, beans, garlic) and river bed farming 1.2.7Material and equipment support to cooperatives (furniture, computer, stationary, mobile) in collaboration with local government   1.2.8Material and equipment support to agri-products collection ceners (mobile, weighing machine, carat, information board, furniture, stationaries and building construction) in collaboration with local government   1.2.9Material and equipment support to establish seed bank, ware house, grain bank (bamboo, racks, building construction, utensil, furniture, stationary) in collaboration with local government  2.1.1Formed and Strengthen Group and network  2.1.2Community awareness on existing policies, legislations, programme and other social and economic issues/provisions 2.1.3Capacity building training and workshop to communities on organizational management, social mobilization, strategy development, programme planning,   gender and Social Inclusion (GESI), social audit, etc 2.1.4Materials and equipment support to establish  community level information center (computer, furniture etc)2.1.5Information dissemination initiative on GBV, discrimination, social security schemes, etc 2.1.6Stakeholders Dialogue/Chalfal Chautari 2.2.1Collaborative initiatives with local government in line with government programme and plans 2.2.2Conduct action research on good governance & social security scheme Jointly with University 2.2.3Interaction, meeting, workshops and dialogue  between communities, CSOs, local government and other stakeholders on local development issues and potential solation measures2.2.4Support for community mobilization including  HRDs and their institutional development 2.2.5Jointly work in policy analysis and programme development with CSOs and government related to human rights  issues 2.2.6Training on case documentation and process to justice 2.2.7Technical support to CSOs and local user’s groups/committees to develop their programme and strategies 3.1.1Material and equipment support to establish emergency response systems and mechanism at organizational level 3.1.2Develop Nepali version of SFDRR document and disseminate at national and local levels in collaboration with government  3.1.3Support partner and network to participate at regional and global platforms  3.1.4Orientation on national and international policies, framework, standards and guidelines on Humanitarian Response  to groups, networks and other stakeholders3.1.5Disseminate information related to new DRR&M Act, Policy and Strategic Action Plan at Province and local level in collaboration with government 3.1.6Collaborative initiatives with lo"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Dan Church Aid",
+      "donor_project_id": "4849",
+      "raw_payload": {
+        "id": 40577,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Dan Church Aid",
+        "organization_id": 512,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 8300000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Dan Church Aid",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4849",
+      "value": "4849"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promoting Social Inclusion and Governance, Building Resilient Livelihoods and protecting lives of Marginalised and Vulnerable communities",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4849",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4849",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8300000.0,
+  "total_disbursement": 8338143.8,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.699239Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4849",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

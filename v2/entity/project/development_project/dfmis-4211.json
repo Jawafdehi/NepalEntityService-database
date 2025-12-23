@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.146729Z",
+  "dates": [
+    {
+      "date": "2022-11-08",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2027-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Gender-based violence prevention.Modernisation and improvement of police."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "4211",
+      "raw_payload": {
+        "id": 42133,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Home Affairs",
+  "financing": [
+    {
+      "amount": 42268223.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-11-08",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4211",
+      "value": "4211"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Implementation of Integrated Programme for strenthening Security and Justice, Phase 2 (IPSSJ2)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4211",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Civil Defense",
+      "donor_subsector": null,
+      "normalized_sector": "Civil Defense",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4211",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 42268223.0,
+  "total_disbursement": 1201345.04,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.146727Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4211",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

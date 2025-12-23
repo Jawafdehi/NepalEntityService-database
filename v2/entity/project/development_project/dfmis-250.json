@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.299716Z",
+  "dates": [
+    {
+      "date": "2011-02-17",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-02-17",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-05-17",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Provide for the educational, developmental, recreational and basic needs of at risk children in refuge care\r\n\tReunification of children with parents where possible and if it is safe to do so\r\n\tFor those children or young people who cannot be reunited with families, training and support into higher education or employment"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Child Rescue Nepal",
+      "donor_project_id": "250",
+      "raw_payload": {
+        "id": 2628,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "organization/logos/CRN_Logo.png",
+        "organization__name": "Child Rescue Nepal",
+        "organization_id": 584,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Child Rescue Nepal",
+  "financing": [
+    {
+      "amount": 1346660.332,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Child Rescue Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-02-17",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1346660.332,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Child Rescue Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-02-17",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/250",
+      "value": "250"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "At Risk Children Refuge Programme",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/250",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-250",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2693320.664,
+  "total_disbursement": 1233685.155,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.299714Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-250",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

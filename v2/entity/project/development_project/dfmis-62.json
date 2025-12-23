@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.103270Z",
+  "dates": [
+    {
+      "date": "2010-02-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-10-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The main project activities will be baseline survey and needs assessment; capacity building training to WUSCs, WSSDO and ERMSO; support to preparation of Small and Medium-sized Water Supply Support Model for technical support of WUSC and Small and Medium and Medium-sized Water Supply Support Management Model for WUSC based on the trainings conducted."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Japan International Cooperation Agency",
+      "donor_project_id": "62",
+      "raw_payload": {
+        "id": 631,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Japan International Cooperation Agency",
+        "organization_id": 3,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Japan International Cooperation Agency",
+  "financing": [
+    {
+      "amount": 337616.6437,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-04-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2752849.199,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-02-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/62",
+      "value": "62"
+    }
+  ],
+  "implementing_agency": "Japan International Cooperation Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Project for Capacity Development on Water Supply in Semi-Urban Area",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/62",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-62",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3090465.8427,
+  "total_disbursement": 3123792.8373,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.103267Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-62",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

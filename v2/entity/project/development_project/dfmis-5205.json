@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.921530Z",
+  "dates": [
+    {
+      "date": "2010-07-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-07-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-07-26",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Maternal, newborn and child health service provision\r\n\tHealth, nutrition, hygiene and sanitation awareness raising through social mobilisation\r\n\tEarly childhood development and education services\r\n\tParenting capacity building for prevention of neglect, abuse, and exploitation\r\n\tProtection and Development Services for children out of parental care\r\n\tReintegration support for children outside of parental care\r\n\tTraining and local capacity-building for children’s protection from abuse and exploitation"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Kidasha",
+      "donor_project_id": "5205",
+      "raw_payload": {
+        "id": 35457,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Kidasha",
+        "organization_id": 598,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 5334151.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Kidasha",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-07-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5205",
+      "value": "5205"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Health, Child Protection & Education",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5205",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5205",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5334151.0,
+  "total_disbursement": 3429951.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.921528Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5205",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

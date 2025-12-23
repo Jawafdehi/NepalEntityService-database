@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.858872Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6539",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.858875Z",
+    "dates": [
+      {
+        "date": "2023-07-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-07-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2029-11-27",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity-1.1.1.1 Support to construct resilient and inclusive school building and infrastructure in coordination/collaboration with government and schools.Activity-1.1.1.2. Support to renovate or establish WASH and MHH facilities (toilet, handwashing station, pure drinking water, MHH services, green gardening, waste management etc.) in school.Activity-1.1.1.3 Support to development of Model Classroom (p-foam, carpeting, furniture, print-rich classroom, diversified learning materials, cupboard, whiteboard, seating arrangement) together with teachers' competence development in its management (grade ECD to grade 8)Activity-1.2.1.1 Support to strengthen teachers' capacity on gender transformative education/pedagogy, inclusive classroom management, subject-specific contents, CB-EGRA, early screening of disability etc.Activity-1.2.2.2 Support to develop digital smart classroom settings through ICT lab/digital infrastructure/equipment and contents (smart TV/projector/laptop/memory sticks/solar system/internet connectivity/ICT lab, science/math lab and other innovative equipment) in schoolActivity-1.2.2.3 Support to strengthen teachers' capacity to integrate ICT in pedagogyActivity-1.2.3.1: Support schools to equip and develop STEAM equipment/materialsActivity-1.2.3.2: Support to enhance competence of teachers, education officials and children to promote STEAM education (training, exposure visit, club/network formation, dialogue/meetings) including support on integrated curriculumActivity-1.3.1.1: Support to identify OOSC and enroll them in school with relevant educational assistance ship support (OOSC survey, catch-up/accelerated class, educational material support etc)Activity-1.3.2.1: Parental awareness and community engagement program by organizing parental awareness sessions, reading-corner-at-home support, peer-to-peer parental education program, reading fairs, day celebration etc.)Activity-1.4.1.1: Support for inclusive and integrated education policy/plan/strategies/guidelines/local curriculum/STEAM education, girl’s retention components (Federal/provincial/local) including EiE system strengtheningActivity-1.4.1.2: Support to develop/revise need-based SIP incorporating school safety, Climate change, WASH, DRM, EiE, inclusion, girls' retention etc. components and establish functional complaint hearing mechanism, code of conduct etc in schoolActivity-1.5.1.1: Inception phase activities (kick off/start up meeting)Activity 1.5.1.2 Provide soft, business and vocational skill training on different market feasible vocationActivity 1.5.1.3 Training on Phohor lai mohar to participants (Know your waste education session/orientation/training to the project participants (Linkage youths with scrap holders)Activity 1.5.1.4 Provide start up support to participant for self-employmentActivity 1.5.1.5 Provide mentoring career counselling to youthsActivity 1.5.1.6 Provide orientation on environment conservation to the project participants and stakeholdersActivity 1.5.1.7 Access and linkage of youths with cooperative/financial institutions.Activity 1.5.1.8 Provide gender friendly training delivery and safeguarding to training provider, male engagement, child care facilitiesActivity 1.5.1.9 Coordination and collaboration with local government for vocational skill and entrepreneurship, Green economy related system, policies and provision and program.Activity-2.1.1: Training to health workers, FCHVs & frontline facilitators on gender responsive Parenting Education including HHs level WASH & Nutrition promotion (Nurturing Care Framework) including male engagement in child careActivity-2.1.1.2: Deliver Parenting Education Session by FCHV's & facilitators including health, nutrition & WASH related messages targeting to pregnant women & parents/caregivers of <5-year children including Separate session for male.Activity-2.1.3:  Nutrition promotion through food demonstration and SBCC sessions in HMGs meeting and regular parenting sessionsActivity-2.1.4: Orientation to individual on 6 key hygiene behavior's and safe water importance to quality of care and good healthActivity-2.1.5: Strengthening of Health Mother Group's meeting to promote nurturing care from prenatal period.Activity-2.2.1: Health Facility review meeting of FCHVs on reflection of key community behaviorActivity-2.2.2: Conduct SBCC Session with WASH Champions to promote clean home declaration (WWAHCC, Tole WASHCC, MWASHCC and HMGs)Activity-2.3.1: Support to establish child play center's in community (outdoor and indoor)Activity-2.3.2: Support to strengthening of local level ECD committee and prepare ECD strategy and Plan as guided by national ECD strategyActivity-2.3.3: Support local government for promotion of Nutrition Friendly Local Government.Activity-2.3.4: Regular Project Monitoring, review, reflection and learning sharing cost for partner.Activity-2.4.1: Support to conduct child protection awareness session to promote children’s capacity on self-protective behavior "
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Plan Nepal",
+        "donor_project_id": "6539",
+        "raw_payload": {
+          "id": 43186,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Plan Nepal",
+          "organization_id": 277,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration, Ministry of Women, Children and Senior Citizens, Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 43021533.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Plan Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-07-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6539",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6539",
+        "value": "6539"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Integrated Development Project for Sustainability and Gender Equality (IDP-SAGE)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6539",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6539",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 43021533.0,
+    "total_disbursement": 9768804.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.858872Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6539",
+      "id": "version:entity:project/development_project/dfmis-6539:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

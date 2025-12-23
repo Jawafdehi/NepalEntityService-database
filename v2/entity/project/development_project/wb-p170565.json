@@ -1,0 +1,204 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.410384Z",
+  "dates": [
+    {
+      "date": "2023-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P170565",
+      "raw_payload": {
+        "boardapprovaldate": "2020-01-14T00:00:00Z",
+        "borrower": "Ministry of Finance",
+        "closingdate": "2023-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "239400000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "0",
+        "id": "P170565",
+        "impagency": "National Reconstruction Authority",
+        "major_sector_code": "YX",
+        "major_sector_name": "FY17 - Industry, Trade and Services",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "YX",
+              "major_sector_name": "FY17 - Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YF",
+                  "sector_name": "FY17 - Public Administration - Industry, Trade and Services",
+                  "sector_percent": "1.0"
+                },
+                {
+                  "sector_code": "YH",
+                  "sector_name": "FY17 - Housing Construction",
+                  "sector_percent": "99.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Housing Construction,FY17 - Public Administration - Industry, Trade and Services",
+        "proj_id": "P170565",
+        "project_name": "Second Additional Financing Earthquake Housing Reconstruction Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Human Development and Gender",
+          "FY17 - Private Sector Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Climate change",
+          "FY17 - Disaster Risk Management",
+          "FY17 - Disaster Risk Management",
+          "FY17 - Gender",
+          "FY17 - Jobs"
+        ],
+        "totalamt": "200000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 200000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2020-01-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170565",
+      "value": "p170565"
+    }
+  ],
+  "implementing_agency": "National Reconstruction Authority",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Second Additional Financing Earthquake Housing Reconstruction Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170565",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p170565",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 200000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.410381Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p170565",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

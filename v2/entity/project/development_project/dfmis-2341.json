@@ -1,0 +1,136 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.810044Z",
+  "dates": [
+    {
+      "date": "2023-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-12-08",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-12-08",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Action Contre La Faim",
+      "donor_project_id": "2341",
+      "raw_payload": {
+        "id": 14621,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Action Contre La Faim",
+        "organization_id": 521,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Action Contre La Faim",
+  "financing": [
+    {
+      "amount": 366172.7352,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Action Contre La Faim",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2341",
+      "value": "2341"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Access to Improved Water Services in the Upper Trishuli     River Basin, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2341",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2341",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 366172.7352,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.810040Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2341",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

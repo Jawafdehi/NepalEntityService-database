@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.442298Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-126",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.442300Z",
+    "dates": [
+      {
+        "date": "2010-03-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-02-05",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Education: The focus of the education program is to reach the most marginalized communities. High priority is given to achieve universal primary education with a focus on gender parity and ensuring access to quality learning opportunities to all with a focus on girls and marginalized groups.\r\n\r\n\tChild Protection: All vulnerable and survivor children will benefit from advocacy and capacity building of law implementing agencies program conducted at the national level. While the focused program to be implemented in the Mid and Far Western regions will particularly reach to the following children:\r\n\r\n\t\r\n\t\t30,000 vulnerable children including orphans, Badi, and socially and economically poor;\r\n\t\r\n\t\t5,000 survivors of violence;\r\n\t\r\n\t\t6,000 conflict affected children; and 5,000 women vulnerable to Chhaupadi. \r\n\r\n\r\n\tChild rights: The primary beneficiaries of the project are children up to age of 18 years. SCNN ensures that no children are discriminated however; SCNN will focus its target to children who are from most marginalized and disadvantaged population, including promoting girls participation. The secondary target group of this component of the project are:\r\n\r\n\t \r\n\r\n\t\r\n\t\tThe Ministry of Women, Children and Social Welfare and the focal points on child rights implementation\r\n\t\r\n\t\tThe networks for child rights and participation\r\n\t\r\n\t\tThe child clubs and their networks\r\n\t\r\n\t\tThe National Human Rights Commission and any other HR monitoring bodies\r\n\t\r\n\t\tNational Non Governmental Organizations"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "126",
+        "raw_payload": {
+          "id": 1118,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Foreign Affairs",
+    "financing": [
+      {
+        "amount": 5004253.616,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-03-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-126",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/126",
+        "value": "126"
+      }
+    ],
+    "implementing_agency": "Ministry of Foreign Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Save the Children Strategic Framework for Cooperation 2010 -2012",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/126",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-126",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 5004253.616,
+    "total_disbursement": 5279674.0344,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.442298Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-126",
+      "id": "version:entity:project/development_project/dfmis-126:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

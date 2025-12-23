@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.815250Z",
+  "dates": [
+    {
+      "date": "2013-07-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-07-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Fill in the existing bottom up accountability and demand driven governance gap\r\n\t\r\n\t\tensure peoples and civic actors active participation in political process and democratic life."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Federal Affairs & General Administration",
+      "donor_project_id": "605",
+      "raw_payload": {
+        "id": 3544,
+        "organization__development_cooperation_group__architecture__id": 4,
+        "organization__development_cooperation_group__architecture__name": "Government of Nepal",
+        "organization__development_cooperation_group__id": 54,
+        "organization__development_cooperation_group__name": "Line Ministries",
+        "organization__logo": "",
+        "organization__name": "Ministry of Federal Affairs & General Administration",
+        "organization_id": 72,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 5111592.633,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5236185.383,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Federal Affairs & General Administration",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-06-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/605",
+      "value": "605"
+    }
+  ],
+  "implementing_agency": "Swiss Agency for Development and Cooperation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening the Accountability of Local Government",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/605",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-605",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 10347778.016,
+  "total_disbursement": 2627506.37793,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.815247Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-605",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

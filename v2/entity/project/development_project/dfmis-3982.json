@@ -1,0 +1,126 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.691142Z",
+  "dates": [
+    {
+      "date": "2022-12-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "FAIRMED",
+      "donor_project_id": "3982",
+      "raw_payload": {
+        "id": 40987,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "FAIRMED",
+        "organization_id": 571,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 672600.6,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "FAIRMED",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-12-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3982",
+      "value": "3982"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sindhupalchowk Integrated Health Project (SIHP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3982",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3982",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 672600.6,
+  "total_disbursement": 327056.09,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.691139Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3982",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

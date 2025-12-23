@@ -1,0 +1,218 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.758704Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010333",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.758709Z",
+    "dates": [
+      {
+        "date": "1999-12-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project aims to broaden the spectrum of engineering skills that will be available to the economy and increase the supply of engineers and technicians. In order to meet the projected demand and to train engineers and technicans specifically for Nepal's needs, the project will: (i) expand the capacity of the Institute of Engineering (IOE) to train technicians and engineers through construction and rehabilitation of facilities at existing IOE campuses; (ii) raise the quality of engineering education through staff training, curricula improvement, provision of educational materials, and the raising of admission and examination standards; and (iii) improve management through strengthening the Office of the Dean, training managerial and administrative staff, developing a Management Information System and establishing a Manpower Development Unit."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010333",
+        "raw_payload": {
+          "boardapprovaldate": "1989-06-22T00:00:00Z",
+          "closingdate": "1999-12-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "26000000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "0",
+          "id": "P010333",
+          "major_sector_code": "EX",
+          "major_sector_name": "FY17 - Education",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "EX",
+                "major_sector_name": "FY17 - Education",
+                "sectors": [
+                  {
+                    "sector_code": "ET",
+                    "sector_name": "FY17 - Tertiary Education",
+                    "sector_percent": "100.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Tertiary Education",
+          "proj_id": "P010333",
+          "project_abstract": "The project aims to broaden the spectrum of engineering skills that will be available to the economy and increase the supply of engineers and technicians. In order to meet the projected demand and to train engineers and technicans specifically for Nepal's needs, the project will: (i) expand the capacity of the Institute of Engineering (IOE) to train technicians and engineers through construction and rehabilitation of facilities at existing IOE campuses; (ii) raise the quality of engineering education through staff training, curricula improvement, provision of educational materials, and the raising of admission and examination standards; and (iii) improve management through strengthening the Office of the Dean, training managerial and administrative staff, developing a Management Information System and establishing a Manpower Development Unit.",
+          "project_name": "ENGINEERING EDUCATION PROJECT",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Private Sector Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Jobs"
+          ],
+          "totalamt": "11400000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 11400000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1989-06-22",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010333",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010333",
+        "value": "p010333"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "ENGINEERING EDUCATION PROJECT",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010333",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Education",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010333",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Private Sector Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 11400000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.758704Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010333",
+      "id": "version:entity:project/development_project/wb-p010333:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

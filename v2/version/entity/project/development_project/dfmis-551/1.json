@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.548160Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-551",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.548163Z",
+    "dates": [
+      {
+        "date": "2016-12-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Form Local Disaster Management Committees (LDMC) at VDC level and train them on the inclusive and flexible local Disaster Risk Management Planning (LDRMP) process\r\n\tCarry out LDRMP process at VDC level and produce the LDRMP\r\n\tTrain VDC board on mainstreaming DRR in their local planning process, linking LDRMP to VDC annual development plan\r\n\tSupport Citizen Awareness Center (CAC) to facilitate community dialogue on DRR, empowerment, and governance and document evidence and lessons learned\r\n\tTrain CSOs on DRR mainstreaming and advocacy for enhancing accountability of local authorities and service providers on DRR and support to participate in VDC regular planning and reconstruction process\r\n\tSupport LDMC to implement small scale mitigation measures identified in LDRMP\r\n\tSupport CSOs to organize multi-stakeholders dialogue at VDC level on DRR and reconstruction process\r\n\tOrganize workshops and trainings at district level to orient on inclusive DRR and resilience approaches\r\n\tFacilitate and support DDRCs to develop tools and SOPs for coordination and information management for effective disaster response and implement SOP\r\n\tProvide training to members of the sectoral planning committees of DDC to mainstream DRR into district development planning process\r\n\tBuild capacity of district level government agencies to monitor the implementation of inclusive LDRMP, DDP, and DPRP aligned with the local self-governance act (LSGA 1999) and minimum conditions performance measures (MCPM)\r\n\tSupport DDRC to review and update the inclusive district preparedness and response plan (DPRPs) based on Vulnerability and Capacity Assessments (VCAs) from the VDCs.\r\n\tWorkshop to review inclusive and flexible LDRMP model to agree on the process and key contents to roll out in the district and VDC level\r\n\tConduct a study in stock taking the status of DRR mainstreaming in local development and recovery and reconstruction process and share its findings to concerned stakeholders Facilitate lobbying and interaction with CA members, parliament committees, senior government officials and political leaders in collaboration with media, civil society and peer organizations for the endorsement of the DRR policy/action plan based on Sendai framework for DRR\r\n\tSupport concerned ministries (MOHA, NPC & MoFALD) to review / develop national DRM Policy /guidelines\r\n\tProvide inputs to Ministry of Federal Affairs and Local Development (MOFALD) on the Local Disaster Risk Management Planning (LDRMP) guidelines, based on learning from the four districts and the application of the inclusive and flexible LDRMP model\r\n\tOrganize district and national sharing workshops on good practices among the key DRR stakeholders\r\n\tTrain and support communities and market actors to construct and sustain “safe and accessible” toilets and develop Open Defecation Free strategies and WASH contingency plans\r\n\tImplement  inclusive hygiene promotion campaigns to restore and improve hygiene behaviors interrupted by the earthquakes and to build resilience in communities through behavior change\r\n\tPut in place risk-sensitive water supply systems for communities that have earthquake impacted water access and strengthen water supply system functionality by facilitating the re-forming of inclusive Water Supply Users Committees (WSUCs), building their capacity\r\n\tSupport for restocking of small livestock and repairing relevant infrastructure in 2 VDCs\r\n\tSupport most-vulnerable HHs with essential seeds, seeds storage facilities and irrigation channel repair\r\n\tSupport capacity building/skill development trainings and materials based on community needs"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Mission East",
+        "donor_project_id": "551",
+        "raw_payload": {
+          "id": 10073,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Mission East",
+          "organization_id": 354,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Mission East",
+    "financing": [
+      {
+        "amount": 1413269.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-12-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-551",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/551",
+        "value": "551"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Earthquake Response Programme- Disaster Risk Reduction in recovery and reconstruction for most affected population in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/551",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-551",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1413269.0,
+    "total_disbursement": 1291585.2038,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.548160Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-551",
+      "id": "version:entity:project/development_project/dfmis-551:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.092263Z",
+  "dates": [
+    {
+      "date": "2018-04-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-04-17",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1: Start up, Review and Coordination Meetings\r\n\r\nInception meetings\r\n\r\n\r\n\tQuarterly review meetings\r\n\tResults dissemination workshops at district level\r\n\tStaff orientation and planning\r\n\tVDC level interaction meetings in new VDCs\r\n\r\n\r\nActivity 2: VSLA formalization and Cooperative Registration\r\n\r\nCooperative awareness education\r\n\r\n\r\n\tToT on delivering community training on formal and informal protection measures\r\n\tCooperative education and community training\r\n\tCooperative registration documentation\r\n\tNew cooperative registration or MoU with existing Cooperatives\r\n\r\n\r\nActivity 3: Financial Literacy Training (FLT)\r\n\r\n\r\n\tFLT material design & production (training manual, Text Book, flip chart and posters)\r\n\tTraining of trainers\r\n\tRefresher training to facilitators\r\n\tOrientation to cooperative representatives\r\n\tTraining delivery to participants\r\n\tFLT review and feedback workshops\r\n\r\n\r\nActivity 4: SACCO and DCU Capacity Building Training\r\n\r\n\r\n\tGeneral TOT for LRPs\r\n\tCooperative account management training\r\n\tOn the spot technical support for accounting and record keeping\r\n\tSaving/credit management training\r\n\tGood governance in cooperatives\r\n\tLeadership capacity development training\r\n\tPEARLS monitoring training\r\n\tOn the spot technical support to SACCOs on governance system\r\n\tBusiness plan training\r\n\tCooperative management training\r\n\tDSU capacity building support\r\n\tReview workshop of on the spot technical support on accounting\r\n\tReview workshop of on the spot technical support on governance\r\n\tReview and follow up workshop on business plan\r\n\tTechnical support to program team and DSU through Cooperative specialist\r\n\r\n\r\nActivity 5: Material, equipment and furniture support for Cooperative Establishment and Strengthening\r\n\r\n\r\n\tPrinted stationary Support to cooperatives\r\n\tFurniture support to cooperatives\r\n\tSafe Vault support to cooperatives\r\n\tCompute/printer support to cooperatives\r\n\tMIS software installation and training\r\n\tEquipment & liquidity management support for SACCOs delivering remittance services\r\n\r\n\r\nActivity 6: Linkage and networking\r\n\r\nWholesale loan access workshop\r\n\r\nActivity 7: Monitoring & Evaluation (M&E)\r\n\r\n\r\n\tSocial audit\r\n\tHalf yearly bulletin publication\r\n\tJoint monitoring visits\r\n\tDocumentation and dissemination of best practices including short documentary\r\n\tMonitoring & Supervision of SACCOs by CPO,PO & PC\r\n\tD-PAC meeting\r\n\tC-PAC meeting\r\n\tSACCO capacity assessment\r\n\tResearch, case studies and documentary\r\n\tResults dissemination workshop and close-out workshop at national level\r\n\tEndline evaluation\r\n\tSWC evaluation\r\n\r\n\r\nActivity 8: Piloting and Implementation of Youth Financial Literacy\r\n\r\n\r\n\tFinancial literacy TOT to youth representatives\r\n\tFinancial literacy training (piloting ) to youths\r\n\tYouth financial literacy review and feedback workshop\r\n\tFinancial literacy TOT to youths ( for roll out)\r\n\tFinancial literacy training to youths ( roll out)\r\n\r\n\r\nActivity 9: Linkage of SACCOs with remittance companies/agents\r\n\r\n\r\n\tOrientation to cooperative leaders on insurance and remittances\r\n\tInteractive workshop for Remittance and Insurance Agencies and SACCOs\r\n\r\n\r\n \r\n\r\nActivity 10:  Other Program Support\r\n\r\n\r\n\tCapacity building training to project staff\r\n\tDesign, documentation and modification of financial products\r\n\tModification of YFLT materials"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "1252",
+      "raw_payload": {
+        "id": 10013,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "MercyCorps",
+  "financing": [
+    {
+      "amount": 1414855.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1612318.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-09-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1252",
+      "value": "1252"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sustainable Access to Finance and Livelihoods II (SAFAL II)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1252",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1252",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3027173.0,
+  "total_disbursement": 1418399.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.092261Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1252",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

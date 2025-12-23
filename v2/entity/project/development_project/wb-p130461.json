@@ -1,0 +1,172 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.480990Z",
+  "dates": [
+    {
+      "date": "2017-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The development objective of the Output-Based Aid for Municipal Solid Waste Management Project for Nepal is improve access to high quality and financially sustainable solid waste management services in participating municipalities in Nepal. Success in achieving the project development objective will be measured by the following indicators: (i) improved quality of services; (ii) improved financial sustainability. There are three components to the project: Component 1 which deals with the service delivery subsidy will be disbursed based on outputs. TDF will make disbursements directly to municipalities upon independent verification of outputs. For Component 2 dealing with implementation support and Component 3 dealing with project management, monitoring and verification, a special Designated Account will be opened which can be used to make direct payments to consultants or to reimburse the pre-financed expenses such as incremental operating costs and training."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P130461",
+      "raw_payload": {
+        "boardapprovaldate": "2012-10-19T00:00:00Z",
+        "closingdate": "2017-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "4600000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "4600000",
+        "id": "P130461",
+        "impagency": "TOWN DEVELOPMENT FUND",
+        "major_sector_code": "WX",
+        "major_sector_name": "FY17 - Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "FY17 - Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WB",
+                  "sector_name": "FY17 - Waste Management",
+                  "sector_percent": "100.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Waste Management",
+        "proj_id": "P130461",
+        "project_abstract": "The development objective of the Output-Based Aid for Municipal Solid Waste Management Project for Nepal is improve access to high quality and financially sustainable solid waste management services in participating municipalities in Nepal. Success in achieving the project development objective will be measured by the following indicators: (i) improved quality of services; (ii) improved financial sustainability. There are three components to the project: Component 1 which deals with the service delivery subsidy will be disbursed based on outputs. TDF will make disbursements directly to municipalities upon independent verification of outputs. For Component 2 dealing with implementation support and Component 3 dealing with project management, monitoring and verification, a special Designated Account will be opened which can be used to make direct payments to consultants or to reimburse the pre-financed expenses such as incremental operating costs and training.",
+        "project_name": "Output-Based Aid for Municipal Solid Waste Management",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Urban Development"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 4600000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2012-10-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P130461",
+      "value": "p130461"
+    }
+  ],
+  "implementing_agency": "TOWN DEVELOPMENT FUND",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Output-Based Aid for Municipal Solid Waste Management",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P130461",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p130461",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.480987Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p130461",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

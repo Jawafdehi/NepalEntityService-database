@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.210132Z",
+  "dates": [
+    {
+      "date": "2013-04-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-01-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The primary target groups of this project are the IPWA central committee members, district and local network members from all the 75 districts of the country. The secondary target groups would be all the political party leaders, organization related to women and their sister organizations, media persons, policy makers and implementers, national security agencies, national commissions, national committees, human rights defenders and, civil society organizations, working for the cause of women and their rights."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "1283",
+      "raw_payload": {
+        "id": 3225,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Organization Development Centre",
+  "financing": [
+    {
+      "amount": 631938.5141,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-04-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1283",
+      "value": "1283"
+    }
+  ],
+  "implementing_agency": "Organization Development Centre",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "IPWA Ensuring Equal Representation in Policy and Decision Making",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1283",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1283",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 631938.5141,
+  "total_disbursement": 592481.49604,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.210130Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1283",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

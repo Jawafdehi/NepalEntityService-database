@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.350414Z",
+  "dates": [
+    {
+      "date": "2021-02-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-02-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-02-01",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "§  Carryout value chain analysis to identify the most promising sub-sector (value chain) in the project area§  Organize the most-deprived and marginalized families in groups (for Climate Resilient High Value Agriculture- CRHVA)§  Demonstration of improved technologies in partnership with local government and private sectors (combining farmers' field day at the end)§  Support families/youths with production inputs (seeds, plant nutrients, IPM materials, small irrigation schemes, agriculture tools etc.)§  Organise gender sensitisation workshops/campaigns in farmers’ groups and community§  Facilitate linkage of entrepreneurs and farmers with financial institutions, markets and private sectors such that FORWARD-BACKWARD linkage model is established and operational in the locality §  Support for the establishment of Agri-produce collection centers at different strategic locations§  Conduct farmers' Business School (FBS) sessions in farmers' groups§  Vocational skills/ME training to the youths from the most deprived families and support them for business start up§  Beneficiary selection for CVA response§  Rapid Market assessment§  CVA to the selected beneficiaries§  Work with school leadership to strengthen the education system in schools (provide the pedagogical supports to the teachers, and performance-based awards to teachers and schools, etc.) (2022 onward)§  Formation/reformation and capacity building of child protection structures (WCPC/RMCRC) on child rights, child protection, steps to protect§  Formation/reformation and capacity building of child clubs (make sure all CIJ are in child club/network) at community level§  Organize safe back to school campaigns and support to enroll the out of school children of basic level through Alternative Education Program (AEP)/Each-one-teach- one program (2021+)§  Educational materials/bursary support to out of school children from the most deprived and marginalized (2021+) families§  Assess learning loss of the children and organize remedial/catch-up classes, home schooling to address the significant learning loss (2021+)§  Provide orientation to parents, teachers, and SMCs about the importance of regularity of the children, and teachers in schools/quality time for teaching-learning activities and their roles for the same§  Support schools for students’ tracking system such as participatory attendance board, follow up cards, reward, etc§  Organize teachers' training on literacy and numeracy, digital skills including inclusive education (2022 onward)§  Support for disinfection, and cleaning of schools, and child- friendly WASH facilities including handwashing and need based support of masks and sanitizers/soaps (co-funding with local governments) (2021+)§  Support construction/renovation/ maintenance of toilet facilities for girls and boys§  Support classrooms to establish child and disable friendly set up, inclusive teaching-learning materials (2021+) in selected schools co-funding with local governments§  Develop and mobilize CIJ as child champion§  Technical and financial support on child club and WCPC initiatives (street drama, home visit, public hearing, dialogue/consultation) to detect, prevent, report and respond to child protection cases.§  Mobilisation of PSWs in the community for identification and referral for supports/response§  Build capacity/accreditation of PSW on child protection, steps to protect, PFA§  Prevention and response support to children in and at risk of labor migration.§  Carry out poverty, vulnerability, GESI analysis and risk assessment covering all children and their families from the targeted municipalities in relation to education, protection, livelihoods, disaster and climate risk§  Train municipal officials, authorities and SC partners on technical aspects and planning process aiming risk informed sectoral plans and policies including local disaster and climate resilient plans§  Provide technical support to local governments to update/develop risk informed sectoral plans and policies including local disaster and climate resilient plans§  Conduct at least one simulation exercise focused on implementation of sectoral as well as local disaster and climate resilient plans§  Advocacy with local and provincial governments on the need of Shock Responsive Social Protection (SRSP) policies and program§  Provide technical support to local governments to develop new (or update existing) Information Management System (IMS) related to education, protection, livelihoods, disasters and climate risks§  ToT to youth, women and child club leaders on disaster and climate risks and mobilise them for awareness raising/empowerment§  Generate SBCC (CUBIC) materials on climate and environment and organize awareness sessions in selected schools"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2211",
+      "raw_payload": {
+        "id": 13049,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 1130709.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-02-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2211",
+      "value": "2211"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "KIRAN - Knowledge based Initiative for Reinforcing Resilience through Integrated Actions in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2211",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2211",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1130709.0,
+  "total_disbursement": 1081590.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.350412Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2211",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

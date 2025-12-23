@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.648089Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3958",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.648091Z",
+    "dates": [
+      {
+        "date": "2021-11-19",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-11-19",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1 Parents teachers conference on CB_EGRA Findings,  Remedial cases support to weak learners and Reading Corner promotion at home, And gender scanning of ELR materials at schools 1.1.2 Train parents early grade teachers on ELR material development and use   1.1.3 Development of Model Classroom – early grades (with carpeting, cushion, round table, whiteboard, wall book painting, print-rich environment including ECED materials, ELR materials, print-rich materials, book corners)1.1.4 Accessible/Education assistantship support to most vulnerable sponsored child and CWDS1.1.5 Conduct Literacy Fairs to promote reading culture1.2.1 Orientation/capacity building on WASH and MHM including formation of SWASHCCs, students, child clubs and MHM Committee including minimum WASH standard and Dignified menstruation in  school 1.2.2 Capacity development of teachers , SMC/PTA members and women leader on gender transformative activities with MHM, Gender transformative and Early gender socialization Pedagogy, inclusive education pedagogy and management and leadership development1.2.3 Support to develop and place GBV/non-violent code of conduct at school,  And Train key actors at schools to identify, record, respond and refer the incidents of violence, abuse & discrimination1.2.4 MHM and child friendly WASH facilities Improvement including Gender friendly toilets and hand washing stations 1.2.5 Work with Local government to allocate resources to implement inclusive & quality education policies & guidelines1.3.1 Support to equip STEAM classroom with required STEAM equipment  and Develop learning/educational offline/online apps/tabs/digital literacy training to support learning for girls 1.3.2 Capacity development training on STEAM approach to learning - Plan, partners, teachers1.3.3 Support/facilitate L government to formulate/revise education plan and policy/L. curriculum. (Gender transformative and STEAM Education)1.3.4 Exposure visit of teachers to observe the STEAM education, Youth engagement for innovation related to STEAM1.3.5 Media mobilization, support for National campaign and days celebration, meeting with LG to mainstream the project new initiatives1.4.1 Development/ revision of EiE plan- contingency plan in education and learning materials support to continue EiE1.4.2 Support to Build safe and accessible schools1.4.3 Renovate/ repair/ maintain classrooms/ school to make them safe, clean and hygienic.1.4.4 Mitigation and protection measures at schools for safe school1.4.5 Support to revise SIP in inclusion with Safe school/DRM component. Contribute GoN initiative \"One School: One Green Garden\"  1.4.6 Training/orientation to SMC/HTs/PTAs/Education Committee/students on climate change and DRM with drilling exercise1.4.7 Support schools, local government for promoting Safe School programming aligning with Comprehensive School Safety Framework (CSS) of Nepal(SDG: Target 4.a, 13.3, 13.b)Output Code: 2301, 2311)2.1.1 Training to Government staff (health workers) & FCHV on Parenting Education (MNCH & nutrition awareness) including HHs level WASH promotion (Output code 2121) 2.1.2 Deliver Parenting Education Session by FCHV including child health, nutrition & WASH related messages targeting to pregnant women & parents/caregivers of <3 year children (Output code 21212.1.3 Orientation to individual on various water purification mechanism, 6 key hygiene messages and safe WASH Health importance (Output code 2421) 2.1.4 Support to regularize Health Mother Group meeting as per government protocols to promote nurturing care from prenatal period (Output code 2121)2.1.5 Separate Male group session to promote male engagement in child care (care from pregnancy, neonatal & child health, nutrition) at HHs level (Output code 2121)2.2.1 Training and in role coaching of core group of facilitators, supervisors  and dialogue facilitators on collective dialogue  to promote child care from prenatal life – Child health & nutrition. (health workers and other government staffs) (Output code 2121)2.2.2 Conduct collective dialogue with wider community groups on ECD related issues (Maternal & Child health and nutrition, WASH, net enrollment in ECD center, parenting awareness on importance of ECD). (Output code 2121)2.2.3 Support collective action through Community-led campaigns on ECD including WASH, nutrition and gender responsive parenting practices (Output code 2121)2.2.4 Conduct SBCC Session on WASH by Champions to promote community led total sanitation (Output code 2421)2.3.1 Support to establish child play/stimulation corner at health facilities at local level (different play toys, visual aid, play station set up) (Output code 2121)2.3.2 Explore potentiality and support to establish community based play groups/day care center (Output code 2121)2.3.3 Assessment & support ECD centers from the perspective of DRR & WASH facilities and prepare mitigation plan together with school/community (Output code 2421)2.3.4 Support to strengthening of local "
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Plan Nepal",
+        "donor_project_id": "3958",
+        "raw_payload": {
+          "id": 42157,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Plan Nepal",
+          "organization_id": 277,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Education, Science and Technology, Ministry of Youth and Sports, Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 1888566.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Plan Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-11-19",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3958",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3958",
+        "value": "3958"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Dhanusha Community Development Project (DCDP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3958",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3958",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1888566.0,
+    "total_disbursement": 1711319.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.648089Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3958",
+      "id": "version:entity:project/development_project/dfmis-3958:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

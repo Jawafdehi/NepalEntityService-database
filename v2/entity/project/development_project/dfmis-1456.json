@@ -1,0 +1,159 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.938613Z",
+  "dates": [
+    {
+      "date": "2016-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "1456",
+      "raw_payload": {
+        "id": 11921,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Department of Foreign Affairs and Trade",
+  "financing": [
+    {
+      "amount": 1024630.206,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 276655.4852,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-05-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 231604.8476,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1456",
+      "value": "1456"
+    }
+  ],
+  "implementing_agency": "INGO",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sustainable Development Investment Portfolio Phase 2",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1456",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1456",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1532890.5388,
+  "total_disbursement": 1532890.5388,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.938610Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1456",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

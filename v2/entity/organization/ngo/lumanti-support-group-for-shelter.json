@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Non-Government Organisation",
+    "group": "NGO"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Non-Government Organisation"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.562896Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Lumanti Support Group for Shelter",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "lumanti-support-group-for-shelter",
+  "sub_type": "ngo",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Lumanti Support Group for Shelter",
+    "created_at": "2025-12-23T19:11:06.562894Z",
+    "entity_or_relationship_id": "entity:organization/ngo/lumanti-support-group-for-shelter",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

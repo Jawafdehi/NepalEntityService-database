@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.524774Z",
+  "dates": [
+    {
+      "date": "2024-05-28",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-05-28",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2027-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "S2GESI aims to improve the availability and accessibility of gender equitable health services for women and marginalized groups at both national and local levels. It concentrates on three thematic areas and supports MoHP and municipalities for implementation of National strategy of Gender Equality and Social Inclusion (GESI).a) Strengthening the institutional mechanisms for implementing national GESI Strategy in health sector management at local level.b) Support national and sub-national actors in the health sector for reducing demand-related barriers for accessing health services.c) Support for implementing approaches to reduce supply-related obstacles for accessing health services at national and subnational level."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "German Corporation for International Cooperation",
+      "donor_project_id": "6448",
+      "raw_payload": {
+        "id": 42290,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 35,
+        "organization__development_cooperation_group__name": "Germany",
+        "organization__logo": "",
+        "organization__name": "German Corporation for International Cooperation",
+        "organization_id": 24,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 3838000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "German Corporation for International Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-05-28",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6448",
+      "value": "6448"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Support of the National Gender Equality and Social Inclusion Strategy (in the health sector) (S2GESI)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6448",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6448",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3838000.0,
+  "total_disbursement": 24988.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.524772Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6448",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

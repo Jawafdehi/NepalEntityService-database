@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.210562Z",
+  "dates": [
+    {
+      "date": "2014-07-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2014-04-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "GMSP: \r\n\r\n\t1) School management \r\n\r\n\t2) Teaching quality improvement \r\n\r\n\t3)Extra curricula activities \r\n\r\n\t4) Infra support \r\n\r\n\t5) Interventions to children (Awareness raising and education)\r\n\r\n\t6)Interventions to family (Awareness raising)\r\n\r\n\t7) Interventions to community (Awareness raising, training and linkage) \r\n\r\n\t \r\n\r\n\tTuki: \r\n\r\n\t1)School Management \r\n\r\n\t2) Teaching quality improvement\r\n\r\n\t3)Extra Curricular activities \r\n\r\n\t4) Infra structure support \r\n\r\n\t5)Intervention to child  (Eduction) \r\n\r\n\t6) Intervention to family (Income generation support)\r\n\r\n\t7) Intervention to community ( Awareness raising, training and networking and linkage)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "ChildFund Japan",
+      "donor_project_id": "464",
+      "raw_payload": {
+        "id": 7946,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "ChildFund Japan",
+        "organization_id": 518,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "ChildFund Japan",
+  "financing": [
+    {
+      "amount": 791943.4419,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "ChildFund Japan",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/464",
+      "value": "464"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education for hope  (expansion)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/464",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-464",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 791943.4419,
+  "total_disbursement": 494421.9243,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.210559Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-464",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

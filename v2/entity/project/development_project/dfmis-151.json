@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.532716Z",
+  "dates": [
+    {
+      "date": "2009-10-07",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2009-10-07",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2010-03-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Identification of landless victim by Koshi Flood;\r\n    Coordination with stakeholders including Nepal Basobas Basti Samrakshan Samaj, UNDP, Government (DDRC) and donor agencies; \r\n    Mobilization of community and Conduct various trainings for livelihood improvement. ;\r\n    Design of lowcost housing, suitable for local condition;\r\n    Construction of 235 lowcost shelters."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Human Settlements Programme",
+      "donor_project_id": "151",
+      "raw_payload": {
+        "id": 1049,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Human Settlements Programme",
+        "organization_id": 16,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Home Affairs",
+  "financing": [
+    {
+      "amount": 191250.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Human Settlements Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-10-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/151",
+      "value": "151"
+    }
+  ],
+  "implementing_agency": "Lumanti Support Group for Shelter",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Integrated Shelter Assistance for 225 Landless Households Affected by Koshi Flood",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/151",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-151",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 191250.0,
+  "total_disbursement": 191250.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.532714Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-151",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

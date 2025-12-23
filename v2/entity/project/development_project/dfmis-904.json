@@ -1,0 +1,150 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.122014Z",
+  "dates": [
+    {
+      "date": "2012-12-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-12-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "904",
+      "raw_payload": {
+        "id": 3591,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "European Commission",
+  "financing": [
+    {
+      "amount": 1587721.619,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-12-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 32957.4882,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-06-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/904",
+      "value": "904"
+    }
+  ],
+  "implementing_agency": "Oxfam GB",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening participation and influence of poor and vulnerable farmers and fishermen in decision-making processes related to food security (CTR 301109)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/904",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-904",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1620679.1072,
+  "total_disbursement": 1517038.3418,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.122010Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-904",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

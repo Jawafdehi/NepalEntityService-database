@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.105044Z",
+  "dates": [
+    {
+      "date": "2012-05-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-04-24",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Supply and setup of all required hardware in all project sites and integration of hardware with GIDC\r\n\t\r\n\t\tDesigning, development, testing and deployment of software in GIDC and DOLRM along with BPR\r\n\t\r\n\t\tInstalling, configuring and commissioning of network (LAN,WAN)\r\n\t\r\n\t\tData migration, digitization and verification / validation\r\n\t\r\n\t\ttraining and observation tour\r\n\t\r\n\t\tproviding connectivity to central office, GIDC and 14 land revenue office\r\n\r\n\r\n\tMaintenance support service of hardware, software and network for 3 years"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "449",
+      "raw_payload": {
+        "id": 3737,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+  "financing": [
+    {
+      "amount": 1365000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-05-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/449",
+      "value": "449"
+    }
+  ],
+  "implementing_agency": "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Land Records Information Management System",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/449",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-449",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1365000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.105041Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-449",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

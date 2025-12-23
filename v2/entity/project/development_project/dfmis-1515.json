@@ -1,0 +1,193 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.388556Z",
+  "dates": [
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Advisory and capacity development services to government, non-government actors at national and sub-national level for: Improving enabling environment for functionality of water supply servicesImproving performance of WSS actors for effective service deliveryImproving governance, gender equity, social inclusion, knowledge management and synergy (cross cutting)EXTENDED (2015)Update of existing functionality strategy based on updated functionality status as  per functionality mapping concept  (FRWS Workshop, Nov 2014) and get it endorsed from DWASHCCA plan of action showing all partially functional and non-functional schemes getting converted into well functional within specified time period (2015 - 2017) and get it endorsed from DWASHCCOrganize half-day workshop in the district by inviting DWASHCC members and other stakeholdersOrganize a field visit for Joint Monitoring Team to observe improvement of schemes (41 schemes)Organize a district level public hearing on FRWS in order to reflect the voice of the public in the planning cycle of district Nov 2015Compile questionnaire for collecting functionality status & scheme ranking  database (116 schemes in 21 VDCs of 4 programme districts)2-days orientation training program on GPS to WS technicians/LRPsGPS data collection of  intake, reservoir tank, public/community tap, served/unserved settlements of 106 schemesPCS/Maintenance & Repair Unit is made visible in the premises of WSSDO with separate room, name plate of unit-in-charge, furnished with required furniture, shelves, desktop computer, laser printer, etc.A board with citizen charter displaying various post construction support services to be provided to schemesInformation about all schemes is compiled & installed at the desktop of PCS UnitTOT for PCS/ Maintenance & Repair Unit on (i) Technical aspect -Repair & maintenance (ii) Management aspect - Scheme management & Financial management of schemes (accounting system/ tariff set up, O&M fund management, (iii) WSP etc.Orientation training to PCS/Maintenance & Repair Unit to develop process of planning based on feedback from self-assessment forms, functionality mapping and rankingSupport to PCS/Maintenance & Repair Unit to organize a VMW training by inviting VMWs various schemesOrientation training to 3 representatives (Chairman, Secretary, VMW/Active member) from 106 schemes on self-assessment process & services of PCS UnitSupport for  assessing markets, quality of materials available in the market and monitoring the services of VMWs.Support to private sector developmentDesign PSA messages (5-7) for the general public regarding the quality of material and quality of construction prior to scheme constructionDesign hoarding boards (at least 2 numbers) in appropriate size and display all 5-7 PSA messages in the board in local language understandable to general publicA simplified version of self-assessment guideline for scheme operation preparedLocal Resource Persons (LRPs) looking after 5 VDCs (3 LRPs responsible for 9 schemes of 5 VDCs) are trained on Self-assessment guideline and other TOT along with 3-4 staffs of PCS/Maintenance & Repair UnitEach LRP together with government officials (wherever possible) carry out self-assessment exercise in the selected schemes within the VDC of his/her responsibility and teach WUSC members & VMW how to carry out self-assessment of schemes and other aspects of scheme management to make them fully functional.Organize an observation visit to FEDWASUN members & some staffs of PCS/Maintenance & Repair Unit together to visit fully functioning schemes within district and have interaction with WUSC members.Organise 3 days TOT on Social Accountability (Community Score Card, Public Hearing & Social Auditing) training (one day practical in one of the schemes identified by district FEDWASUN) for 4 members of FEDWASUN (Resource Person is provided by SNV Nepal)Apply SA tool to another scheme of the district by trained members of FEDWASUN"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "1515",
+      "raw_payload": {
+        "id": 3346,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 20,
+        "organization__development_cooperation_group__name": "Netherlands",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 19,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 153969.7416,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 134498.9913,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 134836.9637,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 307833.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 317740.4322,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1515",
+      "value": "1515"
+    }
+  ],
+  "implementing_agency": "Ministry of Foreign Affairs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Improving Functionality of Water Supply Services in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1515",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1515",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1048879.1288,
+  "total_disbursement": 925035.27612,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.388552Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1515",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

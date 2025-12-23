@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.285777Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5619",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.285780Z",
+    "dates": [
+      {
+        "date": "2006-07-17",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The DDNRF Nepal facility is a responsive mechanism designed to support sub-projects submitted by Nepali organisations. Project activities support Nepal in developing democratic processes leading to the election of a Constituent Assembly (CA) and the subsequent drafting of a new Constitution."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Global Affairs Canada",
+        "donor_project_id": "5619",
+        "raw_payload": {
+          "id": 43389,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 6,
+          "organization__development_cooperation_group__name": "Canada",
+          "organization__logo": "",
+          "organization__name": "Global Affairs Canada",
+          "organization_id": 184,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 4402571.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Affairs Canada",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2006-11-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5619",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5619",
+        "value": "5619"
+      }
+    ],
+    "implementing_agency": "Ministry of Federal Affairs & General Administration",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Development Democracy in Nepal Responsive Facility (DDNRF) - Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5619",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5619",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4402571.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.285777Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5619",
+      "id": "version:entity:project/development_project/dfmis-5619:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

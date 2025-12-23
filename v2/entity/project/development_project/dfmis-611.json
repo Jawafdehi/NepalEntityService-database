@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.842252Z",
+  "dates": [
+    {
+      "date": "2014-04-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-02-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Materials/consumables for service delivery (assistive devices and physiotherapy services):\r\n\r\n\t\r\n\t\tComplimentary additional tools and accessories for the production of 4,370 orthopaedic aids and 39,000 rehabilitation therapy from 5 Rehabilitation Centres to ensure optimal working of their existing facilities;\r\n\t\r\n\t\tNecessary consumable, components, and stocks for the optimization of orthopaedic production and physiotherapy services in each Centre;\r\n\t\r\n\t\tFor distribution of mobility aids to persons with disabilities (wheelchairs, mobility aids, canes, crutches).\r\n\r\n\r\n\t \r\n\r\n\tLogistic means for organization of:\r\n\r\n\t\r\n\t\t20 sets of Rehabilitation Mobile Camps (each set of camp includes 1 Assessment, 1 Fitment and 1 follow up camp) in the remote, isolated and rural areas to increased access of people to services;\r\n\t\r\n\t\tShort term and formal trainings sessions, capacity building initiatives and supports for Nepali rehabilitation professionals;\r\n\t\r\n\t\tOrganization of 80 corrective surgery services on specialized hospitals;\r\n\t\r\n\t\tSensitization sessions and campaigns to raise awareness about the services, disability issues and prevention, interactive meetings, monitoring visits;\r\n\t\r\n\t\t60 monitoring and technical support visits, 6 CPAC meetings and 1 mid-term and 1final evaluations of the project.\r\n\r\n\r\n\t \r\n\r\n\tHuman Resources\r\n\r\n\t\r\n\t\tInternational Staff\r\n\r\n\r\n\t1 Physical Rehabilitation & sustainability Coordinator\r\n\r\n\t1 Disability Coordinator\r\n\r\n\t1 P&O Coordinator\r\n\r\n\t \r\n\r\n\t\r\n\t\tLocal staff\r\n\r\n\r\n\t10 Project Managers/Assistants/Logisticians\r\n\r\n\t10   P&O Qualified Technicians\r\n\r\n\t3 Qualified Physiotherapist\r\n\r\n\t1 Qualified Occupational Therapist\r\n\r\n\t \r\n\r\n\t\r\n\t\tPartner Technical Staff\r\n\r\n\r\n\t13 Management Staff\r\n\r\n\t23 skilled techncial staff\r\n\r\n\t24 semi-skilled technical staff\r\n\r\n\t32 Community Workers"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Handicap International Nepal",
+      "donor_project_id": "611",
+      "raw_payload": {
+        "id": 7019,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Handicap International Nepal",
+        "organization_id": 496,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Handicap International Nepal",
+  "financing": [
+    {
+      "amount": 1950454.805,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Handicap International Nepal",
+      "donor_id": null,
+      "financing_instrument": "Sector Wide Approach",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-04-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/611",
+      "value": "611"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening the Sustainability of the Physical Rehabilitation Sector for Greater Access to Services in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/611",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-611",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1950454.805,
+  "total_disbursement": 1628315.87643,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.842249Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-611",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

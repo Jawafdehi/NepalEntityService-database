@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.329677Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-721",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.329679Z",
+    "dates": [
+      {
+        "date": "2015-10-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-11-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "UN Women Humanitarian and Disaster Risk Reduction Specialist (P3) provides technical leadership  and inter agency coordination support to the UN Country Team and the Government  – gender profile updated, capacity development of UN/GoN staff on the gender dimensions of disaster risk, particularly in terms of women’s vulnerabilities, capacity and exposure to hazards, development of a gender responsive monitoring framework and evidence based guidelines \r\n\r\nTwo district Gender Coordinators (SB5-II) for one year to cover Sindhulpalchowk, Gorkha and Charikot hubs. \r\nThe District Gender Coordinators will provide technical, operational and coordination support in the districts. The Gender Coordinator will oversee the local implementation of UN Women’s reconstruction and disaster preparedness strategy ensuring effective dialogue and coordination with relevant partners. He/She will represent UN Women in relevant post reconstruction coordination mechanisms and is responsible for guiding and fostering coordination for gender equality and women’s empowerment across the reconstruction and disaster preparedness efforts in partnership with local government, NGOs and women’s group partners;\r\nSupport a post PDNA joint study in close collaboration with NPC, MOWCSW, OXFAM on the impact of Nepal’s earthquake on women’s livelihood, housing, land and property rights and citizenship rights to contribute to the reconstruction and rehabilitation phase. Support the National Reconstruction Authority (to be established) or relevant GON authority for one year with dedicated gender expertise to ensure gender mainstreaming in the reconstruction efforts  (establishment of gender unit/development of tools and guidance)\r\nStrengthen the capacity of government and national women machineries on gender responsive national disaster risk management to ensure that they address identified gender specific disaster risks, identification of additional responses and put in place a monitoring framework to track the effects of gender specific DRM policies\r\nContinue to provide technical gender expertise to the Ministry of Finance to ensure  that the national budgetary allocations to address gender specific prevention, preparedness, recovery (costing of gender responsive instruments)\r\nIn collaboration with the Government, UNDP and the Embassy of Denmark organize a south-south peer learning regional consultation on gender responsive disaster preparedness and risk reduction for the Government.\r\n\r\n \r\n\r\nSupport the women’ groups to implement the common charter of demands and engender the reconstruction and post disaster preparedness phase\r\n\r\nPartially support a South Asia peer learning workshop for women’s groups on humanitarian response and action and also build the capacity of women’s organisations to undertake disaster risk assessments in a changing climate"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "721",
+        "raw_payload": {
+          "id": 9055,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 709019.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Danish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-10-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-721",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/721",
+        "value": "721"
+      }
+    ],
+    "implementing_agency": "UN Women",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Country Office Strategic Note and Annual Work Plan 2014-2017- Outcome Area 4 (Peace and security and humanitarian actions) \r\n[Denmark Project-00096994]",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/721",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Police Services",
+        "donor_subsector": null,
+        "normalized_sector": "Police Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-721",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 709019.0,
+    "total_disbursement": 709019.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.329677Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-721",
+      "id": "version:entity:project/development_project/dfmis-721:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

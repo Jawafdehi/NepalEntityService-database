@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.321510Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1131",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.321514Z",
+    "dates": [
+      {
+        "date": "2017-06-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2021-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1: Key local actors are mobilised and trained to construct, manage, operate and maintain drinking water schemes.\r\n\r\n2: Adequate sanitation facilities at home, school are constructed and total sanitation (including HWTS) campaign implemented\r\n\r\n3: Key local actors are mobilised and trained to construct, manage, operate and maintain irrgation shcemes\r\n\r\n4: Water source conservation and 3R schemes implementated\r\n\r\n5: Key local actors are trained and mobilized to prepare water use master plan and promote water integrity/governance and advocate good practices"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_project_id": "1131",
+        "raw_payload": {
+          "id": 10956,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "HELVETAS Swiss Intercooperation Nepal",
+          "organization_id": 532,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "HELVETAS Swiss Intercooperation Nepal",
+    "financing": [
+      {
+        "amount": 2191796.982,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1131",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1131",
+        "value": "1131"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Integrated Water Resources Management Programme (IWRMP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1131",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1131",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2191796.982,
+    "total_disbursement": 1438289.6164,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.321510Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1131",
+      "id": "version:entity:project/development_project/dfmis-1131:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

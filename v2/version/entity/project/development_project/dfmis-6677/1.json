@@ -1,0 +1,175 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.547457Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6677",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.547460Z",
+    "dates": [
+      {
+        "date": "2020-12-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-12-30",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-03-18",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "To improve sustainable management; increase benefits from forests and continue to net green house gas emission reduction in selected municipalities in province 2 and province 5."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "World Bank Trust Funds",
+        "donor_project_id": "6677",
+        "raw_payload": {
+          "id": 44538,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "World Bank Trust Funds",
+          "organization_id": 86,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 6100000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-12-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 17900000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Untied"
+        },
+        "transaction_date": "2020-12-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6677",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6677",
+        "value": "6677"
+      }
+    ],
+    "implementing_agency": "Ministry of Forests and Environment",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Forests for Prosperity",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6677",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6677",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 24000000.0,
+    "total_disbursement": 5506080.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.547457Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6677",
+      "id": "version:entity:project/development_project/dfmis-6677:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

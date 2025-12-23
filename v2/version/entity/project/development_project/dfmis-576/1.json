@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.658686Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-576",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.658689Z",
+    "dates": [
+      {
+        "date": "2013-02-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-02-25",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Reduction of stunting of children under 5 by 10%\r\n\t\r\n\t\tReduction of infant mortality to 10/1000 births\r\n\t\r\n\t\t70% of children aged  5 to 12 years attend school regularly\r\n\t\r\n\t\t70% of target population is aware of their respective rights\r\n\t\r\n\t\tStrong community-based institutions are active in each target Village Development Committees(VDC) in planning and monitoring activities in the areas of  of Basic Education, Mother and Child Health and Nutrition and Child Protection\r\n\t\r\n\t\tRespective Government institutions have significally improved the quantity and quality of their services\r\n\t\r\n\t\tSchool Management Committees of 15 schools ensure attendance of all school-aged children and implement activities for school improvement\r\n\t\r\n\t\tInnovative pilots in relation to health and nutrition and child protection are implemented in all VDCs and linked with the School Sector Reform Programme, the Child‐Friendly Local Governance Programme and the  Local Health Governance Strengthening Programme\r\n\t\r\n\t\tAt least one pilot in each VDC is widely adapted by local authorities or communities at a larger scale\r\n\t\r\n\t\tPartners have developed a policy agenda that contributes to improvement on district and national level\r\n\t\r\n\t\tAt least once per year, key-stakeholders (e.g. District Education Office, District Health Office, District Child Welfare Board etc) participate in an inventory meeting on government programs\r\n\t\r\n\t\tRegional and national media reports with regard to this program (at least 6 articles /1 film)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_project_id": "576",
+        "raw_payload": {
+          "id": 7151,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Deutsche Welthungerhilfe e.V",
+          "organization_id": 529,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Deutsche Welthungerhilfe e.V",
+    "financing": [
+      {
+        "amount": 462658.5897,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-02-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-576",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/576",
+        "value": "576"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Fight Hunger First Initiative in Nepal, Primary Education, Health and Nutrition",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/576",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-576",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 462658.5897,
+    "total_disbursement": 417641.66845,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.658686Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-576",
+      "id": "version:entity:project/development_project/dfmis-576:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

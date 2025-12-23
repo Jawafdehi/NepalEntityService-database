@@ -1,0 +1,155 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.814709Z",
+  "dates": [
+    {
+      "date": "2013-07-11",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-09-10",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "International Development Association",
+      "donor_project_id": "5023",
+      "raw_payload": {
+        "id": 39317,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "International Development Association",
+        "organization_id": 17,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Physical Infrastructure and Transport",
+  "financing": [
+    {
+      "amount": 70136322.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2013-07-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 30474079.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5023",
+      "value": "5023"
+    }
+  ],
+  "implementing_agency": "Ministry of Industry, Commerce and Supplies, Ministry of Physical Infrastructure and Transport",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal-India  Regional Trade and Transport Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5023",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5023",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 100610401.0,
+  "total_disbursement": 66043255.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.814707Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5023",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

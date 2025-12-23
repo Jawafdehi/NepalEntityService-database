@@ -1,0 +1,102 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.649690Z",
+  "dates": null,
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010495",
+      "raw_payload": {
+        "boardapprovaldate": "1995-06-30T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "envassesmentcategorycode": "C",
+        "id": "P010495",
+        "proj_id": "P010495",
+        "project_name": "PUBLIC RESOURCE MGT",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010495",
+      "value": "p010495"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PUBLIC RESOURCE MGT",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010495",
+  "sectors": null,
+  "short_description": null,
+  "slug": "wb-p010495",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.649682Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010495",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

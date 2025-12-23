@@ -1,0 +1,180 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.559660Z",
+  "dates": [
+    {
+      "date": "2008-09-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Community School Support Project will provide block, performance, supplementary, and other grants, including scholarships, and technical assistance (TA) for capacity building, to support communities taking over the management of government-funded schools. To this end, the project components will: 1) provide incentive grants for communities to manage schools funded by the Government, through block grants tied to performance of lower secondary, and secondary schools. In addition, performance grants will be provided for the improvement of access to primary education, and promotion rates, while supplementary grants would provide additional support to marginal communities, and encourage innovative approaches, such as bilingual education, and the employment of female teachers, and teachers from disadvantaged communities; 2) provide scholarships to out-of-school children in the first year, and maintenance scholarships in the later years of primary schools, provided to all children from poor households, expected to transform the social focus of communities, making the school a focal point for inclusion; 3) support capacity building to assist communities, through non-governmental organizations and support organizations in school management. Moreover, Training for teachers will be provided in instructional planning and delivery, and in improving public relations with the community. Supportive orientation for civil servants, local government officials, and social workers will also be provided; and, 4) assist in the development of a monitoring and evaluation system in project coordination, within the existing monitoring and evaluation system of the Ministry of Education."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P082646",
+      "raw_payload": {
+        "boardapprovaldate": "2003-06-30T00:00:00Z",
+        "closingdate": "2008-09-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "5180000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P082646",
+        "major_sector_code": "EX",
+        "major_sector_name": "FY17 - Education",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "FY17 - Education",
+              "sectors": [
+                {
+                  "sector_code": "EZ",
+                  "sector_name": "FY17 - Other Education",
+                  "sector_percent": "100.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Other Education",
+        "proj_id": "P082646",
+        "project_abstract": "The Community School Support Project will provide block, performance, supplementary, and other grants, including scholarships, and technical assistance (TA) for capacity building, to support communities taking over the management of government-funded schools. To this end, the project components will: 1) provide incentive grants for communities to manage schools funded by the Government, through block grants tied to performance of lower secondary, and secondary schools. In addition, performance grants will be provided for the improvement of access to primary education, and promotion rates, while supplementary grants would provide additional support to marginal communities, and encourage innovative approaches, such as bilingual education, and the employment of female teachers, and teachers from disadvantaged communities; 2) provide scholarships to out-of-school children in the first year, and maintenance scholarships in the later years of primary schools, provided to all children from poor households, expected to transform the social focus of communities, making the school a focal point for inclusion; 3) support capacity building to assist communities, through non-governmental organizations and support organizations in school management. Moreover, Training for teachers will be provided in instructional planning and delivery, and in improving public relations with the community. Supportive orientation for civil servants, local government officials, and social workers will also be provided; and, 4) assist in the development of a monitoring and evaluation system in project coordination, within the existing monitoring and evaluation system of the Ministry of Education.",
+        "project_name": "Community School Support Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Education",
+          "FY17 - Education"
+        ],
+        "totalamt": "5000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 5000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2003-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P082646",
+      "value": "p082646"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Community School Support Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P082646",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p082646",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 5000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.559657Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p082646",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

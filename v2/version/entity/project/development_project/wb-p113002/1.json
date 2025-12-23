@@ -1,0 +1,213 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.519180Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p113002",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.519182Z",
+    "dates": [
+      {
+        "date": "2014-09-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P113002",
+        "raw_payload": {
+          "boardapprovaldate": "2008-09-29T00:00:00Z",
+          "closingdate": "2014-09-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "21700000",
+          "envassesmentcategorycode": "B",
+          "grantamt": "5000000",
+          "id": "P113002",
+          "impagency": "Department of Agriculture,Ministry Of Federal Affairs and Local Development,The World Food Programme",
+          "major_sector_code": "AX,SX",
+          "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Social Protection",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AH",
+                    "sector_name": "FY17 - Crops",
+                    "sector_percent": "14.0"
+                  },
+                  {
+                    "sector_code": "AK",
+                    "sector_name": "FY17 - Public Administration - Agriculture, Fishing & Forestry",
+                    "sector_percent": "11.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "SX",
+                "major_sector_name": "FY17 - Social Protection",
+                "sectors": [
+                  {
+                    "sector_code": "SA",
+                    "sector_name": "FY17 - Social Protection",
+                    "sector_percent": "75.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Crops,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Social Protection",
+          "proj_id": "P113002",
+          "project_name": "Social Safety NetsProject",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Private Sector Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Jobs",
+            "FY17 - Nutrition and Food Security"
+          ],
+          "totalamt": "16700000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 5000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2008-09-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p113002",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P113002",
+        "value": "p113002"
+      }
+    ],
+    "implementing_agency": "Department of Agriculture,Ministry Of Federal Affairs and Local Development,The World Food Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Social Safety NetsProject",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P113002",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Social Protection",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p113002",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Private Sector Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 16700000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.519180Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p113002",
+      "id": "version:entity:project/development_project/wb-p113002:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

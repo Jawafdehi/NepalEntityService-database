@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.281757Z",
+  "dates": [
+    {
+      "date": "2012-04-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-04-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Preparations and PA Submission to SWC and MoWCSW (agreements, recruitments)\r\n\r\n\tB. SWC /Ministrv Approval process etc\r\n\r\n\tc. Activity Component:1 Disaster Risk Reduction Activities\r\n\r\n\t\r\n\t\tStructural and non-structural mitigation and river bank\r\n\t\r\n\t\tprotection schemes/works\r\n\t\r\n\t\tBoats support for rescue and relief during disaster\r\n\t\r\n\t\tProvision of rescue materials at district level\r\n\t\r\n\t\tEstablishment of early warning systems and its operation\r\n\t\r\n\t\tEstablishment of emergency relief matching funds at VDC levels\r\n\t\r\n\t\tEstablishment of farmers field school\r\n\t\r\n\t\tInputs support to disaster affected HHs (seeds, fertilizer, technical support)\r\n\t\r\n\t\tPre-monsoon orientation workshops in 4 VDCs\r\n\t\r\n\t\tCommunity Based Disaster Risk Management trainings/refresher for DMCs\r\n\t\r\n\t\tDamage Needs Assessment trainings for new area\r\n\t\r\n\t\tContingency plan workshop /follow up in field\r\n\t\r\n\t\tMock drills (search and rescue) training for preparedness to disasters\r\n\t\r\n\t\tStrengthen institutions/networks of disaster affected communities in targeted VDCs\r\n\t\r\n\t\tDistrict govt. stakeholders joint field visit\r\n\t\r\n\t\tDistrict level DRR related workshop\r\n\t\r\n\t\tBest practice publications and dissemination\r\n\t\r\n\t\t Activity Component-2: Safe Migration\r\n\t\r\n\t\tInformation booth in International Airport\r\n\t\r\n\t\tPre-employment orientation training to potential  migrants workers\r\n\t\r\n\t\tLegal supports (Para legal services, counseling,\r\n\r\n\r\n\t. ~._ ­\r\n\r\n\tReferral and documentation & monitoring services)\r\n\r\n\t\r\n\t\tHotline services and referral services for survivors (victimized migrant workers)\r\n\t\r\n\t\tRadio programmes for mass awareness and advocacy-52 episodes from Radio Nepal FM\r\n\t\r\n\t\tDevelop various IEC materials ( posters, leaflets etc) for mass awareness-10,000 copies\r\n\t\r\n\t\tInstitutional Supports to 15 returnee migrants Networks\r\n\t\r\n\t\tFormation and strengthening of and support to new radio listeners clubs\r\n\t\r\n\t\tObserving International Migrants day-National level interactions on Migration issues\r\n\t\r\n\t\tMedia mobilization (Press conference etc) on migrations issues\r\n\t\r\n\t\tSensitization workshops with embassy, and ministry officials\r\n\t\r\n\t\tProgramme Monitoring and Field visits by DCA and partners\r\n\t\r\n\t\tProgramme Review and Coordination Meetings (CPAC, DPAC,)\r\n\t\r\n\t\tProject Partners' Coordination & Review Meetings (DCA-partners meetings and partners platforms meetings etc)\r\n\t\r\n\t\tProgramme Reporting (six monthly and annual)\r\n\t\r\n\t\tProject Evaluation and evaluation report finalization and submission"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Dan Church Aid",
+      "donor_project_id": "248",
+      "raw_payload": {
+        "id": 3810,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Dan Church Aid",
+        "organization_id": 512,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Dan Church Aid",
+  "financing": [
+    {
+      "amount": 129035.5363,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Dan Church Aid",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-04-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/248",
+      "value": "248"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Integrated Disaster Risk Reduction, and Safe Migration Programmes in Nepal (Second phase)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/248",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-248",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 129035.5363,
+  "total_disbursement": 2955688.21257,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.281754Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-248",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

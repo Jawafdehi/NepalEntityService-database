@@ -1,0 +1,165 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.102225Z",
+  "dates": [
+    {
+      "date": "2011-03-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-02-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Observe Peace Process and Constitution Drafting; conduct regional and district observation to track the peace process; track CA and government activity; issue regular reports to raise awareness; engage with national and local political leaders to address political challenges; conduct regular briefings with international stakeholders; coordinate closely with national stakeholders; communicate national findings to local level.\r\n\r\n\tConduct a limited observation of voter registration; deploy existing observation teams to observe voter registration, hire short-term expert consultants to assist and collaborate with the ECN, UNDP, IFES, domestic observer networks and civil society organizations.'\r\n\r\n\tCA Election observation 2013."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "216",
+      "raw_payload": {
+        "id": 2933,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 301972.8895,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-11-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 346536.369,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-02-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 443624.2325,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-10-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/216",
+      "value": "216"
+    }
+  ],
+  "implementing_agency": "Carter Center",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Carter Senteret",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/216",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-216",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1092133.491,
+  "total_disbursement": 1107181.7555,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.102222Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-216",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

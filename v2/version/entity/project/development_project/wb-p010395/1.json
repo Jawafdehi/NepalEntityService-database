@@ -1,0 +1,248 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.694989Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010395",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.694994Z",
+    "dates": [
+      {
+        "date": "1999-12-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project's main objectives are to:  (i) improve the quality of primary education; (ii) increase equitable access to primary schooling; and (iii) strengthen the management of the formal and non-formal primary education delivery system.  The project consists of three components.  The first component, designed to increase the quality of primary education, will:  (a) simplify the primary school curriculum and make it more relevant; (b) provide improved teacher instructional materials, textbooks and supplementary materials; and (c) institutionalize a teacher supervision, support and training system.  The second component, designed to improve access to educational resources, will: (a) strengthen the non-formal primary education and literacy programs; (b) offer an increased opportunity to receive a basic education to girls, the very poor, and those in remote areas; and (c) construct and/or renovate primary school classrooms to accommodate the increase in enrollment.  The third component, designed to improve the institutional development of the subsector, will:  (a) strengthen the Ministry of Education's capacity to plan, manage and monitor its formal and non-formal primary education program; (b) assist in the development of its capacity to coordinate and manage donor-aided projects; and (c) improve the design of efficient classroom facilities."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010395",
+        "raw_payload": {
+          "boardapprovaldate": "1992-04-21T00:00:00Z",
+          "closingdate": "1999-12-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "136500000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "20100000",
+          "id": "P010395",
+          "major_sector_code": "BX,EX",
+          "major_sector_name": "FY17 - Education,FY17 - Public Administration",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BC",
+                    "sector_name": "FY17 - Central Government (Central Agencies)",
+                    "sector_percent": "2.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "EX",
+                "major_sector_name": "FY17 - Education",
+                "sectors": [
+                  {
+                    "sector_code": "EL",
+                    "sector_name": "FY17 - Adult, Basic and Continuing Education",
+                    "sector_percent": "1.0"
+                  },
+                  {
+                    "sector_code": "EP",
+                    "sector_name": "FY17 - Primary Education",
+                    "sector_percent": "70.0"
+                  },
+                  {
+                    "sector_code": "ET",
+                    "sector_name": "FY17 - Tertiary Education",
+                    "sector_percent": "27.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Adult, Basic and Continuing Education,FY17 - Central Government (Central Agencies),FY17 - Primary Education,FY17 - Tertiary Education",
+          "proj_id": "P010395",
+          "project_abstract": "The project's main objectives are to:  (i) improve the quality of primary education; (ii) increase equitable access to primary schooling; and (iii) strengthen the management of the formal and non-formal primary education delivery system.  The project consists of three components.  The first component, designed to increase the quality of primary education, will:  (a) simplify the primary school curriculum and make it more relevant; (b) provide improved teacher instructional materials, textbooks and supplementary materials; and (c) institutionalize a teacher supervision, support and training system.  The second component, designed to improve access to educational resources, will: (a) strengthen the non-formal primary education and literacy programs; (b) offer an increased opportunity to receive a basic education to girls, the very poor, and those in remote areas; and (c) construct and/or renovate primary school classrooms to accommodate the increase in enrollment.  The third component, designed to improve the institutional development of the subsector, will:  (a) strengthen the Ministry of Education's capacity to plan, manage and monitor its formal and non-formal primary education program; (b) assist in the development of its capacity to coordinate and manage donor-aided projects; and (c) improve the design of efficient classroom facilities.",
+          "project_name": "Basic and Primary Education Project",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Public Sector Management",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Gender",
+            "FY17 - Public Administration",
+            "FY17 - Rural Development"
+          ],
+          "totalamt": "30600000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 20100000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1992-04-21",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010395",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010395",
+        "value": "p010395"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Basic and Primary Education Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010395",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Education",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010395",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 30600000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.694989Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010395",
+      "id": "version:entity:project/development_project/wb-p010395:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

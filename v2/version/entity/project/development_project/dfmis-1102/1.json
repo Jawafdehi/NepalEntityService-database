@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.003352Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1102",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.003355Z",
+    "dates": [
+      {
+        "date": "2015-08-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-06-20",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Conduct situation analysis and baseline survey\r\n\r\nConduct local level consultations\r\n\r\nSelect households/beneficiaries\r\n\r\nIdentify potential partners in the programme districts\r\n\r\nFinalize programme documents (work plan, operation modality, PMF and reporting template)\r\n\r\nFacilitate endorsement by the Programme Steering Committee\r\n\r\nProvide supplement to pregnant women and children 6-23 months including advocacy and raising  awareness on Infant and Young Children Feeding practices (aligning with the IYCF National Strategy)\r\n\r\nSupport  rural women HHs with a provision of inputs such as kitchen garden kit (vegetable seeds, fertilizers and watering can), goats, piglets and chickens including specialized training to women, Farmer Field School (FFS) group on food safety  and advocacy on right to food\r\n\r\nSupport rural women’s HHs through food assistance for assets activities aimed at strengthening resilience and improve food security.\r\n\r\nSupport appropriate inputs (seed, fertilizer, breed, credit), and technology know-how  to  women farmer’s groups and  cooperatives \r\n\r\nDevelop capacity (including drudgery reducing know how and tools) of rural women through Farmer Field School (FFS) and Life Schools\r\n\r\nAdvocate for reduction of household drudgery \r\n\r\nSupport capacity development of DDC/VDC representatives on GESI and nutrition Support the National Agriculture Research Council (NARC) to conduct GESI responsive agricultural research\r\n\r\nSupport the development and consolidation of statistics on rural women’s economic empowerment  and strengthen Gender Unit of Center Bureau of StatisticsDevelop and disseminate fact sheets on key thematic areas for policy advocacy on rural women's economic empowerment\r\n\r\nFinalise programme documents (work plan, operation modality, PMF and reporting template) Technical support Service (TSS) (Travel of Regional Office) Monitoring Visits in districts (IFAD, Government, UNW)Support the drafting of the GESI Strategy for the Agricultural Development Strategy"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "UN Women",
+        "donor_project_id": "1102",
+        "raw_payload": {
+          "id": 9289,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "UN Women",
+          "organization_id": 174,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 301822.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-08-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 264408.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-04-11",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 237500.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-07-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1102",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1102",
+        "value": "1102"
+      }
+    ],
+    "implementing_agency": "UN Women",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Accelerating Progress toward the Economic Empowerment of Rural Women in Nepal: A Joint Pilot Contributing to the Implementation of the Agricultural Development Strategy- (95044)\r\n[SIDA/RWEE Project-00095044]",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1102",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1102",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 803730.0,
+    "total_disbursement": 815900.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.003352Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1102",
+      "id": "version:entity:project/development_project/dfmis-1102:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

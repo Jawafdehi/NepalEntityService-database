@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.035388Z",
+  "dates": [
+    {
+      "date": "2022-04-21",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-04-21",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-12-09",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1   Procurement and distribution of the seeds2.1 Procurement and installation/repair of Shallow tube wells in the affected/sand in the sand casted areas to irrigate wheat, pulses and vegetable cultivation (#40)2.2 Spot repair of farmer's managed small scale irrigation schemes (# 4)2.3 Procurement and distribution of Hermetic bags to store grains and seeds. (2000 HHs)3.1 Organize project orientation meetings with the stakeholders including farmers and decision makers at Federal, Provincial and Municipality level.3.2 Organize training on vegetable production and management training to palika staffs (#2)3.3 Organize Lesson Learned/Review Reflection workshops at local and national level on the project results (#3)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "2067",
+      "raw_payload": {
+        "id": 14335,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 500000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-04-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2067",
+      "value": "2067"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Emergency and early recovery support to floods-affected farming households in Western Terai, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2067",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2067",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 500000.0,
+  "total_disbursement": 59338.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.035385Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2067",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

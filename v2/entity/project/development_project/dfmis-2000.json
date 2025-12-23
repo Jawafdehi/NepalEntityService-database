@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.953070Z",
+  "dates": [
+    {
+      "date": "2020-06-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2027-08-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1  Awareness through different media 1.2.1 Organize advocacy programs (CPAC, DPAC/LPAC meetings)1.2.2 Midterm and final term evaluation 1.2.3 Pre consensus agreement 1.2.4 Workshops/meeting with national central level stakeholders of eye health 1.2.5 Advocacy/awareness events –WSD, WDD 1.2.6  Radio program conducted for eye health awareness1.2.7 External Audit 1.3.1 Equipments purchase1.4.1 TIO System support Function1.5.1  Subsidy on registration for poor child patient1.5.2  Subsidy on surgery for poor child patient1.5.3 Subsidies in spectacles  and frames for poor child patient1.5.4  Clinical exposure support for Pediatrician1.5.5 Overhead support for pediatrician2.1.1  Research on fellowship trainings2.1.2  Research on Kathmandu Eye Study2.1.3  Research on financial sustainability of Rural Eye Centers2.1.4  Research on cornea study ( Patients clinical investigation)2.1.5  Research on Cornea PACK CXL2.1.6  Faculty research support and publication2.1.7  Researchers exposure visit2.1.8  Patient satisfaction survey at TIO2.1.9 Patients satisfaction survey  (HECH)2.1.10 Research for Eye Bank3.1.1 Pen pledge cards produce and distribute3.1.2  Activate Quality assurance and Commitment of ERC in region3.1.3  Social marketing for tissue sharing3.1.4  Condolence Ceremony to pay homage to donor3.1.5  Sensitization program in Donor Hospitals3.1.6   HCRP Promotion and EDC Development3.1.7 Annual Meeting of Nepal Eye Donation Society3.1.8 Organize Talk/Interaction Program in different community through Eye Donation Society3.1.9  Nepal Eye Bank Advisory/ Corneal surgeon Meeting3.2.1 Tissue distribution for sustainability of eye bank with facilitating pre-cut tissue4.1.1 Fellowship Training4.1.2 Exposure Training: Faculty Staff4.1.3 Short Course Training (National HRD)4.1.4 Capacity Building & Strengthening training department4.2.1 National/International Conference and workshop: APAO/AIOS/DOS/WOC participation4.2.2 Clinical/Medical/Management  Trainings4.2.3 Short Course Training (NEP/TIO staffs)5.1.1 Operation cost support CEC (Manang and Mustang)5.1.2 Operation cost support to SEC5.2.1 Capital Expenditure Support:: Equipments & Furniture at SEC5.2.2 Establish  and upgrade Rural eye clinic 5.2.3.Telemedicine service setup at CECs5.2.4. EMR implantation at CEC5.3.1 Community screening camps 5.3.2 School eye health  camps5.3.3 Surgeries performed at OMEC camps5.3.4 Household screening camps5.3.5 Procurement of consumables5.4.1 International/National Day Celebration5.4.2 FM Radio Program5.4.3Primary Eye Care Training 5.4.4 Basic Gender Equity Social Inclusion & Eye Care Training/ FCHV5.4.5 Basic Eye Care Training ST/SN5.5.1 Program monitoring and observation visit5.5.2 Management meeting at CEC5.5.3 Social audit/stakeholder meeting5.5.4 CEC Staff interaction with Mgmt.5.5.5 Financial  monitoring /Internal Audit5.5.6 Planning and review meeting of CEC at TIO5.6.1 Personal for CBP Program5.6.2 Travel and accommodation CBPP5.6.3 Supplies for CBP Program5.6.4 Training and refresher Training5.6.5 Awareness activities5.6.6 FCHVs Incentives5.6.7 10%Overhead cost for CBP Program6.1.1 Patients service delivery, treatment conduction at HCEH6.1.2 Outreach Program: Community Screening camps: HCEH6.1.3 Outreach Program: School eye health  camps:  HCEH6.1.4 Outreach Program: Cataract surgeries performed at HCEH6.1.5  Capacity Building/awareness and advocacy through HCEH6.2.1 Patients service delivery, treatment conduction at Bhaktapur CEH6.2.2  Outreach Program: Community Screening camps: Bhaktapur CEH6.2.3 Outreach Program: School eye health  camps: Bhaktapur CEH6.2.4 Outreach Program: Cataract surgeries performed at Bhaktapur CEH6.2.5 Urban Eye center established6.2.6  Capacity Building/awareness and advocacy through Bhaktapur CEH"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Himalayan Cataract Project",
+      "donor_project_id": "2000",
+      "raw_payload": {
+        "id": 14112,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Himalayan Cataract Project",
+        "organization_id": 738,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Himalayan Cataract Project",
+  "financing": [
+    {
+      "amount": 3051990.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Himalayan Cataract Project",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2000",
+      "value": "2000"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Blindness Alleviation Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2000",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2000",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3051990.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.953067Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2000",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

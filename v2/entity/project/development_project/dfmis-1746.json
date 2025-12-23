@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.360378Z",
+  "dates": [
+    {
+      "date": "2021-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1       Improve bamboo treatment processes to increase production (quantity/speed), improve quality, and/or reduce costs.1.        Continuous assessment of bamboo treatment center (technical and business)·         A Business Advisor to develop and support a business plan for 2 treatment centers (e.g. market linkages, promotions)·         Ensure Partners take ownership of the treatment center and maintain a record-keeping of treated bamboo. Develop QA/QC document to ensure quality treated bamboo poles. NGO partners would be responsible for funding and following up on proposed treatment center changes.·         A partial financial contribution for infrastructure upgrades relating to quality assurance can be provided if required.2.       Promote and support bamboo farming·         This would include identifying bamboo farms and providing bamboo harvest tips and training·         Support linkages between farms and treatment centers. (Agreements with bamboo farmers including negotiating of prices, quantities, and timely deliveries)3.       ·         Proposed changes/improvement plans that take into account market affordability. They will also include financial viability projections of treatment center operations.·         Provide support to all four NGOs with the expectation that at least two NGO partners will reach implementation at scale.·         NGO partners to carry out changes.Habitat Nepal seeks technical support from the Hilti foundation and its partners to commission a study proving/validating the strength and durability of treated bamboo, particularly concerning untreated bamboo. 1.1.2       Design bamboo housing models and construction technologies.1.        Continued design consultation (community, local body, partner) and revisions to design as per need. Constant design review from all parties (community, local body, partner, Habitat, Base Bahay) for finalization of designs.2.       Incorporate feedback from communities and other stakeholders into new house designs. Design a bamboo house costing less than $3,300 in direct construction costs in order to accommodate communities’ capacity and local government budgets.3.       Designs accommodating incremental housing construction to be developed: (a) affordable bamboo designs that adjust to family size; (b) a bamboo vertical extension design for second floors. (c) extension component.4.       BASE and Habitat to engage national research institutes during the design process to encourage local awareness and knowledge of the technology.5.       Design consultation and review with the local bodies for a durable and disaster-resilient bamboo public building to construct in collaboration with the local government in a strategic location.6.       Continuous communication with Base Bahay for improvement of house designs appropriate to the context.1.1.3       construction of 500 houses through a cost-sharing grant scheme with the Government aimed at low-income families living in vulnerable conditions.1.        Government coordination for expanding and replicating the Hilti fondation housing project model to several locations.2.       Houses will be built for disaster-affected, marginalized ethnic groups and/or highly vulnerable families, attracting the participation of LGUs, given their mandate to address the housing needs of such population.3.       Local government units (LGU) will provide land (where necessary), release funds allocated for housing, and grant or facilitate approvals necessary. 4.       Habitat Nepal will offer a partial cost-sharing (with the Hilti foundation support) to ensure sufficient leadership over the project.5.       Habitat Nepal will provide technical support for land assessment, plotting of land, drawings, and supervision on the construction site for the families.6.       Habitat Nepal will provide social support and conduct a baseline survey to ensure target communities receive housing and that communities are motivated to work on their houses.1.1.4      Develop Market-based Approach to encourage families to choose to build with bamboo.1.        Applying a HCD (human-centered design) approach, rapid prototype solutions that will increase the adoption of bamboo housing solutions on the demand-side.2.       Pilot test most promising strategies during year 2.3.       Support to providers - including contractors, hardware stores, treatment centers, and others - from a technical and business perspective to ensure sustainable mechanisms for delivering treated bamboo solutions in the Eastern Terai.4.       Monitor and evaluate outcomes by end of Phase II, with the intention of defining scale up strategies.1.1.5       broader ecosystem strategy to shape perceptions and practices regarding use of treated bamboo in housing constructions.1.        Identify and create a coalition with multi-stakeholders (government, NGOs, individuals) to jointly promote bamboo housing and influence behavior of both demand and supply-side actors.2.       C"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Habitat for Humanity International Nepal",
+      "donor_project_id": "1746",
+      "raw_payload": {
+        "id": 12272,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "organization/logos/Habitat_Logo_Black_1.png",
+        "organization__name": "Habitat for Humanity International Nepal",
+        "organization_id": 601,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Habitat for Humanity International Nepal",
+  "financing": [
+    {
+      "amount": 2594650.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Habitat for Humanity International Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1746",
+      "value": "1746"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Safe, durable bamboo housing solutions (Phase - 2)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1746",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1746",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2594650.0,
+  "total_disbursement": 513558.5751,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.360374Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1746",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

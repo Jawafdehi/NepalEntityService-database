@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.262900Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-475",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.262903Z",
+    "dates": [
+      {
+        "date": "2010-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Operations and office set up, including procurement and recruitment, selection of partners and signing of agreements.\r\n\t\r\n\t\tCapacity building of staff and partners on UNSCR 1325&1820, CEDAW, gender and social inclusion and policies and legislation on sexual explotation and abuse.\r\n\t\r\n\t\tDevelopment of M&E plan (in cooperation with CARE Österreich),  including plan and process for project review\r\n\t\r\n\t\tDevelopment of exit strategy in consultation with implementing partners.\r\n\t\r\n\t\tConduct base line survey on knowledge, attitude and practice (KAP)\r\n\t\r\n\t\tConduct analysis of poverty, power structures and gender analysis through assessment of Underlying Causes of Poverty, community mapping and other participatory assessment tools.\r\n\t\r\n\t\tStrengthen women’s community based organisations and Popular Education Centres, Local Peace Committees through capacity building.\r\n\t\r\n\t\tAwareness generation among VDC and DDCs,  political parties and other line agency on UNSCR 1325 and 1820, women’s rights, gender and social inclusion (training, interactions, workshop, debate and distribution of resource materials etc)\r\n\t\r\n\t\tMobilisation of community based organisations of women (and others) to provide critical feedback and inputs to drafts of the constitution.\r\n\t\r\n\t\tStrenghtening women’s networks (N-FOWRC) from district to national levels by organizing capacity building training, interactions and providing support to organize campagins, rallies and public hearing  to end impunity and to promote women’s advancement.\r\n\t\r\n\t\tDevelop and conduct psycho-education sessions on reactions to distress, first interventions for communities.\r\n\t\r\n\t\tAssessment of local/ traditional psychosocial coping mechanisms in Kapilvastu and assessment of harmful traditions.\r\n\t\r\n\t\tTrained local volunteers will conduct various psychosocial activities (e.g. facilitating group discussion among women facing distress to provide forum for sharing, ventilation,strengthening life skills to get affirmation and for raising awareness among these women about their rights and how they can challenge oppressive practices.)\r\n\t\r\n\t\tCommunity based support by  thorough information for women in need on institutions offering mental health, social, medical or other specialized services on basis of the assessment of services. (Provision of emergency fund to support women survivors of violence to meet their costs for medical care, tranportation, food  and shelter.)\r\n\t\r\n\t\tCapacity building of community based psycho social care providers, traditional healers and local health workers. Organize psychosocial care worker’s capacity building activities and provide support  to initiate interventations for wellbeing through group facilitation and mobilization\r\n\t\r\n\t\tSupport to create a loose forum of service providers (police, health service poviders, public prosecuter, administers and concerned groups such as KOSHISH group) to share information and learnings inoder to render gender responsive service to the survivors) and creating community safety nets.\r\n\t\r\n\t\tSupport to psychosocial care workers in terms of training in stress management, emotional support regular sharing meetings, caregiver peer support, etc.\r\n\t\r\n\t\tAssessment of existing services available for psychosocial and mental health care, health care, legal aid and identify gaps and advocate for addressing gaps.\r\n\t\r\n\t\tFacilitate linkages and coordination with professional mental health care providers, psychosocial counsellors, and other referral institutions (legal aid cells) to provide specific services to women survivors of violence (at local and national levels).\r\n\t\r\n\t\tConduct workshops with influential members of community (schoolteachers, religious leaders, ward members, youth and elected women members, traditional healers), on consequences of harmful traditional practices (e.g. child marriage, etc) and provide support for regular interaction to monitor the progress.\r\n\t\r\n\t\tTrain men as trainers on masculinities, gender based violence and social inclusion. to promote critical thinking around masculinities, gender norms and GBV and accountability\r\n\t\r\n\t\tOrganise districts level workshops for reflection on maculinities, role of men and boys to end  GBV, women empowerment  and gender equality.\r\n\t\r\n\t\tSensitisation programmes among communities (men and women) for critical thinking to promote behaviour change. Organize PEC centers at community levels for for critical thinking to promote behaviour change on harmful socio-cultural practices at household and community and awareness on UNSCR 1325/1820, gender issues, women’s rights, social exclusion and caste based discrimination.\r\n\t\r\n\t\tMass awareness on UNSCR 1325/1820, gender issues, women’s rights, social exclusion (including caste based) through popular media such as radio and TV, theatre and wall newspaper.\r\n\t\r\n\t\tSupport to demystify Constitution and legal provisions ( family law, citizeship and nationality laws and laws addressing GBV) by providing information in simple Nepali and loc"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "475",
+        "raw_payload": {
+          "id": 623,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 1070359.452,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-475",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/475",
+        "value": "475"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Women Empowerment for transformation in Churia Area Project (SAKCHHAM II)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/475",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-475",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1070359.452,
+    "total_disbursement": 1001763.18397,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.262900Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-475",
+      "id": "version:entity:project/development_project/dfmis-475:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

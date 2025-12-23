@@ -1,0 +1,150 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.174944Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2437",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.174947Z",
+    "dates": [
+      {
+        "date": "2016-07-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-01-15",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-01-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "2437",
+        "raw_payload": {
+          "id": 10609,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Foreign Affairs",
+    "financing": [
+      {
+        "amount": 1794749.429,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-07-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2437",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2437",
+        "value": "2437"
+      }
+    ],
+    "implementing_agency": "Ministry of Foreign Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reconstruction of Schools Damaged by Earthquake in Northern Dolakha",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2437",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2437",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1794749.429,
+    "total_disbursement": 3249951.52789,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.174944Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2437",
+      "id": "version:entity:project/development_project/dfmis-2437:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

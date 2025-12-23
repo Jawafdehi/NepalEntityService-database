@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.614855Z",
+  "dates": [
+    {
+      "date": "2011-08-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-08-28",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "To assist in the development of a well considered legal framework that meets the needs and aspirations of the Nepali people and conforms to international standards\r\n    Provide key stakeholders with information and technical advice on electoral issues related to the constitution and election and political party laws\r\n    To build the capacity of targeted stakeholders on the electoral legal framework\r\n    Support and strengthen the EC of Nepal as an independent electoral management body, including support to a potential revised structure of the Commission subsequent to the ratification of the new constitution\r\n    To facilitate rapid conduct of elections under the new constitution"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "294",
+      "raw_payload": {
+        "id": 495,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 1133848.064,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-08-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/294",
+      "value": "294"
+    }
+  ],
+  "implementing_agency": "Ministry of Foreign Affairs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Support to election commission on CA election and legislation reform",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/294",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-294",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1133848.064,
+  "total_disbursement": 1617069.98345,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.614853Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-294",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

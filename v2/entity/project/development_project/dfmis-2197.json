@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.317645Z",
+  "dates": [
+    {
+      "date": "2021-11-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-11-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 830 Caregivers ((F:500 and M: 330)) are oriented on an integrated package[1] related to young children’s (0-3 years) rights by 22 FCHVs/ECCD facilitators and social mobilizers a.       Review and update the training package related to young children’s rightsb.       Initial and refresher training to Social Mobilizers, ECCD facilitators/FCHVs on integrated package related to young children’s rights including the development of local playing and learning materialsc.       Review and reflection meeting with FCHVs/ECCD facilitators and social mobilizers on a half-yearly basisd.       Conduct monthly sessions on integrated package related to young children’s rights[1] This project will cover the early stimulation and selective components of health and nutrition. However, the existing NORAD-funded project covers the protection aspects that are not included in this project.a.       Provide playing and lea rning materials/pictorial storybooks to all households with girls and boys 0-3 years old and to each center, where caregiver sessions are being held.1.2 Caregivers have received the support to implement the activities of integrated package related to young children’s rights at homea.       Conduct monthly home visits by ECCD Facilitators/FCHVs and social mobilizers1.3 1,660 caregivers (F:1000 and M: 660) are reached via radio program/IVR audio push/feedback on an integrated package related to young children’s rights (all eight wards)a.       Develop and broadcast interactive radio sessions and IVR audio push/feedback (covering all 8 wards)2.1. Local and provincial government capacity is built on their roles and responsibilities to assure young children’s rights a.       Conduct orientation on the importance of young children’s rights to local government representative and staff including review and reflection of effective implementation of ECCD strategy focusing on 0-3 years childrenb.       Organize joint planning (annual), Review/learning (Semi-annual) meeting with local governments, other stakeholders, and civil society networksc.       Lobby meeting with provincial ECCD caucus[1] and government for allocation of resources for young children and effective implementation of ECCD strategyd.       Collaborate with Provincial Hospital and the local government for organizing the early disability screening camp and referral support for further treatment (integration with existing SAHAYATRA II Project).2.2 Local civil society network is mobilized to advocate for very young children’s rightsa.       Conduct orientation on the importance of young children’s rights to civil society network, and prepare a plan of action to lobby with the local governmentb.       Collaborate with civil society network and organize lobby meetings/events with the local government for allocation of resources to young childrenc.       Conduct awareness campaign program and street drama on young children’s rights during various days/week celebration (immunization, vitamin A, Breastfeeding week, child rights day, etc.)Other activities run by Save the Children and its partnera.       MOUs with municipalityb.       Conduct the kick-off meeting of the project at the SC and municipality levelc.       Orientation to project staff on safeguarding and Gender and Social Inclusion (GESI)d.       Develop quality benchmarks and project operation guideline of project activities and monitoring of it for quality implementation of the project activitiese.       Travel, monitoring; and planning and review meetings and monthly staff meetingsf.        Conduct baseline, endline, and collect periodic data/information for measuring indicators[1] A loose network of parliamentarian member, Coordination Committee for Early Childhood Development - ECD Caucus"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2197",
+      "raw_payload": {
+        "id": 13482,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 138601.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-11-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2197",
+      "value": "2197"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kopila project_0-3 YO  75202296",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2197",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2197",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 138601.0,
+  "total_disbursement": 93861.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.317643Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2197",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

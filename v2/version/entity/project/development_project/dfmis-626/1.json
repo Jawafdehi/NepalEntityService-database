@@ -1,0 +1,212 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.888632Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-626",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.888634Z",
+    "dates": [
+      {
+        "date": "2011-03-23",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-02-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-11-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A total of 80 bridges are expected to be built during the phase and the programme will have mainly four components:\r\ni) Construction and piloting of new bridges (having average span of 40 meters to support loads of 15 tonnes on average) and approaches corresponding to outputs 1, 2 & 3\r\nii) Generation of knowledge and technological transfers corresponding to output 4\r\niii) Formulation of policy, strategies, business plans, norms and standards corresponding to output 4\r\niv) Capacity building of GoN, local communities and private sector[1] corresponding to output \r\n\r\n\r\n\r\n[1] Out of 1200 registered private contractors of different class categories (A,B,C and D), very few A and B class contractors have \r\nexperience on building road bridges at a standard prescribed by DoR."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "626",
+        "raw_payload": {
+          "id": 3158,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 9919371.95,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-02-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 530447.6979,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-02-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 8125677.14,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-09-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1060026.354,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-06-23",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1057895.713,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-08-27",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-626",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/626",
+        "value": "626"
+      }
+    ],
+    "implementing_agency": "Department of Local Infrastructure",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Motorable Local Road Bridge Program Phase I",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/626",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-626",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 20693418.8549,
+    "total_disbursement": 20371297.4729585,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.888632Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-626",
+      "id": "version:entity:project/development_project/dfmis-626:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

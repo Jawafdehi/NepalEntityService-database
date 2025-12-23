@@ -1,0 +1,222 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.743452Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1048",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.743454Z",
+    "dates": [
+      {
+        "date": "2013-07-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-08-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Formulate a full size project document on \"Community Based Flood and Glacial Lake Outburst Risk Reduction\" project"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Global Environment Facility",
+        "donor_project_id": "1048",
+        "raw_payload": {
+          "id": 3199,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 39,
+          "organization__development_cooperation_group__name": "Global Environment Facility",
+          "organization__logo": "",
+          "organization__name": "Global Environment Facility",
+          "organization_id": 169,
+          "percentage": 87
+        }
+      },
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "1048",
+        "raw_payload": {
+          "id": 3202,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 13
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology, United Nations Development Programme",
+    "financing": [
+      {
+        "amount": 6300000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Environment Facility",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-07-15",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 116026.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-05",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 915454.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-08-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 71000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-09-17",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": -51044.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Environment Facility",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-19",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1048",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1048",
+        "value": "1048"
+      }
+    ],
+    "implementing_agency": "United Nations Development Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Based Flood & Glacial Lake Outburst Risk Reduction",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1048",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1048",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 7351436.0,
+    "total_disbursement": 7459590.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.743452Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1048",
+      "id": "version:entity:project/development_project/dfmis-1048:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

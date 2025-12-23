@@ -1,0 +1,166 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.341746Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2527",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.341748Z",
+    "dates": [
+      {
+        "date": "2019-11-21",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "his project aims to support Nepal in achieving the SDGs and the targets of 15th plan by creating enabling environment and capacity development through accelerated implementation. Inclusion is an integral part of this initiative as is the integration of poverty, environmental management and climate change: the new sustainable development agenda reflects a greater recognition of challenges arising from depleted natural capital, climate vulnerability, gender inequality, rural-urban migration and rising resource demands, all of which disproportionately affect the livelihoods and well-being of the poor and vulnerable. The project hence will mainstream gender and social inclusion throughout the project interventions."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "2527",
+        "raw_payload": {
+          "id": 13744,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "European Commission",
+        "donor_project_id": "2527",
+        "raw_payload": {
+          "id": 13745,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "United Nations Development Programme",
+    "financing": [
+      {
+        "amount": 2600000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-11-21",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2527",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2527",
+        "value": "2527"
+      }
+    ],
+    "implementing_agency": "National Planning Commission",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Accelerating Implementation of Sustainable Development Goals in Nepal (AISN)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2527",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2527",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2600000.0,
+    "total_disbursement": 1890304.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.341746Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2527",
+      "id": "version:entity:project/development_project/dfmis-2527:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

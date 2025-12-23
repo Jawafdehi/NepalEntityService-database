@@ -1,0 +1,175 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.693090Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-39399-013-ln2579",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.693094Z",
+    "dates": [
+      {
+        "date": "2010-05-25",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2010-05-25",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2015-03-15",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2023-03-28",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ADB and the governments of Bangladesh, India, and Nepal are working together to develop and improve tourism sites and facilities in the three countries. The South Asia Tourism Infrastructure Development Project is improving the infrastructure around key tourist sites and cultural sites in the three countries, and expanding the air and road links that connect the various destinations. This includes upgrading airports; fixing roads; and cleaning up tourist sites with improved water supply, sanitation systems, and solid waste management. Visitor centers will be also be improved. The project is working to spread tourism to remote communities that are currently bypassed by the popular tourist markets. This work is benefiting about 2.4 million people in the three countries through increased income, jobs, improved health and local environmental conditions, and reduced travel times. About 270,000 people are benefiting from new job opportunities created by the project, and at least 5,000 others are enjoying expanded livelihood options."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-39399-013-LN2579",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Naresh Pradhan",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=39399-013 (Active)&officer= htiwari@adb.org&division= Nepal Resident Mission (NRM)&projectcountry= India"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-39399-013-LN2579",
+          "last_updated": "2025-11-24T08:37:29+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 28.0,
+              "location_id": "1282988",
+              "lon": 84.0,
+              "name": "Nepal",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 22.0,
+              "location_id": "1269750",
+              "lon": 79.0,
+              "name": "India",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 24.0,
+              "location_id": "1210997",
+              "lon": 90.0,
+              "name": "Bangladesh",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-39399-013-ln2579",
+    "identifiers": null,
+    "implementing_agency": "Department of Tourism-Sikkim State",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "South Asia Tourism Infrastructure Development Project (Bangladesh, India, and Nepal) - India",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:21050",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-39399-013-ln2579",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "CLIMATE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Environmentally sustainable growth",
+        "normalized_tag": null
+      },
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.693090Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-39399-013-ln2579",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-39399-013-ln2579:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.854312Z",
+  "dates": [
+    {
+      "date": "2018-01-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-10-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Desk review and data collection1.2 Baseline data collection1.3 Institutional assessment1.4 Value chain assessment1.5 Climate risk assessment1.6 Off-farm livelihoods assessment1.7 Mitigation and soil assessment1.8 Knowledge management assessment and procurement capacity needs assessment2.1 Prepare proposal development stakeholder engagement plan2.2 Inception mission consultations2.3 Follow-up consultations3.1 Prepare proposal documentation preparation plan3.2 Prepare revised project framework3.3 Prepare ESIA and ESMP3.4 Prepare Gender Action Plan3.5 Prepare Executing Entity Appraisal report3.6 Prepare Integrated Financial Model3.7 Prepare economic analysis of suggested options3.8 Prepare GIS maps4. Prepare procurement plan and budget4.2 Prepare M&E plan5.1 Prepare draft full proposal document5.2 Prepare revised full proposal document"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Environment Programme",
+      "donor_project_id": "1619",
+      "raw_payload": {
+        "id": 11407,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Environment Programme",
+        "organization_id": 9,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 230907.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Environment Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-01-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1619",
+      "value": "1619"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promoting transformative and climate resilient agriculture (CRA) in Nepal-Preparation Full Proposal for Green Climate Fund",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1619",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1619",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 230907.0,
+  "total_disbursement": 219469.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.854309Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1619",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

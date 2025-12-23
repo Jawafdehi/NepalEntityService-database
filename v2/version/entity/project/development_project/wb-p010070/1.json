@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.865775Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010070",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.865777Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Kathmandu is the main center for foreign tourists and the only place where hotels are up to international standards. Of the 558 hotel rooms which meet the Department of Tourism's standards, 500 are in Kathmandu. The proposed project would add 271 rooms, which it is estimated would provide accommodation for some 34,000 additional tourists per year. The project is made up of two sub-projects, the extension and refurbishing of the existing Hotel de l'Annapurna; and the construction of a new hotel, to be called the Yak and Yeti Hotel. The project is expected to be completed by the end of 1974. The credit would cover 64 percent of the total financing."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010070",
+        "raw_payload": {
+          "boardapprovaldate": "1972-03-14T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010070",
+          "major_sector_code": "UX",
+          "major_sector_name": "(Historic)Urban Development",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "UX",
+                "major_sector_name": "(Historic)Urban Development",
+                "sectors": [
+                  {
+                    "sector_code": "UY",
+                    "sector_name": "(Historic)Other urban development",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "(Historic)Other urban development",
+          "proj_id": "P010070",
+          "project_abstract": "Kathmandu is the main center for foreign tourists and the only place where hotels are up to international standards. Of the 558 hotel rooms which meet the Department of Tourism's standards, 500 are in Kathmandu. The proposed project would add 271 rooms, which it is estimated would provide accommodation for some 34,000 additional tourists per year. The project is made up of two sub-projects, the extension and refurbishing of the existing Hotel de l'Annapurna; and the construction of a new hotel, to be called the Yak and Yeti Hotel. The project is expected to be completed by the end of 1974. The credit would cover 64 percent of the total financing.",
+          "project_name": "TOURISM/NIDC",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010070",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010070",
+        "value": "p010070"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TOURISM/NIDC",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010070",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "(Historic)Urban Development",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010070",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.865775Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010070",
+      "id": "version:entity:project/development_project/wb-p010070:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

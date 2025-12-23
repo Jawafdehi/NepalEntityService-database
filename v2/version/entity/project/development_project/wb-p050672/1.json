@@ -1,0 +1,180 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.540262Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p050672",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.540264Z",
+    "dates": null,
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P050672",
+        "raw_payload": {
+          "boardapprovaldate": "2006-05-04T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "25000000",
+          "envassesmentcategorycode": "B",
+          "grantamt": "0",
+          "id": "P050672",
+          "major_sector_code": "AX",
+          "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AI",
+                    "sector_name": "FY17 - Irrigation and Drainage",
+                    "sector_percent": "100.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Irrigation and Drainage",
+          "proj_id": "P050672",
+          "project_name": "TERAI GROUNDWTR PROJ",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Dropped",
+          "themev2_level1_exact": [
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Rural Development",
+            "FY17 - Water Resource Management"
+          ],
+          "totalamt": "21800000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 21800000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2006-05-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p050672",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P050672",
+        "value": "p050672"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TERAI GROUNDWTR PROJ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P050672",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p050672",
+    "stage": "terminated",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 21800000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.540262Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p050672",
+      "id": "version:entity:project/development_project/wb-p050672:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

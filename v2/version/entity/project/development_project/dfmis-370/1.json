@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.483774Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-370",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.483777Z",
+    "dates": [
+      {
+        "date": "2008-11-07",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-11-07",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-11-15",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The program’s interventions target mobile populations, injecting drug  users and men who have sex with men, as well as people who are  HIV-positive. Under the program, prevention efforts and community  outreach through peer education and interpersonal communication will be  scaled up to reduce the stigma related to HIV and to lower the barriers  to accessing HIV and AIDS treatment and counseling services."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_project_id": "370",
+        "raw_payload": {
+          "id": 783,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 40,
+          "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+          "organization__logo": "",
+          "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+          "organization_id": 176,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 434212.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 5936900.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-07",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-370",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/370",
+        "value": "370"
+      }
+    ],
+    "implementing_agency": "Family Planning Association Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Scaling up coverage and quality of HIV AIDS prevention targeted to most at risk populations and treatment care and support services to PLWHA / Family Planning Association",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/370",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-370",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 6371112.0,
+    "total_disbursement": 6371112.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.483774Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-370",
+      "id": "version:entity:project/development_project/dfmis-370:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

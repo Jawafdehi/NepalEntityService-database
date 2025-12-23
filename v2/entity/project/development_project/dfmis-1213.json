@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.955674Z",
+  "dates": [
+    {
+      "date": "2018-09-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2018-09-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Orientation of international organisation personnel and implementing partner personnel\r\n\tOrientation of District Education Office, School Management Committee and relevant community stakeholders\r\n\tTraining and coaching of community masons and mobilisers\r\n\tReconstruction of damaged or destroyed classrooms\r\n\t\r\n\tReconstruction of damaged or destroyed water, sanitation and hygiene facilities\r\n\t\r\n\t\r\n\tDisaster risk reduction through teacher training"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Street Child of Nepal",
+      "donor_project_id": "1213",
+      "raw_payload": {
+        "id": 11565,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Street Child of Nepal",
+        "organization_id": 745,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Street Child of Nepal",
+  "financing": [
+    {
+      "amount": 2961710.962,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Street Child of Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-09-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1213",
+      "value": "1213"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education for all: enabling access in earthquake affected areas",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1213",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1213",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2961710.962,
+  "total_disbursement": 2735225.86947,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.955671Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1213",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

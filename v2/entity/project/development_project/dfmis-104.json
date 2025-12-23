@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.317578Z",
+  "dates": [
+    {
+      "date": "2010-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-12-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Evidence on deteriminants of maternal and newborn health.\r\n2. Capacity of district and national RH focal persons on monitoring and evaluation of population and RH programme strengthened.\r\n3. Post training skills of SBAs and implementation of revised PCL nursing curricula based on SBA competency monitored.\r\n4. Support to the national pre-service education policy for quality improvement of nurse, midwives and ANMs education.\r\n5. Capacity of midwifery teachers in pre-service nursing education strengthened.\r\n6. Facility based maternal and perinatal death reviews strengthened and expanded.\r\n7. Strengthening information base for MNH management.\r\n8. Access and utilization of MNH care and services for under-served populations improved in accordance to the developed community and outreach strategy.\r\n9. Capacity of doctors and nurses enhanced in accordance ot the adapted essential newborn care package.\r\n10. Child health program supported, through improved planning and implementation.\r\n11. IMCI program updated, strengthed and integrated with other programs.\r\n12. Assessment of the pediatric care in regional hospitals and dissemination of findings at regional and central level.\r\n13. Adolescent friendly clinics institutinalized at district level in partnership with relevant stake holders.\r\n14. Community based family planning services strengthened in selected districts.\r\n15. National Cervical Cancer Prevention Program piloted in partnership.\r\n16. Uterine prolapse services at regional/zonal level strengthened.\r\n17. IEC materials on key health issues related to reproductive health of elederly women developed and disseminated.\r\n18. Prevention and management of GBV programme strengthened.\r\n19. Strengthen nutrition program, including revision of plan of action.\r\n20. Support nutrition related efforts targeting especially vulnerable groups.\r\n21. Strengthened health workers' skills in prevention of malnutrition as well as the management of severe malnutrition.\r\n22. Improved awareness of nutrition in emergency and other food insecurity situations.\r\n23. The development of food guides based on the national food based dietary gudelines.\r\n24. Revise and strengthen the implementation of the national IYCF strategy."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Health Organization",
+      "donor_project_id": "104",
+      "raw_payload": {
+        "id": 1081,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "World Health Organization",
+        "organization_id": 26,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 652000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Health Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/104",
+      "value": "104"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SENEP1003982 - Improving health and nutrition during key stage of life-including pregnancy, childbirth, neonatal period, childhood, adolescence and older age-promoting equity",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/104",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-104",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 652000.0,
+  "total_disbursement": 628515.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.317575Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-104",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

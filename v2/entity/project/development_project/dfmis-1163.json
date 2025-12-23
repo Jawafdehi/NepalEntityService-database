@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.587467Z",
+  "dates": [
+    {
+      "date": "2013-07-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-07-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "IR 3.6.1- Develop interpersonal, social and media intervention tools and packages for parents and community stakeholders including media personnel\r\n\r\n \r\n\r\nIR 3.6.2- Strengthen the capacity of families, community and sub-national level duty bearers including the media, employers, government staff, religious organizations, and local political leaders for ensuring enabling and protective environment for adolescents\r\n\r\nIR 3.6.3- Create platforms for intergenerational dialogues between adolescents and adults for addressing harmful social norms and practices"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "1163",
+      "raw_payload": {
+        "id": 6968,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "National Planning Commission, Ministry of Youth and Sports, Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 954000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1163",
+      "value": "1163"
+    }
+  ],
+  "implementing_agency": "INGO, Ministry of Youth and Sports, Ministry of Women, Children and Senior Citizens",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "IR 3.6. Social Change Among Staff, Leaders and Media",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1163",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1163",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 954000.0,
+  "total_disbursement": 1404635.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.587464Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1163",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

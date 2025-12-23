@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.320775Z",
+  "dates": [
+    {
+      "date": "2010-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Quality, integration and comprehensiveness of health sector information systems improved.\r\n2. Capacity of NHRC to implement National Health Research issues and challenges strengthened.\r\n3. Evidence-based National Health Workforce plan developed.\r\n4. The capacity of Nepal Nursing Council to introduce regulatory framework for Nursing profession enhanced.\r\n5. Capacity of Nepal Medical Council of Nepal further strengthened.\r\n6. The functions of Nepal Health Professional Council further strengthened.\r\n7. Capacity of NHTC to implement need-based health workforce training further improved.\r\n8. The pre-service training capacity of BPKIHS further strengthened.\r\n9. Thr training capacity of IoM further instrengthened.\r\n10. The training capacity of NAMS further strengthened.\r\n11. Capacity for training of health workforce further developed."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Health Organization",
+      "donor_project_id": "105",
+      "raw_payload": {
+        "id": 1086,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "World Health Organization",
+        "organization_id": 26,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 713000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Health Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/105",
+      "value": "105"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SENEP1003934 - Nepal Human Resources for Health",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/105",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-105",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 713000.0,
+  "total_disbursement": 708886.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.320773Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-105",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.526716Z",
+  "dates": [
+    {
+      "date": "2013-06-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "- Review the report and data of the 2010 Child Labour Survey and prepare estimates to identify areas of high concentration of hazardous child labour at the district level.\r\n\r\n\t- Prepare a District Mainstreaming Strategy in a from of a briefing note and identify key entry points in the various plans and frameworks (including those related to the economic and social empowerment of the families).\r\n\r\n\t- Identify most feasible monitoring and reporting mechanisms to integrate child labour issue, particularly those linked with district/national planning mechanisms.\r\n\r\n\t-  Prepare a simple and low-cost ‘how-to’ manual (including tools and estimations) to serve as guidance for replication/adaptation of the model by other districts/sub-districts.\r\n\r\n\t- Identify the most appropriate survey for purposes of identifying the number of children in the worst forms of child labour, age-group, gender, socio-economic status of the family, education status, workplaces where children are working including mapping of services and service providers  for referrals and mainstreaming purpose. \r\n\r\n\t- Develop social mobilization strategy to bring community members (including community leaders, families, school teachers, hospitals, youth, human rights groups and children among others) on-board.\r\n\r\n\t- Through involvement of social partners, seek participation of employers and workers and their groups in programs, campaigns and referral processes in the two districts to ensure that children of legal working age are protected and those below working age are not involved in the worst forms or hazardous forms of child labour.\r\n\r\n\t- Identify and facilitate linkages through joint programmes with schools, training and other services in cooperation with the DWCB and Child Protection/Welfare Committees\r\n\r\n\t- Organize ToT for 50 national trainers using the Capacity Development Training Module prepared under Child Labour Phase I Project in cooperation with the MoLE/CLERS.\r\n\r\n\t-  Reach out to 200 individuals and relevant stakeholders from various agencies to mainstream child labour elements in their programs and curricula based on the Manuals and Guidelines developed by the Project.\r\n\r\n\t- In collaboration with the CLERS, social partners, prepare a campaign module on workplace corporal punishment, Occupational Safety and Health and other workplace issues related to child labour and children at legal working age to contribute to the efforts of the SAIEVAC campaign in Nepal which can be replicated in other countries.\r\n\r\n\t- Review national laws on child labour and those related to child labour."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Danish International Development Agency",
+      "donor_project_id": "544",
+      "raw_payload": {
+        "id": 7268,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 8,
+        "organization__development_cooperation_group__name": "Denmark",
+        "organization__logo": "",
+        "organization__name": "Danish International Development Agency",
+        "organization_id": 21,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "International Labour Organization",
+  "financing": [
+    {
+      "amount": 582000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Danish International Development Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-06-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/544",
+      "value": "544"
+    }
+  ],
+  "implementing_agency": "NGOs, Ministry of Labour, Employment and Social Security",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Towards Achieving the Elimination of the Worst Forms of Child Labour as Priority (ACHIEVE)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/544",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-544",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 582000.0,
+  "total_disbursement": 582000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.526713Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-544",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

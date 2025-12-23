@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.740230Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-173",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.740232Z",
+    "dates": [
+      {
+        "date": "2007-03-09",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2007-03-27",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Year round surveillance \r\n     Building laboratory capacity for diagnosis and case detection \r\n     Prevention and containment activities including social distancing and use of vaccines \r\n    Curative interventions, including case management and antiviral drugs in the event that human infections occur"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "International Development Association",
+        "donor_project_id": "173",
+        "raw_payload": {
+          "id": 675,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "International Development Association",
+          "organization_id": 17,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 7482747.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "International Development Association",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2007-03-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-173",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/173",
+        "value": "173"
+      }
+    ],
+    "implementing_agency": "Ministry of Health and Population",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Avian Influenza Control Project  (Human Health Component)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/173",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-173",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 7482747.0,
+    "total_disbursement": 7959164.4225,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.740230Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-173",
+      "id": "version:entity:project/development_project/dfmis-173:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

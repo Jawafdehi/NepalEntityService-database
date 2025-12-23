@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.862050Z",
+  "dates": [
+    {
+      "date": "2016-12-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-07-31",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1111(a) Conduct participatory gender responsive analysis identifying environmentally sustainable agriculture and livelihood opportunities\r\n\r\n1111 (b) establish producer groups for women and men in affected areas\r\n\r\n1.1.1.2. Facilitate provision of environmentally sustainable  agricultural inputs  (seeds, fertilizer, livestock, improved technologies) to targeted producer groups\r\n\r\n1.1.1.3. Facilitate training of producer groups on identified market requirements\r\n\r\n1.1.1.4. Facilitate/support producer groups’ small scale rehabilitation (animal sheds, stores, ware-houses, poultry farms, milk chilling centers and local market places) and create linkage with community rehabilitation/reconstruction initiatives\r\n\r\n1.1.1.5.Facilitate sustainable links between producer groups, agriculture input providers and government agencies\r\n\r\n1.1.2.1. Facilitate the establishment / revitalization of  gender responsive disaster management (DRM) committees in the selected districts\r\n\r\n1.1.2.2.Conduct gendered disaster preparedness training (including DRR plans, vulnerability assessments, early warning systems)for producer groups, DRM committees, local government and community leaders to improve resilience of economic enterprises.\r\n\r\n1.1.2.3. Provide disaster preparedness technical support in implementation of DRR plan to producer groups and communities (men and women, boys and girls) to minimize adverse impact of disasters on livelihoods.\r\n\r\n1.1.2.4. Conduct gender responsive disaster awareness raising activities adapted to local needs including local language for communities using radio, IEC materials, and community workshops.\r\n\r\n1.2.1.1. Conduct participatory gender-responsive market analysis of different micro-enterprises and identify viable and sustainable opportunities.\r\n\r\n1.2.1.2.  Support micro-enterprises to resume or start business based on market analysis findings\r\n\r\n1.2.1.3.  Facilitate design and delivery of entrepreneurial skills training for women and youth in identified micro-enterprises by market actors\r\n\r\n1.2.1.4. Create market linkages between MSMEs and private sector market actors including providers of inputs, technical, financial and insurance services.\r\n\r\n1.2.1.5. Provide Small Grant to equip with material for new and existing MSMEs\r\n\r\n1.2.2.1. Conduct participatory assessment of financial and business service barriers for women  entrepreneurs with stakeholders (women, business/financial service providers and government)\r\n\r\n1.2.2.2. Select and engage decision makers of financial and business companies on gender responsive products development for the earthquake affected MSMEs especially those led by women\r\n\r\n1.2.2.3. Establish community savings groups to benefit producer groups and other MSMEs, especially those led by women\r\n\r\n1.2.2.4. Facilitate training of savings groups and cooperatives by financial and business service providers on loan products/business services\r\n\r\n1.3.1.1. Conduct labor market assessment with participation of different stakeholders (local governments, education/training institutes, chamber of commerce and communities)\r\n\r\n1.3.1.2. Organize information sessions to disseminate labor market assessment findings (opportunity and gaps, demand driven skills) for communities, women and youth and education/training institutions, chamber of commerce.\r\n\r\n1.3.2.1. Facilitate development of labour market skills curriculum training programs in line with identified labour market needs for individuals especially women and youth by chamber of commerce, and government.\r\n\r\n1.3.2.2.  Provide training to individuals especially women and youth on identified labour market and work-readiness skills including (CV development, interview preparation, gender-sensitive career path development)\r\n\r\n1.3.2.3. Sensitize and bring together employers, MSMEs, chamber of commerce and government to support  women and youth sensitive employment practices and opportunities\r\n\r\n1.3.2.4. Facilitate networking opportunities of trained and certified women, and youth with employment agencies (companies, recruiting agencies and government"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CECI Nepal",
+      "donor_project_id": "1198",
+      "raw_payload": {
+        "id": 9787,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CECI Nepal",
+        "organization_id": 523,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "CECI Nepal",
+  "financing": [
+    {
+      "amount": 1138372.745,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CECI Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1198",
+      "value": "1198"
+    }
+  ],
+  "implementing_agency": "CECI Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Punanirman: Livelihood Promotion for Earthquake Affected Population in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1198",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1198",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1138372.745,
+  "total_disbursement": 1132363.2169,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.862047Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1198",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

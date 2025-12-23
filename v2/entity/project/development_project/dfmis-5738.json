@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.318515Z",
+  "dates": [
+    {
+      "date": "2017-05-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-05-24",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Pounds Sterling 50 million"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "5738",
+      "raw_payload": {
+        "id": 38473,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Forests and Environment",
+  "financing": [
+    {
+      "amount": 64854331.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-05-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5738",
+      "value": "5738"
+    }
+  ],
+  "implementing_agency": "Alternative Energy Promotion Center, Ministry of Forests and Environment",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Climate Smart Development Programme (Project No. 204984)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5738",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5738",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 64854331.0,
+  "total_disbursement": 49790282.72,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.318513Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5738",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

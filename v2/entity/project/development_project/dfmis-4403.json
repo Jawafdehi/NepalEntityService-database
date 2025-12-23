@@ -1,0 +1,190 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.520097Z",
+  "dates": [
+    {
+      "date": "2012-03-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-06-21",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Proposed an  Electricity Transmission Expansion and Supply Improvement Project  is critical for reliability of Energy supply in Nepal and its capacity for power import and export across the border. This Project will address the following three key areas as inputs:(i) Electricity transmission capacity supply expansion including facilitation of increased cross-border power flows which include 2nd  circuit string ig Kohalpur- Mahendranagar 132kV transmission line, construction of Tamakoshi (Khimthi)- Kathmandu 220 kV/400kv transmission line and  expansion of Chapali grid subststion;(ii) Strengthning of the distribution  system in both DCS (East) and DCS (West) and along the Tamakoshi (Khimthi)- Kathmandu  transmission line;(iii) Rehabilitation of Tinau (1 MW) and Sundarijal (640) small- hydro power plants"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "4403",
+      "raw_payload": {
+        "id": 40153,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "4403",
+      "raw_payload": {
+        "id": 40154,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "financing": [
+    {
+      "amount": 72460000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2012-03-23",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 19000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-03-23",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 25921062.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-03-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4403",
+      "value": "4403"
+    }
+  ],
+  "implementing_agency": "Nepal Electricity Authority",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Electricity Transmission Expansion and Supply Improvement Project (ETESIP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4403",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4403",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 117381062.0,
+  "total_disbursement": 83816079.88,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.520095Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4403",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

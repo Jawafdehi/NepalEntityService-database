@@ -1,0 +1,126 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.601436Z",
+  "dates": [
+    {
+      "date": "2019-01-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "1376",
+      "raw_payload": {
+        "id": 43481,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Home Affairs, Ministry of Urban Development",
+  "financing": [
+    {
+      "amount": 1139700.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-01-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1376",
+      "value": "1376"
+    }
+  ],
+  "implementing_agency": "United Nations Development Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Reducing disaster risks and enhancing emergency response capacities in multihazard-risk prone urban areas of Nepal (ECHO 91031)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1376",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1376",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1139700.0,
+  "total_disbursement": 891040.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.601433Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1376",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

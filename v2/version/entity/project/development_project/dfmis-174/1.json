@@ -1,0 +1,257 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.759811Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-174",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.759813Z",
+    "dates": [
+      {
+        "date": "2008-04-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-04-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Policy Support\r\n\t\r\n\t\tCreation of Micro-Entrepreneurs\r\n\t\r\n\t\tScaling up of Entrepreneurs\r\n\t\r\n\t\tCapacity Enhancement of partner organisations and other stakeholders\r\n\t\r\n\t\tEnterprise Development for Discharged Ex-Combatants"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "174",
+        "raw_payload": {
+          "id": 1295,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 100
+        }
+      },
+      {
+        "donor": "Global Affairs Canada",
+        "donor_project_id": "174",
+        "raw_payload": {
+          "id": 1297,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 6,
+          "organization__development_cooperation_group__name": "Canada",
+          "organization__logo": "",
+          "organization__name": "Global Affairs Canada",
+          "organization_id": 184,
+          "percentage": 100
+        }
+      },
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "174",
+        "raw_payload": {
+          "id": 1298,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 100
+        }
+      },
+      {
+        "donor": "Himal Power Ltd",
+        "donor_project_id": "174",
+        "raw_payload": {
+          "id": 1299,
+          "organization__development_cooperation_group__architecture__id": 5,
+          "organization__development_cooperation_group__architecture__name": "Others",
+          "organization__development_cooperation_group__id": 60,
+          "organization__development_cooperation_group__name": "Private Enterprises",
+          "organization__logo": "",
+          "organization__name": "Himal Power Ltd",
+          "organization_id": 272,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Industry, Commerce and Supplies",
+    "financing": [
+      {
+        "amount": 1222743.02,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Affairs Canada",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-03-28",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3205128.205,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-04-23",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1585120.998,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-04-20",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3132396.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-04-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 300000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Himal Power Ltd",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-04-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-174",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/174",
+        "value": "174"
+      }
+    ],
+    "implementing_agency": "Department of Soil and Watershed Management, Ministry of Industry, Commerce and Supplies",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Micro-Enterprise Development Programme (MEDEP) III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/174",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Other Industries",
+        "donor_subsector": null,
+        "normalized_sector": "Other Industries",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-174",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 9445388.223,
+    "total_disbursement": 14090720.852,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.759811Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-174",
+      "id": "version:entity:project/development_project/dfmis-174:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

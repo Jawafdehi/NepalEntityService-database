@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.543393Z",
+  "dates": [
+    {
+      "date": "2012-02-20",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-03-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-01-14",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Vegetable kitchen gadening:\r\n\r\ncomposite vegetable seed packets\r\n\r\ncomposite fertilizer packets\r\n\r\nplant protection material kits\r\n\r\nsprayer\r\n\r\nkitchen garden tool sets\r\n\r\nsprinkeler polythene pipe sets"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "284",
+      "raw_payload": {
+        "id": 3658,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Department of Agriculture",
+  "financing": [
+    {
+      "amount": 9125.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-20",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 9125.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-20",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/284",
+      "value": "284"
+    }
+  ],
+  "implementing_agency": "Department of Agriculture",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TFD-10/NEP/004:  Improving nutritional status of school children and community people through increased productiona nd consumption of fruits and vegetables, \r\nRuppakot-VDC-9, Tahanun",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/284",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-284",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 18250.0,
+  "total_disbursement": 9125.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.543391Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-284",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

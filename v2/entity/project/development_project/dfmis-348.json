@@ -1,0 +1,248 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.360353Z",
+  "dates": [
+    {
+      "date": "2008-01-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-02-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "promotion of rehabilitation, economic growth, and poverty reduction through institutional reforms and rural infrastructure development.\r\n\t\r\n\t\trural roads, supplementary roads, community empowerment , PMS."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "OPEC Fund for Inernational Development",
+      "donor_project_id": "348",
+      "raw_payload": {
+        "id": 715,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 45,
+        "organization__development_cooperation_group__name": "OPEC Fund for International Development",
+        "organization__logo": "",
+        "organization__name": "OPEC Fund for Inernational Development",
+        "organization_id": 161,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "348",
+      "raw_payload": {
+        "id": 709,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "348",
+      "raw_payload": {
+        "id": 710,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "348",
+      "raw_payload": {
+        "id": 713,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 25
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 6170039.589,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 10000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "OPEC Fund for Inernational Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2008-01-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 100000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-01-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 19542491.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-01-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1500000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-01-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/348",
+      "value": "348"
+    }
+  ],
+  "implementing_agency": "Ministry of Federal Affairs & General Administration",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rural Reconstruction and Rehabilitation Sector Development Program[RRRSDP]",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/348",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-348",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 137212530.589,
+  "total_disbursement": 131221513.31,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.360350Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-348",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

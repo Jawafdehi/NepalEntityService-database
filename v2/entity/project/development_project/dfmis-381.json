@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.657969Z",
+  "dates": [
+    {
+      "date": "2008-07-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-07-23",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-09-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Targeting the country’s 13 high-risk districts, the program focuses on  training public health care providers and female community health  volunteers, improving diagnosis and access to treatment, monitoring drug  resistance and updating national antimalaria drug policy. The grant  focuses on procuring and distributing long-lasting insecticidal nets,  implementing behavior change communication strategies, and capacity  building."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_project_id": "381",
+      "raw_payload": {
+        "id": 1460,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 40,
+        "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+        "organization__logo": "",
+        "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "organization_id": 176,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 7024844.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-07-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/381",
+      "value": "381"
+    }
+  ],
+  "implementing_agency": "Population Services International Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Scaling up coverage and quality of malaria prevention and control in targeted high risk districts in Nepal / PSI",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/381",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-381",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 7024844.0,
+  "total_disbursement": 6467229.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.657966Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-381",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.277851Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1122",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.277854Z",
+    "dates": [
+      {
+        "date": "2014-06-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Facilitation for formation and operation of   SHGs \r\n\t\r\n\t\tPromotion of group savings and its mobilization\r\n\t\r\n\t\tSHG  management trainings , cornerstones training\r\n\t\r\n\t\tAnimal placement (doe and breeding buck of quality genetic merit)\r\n\t\r\n\t\tCommunity Agro-vet Entrepreneur (CAVE) training and capacity enhancement\r\n\t\r\n\t\tSupport CAVE for establishment of agro-vet enterprise\r\n\t\r\n\t\tFodder and forage production and nursery management\r\n\t\r\n\t\t100% De-worming and vaccination campaigns \r\n\t\r\n\t\tAnalysis of Animal production, productivity record at household level and feedback sharing with farmers\r\n\t\r\n\t\tPractice community managed livestock insurance\r\n\t\r\n\t\tFarm enterprise analysis and planning"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Heifer International Nepal",
+        "donor_project_id": "1122",
+        "raw_payload": {
+          "id": 7659,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Heifer International Nepal",
+          "organization_id": 578,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Heifer International Nepal",
+    "financing": [
+      {
+        "amount": 1425480.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Heifer International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-06-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1122",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1122",
+        "value": "1122"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Evaluating the Welfare Impacts of a Livestock Transfer Program in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1122",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1122",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1425480.0,
+    "total_disbursement": 1435645.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.277851Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1122",
+      "id": "version:entity:project/development_project/dfmis-1122:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

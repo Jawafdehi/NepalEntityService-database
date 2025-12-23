@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.162294Z",
+  "dates": [
+    {
+      "date": "2010-12-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-12-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Create  National Integrity Framework\r\n    Develop policy/legal/ Political Framework\r\n    Prepare Civil Society Framework\r\n    Develop International Framework and Locel Level Framework"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "217",
+      "raw_payload": {
+        "id": 897,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 200981.4595,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-12-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/217",
+      "value": "217"
+    }
+  ],
+  "implementing_agency": "Transperency International Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promoting National Integrity System TI-Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/217",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Services",
+      "donor_subsector": null,
+      "normalized_sector": "General Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-217",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 200981.4595,
+  "total_disbursement": 205808.51876,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.162275Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-217",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

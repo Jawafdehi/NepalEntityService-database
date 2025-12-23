@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.871067Z",
+  "dates": [
+    {
+      "date": "2016-03-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Site identification and preparation \r\n\r\n\r\nTraining\r\n\r\n1.1 Preparation of training site and training materials\r\n\r\n1.2 Provide quality training on MA and 2nd trimester safe abortion service\r\n\r\n1.3 Provide quality training on LARC\r\n\r\nSite support\r\n\r\n1.4 Conduct orientations (health facility staff/HFOMC members) to prepare facilities for providing abortion service.\r\n\r\nProvider support\r\n\r\n1.5 Provide programmatic support and/or need-based clinical mentoring to providers.\r\n\r\n1.6 Conduct annual providers networking meeting                        \r\n\r\nReview of quality of safe abortion service\r\n\r\n1.7 Monitor and evaluate service quality.\r\n\r\n1.8 Improve quality of services at selected facilities by conducting medical monitoring visits by Ipas Health Systems staff.\r\n\r\nProcurement of drug and equipment by LMD/DoHS \r\n\r\n1.9 Procurement and supply of MVA Kit and 2nd trimester set\r\n\r\n1.10 Procurement and supply of MA drug and Misoprostol\r\n\r\n2. FCHV training / Advocacy\r\n\r\n2.1 Conduct FCHV training in 8 districts  to provide early pregnancy testing and referral for services.\r\n\r\n\r\n2.2 FCHVs provide early pregnancy testing and referral in 23 districts.\r\n\r\nDemand generation\r\n\r\n2.3 Production and implementation of Brochure, Poster, Pamphlets (paper-based media) contents\r\n\r\nPolicy / Sustainability \r\n\r\n2.4 Participate and support MOH divisions to conduct workshop to develop Annual Work plan (including SAS).\r\n\r\n2.5 Conduct meeting and support to National Health Training Center (NHTC) for increased training capacity of both CAC and LARC training centers.\r\n\r\n2.6 Support FHD to conduct Technical Committee for Comprehensive Abortion Care (TCIC) and subgroup meetings, monitoring visits, and conduct technical update meetings in the selected districts.\r\n\r\n2.7 Conduct Central Project Advisory Committee meetings with to strategies to address emerging policy and programmatic issues affecting SAS.\r\n\r\n3. Monitoring and evaluation\r\n\r\n3.1 Routing monitoring of abortion service through HMIS data\r\n\r\n3.2 Monitoring of provider support through provider progress report (PPR)\r\n\r\n3.3 Monitoring site level status through site assessment checklist\r\n\r\n3.4 Conduct study on Client Exit Interview in selected sites of selected districts\r\n\r\n3.5 Conduct assessment of data quality of selected health facilities of selected districts\r\n\r\n3.6 Conduct district level data review meeting"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "IPAS Nepal",
+      "donor_project_id": "844",
+      "raw_payload": {
+        "id": 10045,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "IPAS Nepal",
+        "organization_id": 545,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "IPAS Nepal",
+  "financing": [
+    {
+      "amount": 3511702.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-03-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/844",
+      "value": "844"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population, Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Enhancing the Ability of Women to Obtain Comprehensive Abortion Care and Prevent Unwanted Pregnancy",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/844",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-844",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3511702.0,
+  "total_disbursement": 1535190.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.871064Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-844",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.094642Z",
+  "dates": [
+    {
+      "date": "2012-02-29",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-02-29",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "-Design ginger washing/processing facility, carry out prepatory environmental impact assestment (EIA) and other assestments, as needed.\r\n\r\n\t-Build ginger washing/processing facility for the Jhapa Corridor.\r\n\r\n\t-Develop ginger growing mannual and other training materials.\r\n\r\n\t-Devise and implement system for provision of post-harvest control measures.\r\n\r\n\t-Traceability and reducing frequency of pesticide residue testing."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "446",
+      "raw_payload": {
+        "id": 3897,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 1173692.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-28",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1173692.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-28",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/446",
+      "value": "446"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ginger Competitiveness Project: Enhancing Sanitary and Phytosanitary Capacity of Nepalese Ginger Exports through Public Private Partnerships",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/446",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-446",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2347384.0,
+  "total_disbursement": 1236710.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.094639Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-446",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

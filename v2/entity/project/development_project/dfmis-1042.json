@@ -1,0 +1,212 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.704073Z",
+  "dates": [
+    {
+      "date": "2013-11-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-11-12",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. CBM will enhance access to equitable quality health service for persons with disabilities and those living in extreme poverty.\r\n\r\n\t2. CBM will enhance access to inclusive education for children with disabilities.\r\n\r\n\t3. CBM will engages with the community to enhance access to rehabilitation services."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CBM Nepal Country Office",
+      "donor_project_id": "1042",
+      "raw_payload": {
+        "id": 7202,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CBM Nepal Country Office",
+        "organization_id": 565,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "CBM Nepal Country Office",
+  "financing": [
+    {
+      "amount": 862418.5202,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-03-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5442322.982,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-11-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 859678.1578,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-03-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2068024.387,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-03-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 688457.225,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-03-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 665878.1394,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-03-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1042",
+      "value": "1042"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Inclusive Development for People with Disabilities in Project Area (Nepal)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1042",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1042",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 10586779.4114,
+  "total_disbursement": 47832066.76947,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.704070Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1042",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

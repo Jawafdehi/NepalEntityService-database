@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.438853Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4315",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.438858Z",
+    "dates": [
+      {
+        "date": "2023-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-06-30",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Capacity building of FCHVs, health workers and Food Inspectors, logistic support (height board, weighing scale, MUAC tape) to expand treatment service, mass MUAC screening and referral, management of moderate acute malnutrition (MAM) cases, development of IEC/BCC materials, job aid and guidelines"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Helen Keller International",
+        "donor_project_id": "4315",
+        "raw_payload": {
+          "id": 41823,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Helen Keller International",
+          "organization_id": 525,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 939297.0,
+        "assistance_type": "other",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Helen Keller International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4315",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4315",
+        "value": "4315"
+      }
+    ],
+    "implementing_agency": "Helen Keller International",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Health and Nutrition Services in the selected districts of Lumbini Province of Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4315",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4315",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 939297.0,
+    "total_disbursement": 899977.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.438853Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4315",
+      "id": "version:entity:project/development_project/dfmis-4315:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,266 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.172290Z",
+  "dates": [
+    {
+      "date": "2011-06-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "2433",
+      "raw_payload": {
+        "id": 3350,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Department of Foreign Affairs and Trade",
+  "financing": [
+    {
+      "amount": 2410552.173,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2901228.596,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4071756.731,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3519458.781,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3617009.335,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3354224.791,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5312308.393,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4077274.417,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4063327.138,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4252160.947,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-07-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2433",
+      "value": "2433"
+    }
+  ],
+  "implementing_agency": "INGO",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Australian Aid –NGO Cooperation Program ( ANCP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2433",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2433",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 37579301.302,
+  "total_disbursement": 37579301.302,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.172288Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2433",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

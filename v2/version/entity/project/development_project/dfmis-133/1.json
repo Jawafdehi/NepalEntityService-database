@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.473409Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-133",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.473412Z",
+    "dates": [
+      {
+        "date": "2007-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2007-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Empowerment of PVSE women and men\r\n\t\r\n\t\tCapacity Building\r\n\t\r\n\t\tCommunity Based Natural Resource Management\r\n\t\r\n\t\tLivelihood Improvement\r\n\t\r\n\t\tFormal Education Support\r\n\t\r\n\t\tPolicy Advocacy\r\n\t\r\n\t\tLocal Participatory Democracy and Good Governance"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "133",
+        "raw_payload": {
+          "id": 539,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 6020197.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Danish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2007-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-133",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/133",
+        "value": "133"
+      }
+    ],
+    "implementing_agency": "CARE Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Churiya Livelihood Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/133",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-133",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 6020197.0,
+    "total_disbursement": 5265576.2843,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.473409Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-133",
+      "id": "version:entity:project/development_project/dfmis-133:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

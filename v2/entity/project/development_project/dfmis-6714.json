@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.642106Z",
+  "dates": [
+    {
+      "date": "2024-07-19",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-07-19",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Review gender-disaggregated climate risk and vulnerability data, international guidelines and local as well as international best practices and lessons learned from EbA projects in Nepal on urban EbA to select locally appropriate EbA interventions for the Kathmandu Valley.Prioritise EbA interventions based on local needs, preferences of women as well as men and cost-effectiveness.Develop technical guides for EbA interventions, including a framework for assessing cost-effectiveness of EbA interventions.Review existing policies, strategic plans, by-laws and development budgets to identify entry points for urban EBA.Develop recommendations for the inclusion of urban EbA considerations into policy and regulatory instruments including gender-related benefits and implications.Develop policy briefs for national-level policymakers in the MoUD, Ministry of Forest and Environment and the National Planning Commission for recommended policy revisions to support the national upscaling of urban EBA interventions.Develop training materials for the planning, design, implementation and maintenance of urban EbA in the Kathmandu Valley.Support to train KVDA, local government staff, community and local leaders in the Kathmandu Valley on planning, implementing and maintaining EbA interventions.Conduct site specific Climate Risk Vulnerability Assessment (CRVA) that considers the nexus of “urban growth, environmental degradation and climate change” in the Kathmandu Valley to establish linkages among these processes and ensure the selection of locally appropriate EbA interventions."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Human Settlements Programme",
+      "donor_project_id": "6714",
+      "raw_payload": {
+        "id": 44703,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Human Settlements Programme",
+        "organization_id": 16,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Urban Development",
+  "financing": [
+    {
+      "amount": 394580.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Human Settlements Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-07-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6714",
+      "value": "6714"
+    }
+  ],
+  "implementing_agency": "United Nations Human Settlements Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Urban Eco-system Based Adaptation for Climate-resilient Development in the Kathmandu Valley, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6714",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6714",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 394580.0,
+  "total_disbursement": 41337.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.642103Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6714",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

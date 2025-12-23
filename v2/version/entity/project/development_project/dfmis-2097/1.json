@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.089244Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2097",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.089247Z",
+    "dates": [
+      {
+        "date": "2021-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Mobilization of Youth Mobilizers to increase SRH awareness among Youth and Adolescents and People Living with Disabilities.Refresher training to Youth Mobilizers on Youth and Adolescents friendly SRH servicesCommunity Level engagement to School/colleges, Youth and adolescents through Youth mobilizersCommunity Level engagement activities with Female Community Health Volunteers, Health workers, women’s groups and influential peopleFamily Planning and Safe Abortion clients referred to MS Ladies by Youth MobilizersSafe Abortion clients referred to MS Ladies by Youth MobilizersMobilization of 13 MS Ladies in Sindhuli, Tanahun, Bajhang and Mugu Districts.Refresher training to MS LadiesInternal Quality Assessment and competency assessment of MS LadiesExternal Quality Assessment of MS Ladies (by external Auditor)Client Exit Interview (CEI) to identify the client’s satisfaction about the services.Client. Collect (Offline mobile application reporting system) rollout in MS Ladies at Tanahun DistrictSocial Welfare Council (SWC) approval and registration of the projectCentral Project Advisory Committee meeting (CPAC)SRH orientation to political leaders of MunicipalitiesDistrict Project Advisory Committee meetingJoint Monitoring visitFinal evaluation by SWCPersonal Protective Equipment’s support to MSI Center Channel -27 CentersSocial Audits"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Marie Stopes International",
+        "donor_project_id": "2097",
+        "raw_payload": {
+          "id": 13437,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/MSI_Logo-01.jpg",
+          "organization__name": "Marie Stopes International",
+          "organization_id": 540,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 324584.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Marie Stopes International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2097",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2097",
+        "value": "2097"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ensuring SRH Services Throughout the COVID-19 Pandemic in Rural areas of Nepal.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2097",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2097",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 324584.0,
+    "total_disbursement": 324584.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.089244Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2097",
+      "id": "version:entity:project/development_project/dfmis-2097:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

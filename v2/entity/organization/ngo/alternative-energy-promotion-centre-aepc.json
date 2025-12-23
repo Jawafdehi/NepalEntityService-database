@@ -1,0 +1,58 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Development Partner"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.759127Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Alternative Energy Promotion Centre (AEPC)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "alternative-energy-promotion-centre-aepc",
+  "sub_type": "ngo",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Alternative Energy Promotion Centre (AEPC)",
+    "created_at": "2025-12-23T19:11:23.759125Z",
+    "entity_or_relationship_id": "entity:organization/ngo/alternative-energy-promotion-centre-aepc",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

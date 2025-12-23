@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.566203Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-157",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.566206Z",
+    "dates": [
+      {
+        "date": "2011-07-27",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-07-27",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-07-26",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Community based Birth Preparedness Package with Miso (BPP).\r\n\t\r\n\t\tCommunity based newborn care program (CBNCP)\r\n\t\r\n\t\tPilot project on Pelvic Organ Prolapse\r\n\t\r\n\t\tInnovative data collection techinique  (mHealth )\r\n\t\r\n\t\tAs per geographical and population need\r\n\t\r\n\t\tFacility upgrade in collaboration with DHO and HFOMC  contribution\r\n\t\r\n\t\tNeonatal Jaundice treatment unit deployment.\r\n\t\r\n\t\tScholarships for eligible candidates from VDCs,\r\n\t\r\n\t\tMaternal/Neonatal Health Refresher training program for existing SBA\r\n\t\r\n\t\tPilot study on Balloon Temponade and NASG\r\n\t\r\n\t\tSupport essential equipment and USG training\r\n\t\r\n\t\tPhysician/SBA training program\r\n\t\r\n\t\tSBA training centers\r\n\t\r\n\t\tCOC sites\r\n\t\r\n\t\tBasic Newborn Care Unit\r\n\t\r\n\t\tBuilding/Medical supplies"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "One Heart World-Wide Nepal",
+        "donor_project_id": "157",
+        "raw_payload": {
+          "id": 2237,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "One Heart World-Wide Nepal",
+          "organization_id": 490,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "One Heart World-Wide Nepal",
+    "financing": [
+      {
+        "amount": 751712.4859,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "One Heart World-Wide Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-27",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 751712.4859,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "One Heart World-Wide Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-27",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-157",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/157",
+        "value": "157"
+      }
+    ],
+    "implementing_agency": "INGO",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Maternal Child Health Project for Baglung and Dolpa District",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/157",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-157",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1503424.9718,
+    "total_disbursement": 772017.197,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.566203Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-157",
+      "id": "version:entity:project/development_project/dfmis-157:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

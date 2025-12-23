@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.046927Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2072",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.046930Z",
+    "dates": [
+      {
+        "date": "2019-01-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-01-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Identify targeted land areas/sites, farmer groups and agro-ecosystem/sCarry out baseline surveyCollect weather data and analyse their effect on agro-ecosystem services FAO/FG/ GovDesk review and bibliographic databases preparation on agro-ecosystem servicesField survey, sampling and preservation of the collected samplesDevelop site wise GIS maps and land cover/land escape mapsTraining of Facilitators (farmers/junior technician) (12-15 persons)Staff (Municipality/Village Municipality) trainingEstablish community based agro-ecosystem resource centerConduction of FFSDocumentation of the agro-ecosystem practices and packaging the tested/ validated best practices for its up-scaling at farm level.Development of IEC materials (printed materials, newspaper articles, and audio/video) success stories and the mass media campaignReinforce the adaptive capacity of rural communities in handling climate change impacts and initiate the institutional arrangements for scaling-upOrganize interaction and sharing workshops at local and national levelEstablish national agro-ecosystem information management system (NAIMS) and web net working for identification, conservation & resource need ecosystem services.Feasibility studyPreparation of the full project proposal and submission"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "2072",
+        "raw_payload": {
+          "id": 12572,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Food and Agriculture Organization",
+    "financing": [
+      {
+        "amount": 350000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-01-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2072",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2072",
+        "value": "2072"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening agro-ecosystems resilience for climate change adaptation to improve food and nutrition security in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2072",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2072",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 350000.0,
+    "total_disbursement": 349301.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.046927Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2072",
+      "id": "version:entity:project/development_project/dfmis-2072:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

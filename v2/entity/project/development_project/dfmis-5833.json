@@ -1,0 +1,424 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.387613Z",
+  "dates": [
+    {
+      "date": "2021-09-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-09-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-07-16",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "World Bank Trust Funds",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40156,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "World Bank Trust Funds",
+        "organization_id": 86,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40157,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40160,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40161,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Ministry for Foreign Affairs",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40158,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 10,
+        "organization__development_cooperation_group__name": "Finland",
+        "organization__logo": "",
+        "organization__name": "Ministry for Foreign Affairs",
+        "organization_id": 851,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "International Development Association",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40162,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "International Development Association",
+        "organization_id": 17,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "European Commission",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 40159,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Japan International Cooperation Agency",
+      "donor_project_id": "5833",
+      "raw_payload": {
+        "id": 43781,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Japan International Cooperation Agency",
+        "organization_id": 3,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 500000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-02",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1250000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 185000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2017-06-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 50000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2021-09-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 23958000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-11-27",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 10850000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-09-04",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 72537960.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-08-09",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 89279520.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-12-04",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 460656.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-08-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2283400.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry for Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-07-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 27160281.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 120000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2016-12-02",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 13902798.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-08-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5833",
+      "value": "5833"
+    }
+  ],
+  "implementing_agency": "Ministry of Education, Science and Technology",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "The School Sector Development Program(SSDP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5833",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5833",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 597182615.0,
+  "total_disbursement": 517108450.2688,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.387610Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5833",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

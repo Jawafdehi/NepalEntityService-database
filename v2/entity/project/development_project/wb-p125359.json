@@ -1,0 +1,256 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.485229Z",
+  "dates": [
+    {
+      "date": "2017-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The development objective of the Community Action for Nutrition Project (Sunaula Hazar Din) for Nepal is to improve attitudes and practices known to improve nutritional outcomes of women of reproductive age and children under the age of two. There are two components to the project. The first component is rapid results for nutrition initiatives at the ward level. This component will support the entire Rapid Results for Nutrition Initiative (RRNI) process. It will start at a Ward Citizen Forum where, invited by the Local Governance and Community (LGCDP) social mobilizer, key nutrition challenges of the community will be discussed. Assisted by a coach at the ward level, the Ward Citizen Forum will select a nutrition relevant goal from a menu of goals. A RRNI team will be formed at the ward level that will set an appropriate and realistic target for meeting the goal and pledge to achieve the goal within a 100-day period by mobilizing the community and finding the best approach to achieving the target in their particular context. Results of the initiatives will be recorded and maintained by Nutrition and Food Security Steering Committee (NFSSCs) and lessons of successful and innovative projects will be disseminated to other communities to ensure maximum learning. The second component is project management, capacity building, monitoring and evaluation. This component will provide support for the implementation of first component under three sub-components: (i) capacity enhancement of the project management team, including cluster units, and NFSSCs, as well as of coaches and social mobilizers. This includes financing of a mid-line and end-line survey as well as financing annual conferences where findings and innovations of successful RRNI teams will be presented as well as whether the expected outcomes of the rapid results initiatives were achieved. Evaluation of the program is one of the primary aims during implementation."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P125359",
+      "raw_payload": {
+        "boardapprovaldate": "2012-06-26T00:00:00Z",
+        "borrower": "Ministry of Finance",
+        "closingdate": "2017-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "40000000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "0",
+        "id": "P125359",
+        "impagency": "Ministry of Federal Affairs and Local Development",
+        "major_sector_code": "HX,SX,WX",
+        "major_sector_name": "FY17 - Health,FY17 - Social Protection,FY17 - Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "HX",
+              "major_sector_name": "FY17 - Health",
+              "sectors": [
+                {
+                  "sector_code": "HF",
+                  "sector_name": "FY17 - Public Administration - Health",
+                  "sector_percent": "7.0"
+                },
+                {
+                  "sector_code": "HG",
+                  "sector_name": "FY17 - Health",
+                  "sector_percent": "29.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "SX",
+              "major_sector_name": "FY17 - Social Protection",
+              "sectors": [
+                {
+                  "sector_code": "SA",
+                  "sector_name": "FY17 - Social Protection",
+                  "sector_percent": "29.0"
+                },
+                {
+                  "sector_code": "SG",
+                  "sector_name": "FY17 - Public Administration - Social Protection",
+                  "sector_percent": "6.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "FY17 - Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WA",
+                  "sector_name": "FY17 - Sanitation",
+                  "sector_percent": "29.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Health,FY17 - Public Administration - Health,FY17 - Public Administration - Social Protection,FY17 - Sanitation,FY17 - Social Protection",
+        "proj_id": "P125359",
+        "project_abstract": "The development objective of the Community Action for Nutrition Project (Sunaula Hazar Din) for Nepal is to improve attitudes and practices known to improve nutritional outcomes of women of reproductive age and children under the age of two. There are two components to the project. The first component is rapid results for nutrition initiatives at the ward level. This component will support the entire Rapid Results for Nutrition Initiative (RRNI) process. It will start at a Ward Citizen Forum where, invited by the Local Governance and Community (LGCDP) social mobilizer, key nutrition challenges of the community will be discussed. Assisted by a coach at the ward level, the Ward Citizen Forum will select a nutrition relevant goal from a menu of goals. A RRNI team will be formed at the ward level that will set an appropriate and realistic target for meeting the goal and pledge to achieve the goal within a 100-day period by mobilizing the community and finding the best approach to achieving the target in their particular context. Results of the initiatives will be recorded and maintained by Nutrition and Food Security Steering Committee (NFSSCs) and lessons of successful and innovative projects will be disseminated to other communities to ensure maximum learning. The second component is project management, capacity building, monitoring and evaluation. This component will provide support for the implementation of first component under three sub-components: (i) capacity enhancement of the project management team, including cluster units, and NFSSCs, as well as of coaches and social mobilizers. This includes financing of a mid-line and end-line survey as well as financing annual conferences where findings and innovations of successful RRNI teams will be presented as well as whether the expected outcomes of the rapid results initiatives were achieved. Evaluation of the program is one of the primary aims during implementation.",
+        "project_name": "Nepal: Community Action for Nutrition Project (Sunaula Hazar Din)",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Nutrition and Food Security",
+          "FY17 - Nutrition and Food Security",
+          "FY17 - Rural Development"
+        ],
+        "totalamt": "40000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 40000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2012-06-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P125359",
+      "value": "p125359"
+    }
+  ],
+  "implementing_agency": "Ministry of Federal Affairs and Local Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal: Community Action for Nutrition Project (Sunaula Hazar Din)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P125359",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Social Protection",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p125359",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 40000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.485226Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p125359",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

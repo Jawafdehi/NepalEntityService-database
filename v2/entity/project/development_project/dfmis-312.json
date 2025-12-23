@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.843845Z",
+  "dates": [
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "A description of the main activities of the project \r\n3.1  Coordination, advocacy and monitoring of the implementation of the National Plan of Action for Children with regard to child protection by a national multi-sector multi-institution child protection mechanism.\r\n3.2  Coordination of interventions and referral mechanisms, mobilisation of resources and monitoring with regard to child protection by District Child Welfare Boards/DCPC/VCPC in 23 Child-Friendly Local Governance (CFLG) districts.\r\n3.3  Incorporation of child protection in the plans & budgets and social mobilisation activities of district, village, ward and community structures under LGCDP in 23 Child Friendly Local Governance (CFLG) districts.\r\n3.4  Incorporation of child protection in education and health systems in selected districts.\r\nDissemination of information/promotion of behaviour change with all children & families, detection and referral of children at risk and children in harmful situations, case monitoring, reporting & follow-up by Paralegal Committees(PLC´s) in 75 districts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "312",
+      "raw_payload": {
+        "id": 2426,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Children's Fund",
+  "financing": [
+    {
+      "amount": 5598000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/312",
+      "value": "312"
+    }
+  ],
+  "implementing_agency": "Central Child Welfare Committee, Panch Tara Yuva Samrakshyak Manch, Siddhartha Social Development Center, Children Women in Social Service and Human Rights, Diyalo Pariwar, Search for Common Ground, Informal Sector Service Centre, Terre Des Hommes, Forum for Women, Law & Development, JSI Research & Training Institute Inc/World Education, Beautiful Nepal Association, Community Development Programme, Advocary Forum, Human Rights Network and Peace Action Group, Integrated Community Development Campaign, Rural Development Center, Indreni Rural Development Centre, Rural Community Development Service Council, Ecology, Agriculture and Rural Development Society, Save the Children, Centre for Victims of Torture Nepal, Child Welfare Society, Himalayan Human Rights Monitors",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PCR 4, IR 3: Community-Based and Coordination/Referral",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/312",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-312",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5598000.0,
+  "total_disbursement": 3810268.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.843843Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-312",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

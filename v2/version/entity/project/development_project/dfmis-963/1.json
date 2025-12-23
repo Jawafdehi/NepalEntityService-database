@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.417498Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-963",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.417501Z",
+    "dates": [
+      {
+        "date": "2010-03-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-03-30",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "EIF has provided US$ 905,200.00 as grant assistance to the Government of Nepal to implement Nepal Enhanced Capacities for Trade and Development Project."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "UNOPS",
+        "donor_project_id": "963",
+        "raw_payload": {
+          "id": 903,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "UNOPS",
+          "organization_id": 166,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Industry, Commerce and Supplies",
+    "financing": [
+      {
+        "amount": 905200.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UNOPS",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-03-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 68000.0,
+        "assistance_type": "other",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UNOPS",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-03-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-963",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/963",
+        "value": "963"
+      }
+    ],
+    "implementing_agency": "Ministry of Industry, Commerce and Supplies",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Enhanced Capacities for Trade and Development Project (NECTRADE)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/963",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-963",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 973200.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.417498Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-963",
+      "id": "version:entity:project/development_project/dfmis-963:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

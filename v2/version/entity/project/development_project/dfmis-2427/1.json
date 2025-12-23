@@ -1,0 +1,164 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.157747Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2427",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.157750Z",
+    "dates": [
+      {
+        "date": "2022-03-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-04-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "2427",
+        "raw_payload": {
+          "id": 14530,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Department of Foreign Affairs and Trade",
+    "financing": [
+      {
+        "amount": 10069775.98,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-03-25",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2427",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2427",
+        "value": "2427"
+      }
+    ],
+    "implementing_agency": "Asia Foundation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sub-National Governance Program for Nepal Phase 2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2427",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2427",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 10069775.98,
+    "total_disbursement": 3927212.633,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.157747Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2427",
+      "id": "version:entity:project/development_project/dfmis-2427:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

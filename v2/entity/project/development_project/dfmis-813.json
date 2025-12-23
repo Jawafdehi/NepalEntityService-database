@@ -1,0 +1,492 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.734407Z",
+  "dates": [
+    {
+      "date": "2013-02-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-02-12",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "- Technical Assistance\r\n- Budgetary support (through Red Book to Government partners including PD/MoHP and Department of Women and Children, Ministry of Women, Children and Social Welfare  and funding support through DDF in 18 districts; and funding support to ADRA, FPAN, WOREC, CVICT  and NRCS and for technical support from Jhepeigo"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Population Fund",
+      "donor_project_id": "813",
+      "raw_payload": {
+        "id": 6757,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Population Fund",
+        "organization_id": 10,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens, United Nations Population Fund",
+  "financing": [
+    {
+      "amount": 42588.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 327926.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-02-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 327926.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-02-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 46853.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 46853.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 42588.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-07-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 373895.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 373895.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 508494.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 508494.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 158.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-10-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 158.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-10-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 108568.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 108568.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 45896.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 45896.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -25840.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-10-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -25840.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-10-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 558293.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 558293.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 26857.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 26857.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 755030.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 755030.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -479634.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-10-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -479634.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Population Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-10-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/813",
+      "value": "813"
+    }
+  ],
+  "implementing_agency": "Ministry of Women, Children and Senior Citizens, United Nations Population Fund",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Output 1 (NPL7U501): Strengthened national and subnational health-system capacity within the coordinated multisectoral response to sexual and gender-based violence",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/813",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-813",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 4578168.0,
+  "total_disbursement": 3440988.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.734405Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-813",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

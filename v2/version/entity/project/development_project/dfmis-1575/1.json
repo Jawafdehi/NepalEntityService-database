@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.727084Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1575",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.727086Z",
+    "dates": [
+      {
+        "date": "2020-06-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-08-05",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Health, WASH and Protection intervension: Provide support to health system/facility i.e. PPE/IPC training and materials etc.Install/rehabilitate handwashing and water supply facilities in healthcare facilitiesProvide support to vulnerable families; food, hygiene materials etc. (food item: rice, pulses, oil, salt, potato etc. based on need and standard followed by LGs) Masks and soap for lactating mothers (<6 months)Conduct risk communication activities (Produce and broadcast radio Public Service Announcements and awareness message on COVID-19 on televisions)Conduct beneficiaries and staff care activities incl. review meeting (Hygiene materials, PSS/ consultant etc.)Provide support to Health Cluster on reporting and travel/transportation of health technical staff at province/district levelProvide dignity kit to adolescent girls and womenCase management of AES beneficiary in KTM and vulnerable people in BardiyaProvide psychosocial support PSS to individuals, (Counseling, first aid, referral etc.) for their mental wellbeingConduct/facilitate meeting of Community based child protection mechanismsProduction of leaflets and pamphlets on protection, PSS, COVID 19 risks and prevention measures. (Behavior change communication materials)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Terre des hommes, Lausanne",
+        "donor_project_id": "1575",
+        "raw_payload": {
+          "id": 13935,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Terre des hommes, Lausanne",
+          "organization_id": 492,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Terre des hommes, Lausanne",
+    "financing": [
+      {
+        "amount": 129006.2228,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Terre des hommes, Lausanne",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-06-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1575",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1575",
+        "value": "1575"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "An integrated response to reduce and/or mitigate impacts of COVID-19 through Health, WASH, and Protection intervention",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1575",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1575",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 129006.2228,
+    "total_disbursement": 129006.2228,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.727084Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1575",
+      "id": "version:entity:project/development_project/dfmis-1575:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

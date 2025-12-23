@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.225144Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-467",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.225147Z",
+    "dates": [
+      {
+        "date": "2013-02-17",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-02-17",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-06-16",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Strengthening Intensfication of Maternal and Neonatal Micronutrient Program\r\n\t\r\n\t\tWheat Flour Fortfication with Iron and Vitamins at Roller Mills\r\n\t\r\n\t\tCereal Flour Fortification with Iron and Vitamins at Small Scale Mills\r\n\t\r\n\t\tZinc and ORS in the Treatment of Childhood Diarrhea\r\n\t\r\n\t\tImproving the Integration of Micronutrient Supplementation within the Health System\r\n\t\r\n\t\tIntroduction of Double Fortified Salt"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Micronutrient Initiative",
+        "donor_project_id": "467",
+        "raw_payload": {
+          "id": 7013,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Micronutrient Initiative",
+          "organization_id": 542,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 971527.182,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Micronutrient Initiative",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-02-17",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 129429.9362,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Micronutrient Initiative",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-02-16",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-467",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/467",
+        "value": "467"
+      }
+    ],
+    "implementing_agency": "PNGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nutrition and Micronutrient Support Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/467",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Services",
+        "donor_subsector": null,
+        "normalized_sector": "General Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-467",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1100957.1182,
+    "total_disbursement": 694843.43197,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.225144Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-467",
+      "id": "version:entity:project/development_project/dfmis-467:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:06.866780Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-9",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.866783Z",
+    "dates": [
+      {
+        "date": "2010-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-11-20",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Development of learning material on HIV and AIDS in Nepali and local languages (Doteli and Tharu)\r\n    This learning material will be developed in reference to existing teaching learning materials and with special consideration to the local context. A national level consultant will be hired for developing the resource manual\r\n    (November 2010-February  2011)\r\n    Training of literacy facilitators:\r\n    Training will be provided to  80 Literacy Facilitators to build their capacity to plan and provide non-formal training to illiterate women on HIV and AIDS\r\n    (Feb –March 2011)\r\n    Testing of the learning materials in two CLC literacy classes (one per district)\r\n    (Feb 2011)\r\n    Revision and production of the learning material and its dissemination to other 80 groups through CLCs\r\n    (March- April 2011)\r\n    Organization of literacy classes (ca 20 women/class) to 80 groups through CLCs\r\n    ( Feb-Sept 2011)\r\n    Assessment on the knowledge on HIV and AIDS among participants\r\n    (April  and Oct 2011)\r\n    Advocacy to the government for adopting the learning material on HIV and AIDS and to different literacy programmes\r\n    (Oct 2011)\r\n    Monitoring, follow-up, evaluation and reporting of the project\r\n    (December 2011)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_project_id": "9",
+        "raw_payload": {
+          "id": 992,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Joint United Nations Programme on HIV/AIDS",
+          "organization_id": 172,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Joint United Nations Programme on HIV/AIDS",
+    "financing": [
+      {
+        "amount": 45181.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-9",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/9",
+        "value": "9"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Providing HIV and AIDS education for illiterate women through community learning centres (CLCs)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/9",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-9",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 45181.0,
+    "total_disbursement": 45181.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:06.866780Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-9",
+      "id": "version:entity:project/development_project/dfmis-9:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

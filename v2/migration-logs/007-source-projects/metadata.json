@@ -1,0 +1,16 @@
+{
+  "migration_name": "007-source-projects",
+  "author": "Nava Yuwa Central",
+  "date": "2025-01-26T00:00:00",
+  "description": "Import development projects for Nepal from multiple sources",
+  "executed_at": "2025-12-23T11:12:58.225432",
+  "duration_seconds": 70.16605496406555,
+  "status": "completed",
+  "changes": {
+    "entities_created": 3615,
+    "relationships_created": 17734,
+    "versions_created": 21349,
+    "summary": "Created 3615 entities, 17734 relationships, and 21349 versions",
+    "has_diff": true
+  }
+}

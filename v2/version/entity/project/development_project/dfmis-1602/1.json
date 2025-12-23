@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.806919Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1602",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.806921Z",
+    "dates": [
+      {
+        "date": "2020-03-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-11-09",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Embassy of the Republic of Korea donated 17 different types of search and rescue gears and equipment to the Ministry of Home Affairs, the Government of Nepal. 1. Ground Penetraing Radar(GPR) - 1 no.- Capacity of detecting more than 20 meters of snow and ice below ground (not available with us) - Capable of being detached from the main frame and of being carried and used by human arms/hands in case that cart is not available (uneven ground, hilly area, slippery snow/ice etc.) 2. Metal Detector - 5 nos.- Capacity of detecting more than 20/15/10 meters of snow and ice below ground - Should be hand carried / RECCO metal detector 3. Avalanche Detector - 5 nos. - RECCO-level high quality detector with detecting capacity more than 20/15/10 meters of snow and ice below ground / Similar product/device available from Black Diamond (BT Guide Beacon) 4. Avalanche Probe - 20 nos. -Mix of 3 meters and 5 meters/ Only upto 320cm available. Black Diamond Quickdraw Tour Prove 320cm 5. Avalanche Beacon - 5 nos. - Black Diamond Guide BT Beacon 6. Outdoor Helmet - 20 nos. - Black diamond Half dome helmet 7. Ice Axe - 10 nos.- Black Diamond Raven Ice axe with grip 8. Pick Axe - 10 nos.- To break hard snow and ice / Black Diamond Venom Hammer 9. Mountaineering Harness - 10 nos.- Black Diamond Couloir Harness 10. Crampons - 20 nos.-Black Diamond Sabretooth Pro/Clip 11. Stretchers - 5 nos. 12. Climbing Ropes - 10 nos.- 8.5mm, 60m Dry Black Diamond 13. Carabiners - 20 nos. - Black Diamond Rocklock Screwgate 14. Quick Draws - 20 nos. - Black Diamond Positron Quickdraw 12/16cm 15. Gamow Bag (PAC) - 1 no.- Price for new one, but used ones are available for cheaper prices 16. Rescue Bags - 5 nos.-Exped search and rescue bag 50L 17. Hypothermia Management Kit - 10 nos. 18. Mountaineering Shovels - 20 nos.- Black Diamond Lynx shovel 19. Headlamps - 20 nos.- capacity of lighting at least more than 100/200 meters ahead - more than 500/1000 lumen is preferred / Black Diamond Icon Headlamp 20. Waterproof trouser - 20 nos.- outermost purpose (to be worn on the top of the other trouser inside) Black Diamond Stormline strech rain pant"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Korea International Cooperation Agency",
+        "donor_project_id": "1602",
+        "raw_payload": {
+          "id": 14051,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 36,
+          "organization__development_cooperation_group__name": "Korea",
+          "organization__logo": "",
+          "organization__name": "Korea International Cooperation Agency",
+          "organization_id": 28,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Korea International Cooperation Agency",
+    "financing": [
+      {
+        "amount": 154360.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Korea International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-03-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1602",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1602",
+        "value": "1602"
+      }
+    ],
+    "implementing_agency": "Korea International Cooperation Agency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Distribution of Mountain Search and Rescue Equipment to Ministry of Home Affairs, Government of Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1602",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Civil Defense",
+        "donor_subsector": null,
+        "normalized_sector": "Civil Defense",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1602",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 154360.0,
+    "total_disbursement": 154360.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.806919Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1602",
+      "id": "version:entity:project/development_project/dfmis-1602:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

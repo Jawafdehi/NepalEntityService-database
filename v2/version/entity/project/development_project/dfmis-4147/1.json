@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.928667Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4147",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.928669Z",
+    "dates": [
+      {
+        "date": "2023-03-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2026-02-28",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "- Training, visit, sensitization, technical and material support for the transition to sustainable practices for farmers and entrepreneurs.- Training and sensitization on occupational health and risk reduction, and provision of protective equipment for farmers involved in an alternative agriculture initiative.- Establishment of resources centers and model farms, and facilitate access to funds for cooperative members wishing to replicate model farms practices.- Development of a local market and sustainable distribution models in the nearest urban centers.- Develop and strengthen farmers network.- Strengthen capacity in sustainable practices of local authorities and pre-identified stakeholders."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Triangle Generation Humanitaire a French",
+        "donor_project_id": "4147",
+        "raw_payload": {
+          "id": 41829,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Triangle Generation Humanitaire a French",
+          "organization_id": 724,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 705732.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Triangle Generation Humanitaire a French",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-03-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4147",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4147",
+        "value": "4147"
+      }
+    ],
+    "implementing_agency": "Triangle Generation Humanitaire a French",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Towards More Sustainable Food Value Chains In Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4147",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4147",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 705732.0,
+    "total_disbursement": 705732.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.928667Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4147",
+      "id": "version:entity:project/development_project/dfmis-4147:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

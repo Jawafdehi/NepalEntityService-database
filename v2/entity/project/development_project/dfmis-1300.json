@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.293780Z",
+  "dates": [
+    {
+      "date": "2016-01-04",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-01-04",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Operationalised CBPO’s association at upstream and mid-stream of Bandarmudhe River. (Output no. 1)Formation of CBPO's Associations at up-stream and mid-stream of Bandarmudhe River.Build relationship among new and intervened CBPOs in Associations through regular meetings and activities.Basic Disaster Management training (raise awareness on flood induced DRR and  “One River One Community” concept of member CBPOs)2. Strengthened Capacity of local CBPOs toward flood control plans,   sustainable facility maintenance and accesses to public resource. (Output no. 1)2.1 Assist newly formed CBPOs to create tole-wise Disaster Management Plans.2.2 Discuss on tole-wise DMPs in Association for their recognitions and to formulate inter-tole plans.2.3 Orientation to CBPOs members on early warning system (Support inter-tole plans, not infrastructure for river).2.4 Actively support CBPOs' Associations to ensure their sustainable accesses to public resources such as Municipality, Buffer zone, LDMC for infrastructure maintenance.3. Established infrastructure in Bandaremudhe river basin. (Output no. 1)3.1 Joint study of flood control mechanism and feasibility of infrastructure by RRN sub-engineer.3.2 Workshop for plan preparation (Create association's plan for flood control mechanisms, its maintenance systems and accesses to public resources such as Municipality, Buffer zone LDMC through participatory discussions)3.4 Establishment of maintenance system for the infrastructure.3.5 Establishment of infrastructure.3.6 Actively observe/intervene CBPOs’ regular maintenance on those infrastructures.3.7 Livelihood support.4. Strengthened capacity of Local Disaster Management Committee (LDMC) of Madi Municipality for DRR. (Output no. 2)4.1 Provide CBDRR (including new Building Code) trainings for LDMC members.4.2 Workshop on LDRMP revision - Technical supports for creation of better LDRMP.4.3 Support for coordination and linkage with stakeholders (CBPOs' Association, CDMC, Nepal Red Cross Society, Nepal Police, Army, DDRC, DDC etc.)5. Implemented DRR activities at school level. (Output no. 3)5.1 Collection of successful cases5.2 Identify targeted middle schools.5.3 Introduce DRR activities including evacuation drill at middle schools.6. Coordination with stakeholders6.1 Organize sharing visit with other agencies implementing DRR project against river flood.6.2 Organize coordination meeting of stakeholders working for development of Madi.6.3 Participate in Flagship 4 or any other agency's conference about DRR.6.4 DPAC meeting.6.5 Monitoring by DPAC members (Madi and Lothar)6.6 Coordination and Linkage.7. Formulated and implemented DRR-centered Development Plan at VDC. (Output no. 4.1)7.1 5 days CBDRR training to LDMC members.7.2 Sharing Meeting at VDC Level (technical supports to assess explicit & implicit risks and to learn possible measures against those risks by expert).7.3 Training on planning process (Support LDMC and other committees of VDC as well as stakeholders for better planning & implementation of respective sectors especially in annual development plan of VDC)7.4 Establish or improve infrastructures based on annual plan of VDC produced at 1.37.4.1 Refreshment on Discussion meeting with beneficiaries7.4.2 Construction of Embankment Wall for Landslide protection7.4.3 Construction of Learning Center (size: 14x14/ 3 rooms)7.4.4 Establish or improve infrastructures based on annual plan of VDC.7.5 Livelihood support7.6 Workshop on roles & responsibilities (Support LDMC and other committees of VDC as well as stakeholders to explain the role of established or improved infrastructure in case of disaster to villagers.) 8. Enhanced recognition about high risk area and for provision of DRR at community level. (Output no. 5.1)8.1 Identify communities in high risk areas and/or, which is already active for their DRR8.2 Support to produce hazard maps through participatory discussions and to understand high risk points in their community8.2.1 Two days training on hazard mapping and risk assessment.8.2.2 One day follow up training on hazard mapping and risk assessment at VDC.8.3 Support community to disseminate information of hazard map and coping mechanism (ex. Signboard of hazard map, road sign of high risk point and showing their hazard map at school)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Shapla Neer",
+      "donor_project_id": "1300",
+      "raw_payload": {
+        "id": 9702,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Shapla Neer",
+        "organization_id": 566,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Shapla Neer",
+  "financing": [
+    {
+      "amount": 714958.3218,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shapla Neer",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-11-04",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 136665.1505,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shapla Neer",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-07-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1300",
+      "value": "1300"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Water Induced Disaster Risk Reduction",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1300",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1300",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 851623.4723,
+  "total_disbursement": 823518.97007,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.293776Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1300",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

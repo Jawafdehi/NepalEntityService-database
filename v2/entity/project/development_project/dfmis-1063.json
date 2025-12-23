@@ -1,0 +1,221 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.809797Z",
+  "dates": [
+    {
+      "date": "2010-08-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-07-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Protection-Consultative meetings with key GON stakeholders for NMS and SOPs; Trainings on victim protection  procedures; Legal, psychosocial, and medical support given to victims of trafficking; Shelters assessed using the monitoring system developed; Research to inform policy on human trafficking\r\n\t\r\n\t\tProsecution- Training modules for judicial and law enforcement agencies developed;  Trainings on SOPs for investigation, prosecution, and adjudication of TIP cases; Trainings on Foreign Employment Act; Trainings on the central database system given to the police\r\n\t\r\n\t\tPrevention-Awareness raising on the prevention of human trafficking and unsafe migration  to community members, local government, and law enforcement agencies; Trainings on safe migration and career counseling ; trainings on financial planning given to families of the most disadvantaged communities"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "U.S. Agency for International Development",
+      "donor_project_id": "1063",
+      "raw_payload": {
+        "id": 433,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 47,
+        "organization__development_cooperation_group__name": "United States of America",
+        "organization__logo": "",
+        "organization__name": "U.S. Agency for International Development",
+        "organization_id": 32,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "U.S. Agency for International Development",
+  "financing": [
+    {
+      "amount": 6799235.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-08-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1892306.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-02-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 450000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-10",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 495669.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-01-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 540338.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -100000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-12-21",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -31835.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1063",
+      "value": "1063"
+    }
+  ],
+  "implementing_agency": "Asia Foundation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Combatting Trafficking in Persons (CTIP) project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1063",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1063",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 10045713.0,
+  "total_disbursement": 10045713.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.809795Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1063",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

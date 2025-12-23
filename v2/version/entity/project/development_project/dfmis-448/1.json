@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.102445Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-448",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.102448Z",
+    "dates": [
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1:     Support the organization and conduct of national workshops to establish an intellectual and operational foundation for future policy analysis and dialogue;\r\n\r\n1.2: Preparation, signing and monitoring of LoAs with national policy research institutes;\r\n\r\n1.3: Undertake technical backstopping to provide support to national research institutes;\r\n\r\n2.1: Undertake an assessment of each country’s institutional and staff capacity in policy processes;\r\n\r\n2.2:Prepare and implement capacity-strengthening strategies and plans based on local needs, priorities and opportunities;\r\n\r\n2.3       Organize and conduct regional workshops to strengthen capacity for policy analysis among mid-level government officials and personnel of policy research institutes, farmer organizations and other civil society organizations\r\n\r\n2.4: Organize study tours for mid-level government officials of participating countries;\r\n\r\n3.1: Assist with the conduct of regional learning workshop(s) to provide participating countries with a forum to discuss innovative practices, cases of success or failure and lessons learned for stakeholders.\r\n\r\n3.2: Assist with the preparation of reports and dissemination of the results of these consultation and workshops."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "448",
+        "raw_payload": {
+          "id": 7115,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 110000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-03-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 110000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-03-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-448",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/448",
+        "value": "448"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Institutional Capacity Strengthening for Analysis, Design and Dissemination of Policy Approaches to Address Risk and Vulnerability of the Rural Poor at the Country Level (TCP/RAS/3405)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/448",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-448",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 220000.0,
+    "total_disbursement": 116737.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.102445Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-448",
+      "id": "version:entity:project/development_project/dfmis-448:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

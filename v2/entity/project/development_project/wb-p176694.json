@@ -1,0 +1,203 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.394701Z",
+  "dates": [
+    {
+      "date": "2022-07-16",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P176694",
+      "raw_payload": {
+        "boardapprovaldate": "2021-07-08T00:00:00Z",
+        "borrower": "Ministry of Finance",
+        "closingdate": "2022-07-16",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "761059970",
+        "grantamt": "0",
+        "id": "P176694",
+        "impagency": "Ministry of Health and Population",
+        "major_sector_code": "HX",
+        "major_sector_name": "FY17 - Health",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "HX",
+              "major_sector_name": "FY17 - Health",
+              "sectors": [
+                {
+                  "sector_code": "HF",
+                  "sector_name": "FY17 - Public Administration - Health",
+                  "sector_percent": "49.0"
+                },
+                {
+                  "sector_code": "HG",
+                  "sector_name": "FY17 - Health",
+                  "sector_percent": "51.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Health,FY17 - Public Administration - Health",
+        "proj_id": "P176694",
+        "project_name": "Additional Financing for Nepal Health Sector Management Reform Program for Results",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Human Development and Gender",
+          "FY17 - Public Sector Management",
+          "FY17 - Public Sector Management",
+          "FY17 - Social Development and Protection"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Climate change",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Public Administration",
+          "FY17 - Public Finance Management",
+          "FY17 - Social Inclusion"
+        ],
+        "totalamt": "50000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 50000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2021-07-08",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176694",
+      "value": "p176694"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Additional Financing for Nepal Health Sector Management Reform Program for Results",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176694",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p176694",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 50000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.394699Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p176694",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

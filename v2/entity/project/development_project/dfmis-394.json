@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.787332Z",
+  "dates": [
+    {
+      "date": "2010-10-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-12-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Phase I\r\n1. Assessment of capacity development needs (Dec 2010–Feb 2011)\r\n\r\n1.1 Examine the capacity development needs of the MOE, the ETFC, andthe DOED\r\n1.2 Identify priority planning, evaluation, and monitoring tools\r\n1.3 Identify the specific expertise required for developing the tools\r\n1.3 Identify the priority areas for training\r\n1.4 Present a list of prioritized capacity development needs within thescope of the TA\r\n\r\nPhase II\r\n2.0 Development of plans and evaluation and monitoring tools forhydropower projects (Mar 2011–May 2012)\r\n\r\n2.1 Procure software and hardware\r\n2.2 Develop the plans and tools\r\n2.3 Train staff on tools developed\r\n2.4 Assist in negotiating at least one project\r\n\r\n3.0 Identification of external training programs for MOE, DOED andETFC staff (Mar 2011–June 2011)\r\n\r\n3.1. Identify training programs and exchanges and the institutions providing such training\r\n3.2 Identify the trainees\r\n\r\n4. Implementation of training programs (July 2011–July 2012)\r\n5. Final Report on Capacity Development (May 2012–July 2012)\r\n\r\n5.1 Summary of all activities"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "394",
+      "raw_payload": {
+        "id": 1566,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 600000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-10-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/394",
+      "value": "394"
+    }
+  ],
+  "implementing_agency": "Asian Development Bank",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TA7628-NEP: Energy Sector Capacity Building",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/394",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-394",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 600000.0,
+  "total_disbursement": 487390.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.787328Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-394",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

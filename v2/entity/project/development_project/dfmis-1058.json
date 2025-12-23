@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.788452Z",
+  "dates": [
+    {
+      "date": "2014-03-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2014-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "A) RURAL YOUTH DEVELOPMENT PROGRAM (RYDP)\r\n\r\n\t\r\n\t\tCooperative Strengthening and Income Generation :\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t Cooperative Educaitonal Camps – 12 events\r\n\t\t\t\r\n\t\t\t\t Cooperative Policy Preparation Workshop – 12 events\r\n\t\t\t\r\n\t\t\t\t Linkage and Network with DSCCU – 6 times\r\n\t\t\t\r\n\t\t\t\t Network and Linkage with Central Bank – 6 times\r\n\t\t\t\r\n\t\t\t\t Logistic and stationery support for cooperative -16\r\n\t\t\t\r\n\t\t\t\t Account keeping refresher training for cooperatives – 4 times\r\n\t\t\t\r\n\t\t\t\t Orientation on Management Information sustem in cooperative – 12 times\r\n\t\t\t\r\n\t\t\t\t  Cooperative Networks meeting- 6 times\r\n\t\t\t\r\n\t\t\t\t   Farm based LRP training – 6 persons\r\n\t\t\t\r\n\t\t\t\tImproved livestock rearing training and inputs – 6 times\r\n\t\t\t\r\n\t\t\t\tOrganic vegetable farming training and inputs – 10 events\r\n\t\t\t\r\n\t\t\t\tOrganic ginger, herbs and fruits farming training and inputs – 10 events\r\n\t\t\t\r\n\t\t\t\tOff-farm skill development training for youths – 58 youths\r\n\t\t\t\r\n\t\t\t\tExposure visit for LEISA techniques (organic farming) – 1 time\r\n\t\t\t\r\n\t\t\t\tAgriculture market promotion – 7 events\r\n\t\t\t\r\n\t\t\t\tTraining for PEARLS and Self-monitoring – need based\r\n\t\t\t\r\n\t\t\t\tNetwork and Linkage with RMDI – 4 times\r\n\t\t\t\r\n\t\t\t\tNetwork a nd Linkage (NEFSCUN) and RMDI – 6 cooperatives\r\n\t\t\t\r\n\t\t\t\tComputer Accounting Software – 6 cooperatives\r\n\t\t\t\r\n\t\t\t\tComputerized Account keeping training – 6 cooperatives\r\n\t\t\t\r\n\t\t\t\tEntrepreneurship Development Training – 3 events\r\n\t\t\t\r\n\t\t\t\tOrganic Farming Training – 3 enents\r\n\t\t\t\r\n\t\t\t\tToT for Organic farming – 2 events\r\n\t\t\t\r\n\t\t\t\tInternal Control System Training  for Organic farming – 2 events\r\n\t\t\t\r\n\t\t\t\tOrganic Farming Training (by LRP or ToT participants) – 3 events\r\n\t\t\t\r\n\t\t\t\tOrganic Farming Certification fee – 4 times\r\n\t\t\t\r\n\t\t\t\tOrganic Farming Materials support – 2 times\r\n\t\t\r\n\t\r\n\t\r\n\t\tYouth Information Center Strengthing and Safe Migration \r\n\t\t\r\n\t\t\t\r\n\t\t\t\tOrientation to youths on safe migration – 24 events\r\n\t\t\t\r\n\t\t\t\tStreet Drama on raising awareness on foreign employment – 4 events\r\n\t\t\t\r\n\t\t\t\tIEC materials developed for migration – 2 items\r\n\t\t\t\r\n\t\t\t\tYouth voice publication – 5 times\r\n\t\t\t\r\n\t\t\t\tYIC long term plan development workshop – 10 events\r\n\t\t\t\r\n\t\t\t\tSupport on YIC long term plans – 10 times\r\n\t\t\t\r\n\t\t\t\tCapacity building YIC member on safe migration and counseling – 3 times\r\n\t\t\t\r\n\t\t\t\tYIC management support – 24 times\r\n\t\t\t\r\n\t\t\t\tNetworking YIC at National level – 12 events\r\n\t\t\t\r\n\t\t\t\tToT youth advocacy training – 6 times\r\n\t\t\r\n\t\r\n\t\r\n\t\tLNGO Strengthening and Youth Development \r\n\t\t\r\n\t\t\t\r\n\t\t\t\tToT on Advocacy for LNGOs management – 3 times\r\n\t\t\t\r\n\t\t\t\t Support for LNGO for VDC/DDC council meetings – 16 times\r\n\t\t\t\r\n\t\t\t\tSupport for LNGOs affiliation with NGO Federation and SWC – 6 times\r\n\t\t\t\r\n\t\t\t\tLNGOs long term plan development workshop – 6 events\r\n\t\t\t\r\n\t\t\t\tLNGOs management support – 24 times\r\n\t\t\t\r\n\t\t\t\tPTS interaction – 23 events\r\n\t\t\t\r\n\t\t\t\t Youth Scholarship – 49 youths\r\n\t\t\t\r\n\t\t\t\tSelf help initiatives – 20 initiatives\r\n\t\t\t\r\n\t\t\t\tYouth informal classess – 10 classes\r\n\t\t\t\r\n\t\t\t\tLNGOs long term plan reviw workshop – 6 events\r\n\t\t\r\n\t\r\n\t\r\n\t\tMaterial support to Local Structures (non AWO partners)\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tFurniture/computer support cooperatives – 12 sets\r\n\t\t\t\r\n\t\t\t\tFurniture supports for YICs – 8 sets\r\n\t\t\t\r\n\t\t\t\tFurniture supports for LNGOs – 3 sets\r\n\t\t\r\n\t\r\n\t\r\n\t\tProject Coordination \r\n\t\t\r\n\t\t\t\r\n\t\t\t\tProject Inception for Third Phase – 2 evetns\r\n\t\t\t\r\n\t\t\t\tProject Managemnt Committee meeting – 5 times\r\n\t\t\t\r\n\t\t\t\tSocial Audits at VDC level- 18 events\r\n\t\t\t\r\n\t\t\t\tDPAC and Social Audit at District level – 3 times\r\n\t\t\t\r\n\t\t\t\tMonitoring by project staffs – 12 times\r\n\t\t\t\r\n\t\t\t\tHalf yearly monitoring by project and organization – 6 times\r\n\t\t\t\r\n\t\t\t\tLearning sharing program – 1 time\r\n\t\t\t\r\n\t\t\t\tEndline survey – 1 time.\r\n\t\t\r\n\t\r\n\r\n\r\n\tB) Community Empowerment & Sustainable Livelihood Program (CE&SLP)\r\n\r\n\t\r\n\t\tToT on CAP (Community Action Plan) TOT for Social Mobilizers (SM), Local Resource Persons (LRP), REFLECT Facilitators – 1 time\r\n\t\r\n\t\tDevelopment of CAP (Community Action Plans) and technical backstopping for groups/Coops/LNGO – 7 events\r\n\t\r\n\t\tAdvocacy skill development trainings for representatives of, Local Structures., SM, REFLECT facilitators- 1 events\r\n\t\r\n\t\tExposure visit for group/coops. members – 1 events\r\n\t\r\n\t\tInteraction between RH and service providers (district and VDC level both) – 5 events\r\n\t\r\n\t\tProduction and broadcasting of Radio programs on the topics of rights and awareness – 18 episodes\r\n\t\r\n\t\tCommemorate various Marking Days – national and international – 10 events/days (theme wise)\r\n\t\r\n\t\tTraining on Good Governance for Institutional Development to Coops. Members – 1 event\r\n\t\r\n\t\tFacilitation support for regular participation of Coops./LNGO in VDC/DDC council meetings and other such local forums – 20 events\r\n\t\r\n\t\tSupport for Coops. affiliation with Coop. federation and other local networks – 5 events\r\n\t\r\n\t\tSupport to Coops./LNGO for school enrollment campaign (in 15 CLC Centers) – 15 events\r\n\t\r\n\t\tBasic Training for REFLECT Facilitators and Social Mobilzers – 1 tim"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "AWO International",
+      "donor_project_id": "1058",
+      "raw_payload": {
+        "id": 7628,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "AWO International",
+        "organization_id": 516,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "AWO International",
+  "financing": [
+    {
+      "amount": 1325531.915,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "AWO International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-03-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1058",
+      "value": "1058"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Program for Livelihood Promotion of Marginalized Groups and Labor Migrants in Nepal.(2014-16)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1058",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1058",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1325531.915,
+  "total_disbursement": 1087436.9286,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.788449Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1058",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

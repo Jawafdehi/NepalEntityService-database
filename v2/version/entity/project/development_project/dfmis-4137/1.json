@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.908271Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4137",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.908273Z",
+    "dates": [
+      {
+        "date": "2023-08-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-03-15",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2026-03-14",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ACTIVITIES1.1.1. Training on SRGBV for members of School Management Committee (SMC) and Parents Teachers Association (PTA)1.2.1. Training on SRGBV for Teachers (grade 6 to 12)1.2.2. Positive discipline training for Teachers (grade 6 to 12)1.3.1. Training on positive parenting, and gender-responsive/disciplinary techniques environment at homes for Parents2.1.1. Regular training to enhance knowledge and skills of boys’ students to promote nonviolent behaviours and zero tolerance of GBV in schools.2.1.2. Regular training to enhance knowledge and skills of girls’ students to promote nonviolent behaviours and zero tolerance of GBV in schools.2.1.3. Training on students on reporting mechanisms related to SRGBV issues (bullying and sexual harassment including on-line etc.) and on available support services/referrals.2.1.4. Training on “Peer-to-Peer” counselling for members of child club to prevent SRGBV.2.2.1. Extra-curricular awareness raising school activities/competition on menstruation hygiene, discrimination, violence (Oratory contest, quiz, singing and dancing, drawing etc.)2.2.2. Support game sports materials and organize sport competition at schools for students (Both within & inter schools)2.3.1. Students carry out community awareness campaigns against SRGBV (street drama, theatre, rally, talk show, exhibition, extra)2.4.1 Students (youth groups, members of child clubs) conduct Interaction sessions with local government officials, policy makers, legal professionals, and local police3.1.1. Conduct safety audits of school premises and infrastructures.3.2.1. Regular monitoring of spaces in schools where children are most vulnerable to SRGBV (in collaboration with the RM/Ward representatives)3.3.1. Provision of Incinerator for the disposal of sanitary pads, Water, and cleaning facilities/communal sinks, GESI (Gender Equality and Social Inclusion) friendly toilets/washrooms and establishing counselling rooms4.1.1. Training on strengthening school-based complaints reporting, responding, case identification/handling and referral mechanisms (Complaint Response Committee: CRC) for CRC members (teachers)4.1.2. Training on counselling and extending support, and referral services for the clinical and legal prosecution as required (Counselling training focused) for CRC members (teachers)4.2.1. Mapping of referral services in the rural municipality and ward levels (incorporating with baseline study)4.2.2. Participatory mapping of existing stakeholders in the community contributing to SRGBV protection mechanisms (incorporating with baseline study)4.3.1.  Training on SRGBV for Rural Municipalities/Wards (Elected Representatives, Judicial Committees, Social Development Unit), Officials from local police, Counsellors, social workers/community-based organizations, and District Court4.3.2 Training on SRGBV and other needs-based capacity building trainings to Project staff members.4.3.3. Training to local media on SRGBV and ethical reporting of children’s issues4.4.1. Workshop to review/formulate RM, Ward, and school level gender policies.4.5.1. SRGBV related project children/youth consultation and advocacy campaigns at RM level."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ChildFund Japan",
+        "donor_project_id": "4137",
+        "raw_payload": {
+          "id": 41628,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "ChildFund Japan",
+          "organization_id": 518,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 787163.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "ChildFund Japan",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-08-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4137",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4137",
+        "value": "4137"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PROMOTING GENDER EQUALITY AND SAFETY IN SCHOOL PROJECT",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4137",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4137",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 787163.0,
+    "total_disbursement": 537059.01,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.908271Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4137",
+      "id": "version:entity:project/development_project/dfmis-4137:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

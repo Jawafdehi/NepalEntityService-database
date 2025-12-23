@@ -1,0 +1,73 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Department of National ID and Civil Registration,Ministry of Home Affairs",
+  "created_at": "2025-12-23T19:11:23.763022Z",
+  "entity_or_relationship_id": "entity:organization/government_body/department-of-national-id-and-civil-registrationministry-of-home-affairs",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Development Partner"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.763025Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/department-of-national-id-and-civil-registrationministry-of-home-affairs",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Department of National ID and Civil Registration,Ministry of Home Affairs",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "department-of-national-id-and-civil-registrationministry-of-home-affairs",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Department of National ID and Civil Registration,Ministry of Home Affairs",
+      "created_at": "2025-12-23T19:11:23.763022Z",
+      "entity_or_relationship_id": "entity:organization/government_body/department-of-national-id-and-civil-registrationministry-of-home-affairs",
+      "id": "version:entity:organization/government_body/department-of-national-id-and-civil-registrationministry-of-home-affairs:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

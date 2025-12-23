@@ -1,0 +1,73 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Nepal Electricity Authority,Water and Energy Commission Secretariat",
+  "created_at": "2025-12-23T19:11:23.757458Z",
+  "entity_or_relationship_id": "entity:organization/government_body/nepal-electricity-authoritywater-and-energy-commission-secretariat",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Development Partner"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.757460Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/nepal-electricity-authoritywater-and-energy-commission-secretariat",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Electricity Authority,Water and Energy Commission Secretariat",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "nepal-electricity-authoritywater-and-energy-commission-secretariat",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Nepal Electricity Authority,Water and Energy Commission Secretariat",
+      "created_at": "2025-12-23T19:11:23.757458Z",
+      "entity_or_relationship_id": "entity:organization/government_body/nepal-electricity-authoritywater-and-energy-commission-secretariat",
+      "id": "version:entity:organization/government_body/nepal-electricity-authoritywater-and-energy-commission-secretariat:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

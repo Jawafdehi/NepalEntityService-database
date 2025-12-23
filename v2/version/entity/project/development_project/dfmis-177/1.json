@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.822875Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-177",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.822877Z",
+    "dates": [
+      {
+        "date": "2008-11-14",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-10-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-11-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Road construction (Rural)\r\n    Supplementary Infrastucture and RAPI Road Maintenance  Support\r\n    Institutional Support\r\n    Monitoring and Reporting"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "177",
+        "raw_payload": {
+          "id": 693,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 59324139.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-14",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-177",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/177",
+        "value": "177"
+      }
+    ],
+    "implementing_agency": "Foreign, Commonwealth & Development Office",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "NEPAL RURAL ACCESS PROGRAMME PHASE- II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/177",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-177",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 59324139.0,
+    "total_disbursement": 62982274.148,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.822875Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-177",
+      "id": "version:entity:project/development_project/dfmis-177:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

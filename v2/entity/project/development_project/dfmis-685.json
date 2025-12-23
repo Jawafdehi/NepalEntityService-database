@@ -1,0 +1,170 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.162448Z",
+  "dates": [
+    {
+      "date": "2010-10-06",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-10-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Component 1:Policy Support\r\nMajor activities\r\n·      Provide information on international good practice for strategy design, policy and implementation Programs\r\n·      Support and facilitate selected stakeholder consultation to enable a structured stakeholder-policy dialogue\r\n·      Support the formulation of a biomass energy strategy(BEST) including identification of industrial use of biomass and agricultural residues as part of or complementary to the overall energy strategy\r\n·      Provide information and support for initiatives aiming at the introduction of energy efficiency issues and targets into the next 3 year development plans\r\n·      Support intermediaries to create public awareness on energy conservation groups issues\r\nComponent 2: Energy Efficiency in Households\r\nThis component has two subcomponents.\r\nA.    To reduce the specific electricity consumption of grid connected households\r\nB.     To reduce the biomass consumption of rural households\r\nMajor activities for subcomponent 2A\r\n·       Provide information on international good practice on minimum standards and energy efficiency labeling for electric household appliances\r\n·       Study financial benefits and burdens on consumer and utility side on basis of drafted minimum standards. The study will also analyse the conditions in isolated electricity grids.\r\n·       If required support NBSM to devise minimum standards and labeling for household appliances\r\n·       Support awareness raising for households and capacity building for institutions implementing and enforcing the mandatory minimum standards \r\nMajor activities for subcomponent 2B\r\n·       Support a study to conceptualize the accelerated dissemination of improved efficient cooking stoves. The study takes socioeconomic, gender and cultural aspects of the target groups into account.\r\n·       Support management, implementation and monitoring of scaling up programmes under AEPC.\r\nComponent 3:Energy Efficiency in Industry\r\nMajor activities: It is envisaged that relevant private sector institutions found and operate an Energy Efficiency centre. The centre shall operate and provide services on commercial principles while being supported to perform the following activities\r\n·      Training of energy auditors and energy managers\r\n·      Capacity development of chambers of Industry and the financial sector\r\n·      Quality control of energy audits and clearing house for disputes\r\n·      Evaluation and monitoring of impacts resulting from investments in energy efficiency in industry with regard to productivity and profitability.\r\n.    A supplier’s forum offering services and products relevant to energy efficient use of energy."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "German Corporation for International Cooperation",
+      "donor_project_id": "685",
+      "raw_payload": {
+        "id": 569,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 35,
+        "organization__development_cooperation_group__name": "Germany",
+        "organization__logo": "",
+        "organization__name": "German Corporation for International Cooperation",
+        "organization_id": 24,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Energy, Water Resources and Irrigation, German Corporation for International Cooperation",
+  "financing": [
+    {
+      "amount": 5363773.896,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "German Corporation for International Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-10-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/685",
+      "value": "685"
+    }
+  ],
+  "implementing_agency": "Nepal Electricity Authority, Nepal Bureau of Standards and Metrology, Alternative Energy Promotion Center",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Energy Efficiency Programme (NEEP)/Support to Energy Efficiency",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/685",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-685",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5363773.896,
+  "total_disbursement": 5195881.3654,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.162446Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-685",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

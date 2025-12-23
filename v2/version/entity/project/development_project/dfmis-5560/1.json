@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.155487Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5560",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.155490Z",
+    "dates": [
+      {
+        "date": "2012-03-05",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-03-05",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This initiative supports the multilateral climate change financing budget measure and provides funding to multilateral organisations to conduct climate change mitigation activities, specifically: Global Green Growth Institute; Partnership for Market Readiness; Scaling-Up Renewable Energy Program; and UNDP Low-Emission Capacity Building Programme. This forms part of Australia's fast-start climate change finance package. The total value of this multi-country initiative is $43.2 million over two years, starting 2011-12."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "5560",
+        "raw_payload": {
+          "id": 36850,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Department of Foreign Affairs and Trade",
+    "financing": [
+      {
+        "amount": 1430930.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1430930.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5560",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5560",
+        "value": "5560"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Multilateral climate change mitigation - World Bank",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5560",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5560",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2861860.0,
+    "total_disbursement": 1430930.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.155487Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5560",
+      "id": "version:entity:project/development_project/dfmis-5560:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.292297Z",
+  "dates": [
+    {
+      "date": "2021-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "ActivitiesCase management, clinical operations, and therapeutics1.        Training for adult and pediatric ICU and ventilator care for physicians and staff in hospitals where critical care and anesthesia trained manpower is lacking.2.       Oxygen delivery and oxygen delivery devices including non-invasive ventilators (Bi-Pap), high-flow nasal cannula HFNC and RAM cannulas for children3.       PPE for malaria, TB and HIV programs  COVID-19 Diagnostics and testing1.        Procurement of SARS-CoV-2 molecular assays including conventional and GeneXpert testing kits and supplies.2.       Strengthen the quality assurance mechanisms for testing methodology, including point-of-care testing.  Infection prevention and control and protection of the health workforce1.     Personal Protective Equipment (PPE): N-95 mask, surgical mask, face shield, disposable gloves, disposable gown, coverall PPE set, disposable shoes, hand sanitizer, sodium hypochlorite 5% solution (disinfectant).2.    Training to health workers, community level frontline and essential staff and volunteers on COVID-19 related IPC measures, isolation and quarantine measures, and rational use of PPE.3.    Dissemination and implementation of COVID-19 IPC guidelines for health care settings, community level providers and frontline staff4.   Monitor and evaluate IPC guidance dissemination, implementation, and impact5.    Infection prevention and control and protection of the health workforce  Risk communication1.        Update national COVID-19 RCCE (Risk Communication and Community Engagement) guidelines and action plans.2.       Identification and mapping the most marginalized and vulnerable populations of COVID-19 pandemic and HIV, TB and malaria at risk populations including women, elderly, adolescents, youth, and children, persons with disabilities, indigenous populations, refugees, migrants, and ethnic minorities, GBV survivors, PLHIV, TB survivors, LGBTIQ communities, FSW, and prisoners.3.       Strengthening risk communication, developing specific platforms to engage with the most marginalized groups and vulnerable communities and enhance their involvement in tailoring local community engagement interventions for specific geographical regions as well as tailoring risk communication messages and interventions for gender, local language and local socio-culture context thus, improving the communities’ uptake with risk communications and interventions.4.       Community mobilization activities that involve affected communities, key and vulnerable populations, women and girls, LGBTIQ communities, FSW or target populations (PLHIV, TB affected population) in the development of Information, Communication and Education (ICE)/BCC materials on COVID-19.5.       Capacity building and engagement of communities in support of longer-term preparedness and emergency risk management functions.Case management, clinical operations, and therapeutics1.        To help with the current and any future medical surge, set up call centers for screening, triaging and dispatching ambulances and coordinate with health care facilities for acceptance and reception of patients transported by the ambulance2.       Provide salary, training and supervision for staff supporting the above  Health products and waste management systemsElectronic Logistic Management Information System (eLMIS):1.        Strengthening systematic and targeted scale-up of eLMIS/mSupply linking with health facilities, central and provincial stores to timely collect and distribute logistic data to attain a well-defined supply chain strategy for COVID-19 responses and HIV, TB and malaria services2.       Comprehensive and sustainable approach for HR deployment for eLMIS interventions at the sub-national levels and Strengthening capacity building including regular stock monitoring and planning at the targeted levels and timely escalating the requirements to take actions3.       Advocate and promote the practice of supply chain data use for both operational and strategic decision making at all levels of the in-country supply chain as well as planning for procurement4.       Setting up of regular oversight and coordination mechanism for eLMIS5.       Ensure the continuity of essential medicines and commodities supply6.       Infrastructure and equipment for the collection, transport, treatment, and disposal of health care waste to ensure compliance with standards  Surveillance System and contact trackingHealth management information system (HMIS):1.        Strengthening integrated reporting of HIV, TB and Malaria to the HMIS on District Health Information Software 2 (DHIS2) platform through data customization and Interoperability for data exchange2.       Investments for HIV, TB, malaria and/or or cross-cutting/integrated data systems for routine reporting and surveillance that require more funds than originally funded in the grants due to COVID-19.3.       Setting up supportive supervision as well as coaching and c"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2186",
+      "raw_payload": {
+        "id": 13375,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 23660059.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-07-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2186",
+      "value": "2186"
+    }
+  ],
+  "implementing_agency": "Save the Children",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Global Fund COVID-19 Response Mechanism (C19RM)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2186",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2186",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 23660059.0,
+  "total_disbursement": 20679156.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.292294Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2186",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

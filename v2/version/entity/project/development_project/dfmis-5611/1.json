@@ -1,0 +1,207 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.252339Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5611",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.252343Z",
+    "dates": [
+      {
+        "date": "2013-01-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "5611",
+        "raw_payload": {
+          "id": 37408,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "United Nations Peace Fund",
+        "donor_project_id": "5611",
+        "raw_payload": {
+          "id": 37409,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Peace Fund",
+          "organization_id": 362,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Finance, Ministry of Finance",
+    "financing": [
+      {
+        "amount": 660000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-12-11",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 500000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-13",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 625000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-12-11",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 725000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Peace Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-01-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5611",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5611",
+        "value": "5611"
+      }
+    ],
+    "implementing_agency": "Ministry of Home Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Armed Violence Reduction and Strengthening Community Security Project (AVRSCS)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5611",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5611",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2510000.0,
+    "total_disbursement": 1888000.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.252339Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5611",
+      "id": "version:entity:project/development_project/dfmis-5611:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

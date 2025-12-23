@@ -1,0 +1,251 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.761796Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010330",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.761799Z",
+    "dates": [
+      {
+        "date": "1999-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project will assist the Government to implement important components of its forestry master plan and forestry sector policy by helping to establish a system to conserve and expand the forest resources which sustain traditional farming systems in the hills. The project will be implemented by the Ministry of Forests and Soil Conservation (MFSC), Department of Forests (FD), Department of Forests and Plant Research (DFPR), and User Groups over a period of seven years. The project consists of four components: (i) an institutional support component to strengthen FD's organization to enable it to identify and establish about 4,000 User Groups and transfer management responsibility for some 400,000 ha of forest land to them; (ii) a plantation establishment and management component, under which at least 56,300 ha of forest will be established, and about 18 million seedlings distributed to farmers for private planting; (iii) a training and extension component to communicate the Government's Community Forestry policy to FD staff and the communities; and (iv) a research component which will help DFPR to generate improved silvicultural techniques to conserve and increase the productivity of forest resources."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010330",
+        "raw_payload": {
+          "boardapprovaldate": "1989-05-30T00:00:00Z",
+          "closingdate": "1999-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "28400000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "6900000",
+          "id": "P010330",
+          "major_sector_code": "AX,BX",
+          "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Public Administration",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AB",
+                    "sector_name": "FY17 - Agricultural Extension, Research, and Other Support Activities",
+                    "sector_percent": "12.0"
+                  },
+                  {
+                    "sector_code": "AT",
+                    "sector_name": "FY17 - Forestry",
+                    "sector_percent": "65.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BC",
+                    "sector_name": "FY17 - Central Government (Central Agencies)",
+                    "sector_percent": "23.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Agricultural Extension, Research, and Other Support Activities,FY17 - Central Government (Central Agencies),FY17 - Forestry",
+          "proj_id": "P010330",
+          "project_abstract": "The project will assist the Government to implement important components of its forestry master plan and forestry sector policy by helping to establish a system to conserve and expand the forest resources which sustain traditional farming systems in the hills. The project will be implemented by the Ministry of Forests and Soil Conservation (MFSC), Department of Forests (FD), Department of Forests and Plant Research (DFPR), and User Groups over a period of seven years. The project consists of four components: (i) an institutional support component to strengthen FD's organization to enable it to identify and establish about 4,000 User Groups and transfer management responsibility for some 400,000 ha of forest land to them; (ii) a plantation establishment and management component, under which at least 56,300 ha of forest will be established, and about 18 million seedlings distributed to farmers for private planting; (iii) a training and extension component to communicate the Government's Community Forestry policy to FD staff and the communities; and (iv) a research component which will help DFPR to generate improved silvicultural techniques to conserve and increase the productivity of forest resources. ",
+          "project_name": "CLOSED(T) HILL COMMUNITY FORES",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Human Development and Gender",
+            "FY17 - Private Sector Development",
+            "FY17 - Social Development and Protection",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Environmental policies and institutions",
+            "FY17 - Gender",
+            "FY17 - Jobs",
+            "FY17 - Renewable Natural Resources Asset Management",
+            "FY17 - Rural Development",
+            "FY17 - Social Inclusion"
+          ],
+          "totalamt": "30500000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 6900000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1989-05-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010330",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010330",
+        "value": "p010330"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CLOSED(T) HILL COMMUNITY FORES",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010330",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010330",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Social Development and Protection",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 30500000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.761796Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010330",
+      "id": "version:entity:project/development_project/wb-p010330:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

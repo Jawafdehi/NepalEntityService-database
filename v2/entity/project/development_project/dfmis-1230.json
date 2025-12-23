@@ -1,0 +1,184 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.009203Z",
+  "dates": [
+    {
+      "date": "2016-01-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Kavreplanchowk District\r\n\r\n\r\n\tReconstruction and repair of partial damaged schools -No.4\r\n\tReconstruction of completely damaged schools\r\n\t-No.7\r\n\tReconstruction and repairing of partial damaged health center -No.1\r\n\tReconstruction and repairing of partial  damaged  water supply schemes- No 3\r\n\tReconstruction of completely damaged water supply schemes -No. 5\r\n\tPlastic tunnel support-HH 21\r\n\tLivestock support-HH 21\r\n\tAgriculture input -HH 21\r\n\t2 days training on livestock and cowshed management-Event 1\r\n\t2 days organic farming and off-seasonal vegetable production training -Event 1\r\n\tConstruction of rubbish pits -No. 18\r\n\tNutrition support for 0-1 years children -Person 90\r\n\tEducation materials support to 11 damaged schools -No. 11\r\n\tSession on disaster preparedness for children -Event 9\r\n\tSession on disaster preparedness  for women -Event 9\r\n\t2 days Staffs and board members training on disaster preparedness and environment protection -Event 1\r\n\r\n\r\nDailekh District\r\n\r\n\r\n\tFormation/reformation of Parents Association and support for meeting -No. 36\r\n\tFormation/activation  of children's clubs and networks (age 10 - 16 years) and support for  CC meetings with children -No. 49\r\n\tDisaster drills/awareness/creative session for children -Event 12\r\n\tTraining for school teachers and ECDC facilitators on psychosocial and child rights -Event 6\r\n\tEducational and learning materials support to Early Childhood Development Center -No. 26\r\n\tCommemoration of Children Days -National Children Day , CRC Day -Event 30\r\n\tSession on ecological rights of children for child club members -Event 108\r\n\tDistrict Level Child Initiative program (DCF formed, mobilized and support to meeting) -No. 12\r\n\tEmergency Support to vulnerable children-Person 30\r\n\tInter children club sport tournament -Event 4\r\n\tRegistration of Self help and savings groups with training (36 groups)+4networks meeting -No. 40\r\n\tAdvocacy and programs against violence about girl abuse & women violence -Event 24\r\n\tAwareness on health and activation of public health services for women -Event 24\r\n\tSupport to SHGs for income generation activities for women -Person 30\r\n\tCommemoration of special women days- Event 30\r\n\tSocial audit  and  public hearing about women, youth and children at VDCs level -Event 12\r\n\tDistrict Level Women Initiative program for formation and mobilization of  Women Right Forum (total 12 meetings) -Event 12\r\n\tEmergency Support to Vulnerable Women for protection of their rights -Person 12\r\n\tCapacity building training to women network on advocacy of women rights at District level -Event 1\r\n\tFormation and support for Farmers Coordination Committee (FCC) - No. 4\r\n\tFCC- Meeting with women's groups on SHGs and children's education -Event 12\r\n\tAwareness on youth rights and safe migration/HIV Aids training -Event 12\r\n\tFormation/reformation and support for youth clubs and networks ( 36 youth clubs+4 Youth Networks) -No. 40\r\n\tMaintenance of irrigation system mobilizing youth -No. 27\r\n\tDrip irrigation system establishment -No. 45\r\n\tSeed money support of youth clubs for  youth entrepreneurs  development -Person 36\r\n\tConstruction of compost pits -No. 36\r\n\tCommemoration of World Environment Day, International Youth Day -Event 30\r\n\tTraining to youth on Disaster Risk Reduction and Climate change -Event 1\r\n\tDistrict Level youth   Initiative program district youth forum formation and meeting support(DYF) -Event 18\r\n\tSupport for plastic house -HH 60\r\n\tInter youth club Volleyball tournament -Event 3\r\n\tAgro Exhibition at VDC level -Event 4\r\n\tTechnical support   fund  for maintenance and repair of plastic house ,water scheme and drop irrigation -No. 12\r\n\tChild right training for SOSEC board and project staff -Event 1\r\n\tTraining on gender and social inclusion for board and project staffs -Event 1\r\n\tStaff review, sharing and planning meeting -Event 12\r\n\tExposure visit for project staff and representative of youth, women and CC -Event 1​\r\n\r\n\r\nSurkhet District:\r\n\r\n\r\n\tFormation/reformation of Parents Association and support for meeting - No. 18\r\n\tFormation/reformation of children's clubs and VDCs  networks  (age 10 - 18 years) and support for  CC meetings with children (18 clubs+2 VDC level Networks) -No. 20\r\n\tEducational support for poor and marginalized children (School admission/education materials)  -Person 180\r\n\tDisaster drill/awareness/creative session for children -Event 6\r\n\tEstablish Child-Friendly Spaces (CFS)  in marginalized communities   (materials support for3 years) -No. 2\r\n\tCommemoration of Children Days -National Children Day , CRC Day -Event 12\r\n\tEmergency Support to vulnerable children -Person 30\r\n\tFormation/reformation  Self help  groups  and VDC networks with training (18 groups +2 VDC level network) -No. 20\r\n\tAdvocacy and programs against violence about girl abuse & women violence -Event 18\r\n\tAwareness on health and activation of public health services for women -Event 18\r\n\t7 day counseling training/refresher  for 18 para counselor -Event 1\r\n\tImmediate counseling s"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Terre Des Hommes, Germany",
+      "donor_project_id": "1230",
+      "raw_payload": {
+        "id": 9653,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Terre Des Hommes, Germany",
+        "organization_id": 632,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Terre Des Hommes, Germany",
+  "financing": [
+    {
+      "amount": 393144.3487,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Terre Des Hommes, Germany",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-01-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1230",
+      "value": "1230"
+    }
+  ],
+  "implementing_agency": "Terre Des Hommes, Germany",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promotion of Rights of Children, Youth and Women Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1230",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1230",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 393144.3487,
+  "total_disbursement": 89703.06198,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.009201Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1230",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

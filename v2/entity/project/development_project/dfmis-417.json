@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.951411Z",
+  "dates": [
+    {
+      "date": "2013-06-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2014-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Electronic display board installation at DEOCs;\r\n\t\r\n\t\tSupport equipment, lifesaving materials, communication equipment to district EOCs (Kanchanpur, Bardiya, and Chitwan) for developing SoPs in line with NEOC SOPs;\r\n\t\r\n\t\tSupport to NEOC/REOC (communication channel established and emergency telephone list preparation at NEOC/REOC, equipment support);\r\n\t\r\n\t\tSmall scale mitigation work\r\n\t\r\n\t\tExploration of Appropriate technology for installing landslide early warning;\r\n\t\r\n\t\tPreparation of VDC Disaster Risk Management Plan based on MOFALD Guideline;\r\n\t\r\n\t\tSupply of preparedness and response equipment (Life Jackets, Boats, Ropes, Tubes and storage facilities);\r\n\t\r\n\t\tTrainings to staffs and stakeholders (Advocacy and policy, LDRMP, technical training on Hydrological data analysis, GIS training, Landslide EWS, CBDRR including CBEWS, GSI, PwDs, mainstreaming  DRR into District Development Planning);\r\n\t\r\n\t\tTechnical support to other organizations on EWS, LDRMP, DPRP (DDRCs/DDCs, NGOs, INGOs, UN);\r\n\t\r\n\t\tSupport to DHM, DSCWM, MOFALD, and other concerned government agencies (Equipment, logistics, Team building, knowledge sharing on CBEWS);\r\n\t\r\n\t\tMaterials support to DDRCs members for Search and Rescue training;\r\n\t\r\n\t\tBuilding capacity of NRCS to mainstream, assess, design and establish CBEWS;\r\n\t\r\n\t\tSupport for implementation of CBEWS guideline;\r\n\t\r\n\t\tDesign, drawing, cost estimate, and supervision small scale mitigation Work;\r\n\t\r\n\t\tMock Drill and simulation exercise in communities;\r\n\t\r\n\t\tSupport to district EWS (improving upstream linkages and verifying water level thresholds - upstream visits and meetings);\r\n\t\r\n\t\tEWS technical equipment (Hand operated sirens, Megaphones, CDMA Phones and storage facilities);\r\n\t\r\n\t\tRefresher training to task forces (First Aid and Search and Rescue);\r\n\t\r\n\t\tAwareness raising activities (Door to door - 2 times, wall paintings, visibility boards, song competitions, flyer publications) (School awareness)\r\n\t\r\n\t\tActivities for mainstreaming PwDs into DRR;\r\n\t\r\n\t\tJoint advocacies at key annual DM/DR events (IDDR Day, Earthquke safety day, others) Emergency fund at VDC and District level;\r\n\t\r\n\t\tPublication of knowledge and visibility materials;\r\n\t\r\n\t\tSurveys and Evaluation."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Practical Action Nepal",
+      "donor_project_id": "417",
+      "raw_payload": {
+        "id": 7284,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Practical Action Nepal",
+        "organization_id": 318,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Practical Action Nepal",
+  "financing": [
+    {
+      "amount": 622928.4874,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Practical Action Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-06-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/417",
+      "value": "417"
+    }
+  ],
+  "implementing_agency": "Department of Hydrology and Meteorology",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "STRENGTHENING ACTIONS FOR FOSTERING RESILIENCE THROUGH EARLY WARNING AND RISK SENSITIVE PLANNING IN NEPAL (SAFER)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/417",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Communication",
+      "donor_subsector": null,
+      "normalized_sector": "Communication",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-417",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 622928.4874,
+  "total_disbursement": 402530.0808,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.951408Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-417",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

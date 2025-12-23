@@ -1,0 +1,177 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.289367Z",
+  "dates": [
+    {
+      "date": "2022-03-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-03-18",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Collaborate with local governments and support target communities to plan and establish Climate Smart/Climate Adapted Village to upscale climate smart agriculture technologies and practice.Training on climate smart agriculture technologies and practices for women, farmers, and local government staffPromote and support for climate resilient technologies and crop varieties in agriculture.Enhance livestock production (including support, animal health care, housing)Improved water management and irrigation systemsImprove nutrition through establishment of home gardens and school biodiversity gardens.Training and support for small scale farm and enterprisesTraining and support for returnee migrants, persons with disability and women to engage in income generation activities.Provide skill development training on management, business and market management.Development of agricultural productsDeveloping access to market via cooperatives, and enhancing capacity of small-scale farmers and microenterprisesEstablishment of collection centers to support collection and processing of market products produced by beneficiaries.Create connections and enable environment for microenterprises with officials.Develop training materials and build capacity of teachers via trainings and supervision on psychosocial wellbeing and disability inclusive education.Develop and provide training material/ technical support for classroom based on psychosocial wellbeing and for establishment of psychosocial counselling unit at schools.Develop comprehensive school counselling manual in collaboration with CEHRD and provinces, and roll it out.Parenting education on child wellbeing, child protection and education of childrenSupport children with disability and people with disability to attend and graduate from higher level education (grade 11 and 12, bachelor and master)On the job training, internship and job preparation support and vocational training for persons with disabilitiesImprove schools’ infrastructure to promote disability-friendly learning environment.Increase access of children with disabilities to nutritious food, health and sanitary to improve their education results.Provide mental health and psychosocial counselling training and supervision to paramedics, staff nurse/auxiliary nurse, with emphasis on children’s psychosocial issues.Provide advanced psychosocial counselling training/supervision to staff nurses of referral hospitals to provide psychosocial counselling services for the referred cases from schools.Training and supervision to health coordinator in planning, implementation and monitoring of mental health programSupport local and provincial government for preparing mental health strategy and plan of action.Formation of Peer Support Groups and SHGs of PWD and capacity strengtheningPsychosocial counseling to peer support members of SHGsDevelop and disseminate Information, Education and Communication (ICE) materials.Broadcast radio program on disability rights, vital registration, and child protection..Train child clubs on life skills and mental healthEmpower and train adolescence youth on life skills and leadership.Train and organize campaigns on disability and psychosocial wellbeing, social stigma and against discrimination.Organize workshops/seminars with stakeholders on inclusion of psychosocial disability.Mobilization of CBOs, networks and other groups on disaster preparednessTraining on disaster and climate disaster for community members and duty bearers of municipalitiesDeclaration of climate resilient municipalitiesPublication and dissemination of IEC materials covering climate change and DRR experience and issues.Promotion of clean energy utilization tools (e.g. wood saving stoves) to meet energy needs.Planning reforestation together with local government and communitiesPlanting trees as reforestationMaintaining trees and forest areaTraining on disaster risk forecasting and preparedness for community members and different CBO groupsDeveloping and putting in use different sources of information and forecasting tools (e.g. earthing tools and SMSs) in communities and households to forecast and prepare for risks."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Finnish Evangelical Lutheran Mission Nepal",
+      "donor_project_id": "3780",
+      "raw_payload": {
+        "id": 40556,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Finnish Evangelical Lutheran Mission Nepal",
+        "organization_id": 539,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 5902478.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Finnish Evangelical Lutheran Mission Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-03-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3780",
+      "value": "3780"
+    }
+  ],
+  "implementing_agency": "Local Initiatives for Biodiversity Research and Development, Center for Mental Health and Counseling, Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Felm Nepal Development Cooperation Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3780",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3780",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5902478.0,
+  "total_disbursement": 2766604.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.289365Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3780",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.404626Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-113",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.404628Z",
+    "dates": [
+      {
+        "date": "2009-06-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-06-26",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Design and conduct monthly awareness raising activities ;Conduct home visits of ANC and PNC for follow-up and monitoring (intake of iron, vitamin A medicines and other related care)Coordinate with DPHO for iron tablet supply, Facilitate to organise one health camp per year, Facilitate for establishing common kitchen and toilets             \r\nDesign and conduct orientation to parents on child growth, development and benefits of CDC,Educate adolescents on their self protection and mechanism of complain process\r\nForm saving groups\r\n \r\nDesign & conduct orientation on the importance of growth monitoring, conduct Monthly growth monitoring, Demonstrate and practicum on the preparation of jaulo and sorbottam pitho\r\n \r\nDevelop Work Plan with CMC, Design and conduct orientation on the basics of psychosocial support to Social Mobiliser, Peer group education on reproductive health and gender-based issues (e.g. violence etc.),Provide individual counselling, Refer cases to CMC for individual counselling, Supervision / follow-up of Counselling \r\n \r\nDesign & Conduct orientation on the needs and benefits of safe drinking water and sanitation, Negotiate and sign MOU between the project and kiln owners for establishing water supply system in CDC\r\n \r\nOrganize workshops / meetings for developing the Code of conduct"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "113",
+        "raw_payload": {
+          "id": 1926,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 506634.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-06-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-113",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/113",
+        "value": "113"
+      }
+    ],
+    "implementing_agency": "Terre des hommes, Lausanne",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Social Responsiveness Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/113",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-113",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 506634.0,
+    "total_disbursement": 386871.553753,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.404626Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-113",
+      "id": "version:entity:project/development_project/dfmis-113:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

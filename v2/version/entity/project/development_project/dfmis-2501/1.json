@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.313913Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2501",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.313916Z",
+    "dates": [
+      {
+        "date": "2022-12-22",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-03-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Enhancement of quality education services to children in Nepal through;focus on strengthening school readinessfoundational learning and inclusive education models, targeting particularly the most vulnerable childrenaccess to education for children hit by the COVID-19 pandemic and other disasterssupport to SESP"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Finnish International Development Agency",
+        "donor_project_id": "2501",
+        "raw_payload": {
+          "id": 14558,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 10,
+          "organization__development_cooperation_group__name": "Finland",
+          "organization__logo": "",
+          "organization__name": "Finnish International Development Agency",
+          "organization_id": 23,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "United Nations Children's Fund",
+    "financing": [
+      {
+        "amount": 4458290.47,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Euro",
+        "donor": "Finnish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-12-22",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2501",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2501",
+        "value": "2501"
+      }
+    ],
+    "implementing_agency": "United Nations Children's Fund",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "UNICEF Nepal Country Programme",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2501",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2501",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4458290.47,
+    "total_disbursement": 3461928.02,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.313913Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2501",
+      "id": "version:entity:project/development_project/dfmis-2501:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

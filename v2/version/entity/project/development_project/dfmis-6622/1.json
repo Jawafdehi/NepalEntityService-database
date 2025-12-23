@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.286933Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6622",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.286939Z",
+    "dates": [
+      {
+        "date": "2023-01-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-01-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "improvement of Air Traffic Flow Management (ATFM) / Airport Collaborative Decision making (A-CDA) at TIA, for effective use of airspace in Kathmandu Terminal Control Area (TMA) and enhancement of Communication, Navigation and Surveillance (CNS) system for efficiency of TIA operations"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Japan International Cooperation Agency",
+        "donor_project_id": "6622",
+        "raw_payload": {
+          "id": 44228,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 17,
+          "organization__development_cooperation_group__name": "Japan",
+          "organization__logo": "",
+          "organization__name": "Japan International Cooperation Agency",
+          "organization_id": 3,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Culture, Tourism and Civil Aviation",
+    "financing": [
+      {
+        "amount": 2550021.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "Japanese Yen",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-01-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6622",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6622",
+        "value": "6622"
+      }
+    ],
+    "implementing_agency": "Civil Aviation Authority of Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "The Project to Improve Air Navigation Services for Enhancing Flight Handling Capacity at Tribhuvan International Airport",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6622",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Transport",
+        "donor_subsector": null,
+        "normalized_sector": "Transport",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6622",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2550021.0,
+    "total_disbursement": 1458780.33,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.286933Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6622",
+      "id": "version:entity:project/development_project/dfmis-6622:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

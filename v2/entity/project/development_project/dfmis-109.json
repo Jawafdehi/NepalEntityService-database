@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.388171Z",
+  "dates": [
+    {
+      "date": "2010-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2009-12-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Sustain elimination of leprosy as a public health problem from Nepal.\r\n2. Capacity building at district level for effective implementation and monitoring of National Kalaazar Elimination Programme in 12 affected districts.\r\n3. LF elimination programme and surveillance monitoring supported.\r\n4. Community based vector surveillance and control strategy for dengue and other emerging urban based vector-borne diseases.\r\n5. Prevention and control of major and emerging zoonotic diseases of public health importance in Nepal.\r\n6. A simiplified national integrated diseases surveillance system for ep0idemic-prone diseases developed and implemented.\r\n7. Laboratory human resource capacity for communicable diseases diagnosis strengthened.\r\n8. Quality and infrastructure of selected laboratories improved.\r\n9. Optimize operational procedures of control of communicable diseases.\r\n10. Implementation of core capacities for IHR implementation.\r\n11. Strengthening of alert and response system for use in epidemics and other public health emergencies for IHR implementation.\r\n12. International public health security improved.\r\n13. National operation plan for preparedness and response to an influenza pandemic implemented.\r\n14. Health capacity for appropirate Dengue/DHF/DSS case management supported.\r\n15. Infection control in referral hospitals for diseases with epidemic and pandemic potential supported.\r\n16. National RRT capability to support to GOARN.\r\n17. Technically sound National Strategy/Guideline/Policy documents to effectively enhance components of the national malaria control programme.\r\n18. Strengthening case management of malaria through the effective transference of knowledge on national treatment protocols and current confirmatory diagnostic options.\r\n19. Providing an enabling environment for the re-integration of a strong entomological component within the national malaria control programme to facilitate the effective targetomg pf ,a;aroa [revemtopm actovotoes/\r\n20. Strengthening support for effective delivery of informational and educational sensitisation campaigns to programme beneficiaries, and management of the national malaria control programme.\r\n21. Creating an evidence base on which to enhance in-country mechanisms to maintain the quality of anti-malarials and RDTs.\r\n22. Utilisation of an integrated approach to malaria related surveillance to effectively target national malaria control programme interventions.\r\n23. Maintaining advocacy and technical assistance through effective partnership with the national malaria control programme and associated ntional, regional and global partners.\r\n24. Advances in entomological operational research output with national/local collaboration.\r\n25. Blood transfusion services strenghtned."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Health Organization",
+      "donor_project_id": "109",
+      "raw_payload": {
+        "id": 1100,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "World Health Organization",
+        "organization_id": 26,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 529000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Health Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/109",
+      "value": "109"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SENEP1004175 - Communicable Disease Surveillance and Response/Malaria/Essential Health Technology",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/109",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-109",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 529000.0,
+  "total_disbursement": 512853.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.388168Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-109",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

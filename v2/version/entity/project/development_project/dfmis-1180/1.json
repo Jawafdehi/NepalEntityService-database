@@ -1,0 +1,227 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.788361Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1180",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.788364Z",
+    "dates": [
+      {
+        "date": "2016-05-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-04-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Output 1: School Children in the target schools in  Gorkha, Sindhuli. Lalitpur and Makwanpur have access to a safe, healthy, resilient, inclusive and child-friendly learning environment, enabling quick recovery and normal school activities before & during  re-building of permanent school infrastructure\r\n\r\nOutput 2: Staff and students in target schools in Gorkha, Sindhuli, Lalitpur and Makwanpur are benefitting from quality educational materials and improved training practices and learning methods and have increased awareness on school safety and resilience, as well as on good hygiene and sanitation practices.\r\n\r\nOutput 3: Addressing poverty & gender disparity and contribute for equity and social justice in selected VDCs of Lalitpur District, Nepal."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Finn Church Aid Foundation",
+        "donor_project_id": "1180",
+        "raw_payload": {
+          "id": 10023,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Finn Church Aid Foundation",
+          "organization_id": 655,
+          "percentage": 24
+        }
+      },
+      {
+        "donor": "United Nations Children's Fund",
+        "donor_project_id": "1180",
+        "raw_payload": {
+          "id": 10026,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Children's Fund",
+          "organization_id": 11,
+          "percentage": 76
+        }
+      }
+    ],
+    "executing_agency": "Finn Church Aid Foundation",
+    "financing": [
+      {
+        "amount": 2284839.186,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finn Church Aid Foundation",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1238959.628,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finn Church Aid Foundation",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 205362.5432,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finn Church Aid Foundation",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 158954.4389,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finn Church Aid Foundation",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-12-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1180",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1180",
+        "value": "1180"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting community resilience through Education in Emergencies and Livelihoods",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1180",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1180",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3888115.7961,
+    "total_disbursement": 5147998.6395,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.788361Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1180",
+      "id": "version:entity:project/development_project/dfmis-1180:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

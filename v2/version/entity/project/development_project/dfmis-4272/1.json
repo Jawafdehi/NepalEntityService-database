@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.323919Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4272",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.323922Z",
+    "dates": [
+      {
+        "date": "2023-12-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-12-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-11-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Recruitment of national consultants1.2 Detailed assessment to establish the city region food system (CRFS) framework and action plan1.3 Awareness raising among the stakeholders (Food literacy)1.4 Capacity development of stakeholders.1.5 Green infrastructure, edible landscapes, and public space development1.6 Promote circular economy initiatives1.7 Surplus food collection and distribution system(Web-based information system development)1.8 Identification and support to implementation of suitable urban and peri-urban agriculture activities2.1 Linking producers and consumers through sustainable food procurement and catering2.2 Knowledge sharing and collaboration2.3 Demand-based sustainable production plan for peri-urban agriculture2.4 Final result sharing workshop"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "4272",
+        "raw_payload": {
+          "id": 41776,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Food and Agriculture Organization",
+    "financing": [
+      {
+        "amount": 77000.0,
+        "assistance_type": "other",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-12-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4272",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4272",
+        "value": "4272"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting urban and peri-urban agriculture towards the city regional food system",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4272",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4272",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 77000.0,
+    "total_disbursement": 76775.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.323919Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4272",
+      "id": "version:entity:project/development_project/dfmis-4272:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

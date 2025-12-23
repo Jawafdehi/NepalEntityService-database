@@ -1,0 +1,291 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.530690Z",
+  "dates": [
+    {
+      "date": "2012-04-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The objective of the Fourth Biogas Support Program Project (BSP-IV) in Nepal is to further develop and disseminate biogas plants as a mainstream renewable energy solution in rural Nepal, while better addressing poverty, social inclusion and regional balance issues and at the same time ensuring enhanced commercialization and sustainability of the sector. Global Partnership on Out-Based Aid (GPOBA) will subsidize the use of biogas plants with a capacity up to 8m3. Subsidies will be paid after a verification report has determined the number of installed plants continuously used by the target population. The verification mechanism is similar to that of the carbon finance component of the project in that it also pays only after receiving proof that biogas plants installed are actually used. As in the carbon finance component of the project this verification will be done on a statistical sample basis. To be eligible for the BSP-IV, households have to meet the following criteria: 1) own at least one bovine, in order to be able to operate the smallest size plant sustainably, 2) own land to build the biogas plant on, and 3) have access to a sufficient amount of water."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P103979",
+      "raw_payload": {
+        "boardapprovaldate": "2007-10-04T00:00:00Z",
+        "closingdate": "2012-04-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "5000000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "5000000",
+        "id": "P103979",
+        "major_sector_code": "LX,SX,WX",
+        "major_sector_name": "Energy and Extractives,FY17 - Social Protection,FY17 - Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "LX",
+              "major_sector_name": "Energy and Extractives",
+              "sectors": [
+                {
+                  "sector_code": "LE",
+                  "sector_name": "Renewable energy",
+                  "sector_percent": "70.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "SX",
+              "major_sector_name": "FY17 - Social Protection",
+              "sectors": [
+                {
+                  "sector_code": "SA",
+                  "sector_name": "FY17 - Social Protection",
+                  "sector_percent": "10.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "FY17 - Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WA",
+                  "sector_name": "FY17 - Sanitation",
+                  "sector_percent": "20.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Sanitation,FY17 - Social Protection,Renewable energy",
+        "proj_id": "P103979",
+        "project_abstract": "The objective of the Fourth Biogas Support Program Project (BSP-IV) in Nepal is to further develop and disseminate biogas plants as a mainstream renewable energy solution in rural Nepal, while better addressing poverty, social inclusion and regional balance issues and at the same time ensuring enhanced commercialization and sustainability of the sector. Global Partnership on Out-Based Aid (GPOBA) will subsidize the use of biogas plants with a capacity up to 8m3. Subsidies will be paid after a verification report has determined the number of installed plants continuously used by the target population. The verification mechanism is similar to that of the carbon finance component of the project in that it also pays only after receiving proof that biogas plants installed are actually used. As in the carbon finance component of the project this verification will be done on a statistical sample basis. To be eligible for the BSP-IV, households have to meet the following criteria: 1) own at least one bovine, in order to be able to operate the smallest size plant sustainably, 2) own land to build the biogas plant on, and 3) have access to a sufficient amount of water.",
+        "project_name": "GPOBA - Nepal Biodigesters",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Private Sector Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Climate change",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Jobs",
+          "FY17 - Renewable Natural Resources Asset Management",
+          "FY17 - Renewable Natural Resources Asset Management",
+          "FY17 - Rural Development"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 5000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2007-10-04",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P103979",
+      "value": "p103979"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "GPOBA - Nepal Biodigesters",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P103979",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Energy and Extractives",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Social Protection",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p103979",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.530687Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p103979",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

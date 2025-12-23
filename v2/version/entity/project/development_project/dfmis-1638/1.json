@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.893577Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1638",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.893580Z",
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Tripartite Agreement sign off – Local Governments, Habitat local Partner and Habitat Nepal, will sign an agreement on funding contributions, roles and responsibilities throughout the duration of the project. • Project Kick-Off Meeting - an orientation about the project with the staff of the partner organisations and local governments to share project objectives with local communities. • Selection of communities - 10 different local communities, 5 in Jhapa and 5 in Saptari, will be selected, in consultation with local government and local partners. • LDMC engagement – The Ward-Level LDMC will be a governmental partner in planning and delivering community-based DR3 interventions along with the NGO partner. • Low-cost, disaster-resilient housing designs – A New Zealand university will be a partner to assist in the technical analysis of low-cost disaster-resilient housing designs developed by Habitat and Municipal engineers. The designs will be incorporated into local government building requirements or codes, and Habitat will support the local government system in monitoring and enforcing these minimum requirements by offering training to governmental staff. • PASSA group formation - PASSA groups with a good representation from the communities, including women and PWD,s will be formed within communities. Habitat Nepal with our partners will facilitate the PASSA members through the eight sessions in the program. PASSA groups will also identify the most vulnerable families within their community, to be eligible for top-up grants. • PASSA training sessions - As an outcome of these sessions, PASSA groups identify the disaster risks facing the communities and suggest the course of actions necessary to mitigate those risks. Similarly, they will discuss various issues related to most vulnerable families, issues of women, PWDs, old age people, children and others. • LDMC/PASSA collaboration – Government and Community groups on DRR join in preparing DR3 projects within the community and how this will be resourced and implemented. LDMC will raise funds and provide technical assistance to the community. • Mason Training- Mason’s are vital to delivering safe shelter in communities in terms of awareness and practice. Masons will be trained on the importance of safe shelter techniques and practice. • Lands Title Office engagement - The local office will be key to owning the joint-titling registration process. Training and process development will be provided through a Civil Rights expert or Lawyer. Having the backing and approval from the Major/Deputy Mayor will ensure greater adoption and acceptance of this new practice. • Women’s Savings Groups to build community awareness of Joint-Titles – The DFAT BPP Micro-Finance project in the same communities uses women’s savings groups to offer and disperse loans to low-income families. These groups of women will receive orientation sessions on Women’s Inheritance Rights and information on fee discounts/exemptions for the new registration process. • Youth Groups to promote Safe Housing and Inheritance Rights – Through local Youth groups and the Habitat Young Leaders Build (HYLB) program, youth will be mobilised to organise community awareness raising events to promote Safe Housing standards and Women’s Inheritance Rights issues. Youth groups will raise resources to conduct these events"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Habitat for Humanity International Nepal",
+        "donor_project_id": "1638",
+        "raw_payload": {
+          "id": 13262,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/Habitat_Logo_Black_1.png",
+          "organization__name": "Habitat for Humanity International Nepal",
+          "organization_id": 601,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Habitat for Humanity International Nepal",
+    "financing": [
+      {
+        "amount": 223886.2977,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Habitat for Humanity International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1638",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1638",
+        "value": "1638"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Digo Samudaya Eastern DRR Phase III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1638",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Housing",
+        "donor_subsector": null,
+        "normalized_sector": "Housing",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1638",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 223886.2977,
+    "total_disbursement": 134173.7231,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.893577Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1638",
+      "id": "version:entity:project/development_project/dfmis-1638:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,132 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.985077Z",
+  "dates": [
+    {
+      "date": "2015-06-09",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project aims at providing immediate protection to the monuments and sites affected by the 2015 earthquakes in Nepal, from further destruction or theft. Monuments still standing but at risk of collapse will be consolidated. By working with the Department of Archaeology, local communities, employing and training volunteers and building basic infrastructures, sites, monuments and relics will be protected from the looting and further destruction. The project will contribute to the restoration of local economies by creating professional training opportunities, employment. It also will be key to rehabilitating the tourism sector that is an important source of income for many communities."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_project_id": "865",
+      "raw_payload": {
+        "id": 9160,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+        "organization_id": 168,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "financing": [
+    {
+      "amount": 221224.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-09",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/865",
+      "value": "865"
+    }
+  ],
+  "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "570-NEP-4001 (CLT) Emergency assistance to World Heritage and other Sites affected by the 2015 earthquake in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/865",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-865",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 221224.0,
+  "total_disbursement": 201675.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.985074Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-865",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

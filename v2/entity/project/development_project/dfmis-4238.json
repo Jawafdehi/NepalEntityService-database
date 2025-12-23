@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.209449Z",
+  "dates": [
+    {
+      "date": "2024-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1. Formation and building capacity of Women/Youths Groups/networks.1.1.2 Organize campaign to raise awareness.1.1.3 Actions taken to stop rights violations-CM/CBD/GBV,etc1.1.4 Build and develop youth and women role models1.1.5 Establishment of youth hubs/community learning center1.1.6 Support to survivors of GBV/CM/CBD1.1.7 Social mobilization1.2.1 Capacity development of CSO/Local authorities1.2.2 Support for policy development1.2.3 Organize Local/Regional policy dialogues with different stakeholders1.2.4 Strengthen local mechanism1.2.5 Build capacity of staff on networking building/resource mobilization1.2.6 Conduct research/studies/assessments2.1.1     Formation of groups/network2.1.2     Capacity building of leaders of groups and networks2.1.3     Capacity building of staff2.1.4     Social mobilization2.2.1.    Capacity building on enterprise and business planning2.2.2.    Facilitation to access to government resources, finance, markets, and inputs2.2.3.    Provide skill trainings.2.2.4.    Support to start up the enterprise2.2.5.    Facilitate market networking2.2.6.    Support for small infrastructure, irrigation development2.2.7.    Research , analysis and dialogue with the government to influence for business environment3.1.1     Build capacity of groups leaders on environment and climate change3.1.2     Building capacity of groups, and CSOs on environment and climate change"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "IM-Swedish Development Partner",
+      "donor_project_id": "4238",
+      "raw_payload": {
+        "id": 41951,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "IM-Swedish Development Partner",
+        "organization_id": 607,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 3623348.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IM-Swedish Development Partner",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4238",
+      "value": "4238"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Socio-Economic Empowerment Project-SEEP Phase III",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4238",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4238",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3623348.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.209447Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4238",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

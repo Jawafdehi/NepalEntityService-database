@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.964423Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1089",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.964425Z",
+    "dates": [
+      {
+        "date": "2015-12-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-12-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-12-18",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Matching funds (seed money) to the farmers group;\r\n\tDistribution of seeds;\r\n\tSupport for agricultural tools and technologies;\r\n\tExpert agronomists and trainers\r\n\tMobilize community facilitators, experts and volunteers.\r\n\tEstablishment and Run Demo farms and satellite farm/nurseries\r\n\r\n\r\n\r\n\tCrop varietal trail\r\n\tdrip and sprinkle irrigation technique Establishment of collection centre\r\n\tzero water waste technique (water pond near kitchen garden)\r\n\tRain water harvesting technology\r\n\tWater reservoir enlargement and concretization\r\n\tcommunity support program (seeds/saddling, plastic sheets, sprayer and water can)\r\n\tFruit seedling distribution\r\n\tBee hive support\r\n\tMale goat distribution\r\n\tCommercial farm support (Plastic Tunnel)\r\n\tAgriculture mobilizer\r\n\tHealth materials support\r\n\tSRH health related information disseminated to the women through group meetings.\r\n\tHouseholds supported toilets materials.\r\n\tExperts mobilsed to train women empowerment facilitators\r\n\tAuthorized partner organization with medical personal \r\n\tMatching fund support to selected schools for class room construction and renovation.\r\n\tEducational material supports to the selected schools.\r\n\tSeed grants to the schools for improvement of school facilities.\r\n\tQualified teachers trainers"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "TEVEL Nepal",
+        "donor_project_id": "1089",
+        "raw_payload": {
+          "id": 9268,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "TEVEL Nepal",
+          "organization_id": 634,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "TEVEL Nepal",
+    "financing": [
+      {
+        "amount": 1267945.042,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "TEVEL Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1089",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1089",
+        "value": "1089"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Development Project(TEVEL) - CDP",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1089",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1089",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1267945.042,
+    "total_disbursement": 1227964.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.964423Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1089",
+      "id": "version:entity:project/development_project/dfmis-1089:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

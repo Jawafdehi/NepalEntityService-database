@@ -1,0 +1,328 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.353543Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p508961",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.353546Z",
+    "dates": [
+      {
+        "date": "2030-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The proposed SIF operation aims to strengthen:  (i) the Deposit and Credit Guarantee Fund (DCGF) by enhancing its capitalization, technology, and institutional capacity to expand credit guarantee coverage, improve risk management, and introduce innovative de-risking products; and  (ii) the Credit Information Center Ltd (CICL) by modernizing its technology and capacity to broaden data collection, integrate alternative sources, improve efficiency and accuracy, and enhance data security and privacy."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P508961",
+        "raw_payload": {
+          "boardapprovaldate": "2026-01-22T00:00:00Z",
+          "borrower": "Nepal",
+          "closingdate": "2030-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "esrc_ovrl_risk_rate": "Moderate",
+          "grantamt": "0",
+          "id": "P508961",
+          "impagency": "Credit Information Center Limited,Deposit and Credit Guarantee Fund",
+          "major_sector_code": "FFX",
+          "major_sector_name": "Financial Sector",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "FFX",
+                "major_sector_name": "Financial Sector",
+                "sectors": [
+                  {
+                    "sector_code": "FFP",
+                    "sector_name": "Public Administration - Financial Sector",
+                    "sector_percent": "0"
+                  },
+                  {
+                    "sector_code": "FFA",
+                    "sector_name": "Banking Institutions",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Banking Institutions,Public Administration - Financial Sector",
+          "proj_id": "P508961",
+          "project_abstract": "The proposed SIF operation aims to strengthen:  (i) the Deposit and Credit Guarantee Fund (DCGF) by enhancing its capitalization, technology, and institutional capacity to expand credit guarantee coverage, improve risk management, and introduce innovative de-risking products; and  (ii) the Credit Information Center Ltd (CICL) by modernizing its technology and capacity to broaden data collection, integrate alternative sources, improve efficiency and accuracy, and enhance data security and privacy. ",
+          "project_name": "Sustainable and Inclusive Finance",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Pipeline",
+          "themev2_level1_exact": [
+            "Economic Policy",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Finance",
+            "Finance",
+            "Finance",
+            "Finance",
+            "Finance",
+            "Finance",
+            "Gender",
+            "Gender",
+            "Governance and Public Sector Management",
+            "Governance and Public Sector Management",
+            "Human Development",
+            "Human Development",
+            "Jobs",
+            "Private Sector Development",
+            "Private Sector Development",
+            "Social Sustainability"
+          ],
+          "themev2_level2_exact": [
+            "Access to Climate Finance",
+            "Business Enabling Environment",
+            "Develop Financial Markets",
+            "Economic Growth",
+            "Economic Opportunities to Advance Gender Equality",
+            "Enterprise and Sector Development",
+            "Finance for the Poor and Vulnerable",
+            "Finance for the Real Economy",
+            "Finance for the Real Economy",
+            "GovTech",
+            "Human Capital to Advance Gender Equality",
+            "Job creation",
+            "Public Finance Management",
+            "Social Inclusion Policy and Programs",
+            "Social Protection",
+            "Social Protection",
+            "Strengthen Financial Resiliency",
+            "Strengthen Financial Resiliency"
+          ],
+          "totalamt": "95000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 95000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2026-01-22",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p508961",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P508961",
+        "value": "p508961"
+      }
+    ],
+    "implementing_agency": "Credit Information Center Limited,Deposit and Credit Guarantee Fund",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sustainable and Inclusive Finance",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P508961",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Financial Sector",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p508961",
+    "stage": "pipeline",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Economic Policy",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Governance and Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Governance and Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Human Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Human Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Jobs",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Social Sustainability",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 95000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.353543Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p508961",
+      "id": "version:entity:project/development_project/wb-p508961:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

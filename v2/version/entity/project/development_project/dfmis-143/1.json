@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.503653Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-143",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.503656Z",
+    "dates": [
+      {
+        "date": "2011-07-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-07-25",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Cooperative Educational Camp\r\n\r\n\tCooperative Management Training                 \r\n\r\n\tAccount keeping Training\r\n\r\n\tCooperative Business Plan Review\r\n\r\n\tCooperative Management Support\r\n\r\n\tworkshop Group Management\r\n\r\n\tGroups network promotion\r\n\r\n\tGroup Registration\r\n\r\n\tOrganizational  management training\r\n\r\n\tProposal writing training\r\n\r\n\tStrategic planning for LNGOs\r\n\r\n\tLNGOs management support\r\n\r\n\tSelf-help initiatives support\r\n\r\n\tLocal resource person promotion for agriculture, livestock, fruits and herbs\r\n\r\n\tVegetable farming training and inputs supports\r\n\r\n\tLivestock farming training and inputs supports\r\n\r\n\tGinger, herbs and fruits farming training  and inputs\r\n\r\n\tLivestock health check-up camp\r\n\r\n\tOff-farm skill development training for youth\r\n\r\n\tVegetable and fruits collection centers and storages\r\n\r\n\tYouth entrepreneurship development training\r\n\r\n\tCooperative Educational Camp\r\n\r\n\tCooperative Management Training                 \r\n\r\n\tAccount keeping Training\r\n\r\n\tCooperative Business Plan Review\r\n\r\n\tCooperative Management Support\r\n\r\n\tworkshop Group Management\r\n\r\n\tGroups network promotion\r\n\r\n\tGroup Registration\r\n\r\n\tOrganizational  management training\r\n\r\n\tProposal writing training\r\n\r\n\tStrategic planning for LNGOs\r\n\r\n\tLNGOs management support\r\n\r\n\tSelf-help initiatives support\r\n\r\n\tLocal resource person promotion for agriculture, livestock, fruits and herbs\r\n\r\n\tVegetable farming training and inputs supports\r\n\r\n\tLivestock farming training and inputs supports\r\n\r\n\tGinger, herbs and fruits farming training  and inputs\r\n\r\n\tLivestock health check-up camp\r\n\r\n\tOff-farm skill development training for youth\r\n\r\n\tVegetable and fruits collection centers and storages\r\n\r\n\tYouth entrepreneurship development training\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\tCooperative Educational Camp\r\n\t\t\t\t\r\n\t\t\t\t\tCooperative Management Training                 \r\n\t\t\t\t\r\n\t\t\t\t\tAccount keeping Training\r\n\t\t\t\t\r\n\t\t\t\t\tCooperative Business Plan Review\r\n\t\t\t\t\r\n\t\t\t\t\tCooperative Management Support\r\n\t\t\t\t\r\n\t\t\t\t\tworkshop Group Management\r\n\t\t\t\t\r\n\t\t\t\t\tGroups network promotion\r\n\t\t\t\t\r\n\t\t\t\t\tGroup Registration\r\n\t\t\t\t\r\n\t\t\t\t\tOrganizational  management training\r\n\t\t\t\t\r\n\t\t\t\t\tProposal writing training\r\n\t\t\t\t\r\n\t\t\t\t\tStrategic planning for LNGOs\r\n\t\t\t\t\r\n\t\t\t\t\tLNGOs management support\r\n\t\t\t\t\r\n\t\t\t\t\tSelf-help initiatives support\r\n\t\t\t\t\r\n\t\t\t\t\tLocal resource person promotion for agriculture, livestock, fruits and herbs\r\n\t\t\t\t\r\n\t\t\t\t\tVegetable farming training and inputs supports\r\n\t\t\t\t\r\n\t\t\t\t\tLivestock farming training and inputs supports\r\n\t\t\t\t\r\n\t\t\t\t\tGinger, herbs and fruits farming training  and inputs\r\n\t\t\t\t\r\n\t\t\t\t\tLivestock health check-up camp\r\n\t\t\t\t\r\n\t\t\t\t\tOff-farm skill development training for youth\r\n\t\t\t\t\r\n\t\t\t\t\tVegetable and fruits collection centers and storages\r\n\t\t\t\t\r\n\t\t\t\t\tYouth entrepreneurship development training\r\n\t\t\t\t\r\n\t\t\t\t\tExposure visit\r\n\t\t\t\t\r\n\t\t\t\t\tInternational youth day and women day celebration\r\n\t\t\t\t\r\n\t\t\t\t\tManagement of Youth Information Center\r\n\t\t\t\t\r\n\t\t\t\t\tYouth leadership training\r\n\t\t\t\t\r\n\t\t\t\t\tYouth advocacy training\r\n\t\t\t\t\r\n\t\t\t\t\tYouth voice bulletin publication\r\n\t\t\t\t\r\n\t\t\t\t\tYouth scholarship  \r\n\t\t\t\t\r\n\t\t\t\t\tYouth human value based development training\r\n\t\t\t\t\r\n\t\t\t\t\tYouth social gathering program\r\n\t\t\t\t\r\n\t\t\t\t\tCommunity people delegation to line agency\r\n\t\t\t\t\r\n\t\t\t\t\tHealth rights campaign\r\n\t\t\t\t\r\n\t\t\t\t\tSchool management workshop\r\n\t\t\t\t\r\n\t\t\t\t\tExposure visit for SAHAMATI management and RDP Staff"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "AWO International",
+        "donor_project_id": "143",
+        "raw_payload": {
+          "id": 2939,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "AWO International",
+          "organization_id": 516,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "AWO International",
+    "financing": [
+      {
+        "amount": 497299.3539,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-25",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-143",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/143",
+        "value": "143"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Rural Youth Development Program (RYDP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/143",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-143",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 497299.3539,
+    "total_disbursement": 463089.3523,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.503653Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-143",
+      "id": "version:entity:project/development_project/dfmis-143:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

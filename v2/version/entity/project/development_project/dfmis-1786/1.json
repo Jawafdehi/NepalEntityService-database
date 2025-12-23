@@ -1,0 +1,225 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.751565Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1786",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.751572Z",
+    "dates": [
+      {
+        "date": "2016-07-14",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_project_id": "1786",
+        "raw_payload": {
+          "id": 10471,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 40,
+          "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+          "organization__logo": "",
+          "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+          "organization_id": 176,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Global Alliance for Vaccines and Immunisation",
+        "donor_project_id": "1786",
+        "raw_payload": {
+          "id": 10472,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 38,
+          "organization__development_cooperation_group__name": "GAVI,  The Vaccine Alliance",
+          "organization__logo": "",
+          "organization__name": "Global Alliance for Vaccines and Immunisation",
+          "organization_id": 35,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 1848294.757,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Alliance for Vaccines and Immunisation",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-07-14",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 6255.472858,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-07-14",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 188741.9319,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Alliance for Vaccines and Immunisation",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 217118.5722,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1127323.79,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Alliance for Vaccines and Immunisation",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 6919.930425,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Sector Wide Approach",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1786",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1786",
+        "value": "1786"
+      }
+    ],
+    "implementing_agency": "Ministry of Health and Population",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Integrated District Health Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1786",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1786",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3394654.454383,
+    "total_disbursement": 3394654.454383,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.751565Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1786",
+      "id": "version:entity:project/development_project/dfmis-1786:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

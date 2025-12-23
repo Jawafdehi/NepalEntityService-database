@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.037022Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-659",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.037024Z",
+    "dates": [
+      {
+        "date": "2014-02-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-02-11",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-02-10",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Su-regional regional training of trainers and awareness-raising workshop to share and exchange information on successes, failures and lessons learnt and to brainstorm on strategies and policies for post-harvest loss reduction at the regional level\r\n\tDevelopment of policy briefs\r\n\tPrepare hands-on training plan\r\n\tImplement the piloting of good post-harvest management practice in  prioritized fruit and vegetable chains.\r\n\tDocument the levels of losses as a basis for comparing traditional and improved practice;\r\n\tDocument successes, failures and lessons learnt during pilots\r\n\tIncorporate documented material (results of activity 4 and 5) into the development of training materials.\r\n\tIdentify participants\r\n\tImplement training\r\n\tPrepare training workshop plan\r\n\tIdentify trainers to serve as lecturers\r\n\tTraining materials developed\r\n\tConduct training of trainers (TOT) to capacitate the participants with the necessary knowledge and skills in food safety and quality management during harvest, post-harvest handling and trading (collection, wholesaling and  retailing).\r\n\tConduct project inception workshop in each  pilot  country\r\n\tConduct of a brainstorming workshop to prioritise the selection of fruit and/or vegetable supply chains to be focused on, by the project.\r\n\tStakeholder awareness-raising workshops conducted in each pilot country\r\n\tBaseline survey to assess the knowledge, attitude and practice of     stakeholders, identify key bottlenecks in the post-harvest system, and assess consumer and market requirements.\r\n\tProduction of awareness raising materials (brochures, posters, leaflets, pamphlets)  for dissemination across SAARC countries."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "659",
+        "raw_payload": {
+          "id": 7904,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 61000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-02-11",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 61000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-02-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-659",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/659",
+        "value": "659"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reduction of post-harvest losses in horticultural chains in SAARC Countries",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/659",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-659",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 122000.0,
+    "total_disbursement": 60772.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.037022Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-659",
+      "id": "version:entity:project/development_project/dfmis-659:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

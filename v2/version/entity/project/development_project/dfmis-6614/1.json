@@ -1,0 +1,168 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.230608Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6614",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.230616Z",
+    "dates": [
+      {
+        "date": "2025-03-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2025-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Support the construction of E-waste studio at Namche, Khumbu RegionE-Waste Studio Equipment purchaseE-waste collection, packaging and transportationTraining on upcycling and repairBuild Environmental Stations (ES) at major settlements along the Everest Base Camp trekking trail.Upgrade the existing Material Recovery Facility (MRF) at Namche to make it fully functional.Environment and Social Safeguards Framework (ESSF) mitigation activities (first-aid safety trainings, field gears, hoarding boards installation, consultation with Indigenous People (IP) and Local Communities (LC).Conduct awareness programs to promote practice of waste segregation at source.Conduct public awareness programs on waste management through mass media outreachLaunch educational and promotional campaignConduct research on waste generation by mountaineers in the Everest Region Conduct research on e-waste generated in Khumbu regionConduct multi-stakeholder consultations to enforce stricter waste management rules for trekkers in the Everest RegionEngage with local and provincial policymakers on effective e-waste management practices and regulationsProject Inception and Annual Planning /ReviewProgrammatic and Financial MonitoringSafeguard implementationProject audits, and evaluation from SWC/Government Agency"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "World Wildlife Fund, Inc., Nepal Program",
+        "donor_project_id": "6614",
+        "raw_payload": {
+          "id": 44188,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "World Wildlife Fund, Inc., Nepal Program",
+          "organization_id": 179,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forest and Environment, Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 606059.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Wildlife Fund, Inc., Nepal Program",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2025-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6614",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6614",
+        "value": "6614"
+      }
+    ],
+    "implementing_agency": "World Wildlife Fund, Inc., Nepal Program, NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Swachya (Sustainable Waste management for Clean Himalaya) /Swachya Sagarmatha Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "स्वच्छ सगरमाथा परियोजना",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6614",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Waste Management",
+        "donor_subsector": null,
+        "normalized_sector": "Waste Management",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6614",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 606059.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.230608Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6614",
+      "id": "version:entity:project/development_project/dfmis-6614:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

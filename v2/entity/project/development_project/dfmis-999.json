@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.522205Z",
+  "dates": [
+    {
+      "date": "2014-11-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-11-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-10-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "-        Conduct a baseline survey\r\n\r\n\t-        Introductory community meeting\r\n\r\n\t-        Two days pre orientation\r\n\r\n\t-        Develop the Udaan Curriculum\r\n\r\n\t-        One day review workshop with key stakeholders to get feedback on and finalize the curriculum\r\n\r\n\t-        A training package on the Udaan course for teachers\r\n\r\n\t-        Selection of sites for Udaan learning centers\r\n\r\n\t-        Exposure visit to Udaan India  \r\n\r\n\t-        Construction/rehabilitation\r\n\r\n\t-        Promote a gender friendly learning environment\r\n\r\n\t-        Conduct teachers training\r\n\r\n\t-        Management of Udaan learning centers\r\n\r\n\t-        Conduct two to three batches of 12 months Udaan courses\r\n\r\n\t-        Weekly review meetings facilitated by the Team Leader and Project Coordinator\r\n\r\n\t-        Form a “Friends of Udaan” group in public schools\r\n\r\n\t-        Organize monthly “Balika Sabha”\r\n\r\n\t-        Regular assessment of learning progress\r\n\r\n\t-        Support girls to participate in national exams\r\n\r\n\t-        Provide orientation to Mother Schools\r\n\r\n\t-        Provide orientation to girls\r\n\r\n\t-        Provide ingoing follow-up of girls from previous batches of Udaan\r\n\r\n\t-        Support vocational skills\r\n\r\n\t-        Provide scholarship"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CARE Nepal",
+      "donor_project_id": "999",
+      "raw_payload": {
+        "id": 7245,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CARE Nepal",
+        "organization_id": 304,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "CARE Nepal",
+  "financing": [
+    {
+      "amount": 551553.2165,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CARE Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-11-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/999",
+      "value": "999"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "UDAAN- \" Catching Missed Opportunity\" Access to quality Education for economically and socially vulnerable girls in Kapilvastu District",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/999",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-999",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 551553.2165,
+  "total_disbursement": 536892.1997577,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.522202Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-999",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

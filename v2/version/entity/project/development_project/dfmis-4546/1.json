@@ -1,0 +1,226 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.610008Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4546",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.610011Z",
+    "dates": [
+      {
+        "date": "2018-01-05",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-01-16",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2022-01-15",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Men and women migrants in working palikas access information on how to migrate safelyVictims of migration related exploitation and fraud access legal aid and associated supportMigrants and families in distress use social support servicesMigrants acquire skills that are recognised by foreign employersMigrant families have the necessary skills to increase savings and manage remittancesMigrants rights advocates have the evidence and skills for effective policy dialogue                             5MoLESS is strengthened to ensure safe and orderly migrationDOFE’s FEIMS is expanded and functionalFEPB has developed a national resource centre for MRCs and a mechanism for foreign employment skills developmentSelected states are strengthened to deliver their strategic and coordination role on Foreign EmploymentMRC and other palikas support to implement Foreign Employment servicesMRCs support to deliver effective safe migration services"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "4546",
+        "raw_payload": {
+          "id": 38718,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Labour, Employment and Social Security",
+    "financing": [
+      {
+        "amount": 7465035.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-09-15",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 705986.2,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-10-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 11197552.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-09-15",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": -705986.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2835039.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-10-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 705986.2,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4546",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4546",
+        "value": "4546"
+      }
+    ],
+    "implementing_agency": "Ministry of Labour, Employment and Social Security",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Safer Migration Project (SaMi), Phase III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4546",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4546",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 22203612.4,
+    "total_disbursement": 22289600.0597307,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.610008Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4546",
+      "id": "version:entity:project/development_project/dfmis-4546:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

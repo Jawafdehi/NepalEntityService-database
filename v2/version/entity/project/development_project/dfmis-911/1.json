@@ -1,0 +1,179 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.156264Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-911",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.156266Z",
+    "dates": [
+      {
+        "date": "2016-04-27",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-04-26",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "-purchase 4 ropani of land\r\n\r\n-hire engineer to design project building for 70 beneficiaries.\r\n\r\n-approve design by local authority\r\n\r\n-hire consultant to prepare cost estimate\r\n\r\n-conduct tender procedure to select constructor\r\n\r\n-hire construction company according to outcome of tender.\r\n\r\n-organize timely Audits, PAC meetings and evaluations.\r\n\r\n-purchase assets, materials, utensils for new location and create child-friendly and safe environment\r\n\r\n-transfer beneficiaries to new location"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Shangrila Home VZW",
+        "donor_project_id": "911",
+        "raw_payload": {
+          "id": 8495,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Shangrila Home VZW",
+          "organization_id": 567,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Shangrila Home VZW",
+    "financing": [
+      {
+        "amount": 834600.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Shangrila Home VZW",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-07-16",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 915975.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Shangrila Home VZW",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-04-26",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 26196.75,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Shangrila Home VZW",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-07-16",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-911",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/911",
+        "value": "911"
+      }
+    ],
+    "implementing_agency": "Shangrila Home VZW",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Shangrila Home Building Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/911",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-911",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1776771.75,
+    "total_disbursement": 861399.35,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.156264Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-911",
+      "id": "version:entity:project/development_project/dfmis-911:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

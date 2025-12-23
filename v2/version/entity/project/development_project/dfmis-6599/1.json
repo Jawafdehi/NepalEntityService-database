@@ -1,0 +1,189 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.077432Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6599",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.077439Z",
+    "dates": [
+      {
+        "date": "2024-08-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-08-28",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2030-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "a.    Component 1 (Technical Assistance): Up to £15 million (Fifteen Million Pounds Sterling) will be allocated to the provision of technical assistance directed to strengthening systems in key social sectors, such as health and education systems, in two provinces, Lumbini and Madhesh, which attract attention in compounded human development indicators. The funding will be reflected as on-budget and off-treasury and managed through FCDO’s bespoke contracting instruments. Technical Assistance and activities under direct payment will also be overseen by the steering committee.b.    Component 2 (Financial Aid): Up to £15.7 million (Fifteen Million and Seven Hundred Thousand Pounds Sterling) will be provided as financial aid on-budget, on-treasury. It is expected that the majority of BEK’s financial aid will focus to support the delivery of basic social sector services through strengthened systems at the local and provincial levels. A fiduciary risk assessment (FRA) will be undertaken at the beginning of the programme and at later stages as required, and an appropriate mitigation plan put in place prior to channelling funds through GoN treasury system. The Financial Aid will be increased after the midterm review of the programme implementation.c.      Component 3 (Support for monitoring, evaluation, innovation and learning): Up to £6.5 million (Six Million and Five Hundred Thousand Pounds Sterling) for a ‘Breakthrough Initiatives & Innovation (BTII) Fund’, a strategic fund, which will be off-budget, off-treasury, and which aims to respond evolving context and emerging social sectors opportunities, needs and challenges (including potential crises) that will arise during the programme’s life, aligned with GoN priority initiatives and Samartha’s broader goals.d.    Component 4 (Independent Evaluation & Oversight): up to £1.6 million (One Million and Six Hundred Thousand Pounds Sterling) will be provided as off-budget, off-treasury, for an independent function that will provide fiduciary oversight on financial aid, assurances on evidence generation and learning, and support punctual independent programme reviews."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "6599",
+        "raw_payload": {
+          "id": 44100,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology, Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 20759526.83,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "British Pound Sterling",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-08-28",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 30544271.96,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "British Pound Sterling",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-08-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6599",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6599",
+        "value": "6599"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SAMARTHA: Enhancing Gender & Human Development outcomes through Systems Strengethening",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "सामर्थ्य: प्रणाली सुदृढीकरण मार्फत लैङ्गिक र मानव विकास उपब्धी अभिवृद्धि गर्ने।",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6599",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6599",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 51303798.79,
+    "total_disbursement": 25291.47,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.077432Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6599",
+      "id": "version:entity:project/development_project/dfmis-6599:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

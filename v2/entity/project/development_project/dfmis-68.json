@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.124329Z",
+  "dates": [
+    {
+      "date": "2010-02-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-02-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-02-28",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Lack of economic opportunities is one of the major factors driving people to migrate and giving traffickers the opportunity to lure potential victims. In cooperation with the Government of Nepal, NGOs and private sector businesses, IOM provides economic rehabilitation to returned victims and potential victims of trafficking through skills training, job placement and micro-enterprise setup.\r\nNGOs are responsible for psychosocial counseling of the beneficiaries and supporting them in day to day management of their Micro-enterprises. The corporate houses extend business opportunities / franchisees to the beneficiaries and assist them by providing – business specific training, market linkages, skils training and job placements. The Government extends legal and infrastructural support to the initiatives. In addition to the financial inputs IOM is involved in the overall planning and coordination among various stakeholders, including Implementation and monitoring of all the project activities."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Organization for Migration",
+      "donor_project_id": "68",
+      "raw_payload": {
+        "id": 790,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "International Organization for Migration",
+        "organization_id": 360,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 200000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "International Organization for Migration",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-02-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/68",
+      "value": "68"
+    }
+  ],
+  "implementing_agency": "International Organization for Migration",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Trafficking Risk Reduction in Nepal (TRRIN)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/68",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-68",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 200000.0,
+  "total_disbursement": 200000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.124326Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-68",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

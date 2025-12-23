@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.203275Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2141",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.203278Z",
+    "dates": [
+      {
+        "date": "2021-11-12",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-11-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project is pursuing a multi-level approach to develop relevant quality infrastructure services for businesses. It provides training to the partners’ specialist and management staff in order to strengthen the capacities of organizations as a whole and enable them to be more easily integrated into international networks. The main partner is the Nepal Bureau of Standards and Metrology (NBSM). Further public partners are the Department of Food Technology and Quality Control (DFTQC) and the Department of Plant Resources (DPR). Additionally, the project cooperates with business associations from the pharmaceutical and dairy sectors. A total of three interrelated outputs are targeted: (1) Strengthening the national metrology and QI systems;  (2) Improving the analytical capabilities of the Nepali food authority; (3) Quality assurance in the pharmaceutical sector and in the dairy industry. The project’s objectives are achieved through metrological and analytical lab training, qualifying auditors for specific certifications and accreditations, providing close consultation, and conducting mock audits. Furthermore, the partners are supported through the procurement of selected instruments."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Federal Ministry for Economic Cooperation and Development",
+        "donor_project_id": "2141",
+        "raw_payload": {
+          "id": 44205,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "Federal Ministry for Economic Cooperation and Development",
+          "organization_id": 173,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Industry, Commerce and Supplies",
+    "financing": [
+      {
+        "amount": 2293138.24,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "Euro",
+        "donor": "Federal Ministry for Economic Cooperation and Development",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-11-12",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2141",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2141",
+        "value": "2141"
+      }
+    ],
+    "implementing_agency": "Department of Food Technology and Quality Control, Department of Plant Resources, Nepal Bureau of Standards and Metrology",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening of the Quality Infrastructure for Sustainable Economic Development",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2141",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2141",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2293138.24,
+    "total_disbursement": 1533675.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.203275Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2141",
+      "id": "version:entity:project/development_project/dfmis-2141:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

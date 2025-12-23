@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.398123Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1753",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.398126Z",
+    "dates": [
+      {
+        "date": "2020-11-17",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-10-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Digitization of curriculum (1 unit) which will be accessed by Facilitators for the weekly and monthly sessions.2. Six trainings for the facilitators to enhance their understanding of gender norms and behaviors, and community level diffusion.3. Weekly and Monthly sessions conducted for a duration of 21 months in total attended by the 400 individuals (200 couples)4. Community level activities organized by the groups targeted at community level diffusion.6. Media mobilization including radio program broadcasting for at least 39 weeks, social media campaign, posters and IVR system."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Equal Access Nepal",
+        "donor_project_id": "1753",
+        "raw_payload": {
+          "id": 12267,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Equal Access Nepal",
+          "organization_id": 450,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Equal Access Nepal",
+    "financing": [
+      {
+        "amount": 356000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Equal Access Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-11-17",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1753",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1753",
+        "value": "1753"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Change Starts at Home Organized Diffusion Intimate Partner Violence Prevention",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1753",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1753",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 356000.0,
+    "total_disbursement": 143200.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.398123Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1753",
+      "id": "version:entity:project/development_project/dfmis-1753:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

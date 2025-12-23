@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.666243Z",
+  "dates": [
+    {
+      "date": "2025-10-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-10-14",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2029-10-13",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.      Demonstration of sustainable agroforestry practices in locally established community learning grounds2.      Restoration of local ecosystem through plantation of endangered/native plant species and distribution of livelihood-supporting agroforestry saplings3.      Control of invasive plant species to enhance natural regeneration of local ecosystems.4.      Facilitation of local communities in developing and demonstrating new community learning grounds for promoting community-based biodiversity conservation, environmental education and sustainable livelihood practices.5.      Development of a local biocultural community learning center at Banduke Danda6.      Support for local livelihoods through employment generation7.      Assessing the status of endangered species in the local ecosystem8.      Sensitization workshops with local stakeholders on biodiversity & local cultural heritage conservation9.      Video documentation of community learning grounds.10.  Social audit11.  Municipality-Level Project Advisory Committee (MPAC) meetings12.  Internal project evaluation, learning and development13.  Central Level Project Advisory Committee (CPAC) meeting14.  Facilitating effective project implementation and biodiversity conservation in coordination and collaboration with government agencies and stakeholders15.  Project sites travel and accommodation16.  Project staff capacity building"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "KTK -BELT Inc",
+      "donor_project_id": "6721",
+      "raw_payload": {
+        "id": 44737,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "KTK -BELT Inc",
+        "organization_id": 731,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 1834190.32349202,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "KTK -BELT Inc",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-10-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6721",
+      "value": "6721"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Demonstration of sustainable agroforestry practices and environmental education in eastern Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6721",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Protection of Biodiversity and Landscape",
+      "donor_subsector": null,
+      "normalized_sector": "Protection of Biodiversity and Landscape",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6721",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1834190.32349202,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.666240Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6721",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

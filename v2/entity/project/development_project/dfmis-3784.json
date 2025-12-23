@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.306255Z",
+  "dates": [
+    {
+      "date": "2019-09-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-04-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "4 Program staffs having knowledge and experience in DRRJapanese Experts for the capacity enhancement and knowledge sharingProgram supplies (stationaries)Budget"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Japan International Support Program",
+      "donor_project_id": "3784",
+      "raw_payload": {
+        "id": 34798,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Japan International Support Program",
+        "organization_id": 792,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Japan International Support Program",
+  "financing": [
+    {
+      "amount": 531213.6,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Support Program",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-09-12",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 17515.64,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Support Program",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3784",
+      "value": "3784"
+    }
+  ],
+  "implementing_agency": "Japan International Support Program",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Community Based Disaster Response and Management in Kathmandu Metropolitan City (KMC) and Saptakoshi Municipality, Saptari",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3784",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3784",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 548729.24,
+  "total_disbursement": 449101.98,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.306252Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3784",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

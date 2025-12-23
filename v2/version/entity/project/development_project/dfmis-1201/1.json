@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.883002Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1201",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.883019Z",
+    "dates": [
+      {
+        "date": "2012-09-17",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-09-16",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.Education Scholarship Programs\r\n\r\n1.1 Provision of all educational materials\r\n\r\n1.2 Regular home visits, school visits, interaction with child, parent support and counselling, group guidance and counselling from teachers/principals, monitoring staff. Monitoring of absence, exam results, students behaviour, atttidude, issues.\r\n\r\n1.3 School support to raise standard of whole school and minimise gap between sponsored children and other poor children e.g. sports equipment, educational materials, encouragement awards to top, regular and most improved.\r\n\r\n2.Community Training and Development Centre\r\n\r\n2.1 Daily sewing classes, 6 months for basic and advanced.\r\n\r\n3.Residential Child Care Homes\r\n\r\n3.1. Education\r\n\r\n\r\n\tGood quality, broad education at local community school\r\n\tExtra tuition in key subject areas\r\n\tExtra curricular activities and educational tours\r\n\tIn house library\r\n\tLanguage and cultural exchange\r\n\r\n\r\n3.2. Physical and Mental Health\r\n\r\n\r\n\tSafe, secure,spacious home\r\n\tFamily environment with parental support\r\n\tNutritious food, clean water, clothing, medical care\r\n\tCounselling/moral guidance\r\n\tFreedom to express views, beliefs, personal privacy\r\n\tRegular contact with relatives/visits where possible\r\n\r\n\r\n3.3 Daily Life Skills \r\n\r\n\r\n\tHousekeeping, health,hygiene\r\n\tPersonal physical and mental health\r\n\tBasic safety (including fire, earthquake)\r\n\tBasic eco-farming, sustainability (use of solar, bio gas)\r\n\r\n\r\n3.4. Vocational Training\r\n\r\n3.5. Income generating programs\r\n\r\n3.6 Social work/Outreach programs\r\n\r\n3.7 Work experience/job training\r\n\r\nWhere ever possible, and if in the best interest of the child, children are re-integrated from Sunrise home and receive the same educational support as they did when at Sunrise home under the Re-integration Program.\r\n\r\n4.Kalika Devi Comnunity School partnership\r\n\r\nNGO/INGO partnership with Kalika Devi school;\r\n\r\n\r\n\tBuilt 14 new classrooms in new school block, employed 15 new teachers for new English curriculum classes Nursery to 10.\r\n\tBuilt 3 new classrooms, new teachers for new Nepali curriculum classes 9 and 10.\r\n\r\n\r\n5.Community Aid\r\n\r\nEmergency medical care"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Sunrise Children's Association Inc. Australia/Nepal",
+        "donor_project_id": "1201",
+        "raw_payload": {
+          "id": 3047,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Sunrise Children's Association Inc. Australia/Nepal",
+          "organization_id": 600,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Non Governmental Organisations",
+    "financing": [
+      {
+        "amount": 2356565.744,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Sunrise Children's Association Inc. Australia/Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-09-17",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1201",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1201",
+        "value": "1201"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Project for the development of disadvantaged children and communities in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1201",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1201",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2356565.744,
+    "total_disbursement": 2075467.98523,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.883002Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1201",
+      "id": "version:entity:project/development_project/dfmis-1201:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

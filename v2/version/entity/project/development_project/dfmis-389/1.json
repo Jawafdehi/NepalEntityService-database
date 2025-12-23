@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.767439Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-389",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.767442Z",
+    "dates": [
+      {
+        "date": "2008-02-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-02-24",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-02-28",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Establish a focal unit by March 2008.\r\n    Establish high-level advisory committee, executive committee and thematic committees by March 2008. \r\n    Prepare action plan for implementing policy papers developed during the 2003 TA—Establishing Economic Policy Network—by August 2008.\r\n    Conduct planning and review meetings of the steering committee and thematic committees to identify specific research topics.\r\n    Commission policy studies, monitor performance. \r\n    Disseminate strategy by September 2008.\r\n    Hold seminars and consultations to discuss and finalize the policy papers.\r\n    Hold regular meetings of the committees to monitor implementation progress. \r\n    Develop a public–private mechanism for monitoring and evaluation of the public policy reform agenda.\r\n    Prepare options for institutionalizing the economic policy network by September 2008.\r\n    Establish the institution by March 2009.\r\n    Widely disseminate information through periodic reports, conference, and regular update of EPN website."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "389",
+        "raw_payload": {
+          "id": 3117,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Finance",
+    "financing": [
+      {
+        "amount": 500000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-02-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-389",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/389",
+        "value": "389"
+      }
+    ],
+    "implementing_agency": "Ministry of Finance",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 7042-NEP: Economic Policy Network II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/389",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-389",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 500000.0,
+    "total_disbursement": 419486.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.767439Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-389",
+      "id": "version:entity:project/development_project/dfmis-389:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

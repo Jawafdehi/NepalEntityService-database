@@ -1,0 +1,233 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:17.721751Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1916",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:17.721754Z",
+    "dates": [
+      {
+        "date": "2013-04-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-04-30",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "the SPCR planning process tath led to the development of Nepal's strategic programme followed an extensive and in-depth particiapatory process, engaging a lare number of people from governemtn,civil society and private sector at national, district and local level."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "1916",
+        "raw_payload": {
+          "id": 7528,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Climate Investment Fund",
+        "donor_project_id": "1916",
+        "raw_payload": {
+          "id": 7529,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 34,
+          "organization__development_cooperation_group__name": "Climate Investment Fund",
+          "organization__logo": "",
+          "organization__name": "Climate Investment Fund",
+          "organization_id": 177,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "World Bank Trust Funds",
+        "donor_project_id": "1916",
+        "raw_payload": {
+          "id": 7530,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "World Bank Trust Funds",
+          "organization_id": 86,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment, Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 7163000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 16000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 15000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2013-04-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 36000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Climate Investment Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2013-04-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1916",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1916",
+        "value": "1916"
+      }
+    ],
+    "implementing_agency": "Department of Hydrology and Meteorology, Ministry of Agriculture and Livestock Development, Ministry of Forests and Environment",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strategic Program for Climate Resilience(SPCR); Pilot Program for Climate Change(PPCR)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1916",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1916",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 74163000.0,
+    "total_disbursement": 8374742.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:17.721751Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1916",
+      "id": "version:entity:project/development_project/dfmis-1916:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

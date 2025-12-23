@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.530724Z",
+  "dates": [
+    {
+      "date": "2025-06-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-06-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity1.01: Map Chitwan OPDs, SHGs & CooperativesActivity1.02: Support OPDs and SHGs to form / reformActivity1.03: Support OPDs, SHGs & Cooperatives to be inclusiveActivity1.04: Train OPDs and SHGs on advocacy, awareness-raising and peer supportActivity:1.05: Facilitate OPDs and SHGs to provide regular peer supportActivity 1.06: Facilitate OPDs, SHGs & Cooperatives to share best practice on disability inclusionActivity1.07: Provide reasonable accommodation across FAIDA2Provide Activity 2.01: Identify and orient trainers Activity 2.02: Train trainers in Financial Literacy Activity 2.03: Train OPD and SHG members in financial literacy Activity 2.04: Raise community awareness via IEC materials Activity 2.05: Equip youth financial inclusion champions Activity 2.06: Raise community awareness via mass mediaUse Activity 2.07: Individualized support for persons with disabilities Activity 3.01: Orient Kheti core team on disability inclusionMeetActivity3.02: Assess Kheti App for accessibilityActivity3.03: Upgrade Kheti App to make it accessibleActivity3.04: Train Kheti facilitators on disability inclusionActivity3.05: Orient and enroll persons with disabilities onto Kheti platformActivity3.06: Identify potential borrowersActivity3.07: Introduce and conduct video KYC from homesActivity3.08: Conduct on-site KYCActivity3.09: Support persons with disabilities to develop savings credibility with CooperativesActivity3.10: Support persons with disabilities to take out loansActivity4.01: Develop accessibility toolkit for BFIs and agri-value chain actorsActivity4.02: Conduct accessibility assessments of BFIs and agri-value chain actorsActivity4.03: Train BFIs and value chain actors on disability inclusionActivity4.04: Advocate, and provide technical support to, BFIs to make accessibility adjustmentsActivity4.05: Events to recognize BFIs practicing exemplary financial inclusionActivity4.06: Advocate, and provide technical support to, e-wallets to make accessibility adjustmentsActivity4.07: Link beneficiaries with government schemes, services, and entitlementsActivity4.08: Link groups with livelihood opportunitiesActivity4.09: Link groups with insurance schemesActivity4.10: Lobby local government to provide more disability-inclusive subsidies, entitlements and servicesActivity 5.01: Conduct market assessment for farmers with disabilitiesActivity 5.02: Provide more in-depth agricultural skills trainingsActivity 5.03: Provide business development training and facilitationActivity 5.04: Provide basic CSA training and raise awareness on use of agri-advisory servicesActivity 5.05: Provide seed grants for model farmersActivity 5.06: Develop an inclusive chatbot agri-advisory service on the Kheti platformActivity 5.07: Upgrade Kheti App to include CSA and DRR informationActivity 5.08: Advocate for disability-inclusive CSA and DRR schemes, and provide technical support to achieve thisActivity 6.01: Conduct disability inclusion gap analysis with NRB (and other BFIS)Activity 6.02: Facilitate dialogues between OPDs and BFIs (Chitwan & national)Activity 6.03: Advocate for creation of Municipal Inclusion Frameworks (Chitwan)Activity 6.04: Provide technical support for Chitwan and national disability-inclusive policy and practice improvementsActivity 6.05: Lobby NRB and other BFIs for simplified KYC process (national)Activity 6.06: Identify data from FAIDA2's Chitwan activities useful for national advocacyActivity 6.07: Publish operational research (national + beyond)Activity 6.08: Disseminate learning (national + beyond)Activity 6.09: National Conferences on Financial Inclusion"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CBM Nepal Country Office",
+      "donor_project_id": "6670",
+      "raw_payload": {
+        "id": 44497,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CBM Nepal Country Office",
+        "organization_id": 565,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Social Development, Ministry of Economic Affairs and Planning, Ministry of Agriculture and Livestock",
+  "financing": [
+    {
+      "amount": 1564119.7193287,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-06-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6670",
+      "value": "6670"
+    }
+  ],
+  "implementing_agency": "DV Excellus, Support Activities for Poor Producers of Nepal, CBM Nepal Country Office, Nepal Disabled Women Association",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Financial Autonomy and Inclusion of Persons with Disabilities through Agriculture 2 (FAIDA2)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6670",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6670",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1564119.7193287,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.530722Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6670",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

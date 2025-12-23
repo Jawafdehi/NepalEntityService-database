@@ -1,0 +1,468 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.903070Z",
+  "dates": [
+    {
+      "date": "2009-08-11",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2009-08-11",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Mobilize communities for for improved social cohension, local peace building and livelihood choicesRehabilitate infrastructure built and damaged and degarated for the benefits of communitiesCreate employment and enahnce women and poorest empowermentStrengthen capacities of VDCs, Municipalities and DDCs to respond to communities' livelihood recovery needs"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Korea International Cooperation Agency",
+      "donor_project_id": "2379",
+      "raw_payload": {
+        "id": 1759,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 36,
+        "organization__development_cooperation_group__name": "Korea",
+        "organization__logo": "",
+        "organization__name": "Korea International Cooperation Agency",
+        "organization_id": 28,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "2379",
+      "raw_payload": {
+        "id": 1763,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Individual donor (private)",
+      "donor_project_id": "2379",
+      "raw_payload": {
+        "id": 1761,
+        "organization__development_cooperation_group__architecture__id": 5,
+        "organization__development_cooperation_group__architecture__name": "Others",
+        "organization__development_cooperation_group__id": 59,
+        "organization__development_cooperation_group__name": "Other Partners",
+        "organization__logo": "",
+        "organization__name": "Individual donor (private)",
+        "organization_id": 200,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "China International Development Cooperation Agency",
+      "donor_project_id": "2379",
+      "raw_payload": {
+        "id": 1762,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 7,
+        "organization__development_cooperation_group__name": "China",
+        "organization__logo": "",
+        "organization__name": "China International Development Cooperation Agency",
+        "organization_id": 20,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "United Nations Development Programme",
+      "donor_project_id": "2379",
+      "raw_payload": {
+        "id": 1760,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Development Programme",
+        "organization_id": 8,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Home Affairs",
+  "financing": [
+    {
+      "amount": 250000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-06-29",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -526172.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 521640.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-06-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 139100.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-04-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 30000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-05-20",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1431257.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-05-23",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1550000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1028935.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Individual donor (private)",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-03",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 292473.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-07-04",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 862759.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Korea International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-04-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 180000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Individual donor (private)",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-09-13",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 500000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Individual donor (private)",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-09-27",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 4000000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "China International Development Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-11-17",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 819412.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Korea International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-10-18",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 150000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Individual donor (private)",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-07-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2000000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Individual donor (private)",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-07-19",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 9167000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-08-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 991552.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-08-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5700.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-08-11",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 33708.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-08-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2379",
+      "value": "2379"
+    }
+  ],
+  "implementing_agency": "United Nations Development Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Livelihood Recovery for Peace (LRP) Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2379",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2379",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 23427364.0,
+  "total_disbursement": 20698103.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.903067Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2379",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

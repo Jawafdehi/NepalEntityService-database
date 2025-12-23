@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.533413Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1359",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.533415Z",
+    "dates": [
+      {
+        "date": "2009-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-08-04",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Partnership provides consolidated support for: two previously funded agreements with the UN Peace Building Commission (PBC, Peace Building Fund (PBF) and UNICEF's Monitoring and Reporting Mechanism; two previously approved no-costs extensions with the UN Rule of Law Index (ROLIX) and the Department of Political Affairs (DPA); and provision of new funding to the Bureau of Crisis Prevention and Recovery. This initiative supports UN program work in fragile and conflict-affected countries. The total value of this multi-country initiative is $35.9 million over 7 years, starting 2009-10."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "1359",
+        "raw_payload": {
+          "id": 2983,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Department of Foreign Affairs and Trade",
+    "financing": [
+      {
+        "amount": 1320858.558,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1320858.558,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1359",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1359",
+        "value": "1359"
+      }
+    ],
+    "implementing_agency": "United Nations Children's Fund",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Monitoring and Reporting Mechanism on Grave Violations Against Children in Armed Conflicts (Global)-UNICEF",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1359",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1359",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2641717.116,
+    "total_disbursement": 201045.4363,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.533413Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1359",
+      "id": "version:entity:project/development_project/dfmis-1359:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,109 @@
+Migration: 007-source-projects
+Executed at: 2025-12-23T11:12:58.366174
+Duration: 70.2s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Migration started: Importing development projects from multiple sources
+Created author: Nava Yuwa Central (author:nava-yuwa-central)
+Built location lookups: 16354 entries
+Built organization cache: 9915 entries
+
+============================================================
+Processing source: DFMIS
+============================================================
+  Loaded 2753 projects from source/dfmis_projects.jsonl
+Extracted 581 unique organizations from projects
+Organizations: created 581, skipped 0 existing
+  Processed 100 DFMIS projects...
+  Processed 200 DFMIS projects...
+  Processed 300 DFMIS projects...
+  Processed 400 DFMIS projects...
+  Processed 500 DFMIS projects...
+  Processed 600 DFMIS projects...
+  Processed 700 DFMIS projects...
+  Processed 800 DFMIS projects...
+  Processed 900 DFMIS projects...
+  Processed 1000 DFMIS projects...
+  Processed 1100 DFMIS projects...
+  Processed 1200 DFMIS projects...
+  Processed 1300 DFMIS projects...
+  Processed 1400 DFMIS projects...
+  Processed 1500 DFMIS projects...
+  Processed 1600 DFMIS projects...
+  Processed 1700 DFMIS projects...
+  Processed 1800 DFMIS projects...
+  Processed 1900 DFMIS projects...
+  Processed 2000 DFMIS projects...
+  Processed 2100 DFMIS projects...
+  Processed 2200 DFMIS projects...
+  Processed 2300 DFMIS projects...
+  Processed 2400 DFMIS projects...
+  Processed 2500 DFMIS projects...
+  Processed 2600 DFMIS projects...
+  Processed 2700 DFMIS projects...
+  Created 2753 DFMIS project entities
+  Created 17528 relationships
+
+============================================================
+Processing source: World Bank
+============================================================
+  Loaded 279 projects from source/world_bank_projects.jsonl
+Extracted 55 unique organizations from projects
+WARNING: Found 1 slug collisions:
+  ministry-of-agriculture-and-livestock-development-moald: ['Ministry of Agriculture and Livestock Development (MoALD)', 'Ministry of Agriculture and Livestock Development MOALD']
+    Resolved: Ministry of Agriculture and Livestock Development MOALD -> ministry-of-agriculture-and-livestock-development-moald-2
+Organizations: created 55, skipped 0 existing
+  Deduplication results for World Bank:
+    - ID matches (skip):        0
+    - Exact name (skip):        25
+    - Fuzzy + amount (skip):    22
+    - Fuzzy name only (skip):   37
+    - No match (import):        195
+  Total: 279 -> 195 after deduplication
+  Processed 100 World Bank projects...
+  Created 195 World Bank project entities
+  Created 235 relationships
+
+============================================================
+Processing source: ADB
+============================================================
+  Loaded 118 projects from source/adb_projects.jsonl
+Extracted 0 unique organizations from projects
+Organizations: created 0, skipped 0 existing
+  Deduplication results for ADB:
+    - ID matches (skip):        0
+    - Exact name (skip):        30
+    - Fuzzy + amount (skip):    0
+    - Fuzzy name only (skip):   63
+    - No match (import):        25
+  Total: 118 -> 25 after deduplication
+  Created 25 ADB project entities
+  Created 0 relationships
+
+============================================================
+Processing source: JICA
+============================================================
+  Loaded 15 projects from source/jica_projects.jsonl
+Extracted 0 unique organizations from projects
+Organizations: created 0, skipped 0 existing
+  Deduplication results for JICA:
+    - ID matches (skip):        0
+    - Exact name (skip):        4
+    - Fuzzy + amount (skip):    0
+    - Fuzzy name only (skip):   5
+    - No match (import):        6
+  Total: 15 -> 6 after deduplication
+  Created 6 JICA project entities
+  Created 0 relationships
+Verified: 2979 project entities in database
+
+============================================================
+MIGRATION SUMMARY
+============================================================
+Total projects created: 2979
+Total projects skipped (duplicates): 186
+Total relationships created: 17763
+Migration completed successfully

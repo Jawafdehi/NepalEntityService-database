@@ -1,0 +1,159 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.685158Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-35174-022-grnt0065",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.685191Z",
+    "dates": [
+      {
+        "date": "2007-01-31",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2006-12-28",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2010-06-30",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2011-11-02",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This capacity development grant will support the preparation of and the transition to a 1-12 school system."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-35174-022-GRNT0065",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Ryotaro Hayashi",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=35174-022 (Closed)&officer= rhayashi@adb.org&division= Human and Social Development Division, SARD&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-35174-022-GRNT0065",
+          "last_updated": "2025-11-24T08:36:21+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 28.0,
+              "location_id": "1282988",
+              "lon": 84.0,
+              "name": "Nepal",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-35174-022-grnt0065",
+    "identifiers": null,
+    "implementing_agency": "Ministry of Education & Sports",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Education Sector Program I (Capacity Development Grant)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:11110",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-35174-022-grnt0065",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      },
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Effective gender mainstreaming (EGM)",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.685158Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-35174-022-grnt0065",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-35174-022-grnt0065:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

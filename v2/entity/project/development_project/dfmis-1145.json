@@ -1,0 +1,198 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.412985Z",
+  "dates": [
+    {
+      "date": "2011-04-28",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-04-28",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The objective of the MDTF is to strengthen the performance, transparency and accountability in public financial management in Nepal. The Key Results expected from the projects to be funded through the MDTF are: 1.\tImproved  resource management as a result of strengthened PFM systems and processes,2.\tIncreased awareness and oversight of government PFM processes by diverse constituencies , 3.\tBetter knowledge of value for money challenges and PFM governance gaps, contributing to improved design of PFM interventions at the country and sector level.The trust fund PDO will be attained through implementation of various sub-projects designed and implemented with support from the MDTF.  The MDTF will be used as a vehicle to support a wide range of activities based on priorities set by the government and development partners broadly categorized under three broad dimensions:  Supply, Demand and Knowledge.  The MDTF will support activities that will:  (a) strengthen the PFM systems and processes (the supply side); (b) strengthen institutions of accountability and civil society to enhance their oversight of PFM processes and performance (the demand side); and (c) deepen knowledge about current PFM practices and options for improvement."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "1145",
+      "raw_payload": {
+        "id": 3036,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "World Bank Trust Funds",
+  "financing": [
+    {
+      "amount": 1600000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-05-06",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 804181.7451,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-21",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 567419.7875,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-05-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2016723.748,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-05-26",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1804977.29,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-02-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1145",
+      "value": "1145"
+    }
+  ],
+  "implementing_agency": "World Bank Trust Funds",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Public Financial Management Support Multi-Donor Trust Fund Contribution (Nepal) - Phase 2",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1145",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1145",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 6793302.5706,
+  "total_disbursement": 6796239.0956,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.412982Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1145",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

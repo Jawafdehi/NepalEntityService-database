@@ -1,0 +1,168 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.486483Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6660",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.486487Z",
+    "dates": [
+      {
+        "date": "2025-07-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2025-09-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2028-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Infrastructure Development Program1.1   Nepal Rastriya Secondary School, DailkehReceive recommendations from Central for Education and Human Resources Development.Conduct Feasibility study and mass meeting with the stakeholders.Selection of most feasible school as per UHGHF program Guideline with close coordination with Local Government.Commitment letter from local govt. bodies for the programFormation of School building construction committee.Consultant selection for the construction project.Conduct architectural & engineering studies for Construction.Develop engineering drawing, design and cost estimate of the school, hostel, toilet and community buildings.Organize meetings for developing action plan with SMC and community.Organize program orientation meetings at district & local level in all working districts.Ground break & starting of construction workConstruction of three-storied child friendly and earthquake resistant modern RCC building with 18 classrooms, in Nepal Rastriya Secondary School, Dailekh.A child friendly and earthquake resistant modern RCC library building in Nepal Rastriya Secondary School, DailekhBuild separate toilets for girls and boys in the school with Sewage Treatment System in School.Manage water supply system in the schools with the source used in the community in School.Provide electrical and building painting in School.Provide Furniture /School Uniform/ Outdoor Playing Game/ Stationary Support in Nepal Rastriya Secondary School, DailekhHandover ceremony of the new school building and facilities.School Support Program2. School Support Program2.1   Teacher Support ProgramProgram detail are as follows,Teachers in Kali Jan Jyoti N. B. School, Dhanusha 2 Teachers in Sundi S. School, Rupandehi3 Teachers in Mukta Kamaiya B. School, BardiyaPikey Phapre Basic School, Okhaldhunga 2.2   Taekwondo Program:Prithvi Narayan School, Kathmandu 2.3   Clean Drinking Water:Sundi S. School, Rupandehi2.4  School Supplies Support:Kalika Sharan Secondary Schools, KathmanduUgratara Secondary Schools, Kathmandu2.5  School self-evaluation and Scholarship:19 Community schools located in the various remote places of Nepal, previously supported by UHGHF in Nepal"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Um Hong Gil Human Foundation",
+        "donor_project_id": "6660",
+        "raw_payload": {
+          "id": 44426,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Um Hong Gil Human Foundation",
+          "organization_id": 739,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 616682.17,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Um Hong Gil Human Foundation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2025-07-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6660",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6660",
+        "value": "6660"
+      }
+    ],
+    "implementing_agency": "Um Hong Gil Human Foundation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Infrastructure Development for Quality Education & School Support Project in Nepal – Phase VIII",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "नेपालमा गुणस्तरीय शिक्षा र विद्यालय सहयोग परियोजनाका लागि पूर्वाधार विकास - चरण VII",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6660",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6660",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 616682.17,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.486483Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6660",
+      "id": "version:entity:project/development_project/dfmis-6660:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

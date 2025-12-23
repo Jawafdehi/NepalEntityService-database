@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: United Nation Office of High Commissioner for Human Rights",
+  "created_at": "2025-12-23T19:11:06.580933Z",
+  "entity_or_relationship_id": "entity:organization/international_org/united-nation-office-of-high-commissioner-for-human-rights",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Multilateral Partners",
+      "group": "United Nations"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Multilateral Partners"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.580935Z",
+    "description": null,
+    "id": "entity:organization/international_org/united-nation-office-of-high-commissioner-for-human-rights",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "United Nation Office of High Commissioner for Human Rights",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "united-nation-office-of-high-commissioner-for-human-rights",
+    "sub_type": "international_org",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: United Nation Office of High Commissioner for Human Rights",
+      "created_at": "2025-12-23T19:11:06.580933Z",
+      "entity_or_relationship_id": "entity:organization/international_org/united-nation-office-of-high-commissioner-for-human-rights",
+      "id": "version:entity:organization/international_org/united-nation-office-of-high-commissioner-for-human-rights:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

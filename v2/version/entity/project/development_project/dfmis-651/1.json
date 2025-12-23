@@ -1,0 +1,160 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.008533Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-651",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.008536Z",
+    "dates": [
+      {
+        "date": "2013-02-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Participatory planning, including revision and rolling process of community plans presented to LAs and other stakeholders on an annual basis in all slums in the 3 towns where we have worked before, and in selected slums in the other 3 towns.\r\n\t\r\n\t\tEstablishment or strengthening of 2 town-wide slum dweller organisations\r\n\t\r\n\t\tCapacity building training, and assessment of capacity and representativeness of the local organisations through annual review processes and tools for self-assessment\r\n\t\r\n\t\tParticular focus on needs specific to the communities we are working with, and to marginalised sections within those communities.\r\n\t\r\n\t\tBuilding the capacity of LA officials and elected representatives, and establishing systems so that expertise and approaches are passed on effectively to new post-holders\r\n\t\r\n\t\tcity-level forums for co-ordination between stakeholders, giving priority to the needs of slum dwellers, and allocating resources to support their priorities\r\n\t\r\n\t\tCity-level working groups established or strengthened to deal with specific issues\r\n\t\r\n\t\tLeverage of resources to support community infrastructure priorities from LAs, national programmes and other stakeholders, with the proportion contributed by project resources declining over the course of the project\r\n\t\r\n\t\tDelivery and management of community infrastructure services (water supply, improved drainage, cluster-latrines, internal roads and paths etc)\r\n\t\r\n\t\tExchange visits and other tools which help communities to effectively choose and adapt the types of technologies most appropriate to their situations\r\n\t\r\n\t\tPromoting the uptake of household-level infrastructure (e.g. household latrines, biogas, home composting, water vending, and incremental housing improvements)\r\n\t\r\n\t\tIncome generation through service delivery with small enterprises in, latrine construction, pit emptying, and waste collection and recycling\r\n\t\r\n\t\tPeer-learning workshops and building relationships\r\n\t\r\n\t\tSharing knowledge and good practices with national and regional municipal associations, networks of NGOs, and slum dweller networks\r\n\t\r\n\t\tProviding materials (case studies and training modules) for national and regional training institutes\r\n\t\r\n\t\tInfluencing nationwide programmes to adopt elements of the project’s approach for wider scaling up\r\n\t\r\n\t\tProject regional workshops and visits for synthesising lessons from the 3 countries (Nepal, Bangladesh, Sri Lanka)\r\n\t\r\n\t\tDissemination of lessons regionally and internationally through conferences and publications"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Practical Action Nepal",
+        "donor_project_id": "651",
+        "raw_payload": {
+          "id": 7229,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Practical Action Nepal",
+          "organization_id": 318,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Practical Action Nepal",
+    "financing": [
+      {
+        "amount": 618954.1101,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Practical Action Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-02-04",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 359686.855,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Practical Action Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-03-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-651",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/651",
+        "value": "651"
+      }
+    ],
+    "implementing_agency": "Lumanti Support Group for Shelter, Environment and Public Health Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sustainable Urban Environment",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/651",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-651",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 978640.9651,
+    "total_disbursement": 1035445.74007,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.008533Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-651",
+      "id": "version:entity:project/development_project/dfmis-651:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

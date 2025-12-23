@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.976863Z",
+  "dates": [
+    {
+      "date": "2013-05-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Experts Seminar in Japan"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Japan International Cooperation Agency",
+      "donor_project_id": "1093",
+      "raw_payload": {
+        "id": 7387,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Japan International Cooperation Agency",
+        "organization_id": 3,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Japan International Cooperation Agency",
+  "financing": [
+    {
+      "amount": 1853198.687,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-05-14",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 775638.1498,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-08-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1093",
+      "value": "1093"
+    }
+  ],
+  "implementing_agency": "Japan International Cooperation Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Project for Strengthening the Capacity of Court for Expeditious and Reliable Dispute Settlement",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1093",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1093",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2628836.8368,
+  "total_disbursement": 2401712.3077,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.976861Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1093",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.832084Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1194",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.832087Z",
+    "dates": [
+      {
+        "date": "2011-09-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Fund mobile, short-term skills training linked to employment oppertunities in domestic and international labour markets with a special focus on youth below 10th class, including poor dalits, janajatis and women."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "1194",
+        "raw_payload": {
+          "id": 1449,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 50
+        }
+      },
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "1194",
+        "raw_payload": {
+          "id": 1450,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 50
+        }
+      }
+    ],
+    "executing_agency": "Swiss Agency for Development and Cooperation",
+    "financing": [
+      {
+        "amount": 22988505.75,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-01-18",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3424657.534,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-09-18",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1042871.039,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-08-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2209232.129,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-01-06",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1194",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1194",
+        "value": "1194"
+      }
+    ],
+    "implementing_agency": "HELVETAS Switzerland",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Employment Fund Phase I",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1194",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1194",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 29665266.452,
+    "total_disbursement": 33066463.98833,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.832084Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1194",
+      "id": "version:entity:project/development_project/dfmis-1194:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

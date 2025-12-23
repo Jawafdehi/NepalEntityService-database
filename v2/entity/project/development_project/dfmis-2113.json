@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.131064Z",
+  "dates": [
+    {
+      "date": "2022-03-07",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-02-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Meetings with cross-border committee members for effective rescue and repatriationExposure visits to the sitesCoordination meetings with government authorities in district and network members to formulate SOP.Repatriations from the trafficked area or rescued placeCoordination support for networking and partnership with like minded organization in India for effective rescue and repatriation.Long-term shelter & short-term shelter to women and girls.Regular counseling, medical, legal support through safe home and in-house activities at safe home.NFE support and education support to girls and women.Family Reunion and vocational training support to survivors (and to their families if needed)Follow up / Referral support to 45 girls and womenOperation of Border Surveillance CentersProtection committees are mobilized in the border communitiesIEC materials are developed and distributedAwareness programs are carried out at schools and communitiesStrengthening and mobilization of youth/child clubs.Interaction programs with hotel & transportation associations and cross-border stakeholders.Media mobilization.Capacity building of stakeholders/ duty-bearers on anti-human trafficking.Advocacy campaigns in coordination with district level stakeholders.Bi-annual meetings with stakeholder particularly working on anti-human trafficking.Meetings to strengthen CSO alliance for formulation of SOP.MPAC meetings at 3 local level (Rohini R.M., Marchawari R.M. and Siddharthanagar M.C.)Reformation and periodic meetings of joint steering committeeMeetings for lobby and advocacy of existing legislations, acts etc.Round-table discussions on preventing OSEC with concerned stakeholdersDevelopment and publishing a hand-book for childrenWorkshops with child club leaders and adolescentsOrientation programs to parent's associations on OSECPsycho-social sessions / workshops and psychosocial intervention to school children to identify psycho-social problem/tele-counsellingOrientation programs to teachers on ethical consideration while conducting classesEducation support to 20 vulnerable childrenIEC/PSA materials are produced and distributed / broadcasted.Emergency service support to childrenCapacity building events on responding cases of OSEC for helpline staffPre-departure orientations to aspirant migrant workersSkill based training to aspirant migrant workersCapacity building of returnee women migrant workersNational level consultations with national level stakeholdersCoordination Meetings with stakeholders for better implementation of policies and strengthened referral mechanism.Bi-annual meetings of member organizations to discuss the contemporary issues of migration and trafficking.Fostering dialogue between Recruitment agencies/agents, local government officials, youth network, Returnee Women Migrant Workers’ Alliance and local media.Awareness programs in community-based organizations (women groups, mother group, saving & credit group, women cooperative, self-help group, youth club/network, etc.)Awareness campaign through existing CBOs and Returnee Women Migrant Workers’ AllianceEstablishment of information desk in municipality in coordination with Returnee Women Migrant Workers’ AllianceIEC/PSA materials on safe migration are produced and distributedLong term protection and short-term protection at safe home.First-aid / Hospital Treatment to girls and womenTraining support for skill development to beneficiariesFamily Reunion / Rehabilitation support to girls and womenBaseline survey of beneficiaries is done through outreach visitsVocational Training support youth followed by support for micro-enterprise / group business.Leadership and Life Skill Training to youthpeer counseling and education sessionIndividual and group counseling to youthTraining on anti-human trafficking to stakeholdersYouth Campaigns are organized to raise awareness on anti-human trafficking.Peer Support Group meetings are organized by PSG membersIn-house activities are carried out to sensitize youth on issues associated with adult-entertainment industry, women rights and anti-human traffickingSupport to youth and their families in emergency situationsNetworking and Partnership with GOs and NGOs.MPAC meetings and social audits are organizedAdvocacy initiatives are organized in close coordination with local government."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Good Shepherd International Foundation",
+      "donor_project_id": "2113",
+      "raw_payload": {
+        "id": 12171,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Good Shepherd International Foundation",
+        "organization_id": 760,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Good Shepherd International Foundation",
+  "financing": [
+    {
+      "amount": 1078616.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Good Shepherd International Foundation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-05-08",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1073132.271,
+      "assistance_type": "other",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Good Shepherd International Foundation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-03-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2113",
+      "value": "2113"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Prevention of human trafficking, unsafe migration and online sexual exploitation of children (OSEC) in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2113",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2113",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2151748.271,
+  "total_disbursement": 51123.35577,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.131062Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2113",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

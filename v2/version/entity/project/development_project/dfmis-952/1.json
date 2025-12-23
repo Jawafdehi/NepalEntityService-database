@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.342340Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-952",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.342358Z",
+    "dates": [
+      {
+        "date": "2013-11-14",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-11-14",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-11-13",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "To develop an effective and sustainable model of disaster risk reduction (DRR) in vulnerable communities of Nepal. This model will use hazard assessments, including climate modeling, to provide 3,000 households with a more sustainable DRR approach directly linked to their livelihoods, thereby mitigating the human and economic toll of natural disasters on their communities.\r\n\t\r\n\t\tMobilization of gender/ ethnically-balanced DMCs through a concentrated process that focuses on those aspects of traditional DRR programming that have demonstrated potential for sustainability post-intervention.\r\n\t\r\n\t\tTraining of DMCs in durable and sustainable techniques for mitigation, preparedness, response, and (if relevant) early warning.\r\n\t\r\n\t\tParticipatory vulnerability and capacity assessments (VCAs) carried out by DMCs with communities and local government that provide an evidence-based platform for selection of DRR activities.\r\n\t\r\n\t\tCollaboration with climate expertise set up to a) assess long-term viability of proposed DRR activities, and b) determine if further risks need to be anticipated beyond those identified as priorities in the short-term.\r\n\t\r\n\t\tPlant and crop product and services assessments (for bioengineering, improved land/ watershed management and other complementary approaches).\r\n\t\r\n\t\tLocal market assessments – tenure, high-demand/ high-value commodities cross-referenced with the plant/ crop species assessed for bioengineering, land/ watershed management and improved resiliency.\r\n\t\r\n\t\tEngage local and sub-national governments and private sector actors with community/DMC representatives in community selection, vulnerability and market assessments, and subsequent resource mobilization and decision-making.\r\n\t\r\n\t\tFacilitated planning of required risk mitigation measures and landscape-scale interventions.\r\n\t\r\n\t\tAssess land ownership/ usage patterns of marginal lands and determine target households accordingly.\r\n\t\r\n\t\tTrain community groupsin protection and mitigation techniques and in the cultivation of disaster mitigating crops with strong income potential.\r\n\t\r\n\t\tImplement planned mitigation measures (based on plant/crop species identified under Outcome 1), including cultivation of crops that contribute to chronic disaster mitigation, through bioengineering or improved land/ water management (based on market and technical assessments).\r\n\t\r\n\t\tTrain farmersin better seed varieties, improved planting techniques, new crops that are more resilient to local hazards.\r\n\t\r\n\t\tLink local input suppliers, extension actors and other training entities to ensure sustainability of the services.\r\n\t\r\n\t\tEstablish maintenance plans for each mitigation measure, and where feasible, linked to economic opportunities from crops/products generated via these mitigation measures.\r\n\t\r\n\t\tSupport micro and small enterprises, as necessary, for local value addition prior to sales, or for aggregation/ collective marketing and sales.\r\n\t\r\n\t\tFarmers, water and forest users and other localgroups formed, as necessary, to reinforce good technical practices and enhance market linkages/ economies of scale.\r\n\t\r\n\t\tBased on assessment findings and implementation experience, information regarding plant and crop species suitable for disaster mitigation and income generation compiled into at least two resource manuals in local languages and English for use by local government officials, other communities and partner agencies interested in replication."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "MercyCorps",
+        "donor_project_id": "952",
+        "raw_payload": {
+          "id": 7122,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "MercyCorps",
+          "organization_id": 284,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "MercyCorps",
+    "financing": [
+      {
+        "amount": 1635472.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "MercyCorps",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-11-14",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-952",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/952",
+        "value": "952"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Managing Risk through Economic Development (MRED)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/952",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-952",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1635472.0,
+    "total_disbursement": 1697445.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.342340Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-952",
+      "id": "version:entity:project/development_project/dfmis-952:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

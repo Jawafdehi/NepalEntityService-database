@@ -1,0 +1,188 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.553004Z",
+  "dates": [
+    {
+      "date": "2009-09-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The main objective of the project is to support the on-going efforts to develop a healthier financial sector in Nepal which intermediates funds more efficiently and effectively to the benefit of all segments of society and in a manner which supports private sector development, increased investment, and faster growth. The project has the following four components: Component 1) Voluntary Retirement Schemes (VRS). The largest component is designed to support the VRS in Rastriya Banijya Bank (RBB) and Nepal Bank Limited (NBL) in an effort to reduce their costs and ultimately assist in making them more saleable/privatizable institutions. Component 2) Hiring of Sales Advisors. The hiring of the Sales (Privatization) Advisors will not happen until a year or so into the project when the banks are in a better financial condition and are therefore more viable privatization candidates. These Advisors will undertake proper due diligence, prepare a prospectus for the banks, and then undertake a road show to bring them to the point of sale to \"fit and proper\" private sector buyers as rapidly as possible. Component 3) Phase II: On-going Nepal Rastra Bank Re-engineering. The Financial Sector Technical Assistance Project has commenced a process of re-engineering within the central bank. However, reform, revitalization, and professionalization are complicated, long-term tasks. Greatly enhancing the capacity of NRB to oversee a prudently operated banking system is a prime objective of the series of reforms being undertaken within the sector. Whereas the Phase I reforms in banking supervision have focused on developing an appropriate off-site reporting system and a minimalist amount of on-site bank supervisory assistance, the Phase I1 reforms will assist in augmenting the on-site supervisory capacities to oversee the commercial banks. Component 4) Management Team Support. It is agreed, that the two banks may not be privatized by the time that the current three year term of the existing Management Teams expire (two years with a possible one-year extension). It is equally recognized that the banks should not revert to old management practices. It is therefore necessary to include funding for a contingency to cover the costs of continuing management team support up until the point of privatization."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P084219",
+      "raw_payload": {
+        "boardapprovaldate": "2004-03-09T00:00:00Z",
+        "closingdate": "2009-09-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "75500000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P084219",
+        "major_sector_code": "FX",
+        "major_sector_name": "FY17 - Financial Sector",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "FX",
+              "major_sector_name": "FY17 - Financial Sector",
+              "sectors": [
+                {
+                  "sector_code": "FA",
+                  "sector_name": "FY17 - Banking Institutions",
+                  "sector_percent": "100.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Banking Institutions",
+        "proj_id": "P084219",
+        "project_abstract": "The main objective of the project is to support the on-going efforts to develop a healthier financial sector in Nepal which intermediates funds more efficiently and effectively to the benefit of all segments of society and in a manner which supports private sector development, increased investment, and faster growth. The project has the following four components: Component 1) Voluntary Retirement Schemes (VRS). The largest component is designed to support the VRS in Rastriya Banijya Bank (RBB) and Nepal Bank Limited (NBL) in an effort to reduce their costs and ultimately assist in making them more saleable/privatizable institutions. Component 2) Hiring of Sales Advisors. The hiring of the Sales (Privatization) Advisors will not happen until a year or so into the project when the banks are in a better financial condition and are therefore more viable privatization candidates. These Advisors will undertake proper due diligence, prepare a prospectus for the banks, and then undertake a road show to bring them to the point of sale to \"fit and proper\" private sector buyers as rapidly as possible. Component 3) Phase II: On-going Nepal Rastra Bank Re-engineering. The Financial Sector Technical Assistance Project has commenced a process of re-engineering within the central bank. However, reform, revitalization, and professionalization are complicated, long-term tasks. Greatly enhancing the capacity of NRB to oversee a prudently operated banking system is a prime objective of the series of reforms being undertaken within the sector. Whereas the Phase I reforms in banking supervision have focused on developing an appropriate off-site reporting system and a minimalist amount of on-site bank supervisory assistance, the Phase I1 reforms will assist in augmenting the on-site supervisory capacities to oversee the commercial banks. Component 4) Management Team Support. It is agreed, that the two banks may not be privatized by the time that the current three year term of the existing Management Teams expire (two years with a possible one-year extension). It is equally recognized that the banks should not revert to old management practices. It is therefore necessary to include funding for a contingency to cover the costs of continuing management team support up until the point of privatization.",
+        "project_name": "Second Financial Sector Restructuring Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Finance",
+          "FY17 - Finance",
+          "FY17 - Public Sector Management"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Financial Stability",
+          "FY17 - Financial Stability",
+          "FY17 - Public Administration"
+        ],
+        "totalamt": "75500000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 75500000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2004-03-09",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P084219",
+      "value": "p084219"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Second Financial Sector Restructuring Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P084219",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Financial Sector",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p084219",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 75500000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.553001Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p084219",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

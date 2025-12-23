@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.534183Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3889",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.534186Z",
+    "dates": [
+      {
+        "date": "2022-05-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2025-07-13",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "To provide a sustainable clean water supply system to the Ghusel, Malta, and Bhattedanda communities of the Lalitpur district."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Latter-day Saint Charities",
+        "donor_project_id": "3889",
+        "raw_payload": {
+          "id": 40792,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Latter-day Saint Charities",
+          "organization_id": 587,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Water Supply",
+    "financing": [
+      {
+        "amount": 615.3595,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Latter-day Saint Charities",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-05-26",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 615359.5,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Latter-day Saint Charities",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-05-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3889",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3889",
+        "value": "3889"
+      }
+    ],
+    "implementing_agency": "Latter-day Saint Charities",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Water Supply Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3889",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3889",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 615974.8595,
+    "total_disbursement": 180411.092,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.534183Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3889",
+      "id": "version:entity:project/development_project/dfmis-3889:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

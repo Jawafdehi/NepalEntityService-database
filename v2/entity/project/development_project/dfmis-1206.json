@@ -1,0 +1,146 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.928086Z",
+  "dates": [
+    {
+      "date": "2017-08-21",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "2.1.1 Transitional shelter kits (CGI nails, woodenpiller/irontrush/cement)\r\n\r\n2.2.1 Restore water points\r\n\r\n2.2.1 Construct Water Points\r\n\r\n2.2.3 Water Quality Test\r\n\r\n2.2.4 Repair/Construct Latrine\r\n\r\n2.2.5 Hygiene Kits\r\n\r\n2.2.6 Hygiene Promotion activities (Volunteers/FCHV mobilization)\r\n\r\n2.2.7 WASH IEC materials\r\n\r\n2.3.1 Organize capacity building activities for community mediators/SMs\r\n\r\n2.3.2 Support for recreational activities at community level\r\n\r\n2.3.3. Support to community mediators\r\n\r\n2.3.4 Community mediation activities\r\n\r\n2.4.1 Provide inputs and services to farmers HHs to restore onfarm activities\r\n\r\n2.4.2 Support small entrepreneurs to restore/establish enterprise\r\n\r\n2.4.3 Provide livestock support and services to flood affected to restore farm activities\r\n\r\n2.4.4 Meeting between flood affected and traders\r\n\r\n2.4.5 Support communities to restore community (socio-economic) infrastructures through cash for work modality\r\n\r\n2.4.6 Livestock/fishery insurance\r\n\r\n2.5.1 Organize Local level DRR workshop\r\n\r\n2.5.2 Support Community level disaster Management Groups(Trainings/equipments)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Lutheran World Federation Nepal",
+      "donor_project_id": "1206",
+      "raw_payload": {
+        "id": 10989,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Lutheran World Federation Nepal",
+        "organization_id": 276,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Lutheran World Federation Nepal",
+  "financing": [
+    {
+      "amount": 279123.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Lutheran World Federation Nepal",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-08-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1206",
+      "value": "1206"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "NPL171- Nepal Floods Response",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1206",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1206",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 279123.0,
+  "total_disbursement": 276195.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.928083Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1206",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.849759Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project is designed to increase the supply of qualified engineering technicians needed to implement Nepal's development programs. The IDA credit would help finance facilities and equipment for the Institute of Engineering of Tribhuvan University in order to: (a) strenghthen the quality of existing teaching programs for about 1,000 students at the certificate level (Grades 11-12) and about 200 students in remedial courses; and (b) establish a new training program for about 430 students at the diploma level (Grades 13-15). Related staff training and specialists' services would be financed by the Ministry of Overseas Development of the United Kingdom. Also in conjunction with the project, three studies would be carried out to provide a basis for future development of the education sector. The project faces no special risks. However, expected benefits will be realized only if the IOE limits enrollment to the number specified above and is able to effect and maintain the reorientation of its teaching programs toward practical ends as intended."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010117",
+      "raw_payload": {
+        "boardapprovaldate": "1978-02-28T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010117",
+        "major_sector_code": "EX",
+        "major_sector_name": "Education",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "Education",
+              "sectors": [
+                {
+                  "sector_code": "ET",
+                  "sector_name": "Tertiary Education",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Tertiary Education",
+        "proj_id": "P010117",
+        "project_abstract": "The project is designed to increase the supply of qualified engineering technicians needed to implement Nepal's development programs. The IDA credit would help finance facilities and equipment for the Institute of Engineering of Tribhuvan University in order to: (a) strenghthen the quality of existing teaching programs for about 1,000 students at the certificate level (Grades 11-12) and about 200 students in remedial courses; and (b) establish a new training program for about 430 students at the diploma level (Grades 13-15). Related staff training and specialists' services would be financed by the Ministry of Overseas Development of the United Kingdom. Also in conjunction with the project, three studies would be carried out to provide a basis for future development of the education sector. The project faces no special risks. However, expected benefits will be realized only if the IOE limits enrollment to the number specified above and is able to effect and maintain the reorientation of its teaching programs toward practical ends as intended.",
+        "project_name": "TECHNICAL EDUCATION",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010117",
+      "value": "p010117"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TECHNICAL EDUCATION",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010117",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010117",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.849757Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010117",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Project executed by U.S. Agency for International Development",
+  "created_at": "2025-12-23T19:11:17.993562Z",
+  "entity_or_relationship_id": "relationship:project/development_project/dfmis-2034:organization/international_org/us-agency-for-international-development:EXECUTED_BY",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "created_at": "2025-12-23T19:11:17.993553Z",
+    "end_date": null,
+    "id": "relationship:project/development_project/dfmis-2034:organization/international_org/us-agency-for-international-development:EXECUTED_BY",
+    "source_entity_id": "entity:project/development_project/dfmis-2034",
+    "start_date": null,
+    "target_entity_id": "entity:organization/international_org/us-agency-for-international-development",
+    "type": "EXECUTED_BY",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Project executed by U.S. Agency for International Development",
+      "created_at": "2025-12-23T19:11:17.993562Z",
+      "entity_or_relationship_id": "relationship:project/development_project/dfmis-2034:organization/international_org/us-agency-for-international-development:EXECUTED_BY",
+      "id": "version:relationship:project/development_project/dfmis-2034:organization/international_org/us-agency-for-international-development:EXECUTED_BY:1",
+      "type": "RELATIONSHIP",
+      "version_number": 1
+    }
+  },
+  "type": "RELATIONSHIP",
+  "version_number": 1
+}

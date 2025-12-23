@@ -1,0 +1,147 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.602030Z",
+  "dates": [
+    {
+      "date": "2019-12-10",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-06-03",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project will promote and finance commercial agribusiness enterprises collective owned by small farmers (collective enterprises) and individual small enterprises (individual enterprises) through Small Farmers Development Bank (SFDB), an apex development bank owned by Small Farmers Agriculture Cooperatives (SFACs). SFDB provides wholesale loans to SFACs; then SFACs re-lend to their small farmer members. Under the project, SFACs will re-lend the loan proceeds to their members' collective enterprises and individual enterprises."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "3944",
+      "raw_payload": {
+        "id": 41484,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 50000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2019-12-10",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3944",
+      "value": "3944"
+    }
+  ],
+  "implementing_agency": "Global Partnership for Education ",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rural Enterprise Financing Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3944",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3944",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 50000000.0,
+  "total_disbursement": 45000000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.602027Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3944",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

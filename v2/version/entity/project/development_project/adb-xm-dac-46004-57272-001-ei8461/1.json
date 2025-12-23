@@ -1,0 +1,150 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.710033Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-57272-001-ei8461",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.710035Z",
+    "dates": [
+      {
+        "date": "2023-11-28",
+        "source": "ADB",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The transaction involves the administration by the Asian Development Bank (ADB) of an equity investment of up to $4,000,000 or its Nepalese rupee equivalentwith an initial investment of up to $1,500,000 or its Nepalese rupee equivalentin InnoCSR Co. Ltd. (InnoCSR), a company headquartered in Seoul, Republic of Korea. The investment is to be provided by the ADB Ventures Investment Fund 1 under the ADB Ventures Financing Partnership Facility. The balance of the approved amount may be invested as equity or quasi-equity in subsequent fundraising rounds that InnoCSR is expected to undertake. Consistent with the established fund documents, ADB will not invest its own capital alongside the fund."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-57272-001-EI8461",
+        "raw_payload": {
+          "activity_status": "2",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Hersson, Daniel",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=57272-001 (Approved)&officer= dhersson@adb.org&division= Office of the Director General, PSOD&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-57272-001-EI8461",
+          "last_updated": "2025-11-24T08:42:08+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 28.25855,
+              "location_id": "9036855",
+              "lon": 83.94523,
+              "name": "Nepal",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-57272-001-ei8461",
+    "identifiers": null,
+    "implementing_agency": "InnoCSR Co. Ltd.",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Administration of Equity Investment in InnoCSR Co. Ltd.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:23183",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-57272-001-ei8461",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Effective gender mainstreaming (EGM)",
+        "normalized_tag": null
+      },
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Accelerating progress in gender equality",
+        "normalized_tag": null
+      },
+      {
+        "category": "CLIMATE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.710033Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-57272-001-ei8461",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-57272-001-ei8461:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

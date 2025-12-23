@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.208399Z",
+  "dates": [
+    {
+      "date": "2006-12-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The main activities are capacity building of farmers on mulberry plantation, cultivation, harvesting, post-harvesting, and market promotion of silk items and NGO capacity building to organize and support farmers."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Japan International Cooperation Agency",
+      "donor_project_id": "81",
+      "raw_payload": {
+        "id": 616,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Japan International Cooperation Agency",
+        "organization_id": 3,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 1551349.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2006-12-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/81",
+      "value": "81"
+    }
+  ],
+  "implementing_agency": "Japan International Cooperation Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promotion of Quality Cocoon Production and Processing Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/81",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-81",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1551349.0,
+  "total_disbursement": 2139957.4652,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.208396Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-81",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

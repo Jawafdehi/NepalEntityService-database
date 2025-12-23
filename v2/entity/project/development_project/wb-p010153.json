@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.829251Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Hill Food Production Project aims to increase food production in four western Hill districts of Gorkha, Lamjung, Syanja, and Tanahu, by providing appropriate extension advice and support services for undertaking low-cost farming practices selected to have an immediate impact on food production, better animal health and increased availability of livestock feed. The project also includes provision of fertilizer for the project area. It is expected that the project will reach nearly 50% of the 147,000 farm families in the project area. Irrigation works benefitting at least 10,000 farm families and trails and bridges benefitting all the population in these districts will also be upgraded. In view of the remoteness of the project area, there is a risk that all components may not be undertaken effectively and the interrelated services may not be provided; there is also the risk that area farmers may not have access to the development services. The project is therefore designed to minimize the administrative and logistical difficulties of providing services in remote areas through the use of local agricultural service centers. These centers have been found to be effective in other projects in marshalling and directing services and in reaching a broad spectrum of participants."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010153",
+      "raw_payload": {
+        "boardapprovaldate": "1981-02-03T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010153",
+        "major_sector_code": "AX",
+        "major_sector_name": "Agriculture, Fishing and Forestry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AY",
+                  "sector_name": "(Historic)Other agriculture",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Other agriculture",
+        "proj_id": "P010153",
+        "project_abstract": "The Hill Food Production Project aims to increase food production in four western Hill districts of Gorkha, Lamjung, Syanja, and Tanahu, by providing appropriate extension advice and support services for undertaking low-cost farming practices selected to have an immediate impact on food production, better animal health and increased availability of livestock feed. The project also includes provision of fertilizer for the project area. It is expected that the project will reach nearly 50% of the 147,000 farm families in the project area. Irrigation works benefitting at least 10,000 farm families and trails and bridges benefitting all the population in these districts will also be upgraded. In view of the remoteness of the project area, there is a risk that all components may not be undertaken effectively and the interrelated services may not be provided; there is also the risk that area farmers may not have access to the development services. The project is therefore designed to minimize the administrative and logistical difficulties of providing services in remote areas through the use of local agricultural service centers. These centers have been found to be effective in other projects in marshalling and directing services and in reaching a broad spectrum of participants.",
+        "project_name": "HILL FOOD PROD I",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010153",
+      "value": "p010153"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "HILL FOOD PROD I",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010153",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010153",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.829248Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010153",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

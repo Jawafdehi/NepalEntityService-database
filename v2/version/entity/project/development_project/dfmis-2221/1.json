@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.385899Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2221",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.385902Z",
+    "dates": [
+      {
+        "date": "2019-01-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-01-28",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2022-01-27",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Health activities:(i) Capacity building of FCHVs/HFOMCs and community awareness activities (FCHVs-6, community-73), (ii) Strengthen community support mechanisms and preparedness for perinatal health (resource mapping, fund support, community plans, birth preparedness plans) (iii) Equipment and technical capacity building (birthing centers), (iv) Strengthen planning capacities of HCF and referral mechanism for perinatal health including manual development, (v) Establishment of Comprehensive Center of Excellence (CCE) for MNH, (vi) Innovation and mHealth (Mobile communication system & Data analysis tool),2. WASH activities:(i) Installation/ Rehabilitation of water supply system (Child friendly), (ii) Installation/ Rehabilitation of Sanitation facilities (CGD friendly), (iii) Installation/ Rehabilitation of Hygiene facilities (child friendly hand washing stations) (iv) Capacity Building and Awareness raising activities in HCF, (v) Interactions, workshops and community empowerment (Municipality, District, Communities), (vi)  Assessments (WASH in HCF assessment FACET), (vii) Water Quality Testing (twice a year) (viii) Assessments (RANAS in community), (xv) Capacity Building and Awareness raising activities, (x) Community empowerment and mobilization activities and Day celebration and special events, (xi) IEC/BCC activities/ Campaigns, etc., (xii) Water Filter Distribution (subsidized)3. Advocacy of WASH and MCH:(i) Advocacy for increased prioritization on WASH in HCF and perinatal health (municipality/ province/national level), (ii) Advocacy at the district, province and national level to integrate WASH FIT as a planning and monitoring tools at all levels of HCFs, (iii) Learning and findings sharing workshop at district, province and national level, (iv) Advocacy with municipalities and provincial authorities on the provision of free diagnostic tests within ANC package, birth registrations, mentoring and coaching, etc. (v) Study on impact of institutional WaSH in HCF and community (FACET)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Terre des hommes, Lausanne",
+        "donor_project_id": "2221",
+        "raw_payload": {
+          "id": 11917,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Terre des hommes, Lausanne",
+          "organization_id": 492,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Terre des hommes, Lausanne",
+    "financing": [
+      {
+        "amount": 480461.1983,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Terre des hommes, Lausanne",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-08-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 464585.498,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Terre des hommes, Lausanne",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-01-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2221",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2221",
+        "value": "2221"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PRAYAAS: Strengthening community and health care system for improved WASH and Perinatal Health",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2221",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2221",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 945046.6963,
+    "total_disbursement": 747220.20612,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.385899Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2221",
+      "id": "version:entity:project/development_project/dfmis-2221:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

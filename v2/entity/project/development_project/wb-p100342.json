@@ -1,0 +1,307 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.537106Z",
+  "dates": [
+    {
+      "date": "2011-07-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P100342",
+      "raw_payload": {
+        "boardapprovaldate": "2007-01-19T00:00:00Z",
+        "closingdate": "2011-07-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "18200000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "0",
+        "id": "P100342",
+        "major_sector_code": "AX,BX,HX,WX",
+        "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Health,FY17 - Public Administration,FY17 - Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AB",
+                  "sector_name": "FY17 - Agricultural Extension, Research, and Other Support Activities",
+                  "sector_percent": "16.0"
+                },
+                {
+                  "sector_code": "AF",
+                  "sector_name": "FY17 - Fisheries",
+                  "sector_percent": "1.0"
+                },
+                {
+                  "sector_code": "AL",
+                  "sector_name": "FY17 - Livestock",
+                  "sector_percent": "1.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BZ",
+                  "sector_name": "FY17 - Other Public Administration",
+                  "sector_percent": "60.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "HX",
+              "major_sector_name": "FY17 - Health",
+              "sectors": [
+                {
+                  "sector_code": "HG",
+                  "sector_name": "FY17 - Health",
+                  "sector_percent": "21.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "FY17 - Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WB",
+                  "sector_name": "FY17 - Waste Management",
+                  "sector_percent": "1.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Agricultural Extension, Research, and Other Support Activities,FY17 - Fisheries,FY17 - Health,FY17 - Livestock,FY17 - Other Public Administration,FY17 - Waste Management",
+        "proj_id": "P100342",
+        "project_name": "Avian Influenza Control Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Finance",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Disaster Risk Management",
+          "FY17 - Disaster Risk Management",
+          "FY17 - Disaster Risk Management",
+          "FY17 - Disease Control",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Environmental Health and Pollution Management",
+          "FY17 - Finance for Development",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Rural Development"
+        ],
+        "totalamt": "16840974"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 16840974.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2007-01-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P100342",
+      "value": "p100342"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Avian Influenza Control Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P100342",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p100342",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 16840974.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.537103Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p100342",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

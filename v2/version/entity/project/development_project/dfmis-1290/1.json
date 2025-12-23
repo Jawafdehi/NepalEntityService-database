@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.224713Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1290",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.224716Z",
+    "dates": [
+      {
+        "date": "2013-01-12",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-01-12",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Strengthening the private sector and service provider to increase exportsDialogue between the public and the private sector in order to identify the key trade barriers and overcome themDeveloping the capacity of the Enhanced Integrated Framework (EIF) /  National Implementation Unit (NIU) with regard to deveoping individual and institutional skills for National Trade Integration Strategy (NTIS) implemntation, project management, monitoring and evaluation, resource mobilisation, communication, and information -sharing regarding NTIS and Aid for Trade (AfT)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "German Corporation for International Cooperation",
+        "donor_project_id": "1290",
+        "raw_payload": {
+          "id": 7321,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "German Corporation for International Cooperation",
+          "organization_id": 24,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "German Corporation for International Cooperation",
+    "financing": [
+      {
+        "amount": 2004275.788,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-08-12",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1308089.9,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-10-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1344241.076,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1290",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1290",
+        "value": "1290"
+      }
+    ],
+    "implementing_agency": "Ministry of Industry, Commerce and Supplies, German Corporation for International Cooperation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Trade Promotion Programme (TPP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1290",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1290",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4656606.764,
+    "total_disbursement": 4441188.0747,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.224713Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1290",
+      "id": "version:entity:project/development_project/dfmis-1290:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

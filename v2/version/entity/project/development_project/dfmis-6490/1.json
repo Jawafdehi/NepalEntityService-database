@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.755834Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6490",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.755836Z",
+    "dates": [
+      {
+        "date": "2023-11-10",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-11-10",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Distribution of WASH, Food, non-food, and shelter items (Tents, food items, WASH items, Bed sheets, blankets etc.)Form/reform farmers’ groupsStudy on traditional/indigenous knowledge and skill on farming and Natural Resource Management (NRM) to promote such practicesSupport (seeds, equipment/materials, tools, etc.)  and train men/women and youth on vocational skills, IGAS, non-farm and off-farm agricultural practices, microenterprise development, value chain, and entrepreneurshipSupport materials (post harvesting tools, seeds, tools and machines, etc.) to men/women and youthProvide training and materials to women/ groups and youth on regenerative farming/permaculture principle and practices and establish model farmsConduct and support to establish farmer’s field schoolsSupport the efficient climate resilient technologies (drip irrigation, sprinkle, cattle shed improvement, recharge ponds, rainwater harvesting, wastewater collection, composting, terrace improvement etc.)Establish seed banks in villagesProvide seed money through multi-purpose cooperative to farmersTraining to cooperative management committee on institutional governance and economic inclusion; financial management and accounting software and support to provide services to marginalized and vulnerable people (financial, software, materials, seeds, breeds, tools, equipment, etc.)Sessions on financial literacy to cooperative membersSupport cooperatives on marketing, branding, and value addition of local productsTraining to local government representatives on climate friendly green economyProvide support to local government to promote/establish green economyCSOs advocate to incorporate climate friendly green economy in policies, planning and programs, and its effective implementationCarry out study and monitoring on dietary patterns and nutrition of familiesTraining to targeted people on healthy dietary pattern and dietary diversitySupport to establish kitchen garden/home gardens (fencing, seeds, sprinkles, pipes, drip-irrigation, weeding tools, waste-water management, etc.)Input support (chicken, egg, beans, lentils, etc.) to targeted families to promote nutrition of lactating mothers and infantsTraining to men and women on climate crisis and adaptation measuresForm Climate Champion (CC) networks and train  on climate  crisisConduct dialogues and discussion sessions with men and women on climate crisis and adaptationSupport Climate Champion networks to conduct climate actions (awareness raising events, mitigations, DRR preparedness, etc.) at schools and communitiesIntegrate LAPA in ward level PlanMaterials supports to groups for climate adaptation measures (seeds, bio-pesticides, polyhouse, sprinkler, corn sheller, potato chip maker, storage bins, and juice maker, etc.)Plantation of trees, NTFPs, fodder, forages, and fruitsOrientation to local government representatives on climate responsive planning, polices, strategies and localizationTraining to CSOs members on ecosystem-based climate change adaptation approachesSupport to implement Local Adaptation Plan of Action (LAPA)Support to establish and functionalize climate crisis monitoring system at RMSupport CSOs to prepare and implement advocacy plans on climate crisis and adaptation measuresOrganize campaigns on DRR and emergency preparedness in communitiesSupport to form and mobilize emergency response taskforce at RMSimulation to emergency response taskforce on emergency response (First aid, search and rescue, relief distribution etc.)Prepare Community Vulnerability Map and install in different communitiesConstruction/ develop infrastructure such as gabion, bio engineering, drainage for restoration of land to mitigate/reduce the disasterMeeting and discussion with members of Local Disaster Risk Management Committee (LDRMC) and CSOs on Disaster Risk ManagementSupport to implement Disaster Risk Management Plan (LDRMP)Support to RM on localization of SDGs (targets related to DRR)Materials and equipment support to RM to respond disastersSupport to establish early warning system at local level (rain gauges, equipment etc.)Support CSOs with materials (stretcher, bucket, rope, helmet, axe, saw, shovel, sickle, whistle, first aid kit, and hammer, etc.). to response DisastersTraining and mobilization of Sanitation and Hygiene Promoters (SHPs) on promotion of personal hygiene sanitation practices.Support to schools and CBOS (water users’ groups) to improve user-friendly WASH facilities (toilet, water supply, drainage, etc.)Awareness campaign at community and schools on personal hygiene and sanitation practicesTraining and mobilization to representatives of School Management Committee (SMC), Teachers and Child Clubs on inclusive WASHRe/form CSOs- network/ alliance/groupsInstitutional supports (AGM, charter, office establishment, stationeries, policies/strategy development etc.) to CSOsEngage media to promote inclusion and resilience initiatives taken by CSOsTrainings to CSOs members on leadership, manageme"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Mission East",
+        "donor_project_id": "6490",
+        "raw_payload": {
+          "id": 42835,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Mission East",
+          "organization_id": 354,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 706831.16,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-11-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6490",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6490",
+        "value": "6490"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations, Karnali Integrated Rural Development And Research Centre",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Building Resilient Communities in Humla",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6490",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6490",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 706831.16,
+    "total_disbursement": 282915.15,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.755834Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6490",
+      "id": "version:entity:project/development_project/dfmis-6490:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,287 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.378362Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p181002",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.378365Z",
+    "dates": [
+      {
+        "date": "2026-07-16",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This Project seeks approval for an Additional Financing (AF) of a US$12 million grant from the PROGREEN Trust Fund to the Government of Nepal (GoN) for the ongoing “Forests for Prosperity” Project (FPP) (P170798). The proposed AF will cover a financing gap under Component 2 linked to community-based sustainable forest management and smallholder forest plantations. Furthermore, the project paper proposes a restructuring to improve the project design and introduce new activities that are fundamental to achieving the adjusted project’s outcomes. The restructuring will also reallocate financing across components and, thus, scale up Component 3 on forest enterprise development and improvement."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P181002",
+        "raw_payload": {
+          "boardapprovaldate": "2024-10-08T00:00:00Z",
+          "borrower": "Ministry of Finance",
+          "closingdate": "2026-07-16",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "grantamt": "12000000",
+          "id": "P181002",
+          "impagency": "Ministry of Forests and Environment",
+          "major_sector_code": "AAX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AAX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AAK",
+                    "sector_name": "Public Administration - Agriculture, Fishing, and Forestry ",
+                    "sector_percent": "4.0"
+                  },
+                  {
+                    "sector_code": "AAT",
+                    "sector_name": "Forestry",
+                    "sector_percent": "96.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Forestry,Public Administration - Agriculture, Fishing, and Forestry ",
+          "proj_id": "P181002",
+          "project_abstract": "This Project seeks approval for an Additional Financing (AF) of a US$12 million grant from the PROGREEN Trust Fund to the Government of Nepal (GoN) for the ongoing “Forests for Prosperity” Project (FPP) (P170798). The proposed AF will cover a financing gap under Component 2 linked to community-based sustainable forest management and smallholder forest plantations. Furthermore, the project paper proposes a restructuring to improve the project design and introduce new activities that are fundamental to achieving the adjusted project’s outcomes. The restructuring will also reallocate financing across components and, thus, scale up Component 3 on forest enterprise development and improvement.",
+          "project_name": "Additional Financing for Forests for Prosperity",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Active",
+          "themev2_level1_exact": [
+            "Data Ecosystem",
+            "Disaster Risk Management",
+            "Disaster Risk Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Human Development",
+            "Private Sector Development",
+            "Private Sector Development"
+          ],
+          "themev2_level2_exact": [
+            "Circular Economy",
+            "Climate Change",
+            "Climate Change",
+            "Disaster Preparedness and Response",
+            "Disaster Risk Reduction",
+            "Ecosystem Management",
+            "Ecosystem Management",
+            "Enterprise and Sector Development",
+            "Enterprise and Sector Development",
+            "Environmental Policies and Institutions",
+            "Geospatial Data",
+            "Nutrition and Food Security",
+            "Pollution Management"
+          ]
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 12000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2024-10-08",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p181002",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181002",
+        "value": "p181002"
+      }
+    ],
+    "implementing_agency": "Ministry of Forests and Environment",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Additional Financing for Forests for Prosperity",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181002",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p181002",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Data Ecosystem",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Disaster Risk Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Disaster Risk Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Human Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Private Sector Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.378362Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p181002",
+      "id": "version:entity:project/development_project/wb-p181002:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

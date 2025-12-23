@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.807758Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-399",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.807761Z",
+    "dates": [
+      {
+        "date": "2010-06-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-06-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.       Supportive Legal and Regulatory Framework\r\n\r\n·         An act for the regulation and supervision of rural and microfinance institutions\r\n·         An autonomous regulatory authority for rural and microfinance institutions\r\n \r\n2.       ADBL Institutional Restructuring and Reforms\r\n·         Reduced government ownership and increased private sector participation in ADBL\r\n·         Improved ADBL financial and operating performance\r\n \r\n3.       SFDB Institutional Restructuring and Reforms\r\n·         Reduced government ownership and increased private sector participation in SFDB\r\n·         Improved SFDB financial and operating performance\r\n·         Improved access to financial services in hills and mountain areas\r\n \r\n4.       GBB Institutional Restructuring and Reforms\r\n·         Reduced government ownership and increased private sector participation at GBBs\r\n \r\n5.       Sector Capacity Building\r\n·         NBTI training programs in finance, banking, and rural and microfinance subjects for a wide range of financial institutions\r\n \r\n6.       Enabling Infrastructure for Rural Finance\r\n·         Credit information services to microfinance institutions by the Credit Information Bureau (CIB)\r\n·         DRT capacity development"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "399",
+        "raw_payload": {
+          "id": 1573,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 300000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-06-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-399",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/399",
+        "value": "399"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 4857-NEP: Capacity Building for Rural Finance Sector Development",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/399",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-399",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 300000.0,
+    "total_disbursement": 164499.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.807758Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-399",
+      "id": "version:entity:project/development_project/dfmis-399:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

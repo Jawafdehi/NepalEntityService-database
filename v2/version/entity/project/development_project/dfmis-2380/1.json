@@ -1,0 +1,584 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.916731Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2380",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.916734Z",
+    "dates": [
+      {
+        "date": "2011-02-21",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-02-21",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Capacity development for Ministry of home Affairs, other ministries and local governmentsClimate risk management, community based disaster risk management and emergency preparedness initiatives"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3269,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3275,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 17,
+          "organization__development_cooperation_group__name": "Japan",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 2,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3267,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "United Nations International Stragegy for Disaster Reduction",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3271,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations International Stragegy for Disaster Reduction",
+          "organization_id": 442,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Ministry of External Affairs",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3273,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 14,
+          "organization__development_cooperation_group__name": "India",
+          "organization__logo": "",
+          "organization__name": "Ministry of External Affairs",
+          "organization_id": 27,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "World Bank Trust Funds",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3270,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 48,
+          "organization__development_cooperation_group__name": "World Bank Group",
+          "organization__logo": "",
+          "organization__name": "World Bank Trust Funds",
+          "organization_id": 86,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Korea International Cooperation Agency",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3272,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 36,
+          "organization__development_cooperation_group__name": "Korea",
+          "organization__logo": "",
+          "organization__name": "Korea International Cooperation Agency",
+          "organization_id": 28,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "European Commission",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3274,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "China International Development Cooperation Agency",
+        "donor_project_id": "2380",
+        "raw_payload": {
+          "id": 3268,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 7,
+          "organization__development_cooperation_group__name": "China",
+          "organization__logo": "",
+          "organization__name": "China International Development Cooperation Agency",
+          "organization_id": 20,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "United Nations Development Programme",
+    "financing": [
+      {
+        "amount": 1226991.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-02-21",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2548151.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 7197970.149,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-02-12",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 629300.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Bank Trust Funds",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-02-07",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 29853.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations International Stragegy for Disaster Reduction",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-06",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 744059.6919,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-02-14",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 818875.817,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-04-26",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1165385.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 186071.2871,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 423424.741,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-04-25",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1977706.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-01-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2000000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Korea International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-19",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 318654.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 654096.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 250000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-06-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 100000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "China International Development Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 693471.492,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-13",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 788100.2111,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 196455.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "China International Development Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-03-07",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 191879.6049,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1546849.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 8799300.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of External Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-03-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 300000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2380",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2380",
+        "value": "2380"
+      }
+    ],
+    "implementing_agency": "United Nations Development Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Comprehensive Disaster Risk Management Programme (CDRMP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2380",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2380",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 32786592.994,
+    "total_disbursement": 34601051.3367,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.916731Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2380",
+      "id": "version:entity:project/development_project/dfmis-2380:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

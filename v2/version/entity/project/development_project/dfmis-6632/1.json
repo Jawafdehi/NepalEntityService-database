@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.395561Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6632",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.395566Z",
+    "dates": [
+      {
+        "date": "2024-08-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-08-28",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Needs assessment/ research on digital literacy and other needs of young women and girls.Development of curriculum and guidelines for safe spaces, integrating modules to build resilience to humanitarian emergencies.Procurement and prepositioning of supplies, including devices to ensure safe spacesUpdate manuals, guidance notes and procedures for social and health service providers to deliver adolescent-friendly GBV response services.Support MoHP to develop and implement training programmes to improve GBV case management services and reporting in health facilities, including reliable data on adolescent service seekers.Revive the GBVIMS digital data platform at the federal level and link it to the GBV response services at the provincial and local level.Support the integration of case management data collection systems from multi-sectoral GBV response service providers at the local level to include data on adolescents, and link it to the federal level GBVIMS to improve recording and evidence-based reporting of GBV.Develop the capacity of peer educators and hold review and planning meetings in school.Conduct an analysis of gaps in the existing CSE curricula at national and sub-national level, as well as research on the implementation of CSE at national and sub-national levels to inform policy dialogue and advocacy, as well as curriculum development.Strengthen coordination mechanisms for integration of CSE in national and sub-national strategies, policies and plans.Orient government officials at national and sub-national levels on benefits of CSE and develop their capacity to further improve CSE programmesDevelopment of curriculum and guidelines for safe spaces, integrating modules to build resilience to humanitarian emergencies.Establishment of mentor/mentees and adolescent girls’ groups for safe spaces.Intensive training for the mentors on leadership, gender-transformative approaches, psychosocial first aid, and resilience to natural disasters/emergencies to enable them to mentor adolescent girls in the safe spaces.Roll out of the safe space curriculum (including Rupantaran) to adolescent girl groups by the safe space mentorsProcurement and prepositioning of supplies, including devices to ensure safe spaces address the needs of adolescent girls in both development and humanitarian contexts.Link safe spaces through mentors with the existing humanitarian architecture at provincial and/or local levels, including the protection cluster, GBV sub-cluster and reproductive health cluster.Campaign to promote awareness of sexual and reproductive health and rights and gender-based violencePrevention and outreach activities to engage religious and community leaders and men and boys for community ownership of gender-based violence and sexual and reproductive health and rights consisting of strategies such as safety groups promoting community ownership of safe spaces.Intergenerational dialogues with adolescent women and girls, families and communities.Train psychosocial counsellors to deliver psychosocial support to adolescent girls and young women.Support the development of an integrated digital platform linking GBV hotline service and referral mechanisms to facilitate easy access to information on multi-sectoral GBV services and promote the use of available GBV response services.Training to strengthen capacity of GBV service providers on psychosocial and referral support including during emergenciesFacility improvement of 6 one-stop crisis management centres to align with the UN Essential Service package including access (physical and economic) for a conducive environment to provide confidential services.Linkages with the government GBV Elimination Fund and the Emergency Child Rescue Funds to ensure adolescents, including those with disabilities, are able to access GBV response services.Training personnel at one-stop crisis management centres and local health centres on the UN Essential Service Package, including psychosocial support, counselling and referral services to adolescents.8 Conduct public outreach targeting adolescents and their families on the issues of mental health, harmful practices, and the available avenues to seek psychosocial and other relevant support in case of GBV and harmful practices.Support MoHP to develop and implement training programmes to improve GBV case management services and reporting in health facilities, including reliable data on adolescent service seekers.Revive the GBVIMS digital data platform at the federal level and link it to the GBV response services at the provincial and local level.Support the integration of case management data collection systems from multi-sectoral GBV response service providers at the local level to include data on adolescents, and link it to the federal level GBVIMS to improve recording and evidence-based reporting of GBV.Provide technical guidance and support to local governments to develop gender-transformative in-school CSE curricula, including resource ma"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Good Neighbors International Nepal",
+        "donor_project_id": "6632",
+        "raw_payload": {
+          "id": 44279,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Good Neighbors International Nepal",
+          "organization_id": 511,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population, Ministry of Social Development, Ministry of Education and Social Welfare",
+    "financing": [
+      {
+        "amount": 2645193.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Good Neighbors International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-08-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6632",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6632",
+        "value": "6632"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Safe and enabling environment for adolescent girls and young women (SAFE-Girls)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6632",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6632",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2645193.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.395561Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6632",
+      "id": "version:entity:project/development_project/dfmis-6632:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

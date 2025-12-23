@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.868348Z",
+  "dates": [
+    {
+      "date": "2023-12-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-12-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-11-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Introduction 1.1 Background (300 words) Plan International is a global development and humanitarian organization established in 1937 with a presence in over 75 countries. The organization aims to advance children's rights and promote equality for girls by addressing poverty, violence, exclusion, and discrimination. Plan International Nepal has been working in Nepal since 1978 to help marginalized children, families, and communities access their rights to survival, protection, and participation, with a focus on ending Child, Early, and Forced Marriage (CEFM). Through its project intervention, Plan International in Nepal aims to bring lasting impact in the lives of half a million girls by 2023. Plan International Nepal has made strategic choices based on a wide range of data inputs and global trends, including parenting education and early child development, inclusive and quality education, skill and young women empowerment including Sexual and Reproductive Health Rights (SRHR), child protection, and health, hygiene, and Disaster Risk Reduction and Management (DRRM) support in the context of the COVID-19 pandemic. The organization aims to make an impact on the lives of girls and young women in Nepal by ensuring that its works are equitable, gender-transformative, and protective of human rights. Its humanitarian responses prioritize the needs and rights of girls and young women A 6.4 magnitude earthquake hit the western part of Nepal on 3 November 2023 at 11:47 pm; the largest earthquake to strike Nepal since 2015. Just three days later, there was another strong earthquake with 5.6 magnitude struck. The earthquake has impacted the districts of Jajarkot, Rukum West, Salyan, Dailekh and Rolpa in Karnali province. National Disaster Risk Reduction and Management Authority (NDRRMA) reported that there has been death of 153 people and 364 people were injured in five districts (Jajarkot, Rukum West, Salyan, Rolpa and Dailekh) and 300,000 people have been directly affected and 62,000 houses damaged[1]. Jajarkot and Rukum West, the geographically remote areas, are the most heavily impacted and have the most damaged houses.  In Jajarkot, 6,768 houses are damaged and 14,997 families have been displaced in Bheri municipality, 6,536 houses damaged and 15,341 families have been displaced in Nalgad municipality and in Rukum West 7,184 houses damaged in Aathbiskot municipality.1.2 Project Rationale (500 words) Affected areas are highly vulnerable to water-borne diseases (Jajarkot district is historically prone to this) and WASH facilities are non-functional. Grains and other food items (normally stored for winter months) have been destroyed. Households in the affected municipalities that rely predominantly on subsistence farming and migratory livelihoods have been greatly affected. As in most humanitarian crises, there has been an alarming rise in gender-based violence and this is an area that requires urgent attention. An estimated 250,000 people, including 80,000 children, require WASH support (UNICEF), including menstrual hygiene materials. Grains and other food items have been destroyed and households relying on subsistence farming are badly affected. People are experiencing significant mental distress and fear for their safety and over 25,000 people, including 8,500 children, require psychosocial support (UNICEF). The proposed targeted areas (Bheri and Nalgaad municipalities in Jajarkot district, and Aathbiskot Municipality in Rukum-West), are identified by the District Disaster Management Committees (DDMCs) of both districts and the UN Resident Coordinator's Office as the most-affected areas. Initial needs identified by Nepal Red Cross Society (NRCS) and the government found an urgent need for shelter and NFIs/cash, safe and inclusive temporary shelter for girls and women, psychosocial support for children, emergency toilets, temporary learning center, transitional shelter in areas and provision of safe drinking water, hygiene kits and dignity kits. Shelter and winterization are immediate urgent needs due to the cold weather in the two targeted districts. Also, there is need of WASH facilities, increased needs for dignity kits for women and Multi-Purpose Cash Assistance (MPCA). These needs are aligned with the SITREP # 4 of United Nations Resident Coordinator Office (UNRCO, Nepal).The proposed intervention will overall contribute to SDG and 15th periodic plan of Government of Nepal. This project aims to implement Disaster Risk Reduction (DRR) initiatives that align with the government of Nepal's Fifteen Periodic Plan to reduce losses caused by natural and non-natural disasters. Project closely work with NDRRMA and DDMC.The project aims to contribute to the Sustainable Development Goals (SDGs) targets and goals, particularly Goal 6. Also contributes to 10.8 section of 15th periodic plan Disaster Risk Reduction National Strategic Plan of Action, Priority Action. 3 - Section 6.1.SGD 6: Ensure availability and sustainabl"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Plan Nepal",
+      "donor_project_id": "6540",
+      "raw_payload": {
+        "id": 43195,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Plan Nepal",
+        "organization_id": 277,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration, Ministry of Education, Science and Technology, Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 600097.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Plan Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-12-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6540",
+      "value": "6540"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Earthquake Response in Karnali Province",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6540",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6540",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 600097.0,
+  "total_disbursement": 600097.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.868345Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6540",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

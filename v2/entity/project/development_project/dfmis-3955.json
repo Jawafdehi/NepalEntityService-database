@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.635259Z",
+  "dates": [
+    {
+      "date": "2022-06-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-08-22",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Training on Nutrition Education Rehabilitation Programme (NERP)Screening camps to detect SAM and MAM childrenConducting NERP camps for MAM childrenSupport to the Outpatient Therapeutic Centre (OTC) for SAM managementCommunity-led monitoring of MAM and SAM childrenSupport to the two rural municipalities in the development of their nutrition profilePLA LANN+ sessions for target groupsPromotion of nutrition gardensPreservation and promotion of indigenous nutritive cropsTraining on nursery developmentCommunity learning nutrition nurserySeed and inputs provision to farmersLinking farmers with service providersIrrigation support for farmer groupsCapacity building of project staff, community leaders and ward/municipality representatives and officials on PPPInstitutional support and capacity development of CBOs and right to food network/sNutrition advocacy training to women leaders and interaction with local governmentFood and nutrition status assessment of the two rural municipalitiesSupport the two rural municipalities in developing and implementing their municipal food and nutrition master plansOrganize joint visits of local, provincial and federal government representatives and thematic officers in the project areaOrganize Community Score Card with servicer providers"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Deutsche Welthungerhilfe e.V",
+      "donor_project_id": "3955",
+      "raw_payload": {
+        "id": 41666,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Deutsche Welthungerhilfe e.V",
+        "organization_id": 529,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Deutsche Welthungerhilfe e.V",
+  "financing": [
+    {
+      "amount": 1329454.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Deutsche Welthungerhilfe e.V",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-06-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3955",
+      "value": "3955"
+    }
+  ],
+  "implementing_agency": "Rural Reconstruction Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Empowering Citizens to Improve Food Security of Vulnerable Populations in Rolpa District, Lumbini Province, Nepal (POSHAN SUDHAR)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3955",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3955",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1329454.0,
+  "total_disbursement": 1216929.17,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.635255Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3955",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

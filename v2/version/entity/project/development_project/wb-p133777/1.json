@@ -1,0 +1,215 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.465015Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p133777",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.465017Z",
+    "dates": [
+      {
+        "date": "2015-12-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The program development objective of the Second Post Disaster Financial Sector Stability Development Policy Credit Project for Nepal is to support the medium-term reform program for the financial sector initiated by the Nepalese authorities to reduce the vulnerability of the banking sector and increase its transparency. The present operation is also intended to provide emergency support to the Government of Nepal (GoN) following the April 25 earthquake. Although this operation was designed prior to the April 2015 earthquake, the magnitude of the devastation that ensued, the associated financial needs of GoN, as well as the heightened vulnerabilities of the financial sector as a result of the disaster - only make the rationale for the reforms and further financial support even stronger. Therefore an additional objective is to provide the GoN with much needed short term financial support to expedite and scale up relief and recovery efforts while mitigating new emerging financial sector weaknesses and allowing it to play its role in the broader post-disaster recovery effort. The presented credit is composed of four policy areas: first pillar, enhancing financial sector development; second pillar, restructuring and consolidating the financial system; third pillar, strengthening the legal and regulatory framework for crisis management, banking supervision, and payment systems; and fourth pillar, enhancing the governance and transparency of the banking system."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P133777",
+        "raw_payload": {
+          "boardapprovaldate": "2015-06-29T00:00:00Z",
+          "borrower": "Ministry of Finance",
+          "closingdate": "2015-12-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "100000000",
+          "grantamt": "0",
+          "id": "P133777",
+          "major_sector_code": "FX",
+          "major_sector_name": "FY17 - Financial Sector",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "FX",
+                "major_sector_name": "FY17 - Financial Sector",
+                "sectors": [
+                  {
+                    "sector_code": "FA",
+                    "sector_name": "FY17 - Banking Institutions",
+                    "sector_percent": "55.0"
+                  },
+                  {
+                    "sector_code": "FL",
+                    "sector_name": "FY17 - Other Non-bank Financial Institutions",
+                    "sector_percent": "45.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Banking Institutions,FY17 - Other Non-bank Financial Institutions",
+          "proj_id": "P133777",
+          "project_abstract": "The program development objective of the Second Post Disaster Financial Sector Stability Development Policy Credit Project for Nepal is to support the medium-term reform program for the financial sector initiated by the Nepalese authorities to reduce the vulnerability of the banking sector and increase its transparency. The present operation is also intended to provide emergency support to the Government of Nepal (GoN) following the April 25 earthquake. Although this operation was designed prior to the April 2015 earthquake, the magnitude of the devastation that ensued, the associated financial needs of GoN, as well as the heightened vulnerabilities of the financial sector as a result of the disaster - only make the rationale for the reforms and further financial support even stronger. Therefore an additional objective is to provide the GoN with much needed short term financial support to expedite and scale up relief and recovery efforts while mitigating new emerging financial sector weaknesses and allowing it to play its role in the broader post-disaster recovery effort. The presented credit is composed of four policy areas: first pillar, enhancing financial sector development; second pillar, restructuring and consolidating the financial system; third pillar, strengthening the legal and regulatory framework for crisis management, banking supervision, and payment systems; and fourth pillar, enhancing the governance and transparency of the banking system.",
+          "project_name": "Financial sector stability DPC2",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Finance",
+            "FY17 - Finance",
+            "FY17 - Public Sector Management",
+            "FY17 - Public Sector Management"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Financial Stability",
+            "FY17 - Financial Stability",
+            "FY17 - Public Administration",
+            "FY17 - Public Administration"
+          ],
+          "totalamt": "100000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 100000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2015-06-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p133777",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P133777",
+        "value": "p133777"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Financial sector stability DPC2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P133777",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Financial Sector",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p133777",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 100000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.465015Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p133777",
+      "id": "version:entity:project/development_project/wb-p133777:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

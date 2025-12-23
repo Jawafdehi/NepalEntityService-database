@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.189205Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-923",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.189207Z",
+    "dates": [
+      {
+        "date": "2015-02-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-02-08",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-02-07",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.  Young People and communities are capacitated on SRH, Livelihood and civic participations\r\n\r\n\t- 32500 young people accessing life skills programmes\r\n\r\n\t- 525000 young people accessing sexual and reproductive health programmes\r\n\r\n\t- 12500 young people accessing civic participation, good governance, and peace building programmes\r\n\r\n\t9500 Community gatekeepers accessing training on youth rights across the three goal areas\r\n\r\n\t \r\n\r\n\t2. Youth-led and youth-focused civil society organizations are capacitated to better involve and support young people\r\n\r\n\t- 300 local youth-led and youth-focused civil society organisations trained and supported to meet minimum standards in programme delivery\r\n\r\n\t- civil society organisations trained and support in improving organisational\r\n\r\n\t \r\n\r\n\t3. Stategic partners (government, bi-and multi - lateral) are supported to work more effectively with and for young people as part of their core strategies and business models.\r\n\r\n\t- 25 national and local government institutions and departments formally pupportes to engage with and make provision for young people in their strategies, plans and budgets affecting the three goal areas.\r\n\r\n\t- 10 Bi-and multi-laterai aid agencies supported to engage with and to make provision for young people in their strategies, plans and budgets affecting the three goal areas\r\n\r\n\t4. Best practice, replicable models and learning are captured and disseminated to relevant stakholders\r\n\r\n\t- 25 On-line and written resources detailing evaluations, case studies and guiding documents on good practice in youth -led and youth-focused development\r\n\r\n\t- 205 Copies of youth development tools developed internally or externally that have been disseminated by Restless Development\r\n\r\n\t5. Restless Development is providing professional experiences and opportunities to young people\r\n\r\n\t- 2250 young people receiving professinal experience through Restless Development\r\n\r\n\t- 1500 Restless Development alumni and current staff supported in career development."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Restless Development Nepal",
+        "donor_project_id": "923",
+        "raw_payload": {
+          "id": 8421,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Restless Development Nepal",
+          "organization_id": 561,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Restless Development Nepal",
+    "financing": [
+      {
+        "amount": 3327139.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Restless Development Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-02-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-923",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/923",
+        "value": "923"
+      }
+    ],
+    "implementing_agency": "PNGOs, Restless Development Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Youth Sector Support Programme - Phase II (YSSP - II)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/923",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-923",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3327139.0,
+    "total_disbursement": 1433775.9636,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.189205Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-923",
+      "id": "version:entity:project/development_project/dfmis-923:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

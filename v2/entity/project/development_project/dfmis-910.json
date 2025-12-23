@@ -1,0 +1,296 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.152441Z",
+  "dates": [
+    {
+      "date": "2013-01-17",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-01-17",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Provide adequate shelter to all resident beneficiaries.\r\n\t\r\n\t\tProvide food, psycho-social counseling, clothing and access to medical care to resident and non-resident children.\r\n\t\r\n\t\tProvide occupational therapy to street-adolescents for rehabilitation purpose.\r\n\t\r\n\t\tProvide access to education to all beneficiaries: formal (in educational institute) and informal (conducted in the program), academic (school and college) and vocational (training institutes and workshops), long-term (long-term child care program) and short-term (rehab/reintegration program).\r\n\t\r\n\t\tEstablish and maintain a clear daily social structure with rules and regulations by which all resident beneficiaries abide.\r\n\t\r\n\t\tProvide job + give access to training (tailoring + literacy classes) to 15 women within the programs."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Shangrila Home VZW",
+      "donor_project_id": "910",
+      "raw_payload": {
+        "id": 6680,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Shangrila Home VZW",
+        "organization_id": 567,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Shangrila Home VZW",
+  "financing": [
+    {
+      "amount": 229879.2402,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 224830.3935,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 198715.7527,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 231739.45,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 106474.641,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 213038.8832,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 241700.16,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 231625.1895,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-07-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 125565.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-07-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 122928.25,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 251160.4674,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-07-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 127316.205,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shangrila Home VZW",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-07-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/910",
+      "value": "910"
+    }
+  ],
+  "implementing_agency": "Shangrila Home VZW",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shangrila Underprivileged Children Support",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/910",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-910",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2304973.6325,
+  "total_disbursement": 1202321.05116,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.152439Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-910",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

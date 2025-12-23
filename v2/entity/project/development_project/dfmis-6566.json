@@ -1,0 +1,229 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.017926Z",
+  "dates": [
+    {
+      "date": "2007-03-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2007-03-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2009-08-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Establish weapons and combatants' registrations system for all cantonment sitesRecruit and train a team of nepali registration officers for each cantonment siteConcepts and procedures to assist the government in the discharge of Maoist army \"minor\" and \" post May 2006 recruits\"International Peace trust fund advisor and national technical advisor to support the Peace Fund SecretariatLeadership development training to senior officials of the Ministry of Peace and Reconstruction"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "6566",
+      "raw_payload": {
+        "id": 43768,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "6566",
+      "raw_payload": {
+        "id": 43769,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "United Nations Peace Fund",
+      "donor_project_id": "6566",
+      "raw_payload": {
+        "id": 43770,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Peace Fund",
+        "organization_id": 362,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "United Nations Development Programme",
+      "donor_project_id": "6566",
+      "raw_payload": {
+        "id": 43771,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Development Programme",
+        "organization_id": 8,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Home Affairs",
+  "financing": [
+    {
+      "amount": 1713927.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-03-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5698301.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Peace Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-03-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 50116.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-03-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 779715.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2007-03-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6566",
+      "value": "6566"
+    }
+  ],
+  "implementing_agency": "United Nations Development Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Assistance to the Peace Process in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6566",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6566",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8242059.0,
+  "total_disbursement": 8232731.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.017922Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6566",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

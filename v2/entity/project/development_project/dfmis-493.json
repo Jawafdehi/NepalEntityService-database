@@ -1,0 +1,192 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.351519Z",
+  "dates": [
+    {
+      "date": "2015-04-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-04-25",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-04-24",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Shelter Activities\r\n\r\nInputs\r\n\r\n\r\n\tIdentification of earthquake affected families/ households in coordination with government authority and key stakeholders of the targeted communities.\r\n\tProcurement and distribution of emergency shelter kit materials to the affected families.\r\n\tPreparation of the list of earthquake affected families/households for cash distribution.\r\n\tDistribution of Cash to the targeted households as per the standard procedures.\r\n\tAwareness building on gender and protection while constructing temporary and intermediate shelter.\r\n\r\n\r\n2.1        5,000 emergency shelter kits.\r\n\r\n1.4        Availability of cash for distribution to the targeted households.\r\n\r\n1.4.1    Technical support services for cash distribution properly.\r\n\r\n1-5       Availability of competent human resources.\r\n\r\n1-5       Availability of the budget for the proposed activities.\r\n\r\nWater Activities\r\n\r\nInputs\r\n\r\n1.1      Consultation and community mobilization through participatory approach for water supply, distribution of water purification tablets, formation of water user groups and identification of water system/points for rehabilitation.       \r\n\r\n1.2      Temporary water trucking to the earthquake affected households/families in the communities. \r\n\r\n1.3      Distribution of water purification tablets to the earthquake affected households/families and technical services to them.\r\n\r\n1.4      Repair/rehabilitation of water distribution system/points (pipelines, pumps, water tanks, etc.) with technical support.\r\n\r\n1.4.1  Formation of water user groups and trained in the management of water system/point by community people participation.\r\n\r\n1.1      Mobilization of the project team to conduct consultative meeting at initial, periodic and need based to ensure effective community participation.\r\n\r\n\r\n\t\r\n\t\r\n\t\tPurification water tablets distributed (130,000 approx) and technical services by technical persons provided to the target households.\r\n\t\tConstruction materials for water system/points.\r\n\t\r\n\t\r\n\r\n\r\n1.1-14 Availability of the adequate budget for the proposed activities.\r\n\r\nSanitation Activities\r\n\r\nInputs \r\n\r\n\r\n\tInstallation of temporary emergency latrines in the earthquake affected communities.\r\n\r\n\r\n2.1    Needs assessment of the damaged of household and developing action plan.\r\n\r\n2.2    Construction of permanent household new latrines.\r\n\r\n2.3    Repair/rehabilitation permanent household latrines.\r\n\r\n3.1    Needs assessment of the damaged of school latrines and developing action plan.\r\n\r\n \r\n\r\n3.2    Construction of permanent school new latrines.\r\n\r\n3.3    Repair/rehabilitation of permanent school latrines.\r\n\r\n1-3   Frequent meetings and consultations with local authority/municipality on rehabilitation and construction of sanitation facilities in communities and schools.\r\n\r\n1.1-3.3 Trained human resources and construction materials for household latrines.\r\n\r\n\r\n\tTemporary emergency latrines and technical support\r\n\r\n\r\n2.1    Technical team conducts needs assessment of damaged latrines of households and develop action plan.\r\n\r\n3.1    Technical team conducts needs assessment of damaged latrines of schools and develop action plan.\r\n\r\n3.2-3.3 Availability of adequate budget for the proposed activities.\r\n\r\nHygiene Promotion Activities\r\n\r\nInputs\r\n\r\n\r\n\tDistribution hygiene kits to the earthquake affected households/families.\r\n\t Recruitment of hygiene promotors.\r\n\r\n\r\n3.1    Organize two-day training on hygiene promotion carried out for partners targeting a total of 75 individuals.\r\n\r\n\r\n\t\r\n\t\r\n\t\tOrganize one-day orientation on hygiene promotion conducted for 80 schoolteachers representing 20 schools.\r\n\t\tOrganize one-day hygiene promotion orientation conducted for 80 FHCV at community level.\r\n\t\tConduct 75 Need based specific sessions on hygiene promotion conducted targeting 1000 individuals.\r\n\t\tConduct 27 events of half-day community based hygiene campaign targeting for 12,000 individuals at community.\r\n\t\r\n\t\r\n\r\n\r\n 3.7   Participatory hygiene promotion activities for women groups, youth groups, schools and informal groups organized targeting 1000 individuals.\r\n\r\n1.1    Hygiene kits as per sphere standard provided to 8,000 households.\r\n\r\n2.1    Qualified and competent hygiene promotors recruited and enable to perform well.\r\n\r\n3.1-3.7    Part-time and full time human resources\r\n\r\n3.1-3.7    Allocation of the budget as required for the proposed activities.\r\n\r\nFood Security Outcome: \r\n\r\nBeneficiaries are able to meet household food needs, and reconstitute productive assets, in order to resume pre-crisis livelihoods.\r\n\r\n1.    10,000 earthquake affected families receive food in line with sphere standard during the emergency period.\r\n\r\nFood Security Output : \r\n\r\n\r\n\t10,000 affected families/households (approx. 55,000 individuals) receive food basket as per standard during the emergency period.\r\n\t7,000 affected families/households (approx.. 35,000 individuals) benefits from the livelihood supports either cash or materials inputs.\r\n\r\n\r\n1.1    List o"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "INGO",
+      "donor_project_id": "493",
+      "raw_payload": {
+        "id": 8439,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "INGO",
+        "organization_id": 500,
+        "percentage": 82
+      }
+    },
+    {
+      "donor": "Dan Church Aid",
+      "donor_project_id": "493",
+      "raw_payload": {
+        "id": 8442,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Dan Church Aid",
+        "organization_id": 512,
+        "percentage": 18
+      }
+    }
+  ],
+  "executing_agency": "Dan Church Aid",
+  "financing": [
+    {
+      "amount": 4783143.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "INGO",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-04-25",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3951758.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Dan Church Aid",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-04-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/493",
+      "value": "493"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Earthquake Response Project (NERP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/493",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-493",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8734901.0,
+  "total_disbursement": 3762856.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.351516Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-493",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

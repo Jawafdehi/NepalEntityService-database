@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.724440Z",
+  "dates": [
+    {
+      "date": "2016-04-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-04-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Major Activities of Output 1: Health (including mental health) and Physical Rehabilitation \r\n\r\n1. Conduct medical health outreach camps for screening and treatment of injured people\r\n\r\n2. Support to  patients severe injuries and physical disabilities in need of follow-up treatment are physically rehabilitated\r\n\r\n3. Provide assistive devices and prosthesis support\r\n\r\n4. Develop quality services through health camps, referral in hospitals, surgeries of patients, medicine support and doctor checkups, nursing & technical  service  etc.\r\n\r\n5 Technical Capacity building of local health facilities / staff , FCHVs, documentation and management of inclusive health services \r\n\r\n6. Conduct injury & trauma management and rehabilitation training to local health service providers, Female Community Health Volunteers, CBR workers and community / social mobilisers\r\n\r\n7. Support clinical equipment, instruments and/or furniture to local primary health service providers (health posts).\r\n\r\n8. Provide mental health and psychosocial support  training to the earthquake affected people including persons with disabilities, family members, stakeholders and traditional healers.(By conducting workshop, training meeting and use of Media, radio programs PSA  etc)\r\n\r\n9. Inform/aware community people and sensitize governmental agencies on mental health and psychosocial problems / service in government/NGO system\r\n\r\n10.Psychiatric OPD service at health facilities, Psychiatric consultation, psychotropic medicine, Clinical Supervision to psychosocial Counselor, short term hospitalized care and follow up\r\n\r\n11.Provide psychosocial counselling training for doctors, nurses and ANMs (non-prescribers) to provide disability inclusive psychosocial service to the people with psychosocial problem\r\n\r\n12.Mental health orientation to the teachers & students at school level, to FCHVs and traditional healers in community level, with government stakeholders / other like-minded institutions at district and central level\r\n\r\nMajor Activities of Output 2: Livelihoods Development and Economic Empowerment  \r\n\r\n1.Build Agro based infrastructures to initiate the IGAs by installation of multiple use of water systems, plastic tunnels, water pumps, cost effective livestock shed construction, users friendly and labor saving Micro irrigation technologies (MIT)\r\n\r\n2.Vocational trainings, skills development training, livestock based trainings, enterprise start-up support to community members including PWDs \r\n\r\n3.Technical training to producers on production, market accessibility, appropriate technologies, market accessibility and entrepreneurs development\r\n\r\n4.Training on Starting Your Own Business, Agro based business startup support with inputs & seed money and strengthening self-help groups, micro finance/ cooperative\r\n\r\n5.Capacity building of service providers (agro vet), nursery management, post-harvest technology\r\n\r\n6.Development of commercial pockets, collection centers, Marketing Planning Committee (MPC) Development, Crop Calendar, Exposure visit to lead farmers\r\n\r\n7.Promotion of disability friendly infrastructure (assistive devices support at local level)\r\n\r\n8.Capacity building of project staff on Inclusive Project Cycle Management Training, Inclusive Livelihoods development and strengthening support mechanism at local level\r\n\r\nMajor Activities of Output 3: Accessible Public Places and Infrastructures \r\n\r\n1.Training to partners, government officials /stakeholders, engineers, institutions on accessible or universal designs\r\n\r\n2. Conduct technical sessions  to the engineers, builders and architects for ensuring accessibility standards in the physical infrastructures\r\n\r\n3. Expertise from India for technical skills and knowledge transfer accessible & universal design standards - learning in India       \r\n\r\n4. Conduct access audit of Kathmandu Valley and disseminate report\r\n\r\n5. Prepare an Illustrative publication with the detail description of technical specifications to facilitate the builders, engineers and architects for their accessible planning and design.\r\n\r\n6.Construction of public infrastructures with accessible & universal design standards\r\n\r\n7.Exposure- Learning visits to India in the field of accessibility and universal designs\r\n\r\n8. Celebrate the international day of persons with disabilities (December 3rd ) \r\n\r\n8. In-collaboration with Kathmandu Municipality develop plan, programme management and promotion of accessible & universal designs\r\n\r\n9. Programme management support, technical staff and capacity building\r\n\r\nMajor Activities of Output 4: Disability Inclusive Development \r\n\r\n1. Orientation and trainings to like-minded stakeholders on disability inclusive development\r\n\r\n2.Conduct situation analysis on DRR and provide training on Inclusive Disaster Risk Management \r\n\r\n\r\n\tFacilitate in developing DIDRR plan and implementation at community level"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CBM Nepal Country Office",
+      "donor_project_id": "1043",
+      "raw_payload": {
+        "id": 9863,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CBM Nepal Country Office",
+        "organization_id": 565,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Non Governmental Organisations",
+  "financing": [
+    {
+      "amount": 2439441.852,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CBM Nepal Country Office",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-04-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1043",
+      "value": "1043"
+    }
+  ],
+  "implementing_agency": "CBM Nepal Country Office",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Post Earthquake Disability Rehabilitation and Inclusion  Project (PEDRIP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1043",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1043",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2439441.852,
+  "total_disbursement": 2229707.09302,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.724437Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1043",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

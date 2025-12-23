@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.526639Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3884",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.526642Z",
+    "dates": [
+      {
+        "date": "2023-05-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-05-15",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2026-05-14",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activities Related to Outcome 1Equipment, tools and financial support to vocational graduatesThree-day career counseling orientation in each rural communityVocational/technical training and job placementEstablishment of model farms and farmer field schoolsConduction of short term agricultural coursesMaster farmer support and trainingSupport and establishment of entrepreneur and farmer groupsRM level network formation and capacity buildingLocal government orientation and capacity buildingAnnual monitoringRadio programs, public events and publicationsOrganizational monitoring and support / review and inception meetings, report, documentation and printing / publication and promotion/ project staff annual reviewCapacity building project staffFinal evaluation of the projectActivities Related to Outcome 2Hygiene equipment and WASH facilities to schoolsEquipment and repair of health stationsTraining and capacity building of teachers and school leadersPromote health screening system for school childrenMeetings of mothers' groupsStrengthening and training local health staffJoint meetings of school principals, health station staff and government representativesRecruitment, staff training, orientation, exposure visitOrganisational monitoring and support / review and inception meetings, report, documentation and printing / publication and promotion/ project staff annual reviewBaseline, final and impact studyActivities Related to Outcome 3Workshops for preparation of literature FestivalsConduction of literature Festivals at Bamti-Bhandar,Pirti and SindhuliPublication of 3-books, collection of selected arts, stories written by teachers and studentsEducation program through local library and Radio KairanTraining of teachers (ToT) of technical education (TVET) of government school programsQuality education improvement in primary schools and ECDStudents ScholarshipOrganizational support and monitoring"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Childaid Network Foundation",
+        "donor_project_id": "3884",
+        "raw_payload": {
+          "id": 38999,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/CA-Logo-RGB_4.jpg",
+          "organization__name": "Childaid Network Foundation",
+          "organization_id": 796,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock, Ministry of Health, Ministry of Social Development",
+    "financing": [
+      {
+        "amount": 1935810.36,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Childaid Network Foundation",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-05-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3884",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3884",
+        "value": "3884"
+      }
+    ],
+    "implementing_agency": "Childaid Network Foundation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community health, education and skill enhancement  Project (CHESEP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3884",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3884",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1935810.36,
+    "total_disbursement": 1704228.49187867,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.526639Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3884",
+      "id": "version:entity:project/development_project/dfmis-3884:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

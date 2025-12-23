@@ -1,0 +1,190 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.628670Z",
+  "dates": [
+    {
+      "date": "2004-12-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2005-10-31",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-10-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Communtiy Development and Rural Livelihood\r\n    Capacity Building and Decentralised Governance\r\n    Rural Transport Infrastructure Development"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "379",
+      "raw_payload": {
+        "id": 1457,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 50
+      }
+    },
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "379",
+      "raw_payload": {
+        "id": 1459,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 50
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 5429471.17,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-31",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 7000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-02-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 40000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2004-12-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/379",
+      "value": "379"
+    }
+  ],
+  "implementing_agency": "Department of Local Infrastructure",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Decentralized Rural Infrastructure and Livelihood Project (DRILP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/379",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-379",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 52429471.17,
+  "total_disbursement": 41449485.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.628667Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-379",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

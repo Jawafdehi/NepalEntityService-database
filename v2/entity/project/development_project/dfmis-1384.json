@@ -1,0 +1,166 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.623832Z",
+  "dates": [
+    {
+      "date": "2015-03-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-08-31",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2020-08-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Kuwait Fund for Arab Economic Development (KFAED) funded (Kuwait Dinars 5 million loan) Irrigation Systems Improvement Project  consists of the following components:Irrigation Infrastructure Improvement.Irrigation Systems Management Improvement.Agricultural Practices ImprovementConsultancy ServicesInstitutional Support.This loan covers project related construction works carried out by contractors. Expenses of tax and of construction carried out by WUAs will be borne by GoN. The project has been extended up to 30 June 2022."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Kuwait fund for Arab Economic development",
+      "donor_project_id": "1384",
+      "raw_payload": {
+        "id": 43494,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 43,
+        "organization__development_cooperation_group__name": "Kuwait",
+        "organization__logo": "",
+        "organization__name": "Kuwait fund for Arab Economic development",
+        "organization_id": 201,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "financing": [
+    {
+      "amount": 38493621.73,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Kuwait fund for Arab Economic development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2015-03-23",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 16553606.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Kuwait fund for Arab Economic development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2015-03-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1384",
+      "value": "1384"
+    }
+  ],
+  "implementing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Irrigation Systems Improvement Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1384",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1384",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 55047227.73,
+  "total_disbursement": 42588618.8238,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.623829Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1384",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

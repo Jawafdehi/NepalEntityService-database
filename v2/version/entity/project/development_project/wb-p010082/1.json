@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.860081Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010082",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.860084Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project consists of the: (a) felling of timber of TCN over five years from about 17,600 ha of new land, and 1,000 ha of land already allocated for settlement, in the Terai at Kanchanpur, Bardia and Jhapa; (b) sale of logs, followed by sawmilling and sale of logs and lumber as well, when sawmills are established by TCN; (c) settlement by NSC of about 7,900 families and provision of timely availability of cultivable land for about 1,500 more; (d) provision of timber extraction and sawmilling equipment, farm inputs and settlement infrastructure; (e) technical assistance for logging, sawmilling, soil surveys and irrigation investigations."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010082",
+        "raw_payload": {
+          "boardapprovaldate": "1974-06-13T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010082",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AA",
+                    "sector_name": "(Historic)Agriculture adjustment",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "(Historic)Agriculture adjustment",
+          "proj_id": "P010082",
+          "project_abstract": "The project consists of the: (a) felling of timber of TCN over five years from about 17,600 ha of new land, and 1,000 ha of land already allocated for settlement, in the Terai at Kanchanpur, Bardia and Jhapa; (b) sale of logs, followed by sawmilling and sale of logs and lumber as well, when sawmills are established by TCN; (c) settlement by NSC of about 7,900 families and provision of timely availability of cultivable land for about 1,500 more; (d) provision of timber extraction and sawmilling equipment, farm inputs and settlement infrastructure; (e) technical assistance for logging, sawmilling, soil surveys and irrigation investigations.",
+          "project_name": "AGRIC. SETTLEMENT I",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010082",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010082",
+        "value": "p010082"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "AGRIC. SETTLEMENT I",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010082",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010082",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.860081Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010082",
+      "id": "version:entity:project/development_project/wb-p010082:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

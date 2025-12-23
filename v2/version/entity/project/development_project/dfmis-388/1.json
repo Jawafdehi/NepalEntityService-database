@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.764760Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-388",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.764762Z",
+    "dates": [
+      {
+        "date": "2010-04-08",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-04-08",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Phase 1 (months 1–6)\r\n\r\n\t1.1 Draft report outlining mechanism for transferring SMB model to the IWMP and establishing revolving fund\r\n\r\n\t1.2 Confirm revolving fund host, sign MOUs, and select districts for project implementation\r\n\r\n\t1.3 Establish a revolving fund that would provide a menu of -gap filling finance‖ (equity, debt, bridge financing, lease-toward-purchase, guarantees) to facilitate bringing bank debt financing to the IWM and other energy services investments. Release initial tranche of funds to the revolving fund host upon signing of the MOU\r\n\r\n\t1.4 Transfer SMB expertise, including sample documentation, to CRT/N, RF host, and other relevant partners.\r\n\r\n\t \r\n\r\n\tPhase 2 (months 7–36)\r\n\r\n\t2.1 Provide training to banks to develop agents and correspondent models to overcome the lack of experience in local microfinance and financial institutions \r\n\r\n\t2.2 Conduct trainings to familiarize local microfinance and financial institutions with improved water mill and other energy service investments and to help them develop an investment pipeline\r\n\r\n\t2.3 Conduct training for ghatta owners’ associations and improved water mill entrepreneurs to transfer technical skills and expertise\r\n\r\n\t3.1 Release additional tranches of funds rup to $500,000 total to capitalize the revolving fund\r\n\r\n\t3.2 Deploy RF funds for IWM investments in project implementation districts\r\n\r\n\t3.3 Complete Clean Development Mechanism project preparation\r\n\r\n\t3.4 Long-term plan for managing and sustaining the revolving fund on a commercial basis in place"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "388",
+        "raw_payload": {
+          "id": 1551,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 933000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-04-08",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-388",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/388",
+        "value": "388"
+      }
+    ],
+    "implementing_agency": "Ministry of Education, Science and Technology",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 7504-NEP: Increasing Access to Energy in Rural Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/388",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-388",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 933000.0,
+    "total_disbursement": 169216.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.764760Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-388",
+      "id": "version:entity:project/development_project/dfmis-388:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

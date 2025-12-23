@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.420540Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-118",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.420542Z",
+    "dates": [
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "National and Sub-National level capacity building for effective implementation and monitoring of Kala-Azar Elimination programme in Nepal\r\n\r\n\tLymphatic Filariasis Elimination Programme supported for MDA and case management and post-MDA surveillance\r\n\r\n\tIntegrated NTD activities for STH, LF and trachoma.\r\n\r\n\tPreventnion and control of major emerging re-emerging zoonotic diseases of public health importance in Nepal\r\n\r\n\tSustain elimination of Leprosy as a public health problem from Nepal\r\n\r\n\tCommunity based vector surveillance and control strategy for dengue, leptospirosis,  chikungunya and others emerging vector borne diseases\r\n\r\n\tA simplified national intergated diseases surveillance for outbreak and epidemic prove disease developed and implemented in high priority areas\r\n\r\n\tSupport Field Epidemiology Training Program\r\n\r\n\tSupport on national RRT strengthening capability\r\n\r\n\tHealth care capacity for appropriate dengue/DHF/DSS case management\r\n\r\n\tCapacity for Communicable diseases laboratory diagnosis strengthened\r\n\r\n\tLaboratory Quality System Improved\r\n\r\n\tStrengthening NIC\r\n\r\n\tSupport for Implementation of IHR core capacities\r\n\r\n\tStrengthening of alert and response system for use and other public health emergencies for IHR implementation\r\n\r\n\tNational Blood Program / Blood Transfusion Service strengthened at national, regional and district level\r\n\r\n\tTechnically sound national strategy/guideline/policy documents to effectively enhance components of the national malaria control/elimination programme\r\n\r\n\tStrengthened malaria case management capacity at all levels through transfer of knowledge /skills\r\n\r\n\tSupport for strengthening entomological component in NMCP to facilitate the effective malaria prevention/control activities\r\n\r\n\tStrengthening support for development and delivery of BCC/Advocacy campaigns/Trainings/Logistics for effective malaria program\r\n\r\n\tSupport for use of quality assured drugs and diagnostics\r\n\r\n\tUtilisation of an integrated surveillance approach to effectively target national malaria control/elimination programme interventions\r\n\r\n\tAdvances in entomological operational research output with national/local collaboration\r\n\r\n\tSupport for conducting/moniotring therapeutic efficacy of the current anti-malarial drugs and evaluation of diagnostics in country conetxt\r\n\r\n\tSupport for conducting advocacy meetings, proposal preparation and implementation of activities"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "World Health Organization",
+        "donor_project_id": "118",
+        "raw_payload": {
+          "id": 3562,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "World Health Organization",
+          "organization_id": 26,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "World Health Organization",
+    "financing": [
+      {
+        "amount": 279000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Health Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 145000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Health Organization",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-118",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/118",
+        "value": "118"
+      }
+    ],
+    "implementing_agency": "World Health Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SENEP1206530 - Diseases Surveillance and Epidemiology/Neglected Tropical Disease Elimination and Control/Malaria Elimination/Blood Safety and Laboratory Technology",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/118",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-118",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 424000.0,
+    "total_disbursement": 337166.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.420540Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-118",
+      "id": "version:entity:project/development_project/dfmis-118:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

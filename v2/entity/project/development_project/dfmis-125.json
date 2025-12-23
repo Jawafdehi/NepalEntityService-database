@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.438893Z",
+  "dates": [
+    {
+      "date": "2010-08-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-08-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Music training and education: Improve musical (pedagogical) skills and understandings of Nepali folk/ethnic music\r\n    Events and programs: Greater awareness, understanding and appreciation of music amongst Nepali population\r\n    Internationalization and exchange: Internationalization facilitates enhancing standards of Nepali music through technical and academic exchange\r\n    Documentation: Create a reservoir of musical  knowledge of various ethnic groups of Nepal is created from sources of traditional music"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "125",
+      "raw_payload": {
+        "id": 1114,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 466985.7736,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-08-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/125",
+      "value": "125"
+    }
+  ],
+  "implementing_agency": "Ministry of Foreign Affairs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Music Collaboration Through Nepal Music Center - Exit Phase",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/125",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-125",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 466985.7736,
+  "total_disbursement": 488409.81155,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.438890Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-125",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

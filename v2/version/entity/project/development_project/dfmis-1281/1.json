@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.204946Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1281",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.204949Z",
+    "dates": [
+      {
+        "date": "2014-01-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-01-04",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ICTJ: The objective of the project is to work toward that transitional justice mechanisms in Nepal are designed and implemented in a way that is consistent with international best practice, thereby making a significant contribution to peace, justice and reconciliation. Through the project, ICTJ implements a number og activities that support the Nepal Government to pass truth-seeking bills that are in accordance with international standards and best practice; contribute to increased understanding amongst key stakeholders of the roles and relationship between the truth and reconciliation commission (TRC), disappearance commission (DC) and the courts; enable victims of conflict-related crimes and gross human rights violations to receive reparations in accordance with international standards; and, enable victims to effectively participate in all transitional justice mechanisms. RNE has previously funded and worked with ICTJ since 2007 and are of the opinion that ICTJ fulfil their obligations according to the targets of the proposals goal and targets."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "1281",
+        "raw_payload": {
+          "id": 3905,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Foreign Affairs",
+    "financing": [
+      {
+        "amount": 453538.4723,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-08-06",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 736586.5908,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-06-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1281",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1281",
+        "value": "1281"
+      }
+    ],
+    "implementing_agency": "International Center for Transitional Justice",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Support to Transitional Justice efforts in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1281",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1281",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1190125.0631,
+    "total_disbursement": 970068.36794,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.204946Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1281",
+      "id": "version:entity:project/development_project/dfmis-1281:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

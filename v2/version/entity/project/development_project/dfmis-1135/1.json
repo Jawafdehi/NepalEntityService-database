@@ -1,0 +1,212 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.337272Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1135",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.337275Z",
+    "dates": [
+      {
+        "date": "2013-01-31",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-01-31",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "PCR 2 – By 2017 selected areas (mot disadvantaged districts and municipalities) social sector systems are providing integrated, quality services to fulfill the survival development, protection and participation rights of chilcren and wome with equity in all cotext including humanitarian situation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Children's Fund",
+        "donor_project_id": "1135",
+        "raw_payload": {
+          "id": 7156,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Children's Fund",
+          "organization_id": 11,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Urban Development",
+    "financing": [
+      {
+        "amount": 2255000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-01-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2255000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-01-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3738863.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3076426.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2902567.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1135",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1135",
+        "value": "1135"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society, Department of Water Supply and Sewerage management, International Development Enterprises",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "I.R.2.3 District Water and Sanitation System",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1135",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1135",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 14227856.0,
+    "total_disbursement": 14227856.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.337272Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1135",
+      "id": "version:entity:project/development_project/dfmis-1135:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

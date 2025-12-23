@@ -1,0 +1,158 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.456391Z",
+  "dates": [
+    {
+      "date": "2021-01-06",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-05-01",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Program will be implemented through local NGOs. GFI Nepal will provide financial and technical support as well as monitor and evaluate the activities in accordance with the set targets.GFI Nepal will follow its internal Human Resource policies for hiring the project and local staff in a transparent way. For procurement of materials standard procedures of GFI Nepal/ partner agencies will be followed. The fund from GFI, USA will be endorsed to GFI Nepal and then it will be dispersed to partner agencies.The Better Brick - Nepal program will facilitate formation and functioning of Central Project Advisory Committee (CPAC), chaired by the Member Secretary of the Social Welfare Council, for advising its smooth and effective implementation as well as monitoring of the program.The program, as continuity from the last six years, will be implemented through the same (previous years) transparently selected 5 eligible partner organizations in each project district. Global Fairness Initiative will support local NGOs to implement this program. All NGOs will be continued from phase 2 project based on their relevant program strengths and expertise. The capacity of the local NGOs will be developed continually on as need basis.At the inception and the end of the project GFI Nepal/partner agencies will organize public hearing / social audit events that will publish a synopsis of the project for sharing with the stakeholders and publish it in no less than two local newspapers to ensure transparency and accountability.The estimated budget for the project is NPR. 989,999,555 which is equal to USD 860,870.The following human resources will be working towards the project goal.Country Director [1]Program Manager [1]Finance and HR Manager [1]Sr. Program and Communication Officer [1]Program and Technical Officer [1]Finance Officer [1]Monitoring and Evaluation Officer [1]Support Staff [2]"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Global Fairness Initiative",
+      "donor_project_id": "1766",
+      "raw_payload": {
+        "id": 13154,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 50,
+        "organization__development_cooperation_group__name": "NGO",
+        "organization__logo": "",
+        "organization__name": "Global Fairness Initiative",
+        "organization_id": 616,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Global Fairness Initiative",
+  "financing": [
+    {
+      "amount": 860870.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fairness Initiative",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-01-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1766",
+      "value": "1766"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Better Brick Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1766",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1766",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 860870.0,
+  "total_disbursement": 143470.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.456389Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1766",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

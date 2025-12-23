@@ -1,0 +1,193 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.057696Z",
+  "dates": [
+    {
+      "date": "2010-07-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "In this High Value Agriculture Project in Hills and Mountains of Mid-western Region, funded by IFAD, SNV is responsible for implementation of Component 1 in which it will work together with the Local Capacity Builder Agro-Enterprise Center (AEC). \r\n\r\n    The Component 1 covers selection of companies for contractual production, value chain analysis, selection of producers, baselines and actual signing of contracts between the agribusinesses and the producers. \r\n    SNV also provides advisory services to Component 2 which provides the necessary support to the intended value chain development: formation/strengthening value chain producers groups, initiatives to promote gender and social inclusion, support for high value commodity production and post-harvest activities, establishment of a grant-based value chain development fund, and support for district operations and inclusion of remote communities. SNV has a small implementation role in Component 2 to promote gender and social within the project and among project stakeholders and contracted implementers. \r\n    Component 3 provides for project management and linked activities including M&E and knowledge management. Next to providing advisory services to Component 3, SNV is also responsible for the implementation of its knowledge management component."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "436",
+      "raw_payload": {
+        "id": 2935,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 20,
+        "organization__development_cooperation_group__name": "Netherlands",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 19,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 203165.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 150183.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-08-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 181528.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 235434.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 116040.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/436",
+      "value": "436"
+    }
+  ],
+  "implementing_agency": "Ministry of Agriculture and Livestock Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "High Value Agriculture Project (HVAP) in Hills and Mountains Areas",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/436",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-436",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 886350.0,
+  "total_disbursement": 886350.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.057693Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-436",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

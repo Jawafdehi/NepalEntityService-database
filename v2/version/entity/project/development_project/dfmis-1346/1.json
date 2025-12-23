@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.494401Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1346",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.494403Z",
+    "dates": [
+      {
+        "date": "2016-06-21",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-06-21",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Skills and capacity assessment of agriculture, forestry ministries to determine the number and skillset of trainers needed to train technical experts in the respective ministries other ministries on the medium/longer term vulnerabilities of the agricultural sector to climate change and prioritization of options.One training sessions organized on adaptation cost-benefit analysis, budgeting for adaptation options, climate finance options for representatives from ministries and relevant institutions.Training workshops organized for technical officers involved in agriculture on adaptation options and cost-benefit analysis.Handbook on climate change adaptation in agriculture and a summary of decision tools published (based on 8 target countries’ experiences).Global consultations including online surveys and multi-stakeholder consultations along the UNFCCC meetings and national consultations to refine and peer-review the Agriculture Supplement to the NAPs- LEG guidelines. This also includes considerations for climate sensitive investment plans for the agriculture sectors.Training session conducted for cost-benefit analysis and applying experimental design-based monitoring framework for measuring adaptation impactsOne set of case studies of adaptation options tested/analysed, including where relevant, focus on gender equality and women’s empowerment in agriculture sectorReport/presentation on results of analyses applied to existing agricultural livelihoods projects"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "1346",
+        "raw_payload": {
+          "id": 8386,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 420000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-05-20",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 420000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-05-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1346",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1346",
+        "value": "1346"
+      }
+    ],
+    "implementing_agency": "United Nations Development Programme, Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Supporting Developing Countries to Integrate the Agricultural Sectors into National Adaptation Plans (NAPs)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1346",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1346",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 840000.0,
+    "total_disbursement": 355134.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.494401Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1346",
+      "id": "version:entity:project/development_project/dfmis-1346:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

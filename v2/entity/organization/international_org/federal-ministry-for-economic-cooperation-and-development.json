@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Bilateral Partners",
+    "group": "Germany"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Bilateral Partners"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.770125Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Federal Ministry for Economic Cooperation and Development",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "federal-ministry-for-economic-cooperation-and-development",
+  "sub_type": "international_org",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Federal Ministry for Economic Cooperation and Development",
+    "created_at": "2025-12-23T19:11:06.770123Z",
+    "entity_or_relationship_id": "entity:organization/international_org/federal-ministry-for-economic-cooperation-and-development",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

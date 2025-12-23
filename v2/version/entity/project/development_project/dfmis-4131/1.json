@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.892930Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4131",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.892932Z",
+    "dates": [
+      {
+        "date": "2022-04-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-04-04",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-04-03",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Provincial and LG level Inception meeting  - 3 places ( approx.15 -20 person)1.2 Consultation Workshop to dissemination and contextualise cluster guidance and Contingency Plan & Consultation workshop with LEG, NEC, PGs/LGs- 3 Province1.3 Printing and dissemination1.4 Provincial cluster coordinator (TA) support staff mobilized. 2.1 Training of key officials at the provincial level (This is combined training with NSET)2.2 Training of provincial clusters (Total - 25, 3 province*8+1 participants*2 days)2.3 Training of responsible officers at the local level2.4 Orientation of critical stakeholders on cluster coordination and reporting (30 LGs*2 persons SMC, School Head Teacher/DRR Focal-100 School)* 3Day)2.5 Technical backstopping for responsible officers from LGs with low capacity 3.1 Central level CSO coordination meetings (25 Person*1 Day*2 Times)3.2 Expansion of NEC portal to provincial clusters3.3 IM staff deployment at provincial and local government level 4.1 Review of the emergency response planning module for education sector plan development guidelines (internal/external experts)4.2 Workshop on development/ review of LG education response plan including CSS, Inclusive education, and CEE component.4.3 Orientation on Safe School reopening preparation and monitoring (SMC+Teachers+CC Members= 13 events*20 participants)4.4 Follow up with PG/LG responsible officers on emergency response plan development. 5.1 Review of the comprehensive strategy on recovery of learning loss for the school education sector by MC expert5.2 Support PGs and LGs to implement the Learning Continuity Campaign5.3 Focused dissemination of telephone-based child-centered activities5.4 Training to teachers on psycho-social support and campaign/CSS componentPromotion of parenting education5.5 Establishment of repositories of self-learning materials at LGs 6.1 Support is to include targeted interventions for at risk students during Welcome to School Campaign (3 days Orientation in 3province@25 person)6.2 Facilitating the institutional arrangement for CSSMP in additional schools 7.1 Training of MTOTs on assessing the learning of students by teachers7.2 Training school management and teachers on assessing the learning of students 8.1 The baseline survey, Endline survey"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "MercyCorps",
+        "donor_project_id": "4131",
+        "raw_payload": {
+          "id": 41619,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "MercyCorps",
+          "organization_id": 284,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 713437.7,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "MercyCorps",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-04-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4131",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4131",
+        "value": "4131"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Supporting the response to the COVID-19 crisis in the education sector: Strengthening Education Clusters at Federal, Provincial and Local Governments",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4131",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4131",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 713437.7,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.892930Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4131",
+      "id": "version:entity:project/development_project/dfmis-4131:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

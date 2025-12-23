@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.857758Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1197",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.857761Z",
+    "dates": [
+      {
+        "date": "2017-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-05-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1 Undertake baseline and end-line study of nutrition intake of marginalized children.\r\n\r\n1.1.2 Identify nutrition practices in relation to marginalized children, especially those with disabilities, and prepare IEC materials.\r\n\r\n1.1.3 Hold awareness 12 days class in nutrition, food preparation, hygiene and use of family resources for nutrition needs (IEC materials, stationeries).\r\n\r\n1.1.4 Follow-up and conduct family-based facilitations to help adopt good nutritional practices (throughout the project).\r\n\r\n1.2.1 Establish ideal models for nutritious food production on kitchen garden suitable for remote and arid mountain locations.\r\n\r\n1.2.2 Customize the training materials concerning management and utilization of kitchen garden (Training materials, Personal Handbooks)\r\n\r\n1.2.3 Conduct 5 days classes on kitchen garden for selected households.\r\n\r\n1.2.4 Prepare individual household plan for kitchen garden / small livestock needs.\r\n\r\n1.2.5 Distribute agriculture / livelihood materials (Plastic House Materials, Tools, Chicken, High-altitude vegetable seeds) in liaison with Agriculture office.\r\n\r\n1.2.6 Construction of kitchen garden in participating households.\r\n\r\n1.2.7 Provide agriculture and livelihood extension services (via JTAs) to participating HHs (throughout the project).\r\n\r\n1.2.8 Technical support of JTAs to community and linkages with government stakeholders.\r\n\r\n1.3.1 Advocacy for the fundamental rights of children with disabilities through rallies and local dialogues.\r\n\r\n1.3.2 Support children with disabilities to get disability identity cards and access to government provisions.\r\n\r\n2.1.1 Training need assessment for strengthening of organizational system. \r\n\r\n2.1.2 Update and develop SOPs for HR, procurement, finance, M&E and accountability systems.\r\n\r\n2.1.3 Meeting for preparation of strategy for local DPOs. \r\n\r\n3.1 Project Inception and training (Finance, Procurement, M&E, Accountability, Child protection etc.)\r\n\r\n3.2 Project Coordination, Monitoring and Review."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Mission East",
+        "donor_project_id": "1197",
+        "raw_payload": {
+          "id": 11025,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Mission East",
+          "organization_id": 354,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Mission East",
+    "financing": [
+      {
+        "amount": 200685.319,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1197",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1197",
+        "value": "1197"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Children Nutrition Improvement Programme in Humla district",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1197",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1197",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 200685.319,
+    "total_disbursement": 211114.10583,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.857758Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1197",
+      "id": "version:entity:project/development_project/dfmis-1197:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.801795Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6501",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.801798Z",
+    "dates": [
+      {
+        "date": "2024-11-12",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-11-12",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Meetings with cross-border committee members for effective rescue and repatriationExposure visits to the sitesCoordination meetings with government authorities in district and network membersRepatriation from the trafficked area or rescued placeFood and clothing for survivors at safe homeLong-term and short-term shelter services to survivors and at-risk groups.Psychosocial Counseling ServicesCaretaking and protection services to survivorsIn-house activitiesHealth care and medical supportNon-Formal Education Classes Vocational Training SupportLivelihood SupportEducation SupportFamily ReunionReferral & Follow Up supportOperation of border surveillance centers at the Indo-Nepal borderMobilisation of protection committeesIEC materials – development and disseminationCommunity and school-based awareness programsStrengthening and mobilisation of youth/child clubs in border communitiesInteraction with the association of hotels, transportation, media, cross-border stakeholders, and government authoritiesMedia mobilisationOrientation to duty bearers for capacity building on anti-human traffickingAdvocacy campaigns in coordination with district level stakeholdersBi-annual meetings with stakeholders, particularly with anti-human trafficking committee.Strengthening CSOs alliance working on Anti-human traffickingMPAC/LPAC meeting with monitoring visitNational level consultation meetings with concerned stakeholders, most particularly departments of the Ministry of Labour, Employment and Social Security as well as the Ministry of Foreign Affairs, are organized for national level advocacy.Coordination Meetings with stakeholders for better implementation of policies and strengthened referral mechanism.Quartely meetings of member organizations to discuss the contemporary issues of migration and trafficking.Fostering dialogue between Recruitment agencies/agents, local government officials, youth network, Returnee Women Migrant Workers’ Alliance and local media (Ktm & Lumbini Province)Information Counselor/ Help Desk Operation at Tribhuvan International AirportInformation, Education and Communication(IEC) materials development and disseminationLong-term and Short-term Shelter for survivors and vulnerable girls & womenCelebrations & FunctionsEducation SupportCase ManagementCommunication & Documentation Materials.Rehabilitation Support (Family Reunion, Referral,business support)Medical SupportTraining / Capacity buildingBaseline Survey and Project OrientationPlanning Meeting and Selection of TraineesVocational Training to Youth including support for businessMicro Job placement / business outletPeer Counseling and Education SessionsIndividual and Group CounselingLife Skills and leadership Sessions & TrainingsStart and Improve Your Business TrainingCommunity AwarenessTraining MaterialsLocal transportation for CampaignsCoordination Support to youth / advocacy activists/ youth's family/ Legal supportIn-house and Community activitiesPreparation and PSG meetingsYouth CampaignNetworking and PartnershipMonthly Staff MeetingMPACAdvocacy InitiativesTraining on Anti-Human Trafficking and Sexual Exploitation to LCCHT membersLocal level consultationsProvince level consultation with youth  of Entertainment SectorDevelopment, production and distribution/broadcasting of IEC and PSA materials.Formation of anti-human trafficking club in collegesCommunity Police Partnership ProgramAdvocacy through Media Mobilization- Television Talk SeriesConsultation workshop with REBAN/HAN/TAN/Networking and Partnership (LPAC)Joint Monitoring Visits to Adult Entertainment SectorDistrict Level Workshop on Implementation of Child Rights Act, 2018 at Local LevelProvince Level Coordination Meeting with concerned stakeholdersMonitoring of local government based on checklistLobby/Advocacy on Child Rights Issue in Province and Local LevelProvince Level Interaction with Journalist about child friendly communication guideline- 20732 days  Training on Child Rights and Role of Child Welfare Officer at Local LevelCapacity building training to Local Child Rights CommitteeCoordination with stakeholders and mobilization2-Day Workshop to Develop Child rights protection and promotion procedureDraft Presentation & Feedback Session of Child rights protection and promotion procedureSupport  local government in making child labor free zoneSupport Survivors of GBV and vulnerable children with humanitarian, education, Legal, Livelihood etc.Response to cases of child protection in coordination with child helpline and KhojtalashConduct case management training on child protection issue2 Days training for the staff of child home  about minimum standars of child home and rights of the childMonitoring of children homeResource Mapping WorkshopPublication of IEC Materials/Status ReportResearch Conference on Child RightsTraining on Child Participation to CSO’s of Bagmati/Gandaki ProvinceProvincial Mock Child Parliament at Kathmandu (Bagmati province)Local Mock Child Parliament (two local level"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Good Shepherd International Foundation",
+        "donor_project_id": "6501",
+        "raw_payload": {
+          "id": 43015,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Good Shepherd International Foundation",
+          "organization_id": 760,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Labour, Employment and Social Security, Ministry of Industry, Commerce and Supplies",
+    "financing": [
+      {
+        "amount": 1383443.3,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Good Shepherd International Foundation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-11-12",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6501",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6501",
+        "value": "6501"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations, Ministry of Women, Children and Senior Citizens",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Acting Against Sexual exploitation, Trafficking, and Human Atrocity (AASTHA)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6501",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Services",
+        "donor_subsector": null,
+        "normalized_sector": "General Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6501",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1383443.3,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.801795Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6501",
+      "id": "version:entity:project/development_project/dfmis-6501:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

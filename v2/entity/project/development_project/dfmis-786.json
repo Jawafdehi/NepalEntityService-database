@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.630491Z",
+  "dates": [
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project focuses on empowerment of poor vulnerable and socially excluded women in 3 districts of Churia as well as building capacity of partner NGOs to promote sustainable socio-economic change for these women.\r\n\r\n\r\n\r\n\tThe project will be implemented through a national network called Himalayan Grassroots Women's Association for Natural Resource Management in Nepal (HIMWANTI) and three district level NGOs\r\n\r\n\r\n\tForum for Social Development (INDRENI), Nepal Rural Self-Reliance Campaign (NRUSEC) and Nari Ship Shrijana Kendra (NSSK).\r\n\r\n\r\n\r\n\tThe project will reach 7,500 poor vulnerable socially excluded women and their families and community based organizations, natural resource management groups, mothers groups, government line agencies and womenâ€™s networks at local and national.\r\n\r\n\r\n\r\n\tThe Project's major activities are:\r\n\r\n\r\n\t- Awareness raising and empowerment of PVSE women to access natural management resources\r\n\r\n\r\n\t- Identification and usage of income generating opportunities\r\n\r\n\r\n\t- On-farm and off-farm training, vocational training\r\n\r\n\r\n\t- Awareness raising on gender based violence and reproductive health\r\n\r\n\r\n\t- Training on disaster risk reduction, development of emergency plans and small scale mitigation measures\r\n\r\n\r\n\t- Capacity building of local partner NGOs and local resource."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "786",
+      "raw_payload": {
+        "id": 2568,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 1175900.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/786",
+      "value": "786"
+    }
+  ],
+  "implementing_agency": "Care Austria",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Empowering Women in the Churia to Improve Their Livelihoods (CTR 133412)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/786",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-786",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1175900.0,
+  "total_disbursement": 504378.2951,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.630488Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-786",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

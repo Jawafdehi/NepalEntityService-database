@@ -1,0 +1,212 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.241873Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3750",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.241876Z",
+    "dates": [
+      {
+        "date": "2020-01-27",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-03-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Support to CSOs on accountability, anti-corruption, HRBA, inclusion and rights of the marginalized people (including disability) and institutional development of CSOsProvide support to elected women representatives and government officials of Rural Municipality-RM on HRBA, disability inclusion & ACAP and Right To Information (RTI).Form saving and credit groups of the women and link those groups with micro-finance/banks for loan/access to finance.Provide support to the selected women on possible livelihoods/micro enterprises, entrepreneurship, vocational skill and market linkage development.Children & other unregistered PWDs are identified and referred to support services.Duty bearers (local government officials)trained in disability rights and inclusive policy formation.Provide support to local communities on climate resilient agriculture technologiesConstruction of snow pondsTree plantation for conservation of water springsConstruction of water recharge pondsPromoting drip and sprinkle irrigation techniquesKACHAHARI for dialogue between communities, CSOs and local government at RM levelTechnical support to ward and RM level DRR management committee for formation of Plan and form 1 RM level resource centerStrengthen existing groups and provide refresher sessions on financial literacy, savings and credit, IGA and life skillsOrganize Food Security Kachahari (dialogue forum) with CSOs and Local GovernmentValue-chain study of products with most potential to identify market and problems.Support the members of local agriculture groups/enterprises and the agriculture marketing cooperative in business skills and entrepreneurshipSupport the local farmers in increasing productivityFacilitate processing and marketing of local products in domestic markets/developing market linkagesFacilitate RM in establishment of accountability mechanisms and inclusive policy formulation for local products developmentSupport IGA to ultra-poor families and adolescentsFormation and strengthen the CHANGE clubTraining /support to local government and school management on inclusive and gender sensitive educationSupport to MHM Facilities in schools"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Mission East",
+        "donor_project_id": "3750",
+        "raw_payload": {
+          "id": 39856,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Mission East",
+          "organization_id": 354,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Karnali Integrated Rural Development And Research Centre",
+    "financing": [
+      {
+        "amount": 55118.8,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3994.197,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 14095.03,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 14447.55,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1359706.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mission East",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-01-08",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3750",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3750",
+        "value": "3750"
+      }
+    ],
+    "implementing_agency": "Karnali Integrated Rural Development And Research Centre",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Inclusive Development Program in Humla and Kalikot",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3750",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3750",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1447361.577,
+    "total_disbursement": 2338766.277,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.241873Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3750",
+      "id": "version:entity:project/development_project/dfmis-3750:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

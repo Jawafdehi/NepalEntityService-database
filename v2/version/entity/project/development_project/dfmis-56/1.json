@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.087356Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-56",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.087359Z",
+    "dates": [
+      {
+        "date": "2011-05-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-05-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This initiative supports the International Planned Parenthood Federation (IPPF) South Asia Strategic Plan 2010-2015 and forms part of the Government's commitment to advance Millennium Development Goal (MDG) 5 (improve maternal health) in South Asia. The South Asia region has the highest rates of maternal and neonatal deaths and unmet demand for contraception in the Asia-Pacific. The funding of this initiative helps reduce maternal deaths in South Asia by improving equitable access for underserved groups to a range of reproductive health services and education including family planning. These goals are met by IPPF's South Asia Strategic Plan which focuses on 4 priority areas: 1) ensuring young people have access and rights to services and education; 2) reducing social, cultural and economic barriers that impede access; 3) HIV/AIDS prevention and care; and 4) reducing unsafe abortion. The total value of this multi-country initiative is up to $11 million over 3 years, starting 2010-11.\r\n\r\n\tPARTNER : INTERNATIONAL PLANNED PARENTHOOD FEDERATION"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "56",
+        "raw_payload": {
+          "id": 3764,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Department of Foreign Affairs and Trade",
+    "financing": [
+      {
+        "amount": 952955.3679,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 952955.3679,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-02-17",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-56",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/56",
+        "value": "56"
+      }
+    ],
+    "implementing_agency": "INGO",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "International Planned Parenthood Federation (IPPF) South Asia Strategic Plan 2010-2015",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/56",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-56",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1905910.7358,
+    "total_disbursement": 952955.3679,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.087356Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-56",
+      "id": "version:entity:project/development_project/dfmis-56:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

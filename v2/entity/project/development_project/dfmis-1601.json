@@ -1,0 +1,143 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.804272Z",
+  "dates": [
+    {
+      "date": "2016-09-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-09-14",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Korea International Cooperation Agency",
+      "donor_project_id": "1601",
+      "raw_payload": {
+        "id": 9332,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 36,
+        "organization__development_cooperation_group__name": "Korea",
+        "organization__logo": "",
+        "organization__name": "Korea International Cooperation Agency",
+        "organization_id": 28,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "National Disaster Risk Reduction and Management Authority",
+  "financing": [
+    {
+      "amount": 9010000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Korea International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-09-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1601",
+      "value": "1601"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Post- Disaster Health Service recovery Program in Nuwakot District",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1601",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1601",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 9010000.0,
+  "total_disbursement": 10537779.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.804269Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1601",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

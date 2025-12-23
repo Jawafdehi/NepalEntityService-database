@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.876829Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4120",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.876831Z",
+    "dates": [
+      {
+        "date": "2023-06-28",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-11-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2026-06-28",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1: Construction of classrooms, toilets, hand washing & drinking water stations (ECD to grade 8)1.1.2: Repair and maintenance of classrooms, toilets, hand washing stations and solid waste management (ECD to grade 8)1.1.2.1: Support furniture and furnishing (carpeting, seating arrangement support, e.g. desk, bench, round table), learning corner, book library & printed materials on wall.1.1.3.1: Train teachers on child protection and gender equality in education and on gender transformative pedagogy and early gender socialization.1.1.4.1: Provide support for education materials and remedial classes for vulnerable children1.1.5.1:  Capacity building of SMC/PTA/HT on gender transformative and inclusive education management, code of conducts, complaint hearing mechanism1.1.6.1: Conduct parental awareness and community engagement for quality education1.1.7.1: Support to improve school and municipal planning process on gender responsive and inclusive education (50 schools and 3 municipalities)1.1.8.1: Support local government and schools in developing/implementing DRR-responsive policies, plans and programs 1.2.1.1: Conduct curricula review workshop for selected vocations1.2.2.1: Sharing workshop for updated curricular1.2.2.1: Provide orientation sessions on labor law for employers and occupational health and safety (OHS) of Nepal for employers1.2.2.2: Provide orientation sessions on gender equality for employers1.2.2.3: Provide orientations/trainings to local female and male leaders on gender equality and decent job opportunity1.2.3.1: Development and dissemination of SBCC materials with messages on gender equality, Decent work, Migration in local language1.2.3.2: Conduct an internal survey to review the decent work status of employers and adaptation of decent work by industry. (Before and after study)1.2.3.3: Conduct dialogue sessions among youths, local government actors including private sectors on decent work1.2.4.1: Coordination and interaction meeting among government stakeholders, private sector and youths for decent work opportunities.1.2.4.2: Establish a MoU with private sectors for employment creation and job placement.1.2.5.1: Conduct Labor Market Assessment   1.2.5.2: Vocational training (level-1 and level-2)1.2.5.3: Short skill training (7-15 days) training)1.2.5.4: Support young mother participants to attend the training program by providing child care facility (basic bed, toys, nanny) as per need.1.2.5.5: Provide/Facilitate On-the-job (OJT) training to each enrolled participant as per their occupation need.1.2.5.6: Provide micro-enterprise/business development training1.2.5.7: Skill test of level -1 and level-2 vocational training1.2.5.8: Provide start-up support (equipment)to youths who opt for self-employment.1.2.5.9: Support in linkage with saving groups including memberships.1.2.6.1: Provide Life skills training to youths 1.2.6.2: Conduct literacy and numeracy skill training to youths.1.2.6.3: Provide basic computer and language skill training1.2.7.1: Provide coaching & mentoring support 1.2.7.2: Alumni group formation and hold regular meetings.1.2.7.3: Organize joint reflection between trainees and trainers on bridging gap through coordination/communication1.2.7.4: Coordination, collaboration and linkage with government line agencies and subsidy1.2.8.1: Organize awareness events/sessions on gender equality at home/ community 1.2.8.2: SBCC engagement program for raising awareness on gender equality, decent work, migration and DRR etc. 1.2.9.1: Conduct community awareness event on CC and DRM including gender equality to community members (Orientation to parents, caretakers, community leaders)1.2.9.2: Conduct sharing workshop on Environment Impact Assessment for the advocacy to update/prepare climate crisis and disaster risk management policy/plan/guideline of local government (Finding sharing and exiting policy review meeting).1.2.9.3: Establish Contingency fund for emergency response/implementation of small-scale disaster mitigation activities to reduce the risk of disaster.1.2.9.4: Orientation to parents, caretakers and HHs on supporting youth to pursue work opportunities including gender equality.1.2.9.5: Conduct pre-training counselling session among youths and their parents2.1.1: Training to health workers & FCHV on Parenting Education including HHs level WASH promotion2.1.2: Deliver Parenting Education Session by FCHVs including health, nutrition & WASH related messages targeting to pregnant women & parents/caregivers of <3 year children2.1.3: Orientation to individual on various water purification mechanism, 6 key hygiene messages and safe WASH Health importance2.1.4: Support to regularize Health Mother Group meeting as per government protocols to promote nurturing care from prenatal period.2.1.5: Male group session to promote male engagement in child care at HHs level2.2.1: Training and in role coaching of core group of facilitators, supervisors and dialogue facilitators on collective"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Plan Nepal",
+        "donor_project_id": "4120",
+        "raw_payload": {
+          "id": 41606,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Plan Nepal",
+          "organization_id": 277,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Finance, Ministry of Federal Affairs & General Administration, Ministry of Education, Science and Technology, Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 2626154.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Plan Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-06-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4120",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4120",
+        "value": "4120"
+      }
+    ],
+    "implementing_agency": "Plan Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Centered Empowerment Project (CCEP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4120",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4120",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2626154.0,
+    "total_disbursement": 1472473.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.876829Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4120",
+      "id": "version:entity:project/development_project/dfmis-4120:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.014528Z",
+  "dates": [
+    {
+      "date": "2023-06-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.     Support the revision of MNCH guidelines/roll out of MNH Accelerator (ENAP and EPMM) initiative by FWD.2.     Establish an integrated maternal, child health and nutrition corner following maternal, infant and young child nutrition (MIYCN) standards as part of HF infrastructure upgradation.3.     Support essential equipment and instruments to HF on need-based planning.4.     Establish a Provincial Quality Management Programme following the adoption of Maternal, Newborn and Child Health (MNCH) Quality of Care Standards.5.     Support in continuation of Reproductive Health services, early detection of POP and Cervical Cancer in underserved or hard-to-reach communities through outreach health camps6.     ENAP and EPMM Metrics and HMIS Indicators Workshop to discuss how data systems can be improved to help end preventable maternal and newborn deaths.7.     Support to functioning of provincial and municipal level MCHN and Emergency Response Preparedness (ERP) steering committee.8.     Engage with local authorities on public financing for health and the standard 7 steps of planning process to discuss the progress of action plan.9.     Provide an Emergency Obstetric and Newborn Care training and mentorship programme to enable midwives and other clinicians to manage common emergency complications (3 days training + follow up mentoring).10.  Roll out of Quality Improvement Training Manual on the MNCH Quality of Care Assessment and Improvement Tool to build the capacity of health care workers on Quality Improvement methodology and approaches.11.  Support provincial and municipal level Emergency Response Preparedness (ERP) steering committee through health resilience training/orientation for evidence-based planning and monitoring.12.  Provincial Policy dialogue on Women's Health in Humanitarian setting discourse13.  Whole site Orientation to health service provider on Infection Prevention and management of waste management of COVID-19 vaccines14.  Training on Growth Monitoring and Promotion (GMP) including Quality Improvement (QI) and onsite coaching to MNCH/N providers.15.  Capacity building of health care service provider in POP and Cervical Cancer detection and treatment16.  Conduct and follow up meeting with HFOMC members for strengthening the MNCH/N program at HFs, discuss issues, and identify the corrective actions.17.  Community Health Facilitators: mobilize to conduct field level activities at HF and community levels including home visits; act as a social change agent; engage Community Scorecards.18.  Engage marginalized communities to address equity gaps such as emergency transportation of pregnant women, support to malnourished PLW and children.19.  Training of HF medical and paramedical staff for mental health diagnosis, treatment and referral following government guideline.20.  Formation of Care Group Volunteers (CGVs) MNCH/N information, approaches to mitigate barriers and strengthen enablers around health seeking behaviors, strengthen community-facility linkages.21.  Design and develop customized module-based training and capacity building to CGVs.22.  Conduct home visit by CGVs to deliver messages to neighbor women in their catchment areas.23.  Design (using SBC principles), develop and print CGV Flipchart.24.  Broadcasting key MNCH/N messages through FM/Radio and digital platform.25.  Printing and dissemination of SBC materials in local languages including COVID-19 vaccination waste disposal.26.  Development and installation of flex and acrylic message boards in targeted HF.27.  Recipe book training to FCHV, health workers, and relevant government officials.28.  Conduct cooking demonstrations along with men's participation through FCHV, Community Health Facilitators and other community volunteers using locally available recipes (in recipe book).29.  Commemoration of MNCH/N days as a campaign (e.g., breastfeeding week, child health days, immunization days etc.).30.  Organize the 1-day vegetable seed production training and seed distribution for selective Model Farmers (who are potential to develop as seed producers in community) in coordination with District Agriculture Development Office.31.  Vegetable seed support to households’ of 1000 days of mother, MFs, FCHVs and mother group’s members.32.  Provide agriculture production input (drip kit, water pipe, plastic drum, organic fertilizer production, etc.)."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Adventist Development and Relief Agency",
+      "donor_project_id": "4173",
+      "raw_payload": {
+        "id": 41653,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Adventist Development and Relief Agency",
+        "organization_id": 340,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Adventist Development and Relief Agency",
+  "financing": [
+    {
+      "amount": 499243.4,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Adventist Development and Relief Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4173",
+      "value": "4173"
+    }
+  ],
+  "implementing_agency": "Bagmati Welfare Society Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Health System Strengthening (HSS) for Maternal, Newborn/Child Health and Nutrition (MNCH/N)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4173",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4173",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 499243.4,
+  "total_disbursement": 156189.56,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.014526Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4173",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

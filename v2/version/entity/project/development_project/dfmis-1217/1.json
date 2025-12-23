@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.969767Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1217",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.969770Z",
+    "dates": [
+      {
+        "date": "2018-03-12",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Trained 62 masons participated, 1 Short Mason Training and   On the Job mason training for 25 days Conducted\r\n\t103 Beneficiaries enrollment (a general agreement with beneficiaries) completed\r\n\t7 Ward Level Shelter Committee formed with 53 members and mobilized\r\n\t17 batches formed with 6-11 members in each batch\r\n\tSRCC members were oriented about the safe deconstruction and construction/site clearance"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "World Renew Nepal",
+        "donor_project_id": "1217",
+        "raw_payload": {
+          "id": 11428,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "World Renew Nepal",
+          "organization_id": 692,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "World Renew Nepal",
+    "financing": [
+      {
+        "amount": 440794.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Renew Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-03-12",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 371006.7379,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "World Renew Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-12-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1217",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1217",
+        "value": "1217"
+      }
+    ],
+    "implementing_agency": "Caritas Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Disaster Recovery and Resilience: Permanent Shelter Construction for the Vulnerable Flood Affected Populations in Guleriya Municipality, Bardiya, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1217",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Housing",
+        "donor_subsector": null,
+        "normalized_sector": "Housing",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1217",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 811800.7379,
+    "total_disbursement": 339640.3205,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.969767Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1217",
+      "id": "version:entity:project/development_project/dfmis-1217:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

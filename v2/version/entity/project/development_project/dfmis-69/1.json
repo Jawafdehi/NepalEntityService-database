@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.127072Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-69",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.127076Z",
+    "dates": [
+      {
+        "date": "2009-02-20",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-09-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project intends to support the establishment and effective functioning of the transitional justice mechanisms, namely Truth and Reconciliation Commission (TRC) and Commission of Inquiry on Disappearances (CoI-D). It also intends to strengthen civil society to provide appropriate support to victims and participants to the Commissions."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Peace Fund",
+        "donor_project_id": "69",
+        "raw_payload": {
+          "id": 796,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Peace Fund",
+          "organization_id": 362,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nation Office of High Commissioner for Human Rights",
+    "financing": [
+      {
+        "amount": 1999830.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Peace Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-02-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-69",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/69",
+        "value": "69"
+      }
+    ],
+    "implementing_agency": "Women Journalists for Women Rights Group, Committee for the Publication of a Book on Ramechhap during the Armed Conflict, Community Youth Information Centre, Conflict Victims' Committee, Nepal Red Cross Society, Himalayan Area Development Centre, Kathmandu School of Law, Working for Access and Creation, International Center for Transitional Justice, Environment Conservation and Development Forum, Nepal Society of the Disabled, Pro-Public, Community Development and Environment Conservation Forum, International Institute for Human Rights, Environment and Development, Banke UNESCO Club, Media Foundation Nepal, Farwest Media Development Centre, Democratic Freedom and Human Rights Institute, Conflict Victims' Society for Justice, Human Rights and Democratic Forum, Human Rights Awareness Centre, Madhesh Human Rights Home, Gaja Youth Club",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Peace through Justice (PtJ)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/69",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-69",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1999830.0,
+    "total_disbursement": 1407955.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.127072Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-69",
+      "id": "version:entity:project/development_project/dfmis-69:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

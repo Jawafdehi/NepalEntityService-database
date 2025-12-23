@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.525432Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1000",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.525434Z",
+    "dates": [
+      {
+        "date": "2015-11-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-11-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-04-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activities under objective 1\r\n\r\n\r\n\tProject start up  ( Implementation strategy)\r\n\tOrient VCPC and DCPC on GBV (gender equality, GBV, child rights legal system with regard to child marriage, dowry, and VAW).\r\n\tProduce IEC materials (posters, audio visual, information package)   in child marriage in local language\r\n\tAllocate fund  to support innovative window opportunities  and  ideas, awareness  against child marriage and advance girls rights\r\n\tSupport DCPC and VCPC awareness raising action (awareness campaigns, generating massage and information related to issue for wider sharing)\r\n\tOrganize orientation to peer educators  on behavioral change communication, gender equality, GBV and community mobilization to eliminate child marriage and violence against women and girls\r\n\tBio monthly review meetings/interaction with peer educators, VCPC and  change agent to review progress and issue and provide additional information and skill\r\n\tSupport to felicitates influential \"positive deviant\"  (individual, families, community) who denounced harmful practices such child marriage, dowry and VAW\r\n\tInteraction among Aba Mero Palo UDAN, SAKCHAM and ATMANIRVAR projects of CARE Nepal  \r\n\tCampaign for domestic violence (child marriage) free VDC with collaboration with SAKCHAM team (only for Kapilbastu district)\r\n\r\n\r\nActivities under objective 2\r\n\r\n\r\n\tOrient civil society organizations , groups to influence and mobilize  for the implementation of laws against child marriage and GBV\r\n\t Organize orientation and impart skill and knowledge to the project team and partners on various issues that project is going to address (GBV, Do no Harm, child rights, legal instruments)\r\n\t Develop information brief on GBV issues, based on religious scriptures and teachings\r\n\t Conduct multi-religious seminars, specifically targeting men from different religions and including topics such as the effects and consequences of  early and unofficial marriage\r\n\t Conduct Child marriage survey (six monthly)\r\n\t Mobilization of Group Facilitator\r\n\t Use mass media (community radio, street play  ) to reach large audiences coupled with interactive methodologies (call-in shows, discussion groups following serial dramas)\r\n\t Produce facts sheets of  each  working  VDC,s social and economic costs of child marriage especially in the context of practices such as dowry and bride price\r\n\t Trained and mobilize  60 selected  youth (18-20 years) as a  citizen  journalists  with media to communicate issue for policy action\r\n\tInteract with school management committees of all VDC and identify point persons in each school to raise awareness in schools\r\n\tMobilize schools, teachers, district education office and school management committees to analyze reasons for drop-out of girls from schools and share widely the analysis for improvement\r\n\tSupport to develop and implement mechanisms to better systematize marriage and birth registrations\r\n\tPromote public-private partnerships that are positioned to apply positive pressure to reduce early marriages, dowry and VAW\r\n\tEmpower boys and girls  (10-14) by  developing their leadership and life skill / Mobilize boys  to organize issues based  (masculinity ) competitions for boys  in areas like drawing, cooking and stitching\r\n\tCapacity assessment/development of partners\r\n\r\n\r\nActivities under objective 3\r\n\r\n\r\n\tProduce best practices and lesson learned to influence Government of Nepal’s to scale up of proven programming models policy, resource allocation  as well as  donors - to ensure they are tailored to support child marriage efforts globally.\r\n\tSupport \"Girls Not Brides\" campaigns by organizing national campaigns on \" Now It is my turn\"   from districts to national level to employ  the programmatic lesson gained\r\n\tDevelop mechanisms for community monitoring/audits of child marriage through VDC, Child clubs, VCPC and share analysis twice a year  for policy advocacy\r\n\tOrganize every year  public hearing in each working district to share  existing laws and policy implementation against child marriage and dowry\r\n\tEngage with national coalitions to monitor the implementation of public policies and support advocacy initiatives at national levels\r\n\tAdvocacy in country trainings\r\n\tFormation and strengthening Local Advisory Council\r\n\tDocumentation in six monthly basis (Audio, Video, Info graphics, Briefs, fact sheet)\r\n\r\n\r\n \r\n\r\n \r\n\r\nActivities under objective 4\r\n\r\n \r\n\r\n\r\n\tOrient  Civil Society / VDC secretaries on child marriage and GBV and its social and economic cost and role of VDC  to empower eliminate GBV and child\r\n\tFacilitate each VDC to develop strategy/action plan   to eliminate child marriage and dowry  and girls education program\r\n\tLobby with major political parties to denounce against child marriage, VAW and dowry and enforce code conduct for members\r\n\tConduct parental education monthly session in each ward\r\n\tFormation of child (girls up to 20 yrs) clubs in each ward\r\n\tEstablish culture of celebrating \"fatherhood\" by organizing local ca"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "1000",
+        "raw_payload": {
+          "id": 7144,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "CARE Nepal",
+    "financing": [
+      {
+        "amount": 1198637.764,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-11-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1000",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1000",
+        "value": "1000"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "ABA MERO PALO (Tipping Point)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1000",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1000",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1198637.764,
+    "total_disbursement": 1157018.60177,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.525432Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1000",
+      "id": "version:entity:project/development_project/dfmis-1000:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

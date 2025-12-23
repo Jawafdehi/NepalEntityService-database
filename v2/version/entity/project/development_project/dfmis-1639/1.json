@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.896534Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1639",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.896537Z",
+    "dates": [
+      {
+        "date": "2019-06-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "Habitat for Humanity International Nepal",
+        "donor_project_id": "1639",
+        "raw_payload": {
+          "id": 13270,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/Habitat_Logo_Black_1.png",
+          "organization__name": "Habitat for Humanity International Nepal",
+          "organization_id": 601,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Habitat for Humanity International Nepal",
+    "financing": [
+      {
+        "amount": 260177.7912,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Habitat for Humanity International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-06-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1639",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1639",
+        "value": "1639"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Procurement and Grant Administration Service for Business Partnership Platform",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1639",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+        "donor_subsector": null,
+        "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1639",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 260177.7912,
+    "total_disbursement": 182847.6636,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.896534Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1639",
+      "id": "version:entity:project/development_project/dfmis-1639:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

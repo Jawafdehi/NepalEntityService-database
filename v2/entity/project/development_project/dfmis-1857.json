@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.201161Z",
+  "dates": [
+    {
+      "date": "2011-08-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-01-18",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "3.3.1    Component 1: Capacity Building The main aim of this component is to support DDCs  to enhance the institutional and human resource capacity to deliver the basic services to people. Capacity building initiatives in this project are focused at DDC level and the main areas of capacity building may include but not be limited to: a) Strengthening financial management of DDCs b) Strengthening planning and monitoring capacity of DDC c) Strengthening capacities of DDCs on Information, reporting and documentations. This component is based on the demand of the DDCs and will be implemented in close collaboration with LGCDP.  3.3.2 Component 2: Social Mobilization and EmpowermentSocial mobilization process aims to enable communities to engage in the local level bottom up planning process in order to ensure that they access public resources. This is also a process by which the state can proactively reach to the people. This project will support the districts to institutionalize the social mobilization process in the planning and to enhance the capacity of the social mobilisers.  3.3.3 Component 3: Financial Grant to DDCs  The financial grant from SDC to DDCs will help to deliver services to the citizens, which have generally been too small to bring the long awaited peace dividend to the people. Revenue at the district level (taxes, fee and other service charges) is very little and hence the major source of revenue for more than 80% of the DDCs has been the grants from the central government. The proposed financial support is expected to help DDCs to ease this situation. Any support however, will be linked to improved performance and capacity building of the DDC. The increase in the district budget due to the financial grant is expected to be sustained on the long run because: i) the project will help to double their internal resource (taxes) within five years; ii) the project will help improve their performance and get a better ranking thereby qualify for extra budget from the centre; and iii) the natural increment of the grants allocated by the central government is expected to continue in the near future. These increased resources coupled with the capacity building will ensure the sustainability of the project undertakings once SDC’s support withdraws."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "1857",
+      "raw_payload": {
+        "id": 1472,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 5044136.192,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-08-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1857",
+      "value": "1857"
+    }
+  ],
+  "implementing_agency": "Swiss Agency for Development and Cooperation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "State Building at Local Level Phase 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1857",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1857",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5044136.192,
+  "total_disbursement": 1982396.302512,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.201157Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1857",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

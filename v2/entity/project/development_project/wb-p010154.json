@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.827942Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The objective of the Agricultural Extension and Adaptive Research Project is early and sustained improvement in agricultural production, particularly foodgrains, in eight of the twenty administrative districts of the Nepal Terai. Improvements in production will be brought about by the wide adoption of low cost, labor-intensive agricultural practices, improved varieties of seeds, and provision of fertilizer. The project will comprise: (a) reorganization and strengthening of agricultural extension services; (b) strengthening and reorientation of applied and adaptive research; (c) strengthening the coordination between research and extension services; (d) establishment of regular monitoring and evaluation procedures; (e) local and overseas training of staff, studies and provision of consultants; (f) establishment of regional training centers, and offices and housing for field staff; (g) facilities, equipment and vehicles to support extension and training programs; and (h) provision of fertilizer."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010154",
+      "raw_payload": {
+        "boardapprovaldate": "1981-02-03T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010154",
+        "major_sector_code": "AX",
+        "major_sector_name": "Agriculture, Fishing and Forestry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AE",
+                  "sector_name": "(Historic)Agricultural extension",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Agricultural extension",
+        "proj_id": "P010154",
+        "project_abstract": "The objective of the Agricultural Extension and Adaptive Research Project is early and sustained improvement in agricultural production, particularly foodgrains, in eight of the twenty administrative districts of the Nepal Terai. Improvements in production will be brought about by the wide adoption of low cost, labor-intensive agricultural practices, improved varieties of seeds, and provision of fertilizer. The project will comprise: (a) reorganization and strengthening of agricultural extension services; (b) strengthening and reorientation of applied and adaptive research; (c) strengthening the coordination between research and extension services; (d) establishment of regular monitoring and evaluation procedures; (e) local and overseas training of staff, studies and provision of consultants; (f) establishment of regional training centers, and offices and housing for field staff; (g) facilities, equipment and vehicles to support extension and training programs; and (h) provision of fertilizer.",
+        "project_name": "EXT & RESEARCH",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010154",
+      "value": "p010154"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "EXT & RESEARCH",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010154",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010154",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.827939Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010154",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:14.618932Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-1380",
+  "start_date": null,
+  "target_entity_id": "entity:organization/ngo/ngos",
+  "type": "IMPLEMENTED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project implemented by NGOs",
+    "created_at": "2025-12-23T19:11:14.618942Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-1380:organization/ngo/ngos:IMPLEMENTED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

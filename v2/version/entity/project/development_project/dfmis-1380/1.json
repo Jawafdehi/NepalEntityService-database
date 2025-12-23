@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.617413Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1380",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.617416Z",
+    "dates": [
+      {
+        "date": "2020-07-20",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Reduce the prevalence of gender-based discrimination and violence and the threat of such discrimination violence, by changing deep-seated patriarchal and harmful norms and attitude, public thinking and behavior through engagement of various unconventional partnersRoundtable discussions with government and stakeholdersMedia Activities (Radio program/PSA/Jingle)Forum Theatre/Street dramaChild club/CDC/Adolescent club supportEnterprise development support for women survived from violence, child marriageLinkage to financeTraining on gender and protectionDevelop, strengthen and mobilize change agents including religious leadersCapacity development and support on networking, advocacy and lobbyAwareness sessions on gender, social norms and harmful practicesSupport in obtaining citizenship and other legal documentsLegal supportCampaignsWomen transformative leadership (Social, Economic and Political)Exchange visitLeadership trainingLife skill trainingSupport to participate in decision making forumCapacity development on meaningful decision makingLocal to global advocacyCapacity development on legal rightsKnowledge and skill development support for women leadersResearch/Success stories/DocumentaryStrengthened capacity of young people, women and marginalized groups to develop community institutions for livelihood strengtheningSupport cooperatives to operate financial and business development services to farmers and producersSupport farmers and producers’ groups with infrastructures, equipment’s and skills for income generationTraining and input support to producers and farmers for income generationStrengthened capacity of young people, women and marginalized groups to run inclusive and sustainable enterprises that empower women, create jobs and income opportunitiesProvide loan guarantee or access to investment to SMEs/ CooperativesTraining and entrepreneurship skill building of producers/ farmers for enterprise developmentFarmers are capacitated to produce and market quality seedsProvide business management, marketing and equipment and infrastructure support to enterprises (Seed, honey, handicraft, vegetables, mustard)Strengthened capacity of communities, civil society organizations and municipalities for disaster preparedness, rapid response and recoveryProvide trainings and necessary equipment’s, evacuation centers to Community-based organizations and disaster management committees (CDMC) in the districtsEstablishing and strengthening early warning systems in the project areasEstablish functional Local Emergency Operation Centre (LEOC) with integrated disaster information management system (DIMS) in municipalitiesProvide trainings and search and rescue equipment’s to Government officials, local humanitarian actors, and communities to prepare and respond to shocks.Support to prepare DPRP (disaster preparedness and response plan) to districtsSupport municipalities for disaster preparedness, response and recovery mechanisms.Support municipalities for solid waste managementStrengthened capacity of communities, CSOs and municipalities to mitigate climate change and adapt its impact on their peopleFarmer Field Schools established to access, use and maintain plant genetic resources for food and nutrition security, climate change adaptation and disaster management.Strengthened capacity of women and farming households in the management and sustainable use of Neglected and underutilized crops to enhance food security during lean periodEstablished and strengthened community seed banksBuild capacity (trainings, input support and demonstration) of farmers to identify and use climate-resilient livelihood options.School Level programme on climate change impacts and mitigation and adaptation measuresProvide technical support to farmers groups and community seed banks for testing and improving crop varieties to adapt climate changeSupport municipalities for Local Disaster and Climate Resilient Plan (LDCRP)capacity development of upstream/downstream CBOs/CSOs representing the target groups in relation to climate change and disaster risk reduction, agriculture and forestry sectorsVulnerable People affected by disasters received lifesaving support aftermath of disasterFood security and livelihood recovery interventions to disaster affected householdsWASH facilities and awareness support to affected householdsGender and protection support to householdsImproved access to safe, and adequate WaSH services to the most vulnerable and excluded households.Invest in building water supply scheme in the southern belt of Terai to improve the lives of vulnerable and marginalized families by providing access to safe waterInvest in rural water supply scheme to provide access to safe, adequate and sustainable water supply services to the most vulnerable and excluded households of earthquake affected communities.System upgrade of water supply system to make it more reliable and functional contributing to improving access of safe water to communityMEAL+"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Oxfam GB",
+        "donor_project_id": "1380",
+        "raw_payload": {
+          "id": 12374,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Oxfam GB",
+          "organization_id": 349,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Oxfam GB",
+    "financing": [
+      {
+        "amount": 27280350.49,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Oxfam GB",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-07-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1380",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1380",
+        "value": "1380"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sustainable Development Programme",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1380",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1380",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 27280350.49,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.617413Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1380",
+      "id": "version:entity:project/development_project/dfmis-1380:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.560715Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-553",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.560717Z",
+    "dates": [
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A total of 22 government schools (Lower Secondary -6, Secondary- 6 and Higher Secondary-10) of young people, mainly school children will get the opportunity to take active roles in raising climate and disaster awareness.\r\n\t\r\n\t\t10 most active students from each school (6 girls and 4 boys) will take a leadership role in climate change and disaster management activities.\r\n\t\r\n\t\tA total of 330 teachers (20% females and 80% males) will learn about climate change disaster and its integration/extension into/of different subjects\r\n\t\r\n\t\t\r\n\t\t\tA total of 4400 students (50% girls and 50% boys) from classes 6 to 9 will participate in climate and disaster literacy and research activities.\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tA total of 242 members from school management committees (25% females and 75% males) will be sensitized on climate change and disaster.\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tAt least 11000 farmers (60% females and 40% males) from 2750 households will receive climate change and disaster management knowledge"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_project_id": "553",
+        "raw_payload": {
+          "id": 3550,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "HELVETAS Swiss Intercooperation Nepal",
+          "organization_id": 532,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "HELVETAS Swiss Intercooperation Nepal",
+    "financing": [
+      {
+        "amount": 241148.7449,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 62782.00312,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-09-21",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-553",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/553",
+        "value": "553"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Practice in Schools for Learning Climate Change Adaptation (COPILA)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/553",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-553",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 303930.74802,
+    "total_disbursement": 285738.65379,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.560715Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-553",
+      "id": "version:entity:project/development_project/dfmis-553:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

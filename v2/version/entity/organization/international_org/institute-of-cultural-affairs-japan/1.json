@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Institute of Cultural Affairs Japan",
+  "created_at": "2025-12-23T19:11:06.806104Z",
+  "entity_or_relationship_id": "entity:organization/international_org/institute-of-cultural-affairs-japan",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Non-Government Organisation",
+      "group": "INGO"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Non-Government Organisation"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.806106Z",
+    "description": null,
+    "id": "entity:organization/international_org/institute-of-cultural-affairs-japan",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Institute of Cultural Affairs Japan",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "institute-of-cultural-affairs-japan",
+    "sub_type": "international_org",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Institute of Cultural Affairs Japan",
+      "created_at": "2025-12-23T19:11:06.806104Z",
+      "entity_or_relationship_id": "entity:organization/international_org/institute-of-cultural-affairs-japan",
+      "id": "version:entity:organization/international_org/institute-of-cultural-affairs-japan:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

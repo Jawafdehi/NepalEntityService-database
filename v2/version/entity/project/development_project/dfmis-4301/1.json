@@ -1,0 +1,180 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.398106Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4301",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.398108Z",
+    "dates": [
+      {
+        "date": "2022-11-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2026-11-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1.1 – Review, update and complement ESCs’ operational manuals and guidelinesActivity 1.1.2 - Capacity building of Human Resources of ESCsActivity 1.1.3 - Support the implementation of employment promotion services for selected ESCs Activity 1.2.1 – Develop an Institutional Capacity Development Mechanism for ESCs and stakeholdersActivity 1.2.2 – Capacity development of municipal and provincial governments and stakeholders on ESCs’ operations and their roles for employment promotionActivity 2.1.1 - Conduct and disseminate a comprehensive Public Employment Services Assessment, including governance, legal, operational, and enabling environment aspectsActivity 2.1.2 - Conduct and disseminate labour market and needs assessments for employment promotion services in selected localitiesActivity 2.2.1 – Support the updating of PES and ESC’s governance, operational and financing frameworks at all levels of governmentActivity 2.2.2 - Support the implementation of updated ESC's services, including adjustments to sectorial and regional needs"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "International Labour Organization",
+        "donor_project_id": "4301",
+        "raw_payload": {
+          "id": 41133,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "International Labour Organization",
+          "organization_id": 13,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "4301",
+        "raw_payload": {
+          "id": 41134,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "International Labour Organization",
+    "financing": [
+      {
+        "amount": 50000.0,
+        "assistance_type": "other",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "International Labour Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-11-29",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1197000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-11-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4301",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4301",
+        "value": "4301"
+      }
+    ],
+    "implementing_agency": "International Labour Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening of Employment Service Centres in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4301",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4301",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1247000.0,
+    "total_disbursement": 845000.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.398106Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4301",
+      "id": "version:entity:project/development_project/dfmis-4301:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

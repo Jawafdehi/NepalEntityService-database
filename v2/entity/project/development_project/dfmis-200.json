@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.953293Z",
+  "dates": [
+    {
+      "date": "2012-06-06",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Targeted prevention activities to reduce HIV/AIDS transmission among specific high-risk and vulnerable population.\r\n\t\r\n\t\tCapacity building of Government of Nepal and civil society to reduce stigma and discrimination and enable equitable access to services and to plan manage and implement effective HIV and AIDs intervention.\r\n\t\r\n\t\tProvide capacity building to local NGOs and CBOs working with Most-at-risk population (MARP) to strengthen networks to support involvement of MARPs in national and district-level policy-making and decision-making.\r\n\t\r\n\t\tCreate linkages among stakeholder and support coordination and collaboration at the national level.\r\n\t\r\n\t\tContinue to build on the technical leadership provided under USG funds in planning, collection, analysis and use of strategic information."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "U.S. Agency for International Development",
+      "donor_project_id": "200",
+      "raw_payload": {
+        "id": 1192,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 47,
+        "organization__development_cooperation_group__name": "United States of America",
+        "organization__logo": "",
+        "organization__name": "U.S. Agency for International Development",
+        "organization_id": 32,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "U.S. Agency for International Development",
+  "financing": [
+    {
+      "amount": -100000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-06-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/200",
+      "value": "200"
+    }
+  ],
+  "implementing_agency": "Family Health International",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Advancing Surveillance, Policies, Prevention, Care and Support to Fight HIV/AIDS project (ASHA)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/200",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-200",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": -100000.0,
+  "total_disbursement": 3180406.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.953290Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-200",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

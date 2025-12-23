@@ -1,0 +1,262 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.549811Z",
+  "dates": [
+    {
+      "date": "2010-01-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Education for All Project's long-term development objective is to improve access to, and benefit from basic, and primary education for children, especially girls and children from disadvantaged groups, and from literacy programs for poor adults. The project will achieve three strategic goals: a) improving access to, and equity of basic and primary education; b) enhancing educational quality and relevance; and, c) improving efficiency, and institutional capacity of education service delivery. First, equitable access will be approached through measures to increase both the demand for education, and the supply of services. On the demand side, expanded involvement of community-based organizations in identifying, and motivating out of school children to enroll, will strengthen school outreach. Increased literacy for mothers is also expected to have a long-term positive impact. Scholarships, funded through school grants, targeted to poor girls, \"dalits\" and out of school \"janajati\" children, will offset the private costs of schooling for these groups. Additionally, expansion of classrooms, and non-formal programs based in schools, should accommodate growing demand. Resources will also be provided to communities for constructing temporary classrooms. Literacy programs for adult women, targeted to dalits and ethnic minorities, will be expanded. Second, early childhood development (ECD), delivered through community managed centers, and through pre-primary classes, will be expanded, supporting teacher education through a certificate training. Recurrent in-service teacher training will be strengthened, while substantial funding through the School Grants Program (SGP) will enable financing local expertise, including teacher training. Improved school facilities, and newly developed transitional language support on entry for non-Nepali speaking students, will further improve learning quality, retention of children, and school completion rates. And third, improving efficiency and institutional capacity, will finance the transfer of primary schools to community management, through grants support. A feature of the SGP will be the inclusion of funding for non-salary recurrent costs in school grants. Depending on accreditation levels, schools will be eligible to apply for grants for construction improvement, enhanced student access, capacity building, and quality improvement."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P074633",
+      "raw_payload": {
+        "boardapprovaldate": "2004-07-08T00:00:00Z",
+        "closingdate": "2010-01-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "664000000",
+        "envassesmentcategorycode": "B",
+        "grantamt": "100000000",
+        "id": "P074633",
+        "major_sector_code": "BX,EX,SX",
+        "major_sector_name": "FY17 - Education,FY17 - Public Administration,FY17 - Social Protection",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BH",
+                  "sector_name": "FY17 - Sub-National Government",
+                  "sector_percent": "5.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "FY17 - Education",
+              "sectors": [
+                {
+                  "sector_code": "EC",
+                  "sector_name": "FY17 - Early Childhood Education",
+                  "sector_percent": "10.0"
+                },
+                {
+                  "sector_code": "EL",
+                  "sector_name": "FY17 - Adult, Basic and Continuing Education",
+                  "sector_percent": "10.0"
+                },
+                {
+                  "sector_code": "EP",
+                  "sector_name": "FY17 - Primary Education",
+                  "sector_percent": "70.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "SX",
+              "major_sector_name": "FY17 - Social Protection",
+              "sectors": [
+                {
+                  "sector_code": "SA",
+                  "sector_name": "FY17 - Social Protection",
+                  "sector_percent": "5.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Adult, Basic and Continuing Education,FY17 - Early Childhood Education,FY17 - Primary Education,FY17 - Social Protection,FY17 - Sub-National Government",
+        "proj_id": "P074633",
+        "project_abstract": "The Education for All Project's long-term development objective is to improve access to, and benefit from basic, and primary education for children, especially girls and children from disadvantaged groups, and from literacy programs for poor adults. The project will achieve three strategic goals: a) improving access to, and equity of basic and primary education; b) enhancing educational quality and relevance; and, c) improving efficiency, and institutional capacity of education service delivery. First, equitable access will be approached through measures to increase both the demand for education, and the supply of services. On the demand side, expanded involvement of community-based organizations in identifying, and motivating out of school children to enroll, will strengthen school outreach. Increased literacy for mothers is also expected to have a long-term positive impact. Scholarships, funded through school grants, targeted to poor girls, \"dalits\" and out of school \"janajati\" children, will offset the private costs of schooling for these groups. Additionally, expansion of classrooms, and non-formal programs based in schools, should accommodate growing demand. Resources will also be provided to communities for constructing temporary classrooms. Literacy programs for adult women, targeted to dalits and ethnic minorities, will be expanded. Second, early childhood development (ECD), delivered through community managed centers, and through pre-primary classes, will be expanded, supporting teacher education through a certificate training. Recurrent in-service teacher training will be strengthened, while substantial funding through the School Grants Program (SGP) will enable financing local expertise, including teacher training. Improved school facilities, and newly developed transitional language support on entry for non-Nepali speaking students, will further improve learning quality, retention of children, and school completion rates. And third, improving efficiency and institutional capacity, will finance the transfer of primary schools to community management, through grants support. A feature of the SGP will be the inclusion of funding for non-salary recurrent costs in school grants. Depending on accreditation levels, schools will be eligible to apply for grants for construction improvement, enhanced student access, capacity building, and quality improvement.",
+        "project_name": "Education for All Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Social Development and Protection",
+          "FY17 - Social Development and Protection",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Gender",
+          "FY17 - Rural Development",
+          "FY17 - Social Inclusion",
+          "FY17 - Social Inclusion"
+        ],
+        "totalamt": "50000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 100000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2004-07-08",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P074633",
+      "value": "p074633"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education for All Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P074633",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Social Protection",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p074633",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 50000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.549808Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p074633",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.335667Z",
+  "dates": [
+    {
+      "date": "2024-03-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-03-25",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-03-24",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Mapping of private and public investments in agriculture sector at national and province level and identified in the future investment opportunities1.2 Review and update investment proposals developed on prioritised commodities by the government in 20221.3 Identify four new commodities to be invested on2.1 Organize a sharing workshop2.2 Review and update the investment proposals prepared in 20222.3 Prepare new investment proposals2.4 Organize a National Agriculture Investment Forum2.5 Disseminate investment proposals in the investment forum scheduled in October 2024, Rome2.6 Produce factsheets/leaflets and the presentation materials of the selected commodities2.7 Linking HIH initiatives to other FAO corporate initiatives - DVI, OCOP and other projects2.8 Investment Forum and trade fair (1 event, 3 participants)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "4277",
+      "raw_payload": {
+        "id": 41913,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 98000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-03-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4277",
+      "value": "4277"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Support to promoting investment in agri-food system transformation in Nepal under the framework of Hand-in-Hand Initiatives",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4277",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4277",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 98000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.335665Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4277",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.551374Z",
+  "dates": [
+    {
+      "date": "2019-06-30",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_project_id": "4437",
+      "raw_payload": {
+        "id": 43357,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 40,
+        "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+        "organization__logo": "",
+        "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "organization_id": 176,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 1393807.31862344,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 114727.4,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1132386.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1659908.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1362026.69572324,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 52793.4132388995,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1183182.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1322431.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 64555.1,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 44263.28,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 32496.23,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 98963.37,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4437",
+      "value": "4437"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Control of Aids and Sexually Transmitted Diseases",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4437",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4437",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8461539.80758558,
+  "total_disbursement": 13160736.2056039,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.551371Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4437",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

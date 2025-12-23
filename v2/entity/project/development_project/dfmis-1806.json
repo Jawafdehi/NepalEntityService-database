@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.964505Z",
+  "dates": [
+    {
+      "date": "2018-12-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-01-13",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-01-12",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Rehabilitation/Construction of Water Infrastructure (DWS)Construction of inclusive and resilient toilet/bathing cubiclesRehabilitation/Construction of school/community WASH facilitiesCapacity Building of water user group Community/School Based Institutions (Material support / O&M Training) and municipality staffs (TOT)Awareness Program (Street plays, puppet show, art competition, wall painting etc.) - School Safety Plan in WASH / Community; ODF (supporting government program in ODF)Documentation (Good Practice Paper; Photo Documentary; needs assessment; Baseline Endline & KAP, Research)Support in Preparation/Revision of LDCRP at Rural Municipality / Municipality LevelEstablish Rural Municipality Emergency Operational Center (RMEOC) with stockpiling contextualized equipmentForm/Reformulate Community Task Force and their Capacity BuildingSupport LDRMC to implement priority action of their DRMP (30% Municipality Share)Community awareness programCapacity building on SBDRR to Focal Person, Municipal officials, School Management Committee (SMC), Parents Teacher Association (PTA), Child Club representativesSupport School to Form Disaster Response MechanismEquipment support for DMM related to First Aid, Search and RescueDisaster Resilient School Facility Construction ( to be decided in consultation with SMC and local government)Assessment of feasible livelihood options (farm and non-farm) for the target beneficiariesCapacity building on farm/non-farm based production based on training need assessmentMaterial support for farm and non-farm based enterprises focusing on women and vulnerable groupsNutritional food support to food insecure community with special focus on elderly, Female Headed HH, PWD, Children in coordination with Rural Municipalities/MunicipalitiesCapacity building of local government and community to access the entitlementsRehabilitation/Construction productive economic community assets (link roads, collection cater, rustic store, irrigation schemes, seed bank, etc.)Publication of Resource Materials (Agriculture / livestock related materials etc.- Including the cost of printing)Learning Centers for out of school and dropout childrenPSS and life skill education support for children at risk of child marriage; worst form of child labor; trafficking etc.Capacity building of municipal officials, parents, school teachers, local partnerStrengthen child protection committees, youth groups, adolescent girls groupEstablish Community alert systemAwareness / IECWinterization Support to community affected by cold wave"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Islamic Relief Worldwide",
+      "donor_project_id": "1806",
+      "raw_payload": {
+        "id": 11771,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Islamic Relief Worldwide",
+        "organization_id": 755,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Islamic Relief Worldwide",
+  "financing": [
+    {
+      "amount": 2575762.399,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Islamic Relief Worldwide",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-12-13",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1806",
+      "value": "1806"
+    }
+  ],
+  "implementing_agency": "Rural Development Centre Nepal, NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Resilient, Integrated and Inclusive Development Project in Nepal (IIDPN)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1806",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1806",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2575762.399,
+  "total_disbursement": 1240681.648331,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.964498Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1806",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

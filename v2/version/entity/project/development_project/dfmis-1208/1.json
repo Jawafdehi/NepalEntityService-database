@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.936252Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1208",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.936255Z",
+    "dates": [
+      {
+        "date": "2018-12-06",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-07-05",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "7 meetings organize and 105 participants from  MOHP, SWC, DHO, Municipalites and other stakeholders\r\n\r\n3 pre-intervention visits in target  Wards/HFs\r\n\r\n3 Health facilities constructed each 1 per Ward. A total 26464 community people directly benefited\r\n\r\nEssential medical equipments supplied in 3 Health facilities, each 1 per Ward\r\n\r\n3 Health facilities, each 1 per Ward resumed services\r\n\r\n5 event for 80 health workers trained on MHPSS\r\n\r\n9 event for 180 non prescribers trained on MHPSS\r\n\r\n20  counselling  session for 480 students  conducted at schools\r\n\r\n12  counselling sessions for 180 participants conducted in communities\r\n\r\nWorld Mental Health Day celebration-6\r\n\r\n5000 IEC materials developed and distributed\r\n\r\n24 street theatres performed 450 community people benefited\r\n\r\n7 event and 105 health workers trained on DRR\r\n\r\n3 event 60 HFOMCs member oriented\r\n\r\n3 health facilities with DRR equipments in place\r\n\r\n1 time joint monitoring and supportive supervision conducted\r\n\r\n8 times central monitoring visits\r\n\r\n1 w/s  20 participants in each event  conducted\r\n\r\n1 w/s for 100 participants\r\n\r\n23 trained prescribers at project site\r\n\r\n15 trained non-prescribers at project site\r\n\r\n38 health workers supervised and mentored and 4 supervision event conducted \r\n\r\n400-500 people with People with MH problems received mental health services from health facilities\r\n\r\n400 people received counselling services\r\n\r\n1000 people received basic psychosocial and emotional support from CPSWs\r\n\r\n1500 people participated in the sensitized program\r\n\r\n23 Number of events conducted \r\n\r\n100 FCHVs participated in 4 meetings\r\n\r\n300-400 people referred health facilities with possible MHPS problems"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ameri Cares Foundation",
+        "donor_project_id": "1208",
+        "raw_payload": {
+          "id": 11445,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Ameri Cares Foundation",
+          "organization_id": 666,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ameri Cares Foundation",
+    "financing": [
+      {
+        "amount": 601704.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ameri Cares Foundation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-12-06",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1208",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1208",
+        "value": "1208"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Health Facilities Reconstruction and Health Service Strengthening in Makwanpur District, Nepal & Integration of Mental Health and Psychosocial Services in the Primary Health Care System in Ramechhap (MHIRa) District of Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1208",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1208",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 601704.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.936252Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1208",
+      "id": "version:entity:project/development_project/dfmis-1208:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,271 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.023722Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1108",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.023729Z",
+    "dates": [
+      {
+        "date": "2007-03-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2007-03-15",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-03-14",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Grant from:\r\n\r\n\t\r\n\t\tGovernment of Denmark : 150 million DKK\r\n\t\r\n\t\tGovernment of Norway : 125 million NOK + Addendum: 22,4 million NOK and 18,2 million NOK\r\n\t\r\n\t\tGovernment of Germany : 8.5 million Euro\r\n\t\r\n\t\tGovernment of Nepal : 554 million NPR in Cash and Programme\r\n\t\r\n\t\tOperation Support Services in Kind(kind support not included)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "1108",
+        "raw_payload": {
+          "id": 973,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "1108",
+        "raw_payload": {
+          "id": 976,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "1108",
+        "raw_payload": {
+          "id": 978,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "KfW Development Bank",
+        "donor_project_id": "1108",
+        "raw_payload": {
+          "id": 979,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "KfW Development Bank",
+          "organization_id": 25,
+          "percentage": 25
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 3751653.91,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-12-16",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 11558335.6,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "KfW Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-03-10",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3132000.689,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-12-08",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 3221649.485,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-02-17",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 19789013.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2007-03-15",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 25870503.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Danish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2007-03-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1108",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1108",
+        "value": "1108"
+      }
+    ],
+    "implementing_agency": "Alternative Energy Promotion Center",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Energy Sector Assistance Programme Phase II (ESAP II)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1108",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1108",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 67323155.684,
+    "total_disbursement": 61877760.0363,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.023722Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1108",
+      "id": "version:entity:project/development_project/dfmis-1108:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

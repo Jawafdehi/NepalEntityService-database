@@ -1,0 +1,326 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.362384Z",
+  "dates": [
+    {
+      "date": "2027-07-16",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project aims to focus on the deficiencies in resource allocation and expenditure management, which have been identified as the major constraints to development effectiveness and efficiency, specifically reflected by low capital spending. The project will also focus on enhancing accountability considering its impact on development effectiveness. Based on the lessons learned from the predecessor PFM project, the project aims to consolidate efforts on fewer impactful areas focusing on key PFM challenges to development effectiveness."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P505226",
+      "raw_payload": {
+        "boardapprovaldate": "2025-08-06T00:00:00Z",
+        "borrower": "Nepal",
+        "closingdate": "2027-07-16",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "esrc_ovrl_risk_rate": "Low",
+        "grantamt": "10000000",
+        "id": "P505226",
+        "impagency": "Financial Comptroller General Office,Ministry of Federal Affairs and General Administration,Ministry of Finance,National Planning Commission,Office of the Auditor General,Public Accounts Committee Secretariat,Public Procurement Monitoring Office",
+        "major_sector_code": "BBX,FFX,NNX",
+        "major_sector_name": "Financial Sector,Public Administration,Social Sustainability and Inclusion",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BBX",
+              "major_sector_name": "Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BBC",
+                  "sector_name": "Central Government (Central Agencies)",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "BBH",
+                  "sector_name": "Sub-National Government",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "BBZ",
+                  "sector_name": "Other - Public Administration",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "FFX",
+              "major_sector_name": "Financial Sector",
+              "sectors": [
+                {
+                  "sector_code": "FFP",
+                  "sector_name": "Public Administration - Financial Sector",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "NNX",
+              "major_sector_name": "Social Sustainability and Inclusion",
+              "sectors": [
+                {
+                  "sector_code": "NNF",
+                  "sector_name": "Public Administration - Social Risk Management",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Central Government (Central Agencies),Other - Public Administration,Public Administration - Financial Sector,Public Administration - Social Risk Management,Sub-National Government",
+        "proj_id": "P505226",
+        "project_abstract": "The project aims to focus on the deficiencies in resource allocation and expenditure management, which have been identified as the major constraints to development effectiveness and efficiency, specifically reflected by low capital spending. The project will also focus on enhancing accountability considering its impact on development effectiveness. Based on the lessons learned from the predecessor PFM project, the project aims to consolidate efforts on fewer impactful areas focusing on key PFM challenges to development effectiveness. ",
+        "project_name": "Public Financial Management for Development Effectiveness Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Active",
+        "themev2_level1_exact": [
+          "Economic Policy",
+          "Economic Policy",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Social Sustainability",
+          "Social Sustainability",
+          "Social Sustainability"
+        ],
+        "themev2_level2_exact": [
+          " Citizen Engagement and Social Accountability Policy, Programs, and Capacity Building",
+          "Climate Change Policies and Institutions",
+          "Community and Local Development Policy and Programs",
+          "Economic Growth",
+          "Fiscal Policy",
+          "GovTech",
+          "GovTech",
+          "GovTech",
+          "Public Finance Management",
+          "Public Finance Management",
+          "Public Finance Management",
+          "Public Finance Management",
+          "Public Finance Management",
+          "Social Inclusion Policy and Programs"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 10000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2025-08-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505226",
+      "value": "p505226"
+    }
+  ],
+  "implementing_agency": "Financial Comptroller General Office,Ministry of Federal Affairs and General Administration,Ministry of Finance,National Planning Commission,Office of the Auditor General,Public Accounts Committee Secretariat,Public Procurement Monitoring Office",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Public Financial Management for Development Effectiveness Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505226",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Financial Sector",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Social Sustainability and Inclusion",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p505226",
+  "stage": "ongoing",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.362381Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p505226",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

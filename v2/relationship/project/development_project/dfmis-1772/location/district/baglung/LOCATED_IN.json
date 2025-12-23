@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:16.489016Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-1772",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/baglung",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project located in Baglung",
+    "created_at": "2025-12-23T19:11:16.489026Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-1772:location/district/baglung:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

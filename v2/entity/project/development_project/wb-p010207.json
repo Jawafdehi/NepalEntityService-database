@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.794439Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Industrial Development Project is part of IDA's continuing efforts in assisting the Government to promote industries in Nepal with greater private sector participation.  Project components include:  (a) a line of credit to NIDC to finance industrial investment projects; and (b) technical assistance and training to NIDC in strengthening operational standards and procedures particularly in project implementation, project supervision and management information.  There is also a project component involving; (c) consultancy and advisory services to improve formulation and implementation of industrial and export incentives, tourism promotion, and efficiency and quality of leather goods production and to assist in formulating a development program for the light engineering subsector.  Finally, the project provides; (d) foreign exchange funds to establish an Import/Export Facility for export oriented enterprises.  The project does not contain any unusual risk."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010207",
+      "raw_payload": {
+        "boardapprovaldate": "1984-12-13T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010207",
+        "major_sector_code": "IX",
+        "major_sector_name": "(Historic)Industry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "IX",
+              "major_sector_name": "(Historic)Industry",
+              "sectors": [
+                {
+                  "sector_code": "IY",
+                  "sector_name": "(Historic)Other industry",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Other industry",
+        "proj_id": "P010207",
+        "project_abstract": "The Industrial Development Project is part of IDA's continuing efforts in assisting the Government to promote industries in Nepal with greater private sector participation.  Project components include:  (a) a line of credit to NIDC to finance industrial investment projects; and (b) technical assistance and training to NIDC in strengthening operational standards and procedures particularly in project implementation, project supervision and management information.  There is also a project component involving; (c) consultancy and advisory services to improve formulation and implementation of industrial and export incentives, tourism promotion, and efficiency and quality of leather goods production and to assist in formulating a development program for the light engineering subsector.  Finally, the project provides; (d) foreign exchange funds to establish an Import/Export Facility for export oriented enterprises.  The project does not contain any unusual risk.",
+        "project_name": "INDUSTRIAL DEVELOPME",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010207",
+      "value": "p010207"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "INDUSTRIAL DEVELOPME",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010207",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "(Historic)Industry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010207",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.794437Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010207",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

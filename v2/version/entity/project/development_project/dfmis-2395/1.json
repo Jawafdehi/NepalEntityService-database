@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:19.033310Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2395",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:19.033313Z",
+    "dates": [
+      {
+        "date": "2022-01-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-03-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1.1. Conduct assessment to identify innate and viable skill to initiate livelihood opportunities1.1.1.2. Assessment finding sharing workshop and planning1.1.2.1. Beneficiary selection for technical skill training on vibal livelihood activities1.1.2.2. Identification of vocational training institutes1.1.2.3. Provide short term skill development training1.1.2.4. Post training assessment and certification1.2.1.1. Analysis of market linkage gap and recommendation for further intervention1.2.2.1. Workshop on market linkage and action plan preparation among target groups and stakeholders1.2.2.3. Delivery of required inputs (seed, equipment/tools, fertilizer etc.) to the target groups for IGA promotion1.2.3.1. Organized workshop to prepare action plan for the revival of IG/self-employment activities1.2.3.2. Provide necessary support or inputs (seed, tools, machine etc.) to revive the IG/self-employment activities1.2.3.3. Provide coaching and mentoring support for IG/self-employment and revived activities2.1.1.1. Review safety net practices and policies2.1.2.1. Organized workshop on safety net policy and legal provisions to increase knowledge and access2.1.2.2. Develop and disseminate BCC (Behavior change communication) material on safety nets to promote access to resources and entitlements2.2.1.1. Facilitate to organize interface meetings with service providers and target groups to improve access to the entitled public resources and services i.e. health insurance2.2.1.2. Facilitate and support to organize service providing camps at local level targeting women and marginalized groups (WMGs)2.2.2.1. Facilitate to form or reform networks of targeted communities2.2.2.2. Support to organize network meetings and action plan preparation2.2.2.3. Necessary support in the implementation of action plan"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CECI Nepal",
+        "donor_project_id": "2395",
+        "raw_payload": {
+          "id": 14493,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CECI Nepal",
+          "organization_id": 523,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Global Affairs Canada",
+    "financing": [
+      {
+        "amount": 201823.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CECI Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-01-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2395",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2395",
+        "value": "2395"
+      }
+    ],
+    "implementing_agency": "Global Affairs Canada",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "COVID-19 Recovery and Livelihood (COREL)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2395",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2395",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 201823.0,
+    "total_disbursement": 180700.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:19.033310Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2395",
+      "id": "version:entity:project/development_project/dfmis-2395:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

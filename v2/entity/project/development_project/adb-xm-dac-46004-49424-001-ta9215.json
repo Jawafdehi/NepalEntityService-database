@@ -1,0 +1,152 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from ADB on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "ADB"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:12:08.707621Z",
+  "dates": [
+    {
+      "date": "2018-04-09",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2018-04-09",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2021-12-31",
+      "source": "ADB",
+      "type": "CLOSING"
+    },
+    {
+      "date": "2023-09-19",
+      "source": "ADB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The program will support the School Sector Development Plan (SSDP), which is the government's major education initiative for FY2017-FY2023. The Asian Development Bank (ADB) and eight other joint financing partners (JFPs) will finance the program with the government during FY2017-FY2021 through a sector-wide approach."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "ADB",
+      "donor_project_id": "XM-DAC-46004-49424-001-TA9215",
+      "raw_payload": {
+        "activity_status": "3",
+        "contact": {
+          "organisation": "Asian Development Bank",
+          "person_name": "Gyawali, Smita",
+          "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=49424-001 (Closed)&officer= sgyawali@adb.org&division= Nepal Resident Mission (NRM)&projectcountry= Nepal"
+        },
+        "default_currency": "USD",
+        "hierarchy": "1",
+        "iati_identifier": "XM-DAC-46004-49424-001-TA9215",
+        "last_updated": "2025-11-24T08:42:01+08:00",
+        "locations": [
+          {
+            "exactness": "2",
+            "lat": 28.25855,
+            "location_id": "9036855",
+            "lon": 83.94523,
+            "name": "Nepal",
+            "reach": "1"
+          }
+        ],
+        "recipient_country": "NP",
+        "reporting_org_ref": "XM-DAC-46004"
+      }
+    }
+  ],
+  "executing_agency": "Asian Development Bank",
+  "financing": null,
+  "identifiers": null,
+  "implementing_agency": "Ministry of Education, Science and Technology",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Supporting School Sector Development Plan",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": null,
+  "sectors": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:11110",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:11320",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "adb-xm-dac-46004-49424-001-ta9215",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Gender Equity and Mainstreaming\nGovernance and capacity development\nKnowledge solutions\nPartnerships\nPrivate sector development",
+      "normalized_tag": null
+    },
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Gender Equity and Mainstreaming",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from ADB IATI XML Feed",
+    "created_at": "2025-12-23T19:12:08.707619Z",
+    "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-49424-001-ta9215",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

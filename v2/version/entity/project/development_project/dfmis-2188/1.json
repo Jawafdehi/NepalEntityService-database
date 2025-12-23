@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.297149Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2188",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.297151Z",
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-03-16",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Behavioral change as part of programs for PWID and their partnersHIV testing and counseling as part of programs for PWID and their partnersOST and other drug dependence treatment (PWIDs and their partners)BCC Migrants and Enhanced Peer Outreach Approach for HIV case FindingsHIV Screening in Migrant program through Health CampBehavioral change as part of programs for prison inmatesHIV testing and counseling as part of programs for prison inmatesResidential Care & Support -CCCHealth, Education and Nutritional support to children living with HIVM&E & Database Training to SRs (all component)Training for CCC staffsHepC Treatment training to Medical DoctorsPMTCT Training for Service Providers at service delivery points of DistrictsClinical management of HIV training - ToTClinical management of HIV trainingTraining cost for PE (prison inmates)Financial Management Training - SRs Finance StaffTraining to IRW including CLT - MigrantsTraining to lab personnel on health waste managementTraining and mentoring to local level data entry coordinator (by provinces)HIV and STI Testing training for Lab personnel including EIDTraining to IRW including CLT - CHBCViral load testing training using GeneXpert for lab personnelCD4 testing training for lab personnelEQAS for HIV Testing using DTSLogistic training for ART/PMTCT/STI/OST/StoreToT on Logistic ManagementOST TrainingTrainings to CBOs on Governance, financial management system. Leadership development, fund raising, sustainability etcTraining to CBOs on the application of CBMTraining to project team and district chapters, Orientation to Gender, GBV and Human Rights for law enforcement/criminal justice personnel on responding to GBV and IPVTraining for women (including trans women, FSW, MSW), focusing on empowering them to be vocal and seek help and services, particularly when facing violenceTraining on screening for GBV and IPV in training/capacity building for NGO staffOrganize MTOT on human rights and medical ethics related to HIV and TBIntegrated program approach orientation for CHBC team (online, index, BCC)Integrated program approach orientation for IRW team (online, index, BCC)One day PMTCT Orientation to Private Hospitals to aware them on reporting needs to national system.FCHV orientationOrientation to Manpower Agencies and Hotel management on HIVIntegrated program approach orientation for IRW team (online, index, BCC)Annual Planning & Review Meeting with SRs (3 Components)MESST recommendation review/workshopCABA Committee Meeting at district level for refreshment and travelQuarterly TB/HIV coordination meeting at provincial levelPlanning meeting with Prison ManagementData review and verification workshops of provincial levelCoordination meetings with the national Human Rights CouncilMeeting with parliamentary (health and education) committeeMeeting with prime minister and other relevant ministriesWorkshop on developing social media planWorkshop to develop IEC/BCC materials for different platformIBBS Surveys among Key Populations MSM TGAssessment of the HIV supply system at federal and provinces levelPDR Surveillance among ART InitiatorsIEC Material Development & Printing for PWID, Migrant SRsE-health intervention (browser or app based) including social media promotionCost associated with Rack Server for Hosting DHIS2 Tracker in data Center with VirtualizationFirewall for Anti Hack Protection (check point)AMC for mHealth Apps/DHIS2 TrackerOPMIS Upgrading and CustomizationEstablishment Support at Satellite Dispensing unitRoll out TB/HIV collaboration guidelines (developed under TB grant) at provincial levelCollaborate with TB and Malaria program for screening and test of migrants for HIV at 10 Transit check pointsFinalize DQA Protocols for National HIV programDevelop standard monitoring/ supervision protocol/tools at different levels (province and local level) to assess the quality of HIV program data and to strengthen data management and reporting systemsIntegration of lab related data (viral load etc.) in existing information system to reduce delay in sample collection to dissemination of results, and to facilitate treatment planAMC for HIV Care & ART tracking system (DHIS 2 tracker, M Health bio-metric health system)Development of M&E Framework. Workplan for national HIV programAnnual epi-analysis in timeline with global reporting using routine health facility data, surveillance surveys and other ad hoc researchWorld AIDS Day (Center and Province)Prepare SoP and develop standard training curriculumMid Term Review of HIV GrantDevelopment of CBM ManualEstablishment of ART sites -15 – InfrastructureUse of CBM Data for advocacy for improving service quality and accessibility (regular interactive meetings at local level authorities) and stakeholdersCapacity building of community for advocacy skills- referral for legal support and other advocacyDevelopments of online communication platforms for key populations for peer support and information sharingConduct mass media and"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "2188",
+        "raw_payload": {
+          "id": 13379,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Save the Children",
+    "financing": [
+      {
+        "amount": 20841345.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-03-16",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2188",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2188",
+        "value": "2188"
+      }
+    ],
+    "implementing_agency": "Save the Children",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Fast track approach towards the ending the AIDS epidemic as public health threat by 2030 achieving 95-95-95 targets.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2188",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2188",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 20841345.0,
+    "total_disbursement": 8184194.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.297149Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2188",
+      "id": "version:entity:project/development_project/dfmis-2188:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

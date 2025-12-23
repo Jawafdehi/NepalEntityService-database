@@ -1,0 +1,233 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.875194Z",
+  "dates": [
+    {
+      "date": "2020-07-16",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P169920",
+      "raw_payload": {
+        "borrower": "Government of Nepal",
+        "closingdate": "2020-07-16",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "grantamt": "0",
+        "id": "P169920",
+        "impagency": "Ministry of Finance",
+        "major_sector_code": "FX,YX",
+        "major_sector_name": "FY17 - Financial Sector,FY17 - Industry, Trade and Services",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "FX",
+              "major_sector_name": "FY17 - Financial Sector",
+              "sectors": [
+                {
+                  "sector_code": "FK",
+                  "sector_name": "FY17 - Capital Markets",
+                  "sector_percent": "0.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "YX",
+              "major_sector_name": "FY17 - Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YZ",
+                  "sector_name": "FY17 - Other Industry, Trade and Services",
+                  "sector_percent": "0.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Capital Markets,FY17 - Other Industry, Trade and Services",
+        "proj_id": "P169920",
+        "project_name": "Nepal Maximizing Finance for Development",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Finance",
+          "FY17 - Finance",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Business Enabling Environment",
+          "FY17 - Business Enabling Environment",
+          "FY17 - Environmental policies and institutions",
+          "FY17 - Finance for Development",
+          "FY17 - Financial Infrastructure and Access",
+          "FY17 - Jobs",
+          "FY17 - Public Private Partnerships"
+        ],
+        "totalamt": "150000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 150000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": null,
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P169920",
+      "value": "p169920"
+    }
+  ],
+  "implementing_agency": "Ministry of Finance",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Maximizing Finance for Development",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P169920",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Financial Sector",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p169920",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 150000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.875191Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p169920",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

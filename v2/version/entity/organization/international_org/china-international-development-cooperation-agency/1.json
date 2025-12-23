@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: China International Development Cooperation Agency",
+  "created_at": "2025-12-23T19:11:06.698896Z",
+  "entity_or_relationship_id": "entity:organization/international_org/china-international-development-cooperation-agency",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Bilateral Partners",
+      "group": "China"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Bilateral Partners"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.698899Z",
+    "description": null,
+    "id": "entity:organization/international_org/china-international-development-cooperation-agency",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "China International Development Cooperation Agency",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "china-international-development-cooperation-agency",
+    "sub_type": "international_org",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: China International Development Cooperation Agency",
+      "created_at": "2025-12-23T19:11:06.698896Z",
+      "entity_or_relationship_id": "entity:organization/international_org/china-international-development-cooperation-agency",
+      "id": "version:entity:organization/international_org/china-international-development-cooperation-agency:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

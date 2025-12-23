@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.775883Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Rasuwa - Nuwakot Rural Development Project is the second phase of the IDA-financed Rural Development Project, covering the Rasuwa and Nuwakot districts in the Central Development Region of Nepal, which was completed in June 1984. The Rasuwa - Nuwakot Rural Development Project will aim: (a) to consolidate the investments made during the earlier phase of development by making all physical facilities fully operational, and by improving the qualities and coverage of agricultural support services and the services of the institutions responsible for rural infrastructure development and maintenance. It would also seek (b) to further improve the agricultural production base and the socio-economic infrastructure; (c) to expand forestry plantation and soil conservation programs; and (d) to promote development of effective local level planning and implementation of rural development projects."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010269",
+      "raw_payload": {
+        "boardapprovaldate": "1986-07-15T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010269",
+        "major_sector_code": "AX",
+        "major_sector_name": "Agriculture, Fishing and Forestry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AA",
+                  "sector_name": "(Historic)Agriculture adjustment",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Agriculture adjustment",
+        "proj_id": "P010269",
+        "project_abstract": "The Rasuwa - Nuwakot Rural Development Project is the second phase of the IDA-financed Rural Development Project, covering the Rasuwa and Nuwakot districts in the Central Development Region of Nepal, which was completed in June 1984. The Rasuwa - Nuwakot Rural Development Project will aim: (a) to consolidate the investments made during the earlier phase of development by making all physical facilities fully operational, and by improving the qualities and coverage of agricultural support services and the services of the institutions responsible for rural infrastructure development and maintenance. It would also seek (b) to further improve the agricultural production base and the socio-economic infrastructure; (c) to expand forestry plantation and soil conservation programs; and (d) to promote development of effective local level planning and implementation of rural development projects.",
+        "project_name": "RURAL DEV III",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010269",
+      "value": "p010269"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "RURAL DEV III",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010269",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010269",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.775880Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010269",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

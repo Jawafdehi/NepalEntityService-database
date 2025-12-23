@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.956985Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-644",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.956988Z",
+    "dates": [
+      {
+        "date": "2013-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-11-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Outreach social work to identify and assist the most vulnerable children in their workplaces and linking them to existing GoN and I/NGO support schemes (CSEC/BK)\r\n\t\r\n\t\tFamily tracing and reintegration support (CSEC)\r\n\t\r\n\t\tEngagement with employers of children and their associations to enable systemic identification and responses to the most vulnerable children (CSEC/BK)\r\n\t\r\n\t\tEmpowerment of children, youth and mothers to have agency in decisions affecting their safety and protection\r\n\t\r\n\t\tContinuation of 7 drop-in centres to facilitate a ‘choice awareness’ withdrawal of girls and boys from CSEC\r\n\t\r\n\t\tSourcing and mentoring of employers to assist children into alternative  forms of employment\r\n\t\r\n\t\tConstruction of: 6 permanent child friendly toilet blocks, 120 temporary toilets, 6 wells dug/rehabilitated and installation of 4 bio-gas plants for bio-fuel and 5 sky-hydrant filters.\r\n\t\r\n\t\t Material and rehabilitation support of GoN health clinics & school toilet and sanitation facilities\r\n\t\r\n\t\tSanitation and hygiene behavioural change activities in the 6 brick kiln sites\r\n\t\r\n\t\tOrganisational and capacity development of local partner organisations and their staff\r\n\t\r\n\t\tApplication of a sustainable and structured advocacy campaign to promote the elimination of CSEC, safe guard children in the entertainment sector and the application of Nepali law and standards within both the entertainment and brick production sectors."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Terre des hommes, Lausanne",
+        "donor_project_id": "644",
+        "raw_payload": {
+          "id": 7326,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Terre des hommes, Lausanne",
+          "organization_id": 492,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Terre des hommes, Lausanne",
+    "financing": [
+      {
+        "amount": 1027572.607,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Terre des hommes, Lausanne",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-644",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/644",
+        "value": "644"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Protection of Children in Dangerous and Exploitative Child Labour - Sanrakshan",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/644",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-644",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1027572.607,
+    "total_disbursement": 1027390.2493,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.956985Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-644",
+      "id": "version:entity:project/development_project/dfmis-644:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

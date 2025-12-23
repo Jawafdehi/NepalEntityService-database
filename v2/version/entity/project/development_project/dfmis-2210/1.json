@@ -1,0 +1,199 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.347258Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2210",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.347260Z",
+    "dates": [
+      {
+        "date": "2016-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "R1.1: Assessment of existing youth led organizations and gaps in life skills.R1.2: Form/activate child clubs, and youth clubs.R1.3: Training of Trainers on life skills.R1.4: Provide orientations on life-skill (emotional management, problem solving and decision making) to children and youths.R1.5: Training of Trainers on financial skills.R1.6: Provide orientation on financial skills and promote saving habits.R2.1: Conduct CEMIS survey to identify target (out of school and likely drop out) children.R2.2: Form / activate School Management Committee (SMC), Parents’ Teachers’ Association (PTA), Village Education Committee (VEC).R2.3: Provide bursary support (through endowment fund) and educational materials to selected children for school enrolment and continuity.R2.4: Conduct school attendance audit.R2.5: Sensitise parents and facilitate parental visit to school to enhance student retention in school.R2.6: Organise campaigns for bringing and retaining out of school children in schools.R2.7: Conduct Extra-Curricular Activities (ECA) and Co-Curricular Activities (CCA).R2.8: Provide mentoring and motivational counselling to children/youth, parents/community members.R2.9: Provide remedial support to under-performing children.R2.10: Equip schools with teaching learning resources (library, information centre, SMS alert and messaging) and train staff to use them.R2.11: Develop capacity of school head teachers to lead child retention and student dropout prevention activities.R2.12: Prepare Child Centric Disaster Risk Reduction (CCDRR) plan for each school.R2.13: Provide awards/recognize best school, students and parents.R2.14: Provide vocational training for youths.R2.15: Analyse, update and adapt training package for micro-enterprise development.R2.16: Provide Training of Trainers on Micro Enterprise Development.R2.17: Provide training on Micro enterprise development for young entrepreneurs.R2.18: Support for training facilities to technical schools/vocational education providers.R2.19: Rehabilitation and equipment support to Youth Centres and Youth Exchange Forum (YEF)R3.1: Formation/strengthen cooperatives for management of revolving fund to support establishment of micro-enterprises.R3.2: Provide start up fund to cooperatives.R3.3: Link young entrepreneurs to YSEF.R3.4: Establish linkage of young entrepreneurs with financial institutes and government subsidies.R3.5: Provide support for job placement and self-employment.R3.6: Provide on the spot business/career counselling.R3.7: Facilitate mobilization of savings for investment.R3.8: Provide awards/recognize best entrepreneur.R3.9: Facilitate organisation of National Conference of Young Entrepreneurs.R3.10: Facilitate youth entrepreneurs’ participation in Annual Micro Entrepreneurs Festival,R3.11: Coordinate organisation of ‘Made in Nepal Competition’ for showcasing products of micro-enterprises.R3.12: Promote utilisation of social networks (Facebook, Twitters) by youth entrepreneurs for their products.R3.13: Establish toll free line for market information.R3.14: Conduct annual assessment to track income invested on child well-being.R3.15: Coordination and collaboration with private sector§  Conduct baseline survey.§  Kick offs, review meetings.§  Market assessment for vocational training and micro-enterprises.§  Conduct mid line and end line evaluation surveys.§  Advocacy activities for transparency (Social Audit) and dissemination (Media Partnership).§  Monitoring, Evaluation, Accountability and Learning (MEAL) implementations.§  Field visit by Bulgari team.§  TA support from SC Italy.§  Capacity building for SC and partner staff.§  Coordination and collaboration with Government line agencies and service providers.§  Visibility materials (bags, T-shirts, caps, stationeries etc.) production.§  Facilitate participation of selected students’ in national conference of young entrepreneurs.§  Organise exchange/exposure visits to enhance shared learning of children/youths and young entrepreneurs.§  Program Learning Group Meeting.§  Produce Bulletin to highlight success and lessons learned.§  Operational research"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "2210",
+        "raw_payload": {
+          "id": 10682,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "European Commission",
+        "donor_project_id": "2210",
+        "raw_payload": {
+          "id": 10683,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Save the Children",
+    "financing": [
+      {
+        "amount": 3306056.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 103431.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-11-04",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 31909.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-05-14",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2210",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2210",
+        "value": "2210"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Youth Empowerment Bulgari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2210",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2210",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3441396.0,
+    "total_disbursement": 3441396.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.347258Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2210",
+      "id": "version:entity:project/development_project/dfmis-2210:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

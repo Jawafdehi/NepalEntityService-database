@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:11.653554Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-792",
+  "start_date": null,
+  "target_entity_id": "entity:organization/ngo/associazione-italiana-donne-per-losviluppo",
+  "type": "IMPLEMENTED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project implemented by Associazione Italiana Donne Per Losviluppo",
+    "created_at": "2025-12-23T19:11:11.653565Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-792:organization/ngo/associazione-italiana-donne-per-losviluppo:IMPLEMENTED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

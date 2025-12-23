@@ -1,0 +1,201 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.104809Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-900",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.104811Z",
+    "dates": [
+      {
+        "date": "2013-06-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-09-28",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Establish and test the information  web portal –to be based in India\r\n\t\r\n\t\tPeriodic assessment of labour market information in destination countries (5 times)\r\n\t\r\n\t\tIntegrated employment services for the national and foreign labour markets will be introduced in two MOLE-job centres in Nepal\r\n\t\r\n\t\tStudy on labour market assessment in destination countries –\r\n\t\r\n\t\tEstablish information kiosks and establish a mobile team\r\n\t\r\n\t\tReview of existing  pre-departure orientation course  and upgrade it\r\n\t\r\n\t\tSupport to strengthen: online registration at DOFE and its connection with missions abroad\r\n\t\r\n\t\tStudy on recruitment cost by country and occupation\r\n\t\r\n\t\tCarry out a feasibility study to design a rating mechanism for recruitment agencies in India, Nepal and Pakistan.\r\n\t\r\n\t\tRegistration of sub-agents in India, Nepal and Pakistan and more effective regulation.\r\n\t\r\n\t\tBlue-print and advocacy for reform of the recruitment mechanism in destination countries in GCC.\r\n\t\r\n\t\tAssessment of complaints mechanisms in Nepal\r\n\t\r\n\t\tTechnical support for review of legislations;\r\n\t\r\n\t\tTU/NGO Migration resource centre strengthened\r\n\t\r\n\t\tCarry out an assessment of job requirements (skills and qualifications)\r\n\t\r\n\t\tConsultation to develop a roadmap for better alignment and compatibility between job requirements (skills and qualification) in high demand occupations: construction, hospitality, trade  and domestic work.\r\n\t\r\n\t\tUpgrade the capacity of skills training institutes\r\n\t\r\n\t\tInclude skills recognition in standardised pre-departure training and issue of skills/employment passports\r\n\t\r\n\t\tAn assessment of trends and patterns in skilled emigration and return\r\n\t\r\n\t\tA survey on remittances and financial products to attract savings and economic investments from migrants\r\n\t\r\n\t\tDiaspora projects\r\n\t\r\n\t\tA pilot programme: creation of a small fund leveraging diaspora contribution to development\r\n\t\r\n\t\tAn annual survey of key informants to monitor any significant outflows of health professionals from Nepal and corrective measures to be taken if necessary."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "European Commission",
+        "donor_project_id": "900",
+        "raw_payload": {
+          "id": 7348,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 50
+        }
+      },
+      {
+        "donor": "International Labour Organization",
+        "donor_project_id": "900",
+        "raw_payload": {
+          "id": 7350,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "International Labour Organization",
+          "organization_id": 13,
+          "percentage": 50
+        }
+      }
+    ],
+    "executing_agency": "International Labour Organization, Ministry of Labour, Employment and Social Security",
+    "financing": [
+      {
+        "amount": 481500.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "International Labour Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-07-16",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 800000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-06-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 13516.492,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-06-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-900",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/900",
+        "value": "900"
+      }
+    ],
+    "implementing_agency": "International Labour Organization, Ministry of Labour, Employment and Social Security",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting the Effective Governance of Labour Migration from South Asia through Actions on Labour Market Information, Protection during Recruitment and Employment, Skills, and Development Impact (CTR 375260)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/900",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-900",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1295016.492,
+    "total_disbursement": 1269503.5466,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.104809Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-900",
+      "id": "version:entity:project/development_project/dfmis-900:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.222517Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-322",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.222520Z",
+    "dates": [
+      {
+        "date": "2011-03-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2012-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A description of the main activities of the project \r\n4.1     Creating enabling environment for participation\r\n4.2     Building capacities and capabilities of child clubs and children networks and providing opportunities for participation\r\n4.3     Innovation for reaching adolescent girls and the most disadvantaged\r\n4.4     Knowledge management"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Children's Fund",
+        "donor_project_id": "322",
+        "raw_payload": {
+          "id": 2785,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Children's Fund",
+          "organization_id": 11,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Children's Fund",
+    "financing": [
+      {
+        "amount": 662868.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Children's Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-03-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-322",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/322",
+        "value": "322"
+      }
+    ],
+    "implementing_agency": "Ministry of Federal Affairs & General Administration, Kavrepalanchowk District Development Committee, Bajhang District Development Committee, Tanahun District Development Committee, Mugu District Development Committee, Rukum District Development Committee, National Planning Commission, Humla District Development Committee, Accham District Development Committee, Bajura District Development Committee, Udayapur District Development Committee, Sunsari District Development Committee, Dolpa District Development Committee, Jumla District Development Committee, Nawalparasi District Development Committee, Dadeldhura District Development Committee, Dang District Development Committee, Jajarkot District Development Committee, District Child Welfare Board, Panchthar District Development Committee, Chitwan District Development Committee, Kaski District Development Committee, Save the Children, Kapilvastu District Development Committee, Saptari District Development Committee, Kalikot District Development Committee, Parsa District Development Committee",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PCR5, IR - 4: Participation and Partnerships",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/322",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-322",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 662868.0,
+    "total_disbursement": 558075.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.222517Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-322",
+      "id": "version:entity:project/development_project/dfmis-322:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,200 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.763438Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Municipal Development and Earthquake Emergency Housing Reconstruction Project comprises two distinct streams of investments : (i) a Municipal Development Component (MDC); and (ii) the Earthquake Emergency Housing Reconstruction Component (EEHRC). The MDC will assist town panchayats by : (i) establishing, as a pilot operation, a national level financial intermediary, the Town Development Fund Board, which will have a line of credit for the financing of priority social infrastructure and revenue generating projects in eligible town panchayats; (ii) strengthening the Board's operating procedures; and (iii) provide technical assistance and training for strengthening town panchayats' administrative, technical and financial capacity for project implementation and service management. The EEHRC will : (i) assist in the reconstruction of housing damaged in the August 1988 earthquake; (ii) improve construction standards; (iii) improve the environment by mitigating the use of timber in building products; and (iv) provide technical assistance and training to address longer term needs."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010326",
+      "raw_payload": {
+        "boardapprovaldate": "1989-03-14T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "envassesmentcategorycode": "C",
+        "id": "P010326",
+        "major_sector_code": "BX,JX,WX,YX",
+        "major_sector_name": "(Historic)Health and other social services,Industry, Trade and Services,Public Administration,Water, Sanitation and Waste Management",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "Central Government (Central Agencies)",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "BH",
+                  "sector_name": "Sub-National Government",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "JX",
+              "major_sector_name": "(Historic)Health and other social services",
+              "sectors": [
+                {
+                  "sector_code": "JB",
+                  "sector_name": "Other social services",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "WX",
+              "major_sector_name": "Water, Sanitation and Waste Management",
+              "sectors": [
+                {
+                  "sector_code": "WZ",
+                  "sector_name": "Other Water Supply, Sanitation and Waste Management",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "YX",
+              "major_sector_name": "Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YC",
+                  "sector_name": "Housing construction",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Central Government (Central Agencies),Housing construction,Other Water Supply, Sanitation and Waste Management,Other social services,Sub-National Government",
+        "proj_id": "P010326",
+        "project_abstract": "The Municipal Development and Earthquake Emergency Housing Reconstruction Project comprises two distinct streams of investments : (i) a Municipal Development Component (MDC); and (ii) the Earthquake Emergency Housing Reconstruction Component (EEHRC). The MDC will assist town panchayats by : (i) establishing, as a pilot operation, a national level financial intermediary, the Town Development Fund Board, which will have a line of credit for the financing of priority social infrastructure and revenue generating projects in eligible town panchayats; (ii) strengthening the Board's operating procedures; and (iii) provide technical assistance and training for strengthening town panchayats' administrative, technical and financial capacity for project implementation and service management. The EEHRC will : (i) assist in the reconstruction of housing damaged in the August 1988 earthquake; (ii) improve construction standards; (iii) improve the environment by mitigating the use of timber in building products; and (iv) provide technical assistance and training to address longer term needs.",
+        "project_name": "MUNIC.DEV & EARTHQUA",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010326",
+      "value": "p010326"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "MUNIC.DEV & EARTHQUA",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010326",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "(Historic)Health and other social services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Water, Sanitation and Waste Management",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010326",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.763436Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010326",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.076065Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-890",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.076068Z",
+    "dates": [
+      {
+        "date": "2014-12-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-04-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "-        Train nursing staff to become Skill Birth Attendants (SBA) in Birthing centers (8 weeks residential training at Zonal Hospital Dhangadhi)\r\n\r\n\t-        Onsite coaching to SBA working at low delivery volume sites to retain their skills (using SBA trainers/or deputation at SZH)\r\n\r\n\t-        Supporting Strengthening Comprehensive Emergency Obstetric Care (CEOC) site in District Hospital in Martadi with equipment, instruments and training )\r\n\r\n\t-        Support Strengthening Basic Emergency Obstetric Care (BEOC) site in Kolti, PHC with equipment, instruments and training)\r\n\r\n\t-        Birthing Center construction and renovation support in two VDC’s Equipment and infrastructure support to 21 birthing centers\r\n\r\n\t-        Support to establish Solar heating system at birthing center\r\n\r\n\t-        Support to establish baby corner for neonates in high altitude VDC’s (baby cots, mattress, blankets and lights etc\r\n\r\n\t-        Implementation of Self Applied techniques for quality Health (SATH) method at community level\r\n\r\n\t-        Orientation of HWs, FCHVs and HFOMC members on SATH\r\n\r\n\t-        Orientation and on site coaching to MG meeting on MNH issues\r\n\r\n\t-        Regular joint monitoring of CEOC, BEOC sites and Birthing centers\r\n\r\n\t-        Orientation to FCHVs on MNH issues (2 days)\r\n\r\n\t-        Intensive monitoring of the MNH program\r\n\r\n\t-        Birth preparedness Package training to FCHVs (2+1 days)\r\n\r\n\t-        Resource Person for FCHVs training (1 local and 1 from DHO)\r\n\r\n\t-        Sensitization of MGs, CGSs, VSLA groups on MNH issues to increase service utilization at community level (1day)\r\n\r\n\t-        Implementation of health exhibition program focusing on MNH issues at low service utilization areas of the district\r\n\r\n\t-        Display of hoarding boards, Wall painting on MNH issues in high movement areas\r\n\r\n\t-        Implement the Community Health Score Board approach in Birthing centers\r\n\r\n\t-        Orientation to DHO staff on Community Health Score Board (CHSB)\r\n\r\n\t-        Identify the HF for the implementation of CHSB program based in current service statics (good, average, poor performing in terms of MNH program)\r\n\r\n\t-        Bi-annual review and monitoring of CHSB progress\r\n\r\n\t-        Orientation to HFOMC members, community leaders including traditional healers on MNH issues\r\n\r\n\t-        Establish and contribute to district level quality support funds for need based support at HF\r\n\r\n\t-        Infection prevention training to health facility staff in 21 birthing centers, 4 days per HF plus 2 days follow ups\r\n\r\n\t-        Peer education approach for MNH awareness in hard to reach communities/including training to Peer educators on MNH and interpersonal communication\r\n\r\n\t-        Orientation of mother in law, father in law, husband of pregnant women on MNH\r\n\r\n\t-        Orientation to HFOMC members, community leaders including traditional healers on MNH issues\r\n\r\n\t-        Development and airing of messages in MNH for Radio and local cable network and airing from local FM stations and local cable channel distributers\r\n\r\n\t-        Design, develop and distribute IEC/BCC materials\r\n\r\n\t-        Training to Social Mobilizers on MNH issues (3 days)\r\n\r\n\t-        Strengthen maternal and new born death audit at district and community level and sharing back to community\r\n\r\n\t-        Implementation of Self Applied Techniques for quality health (SATH) method at community level (40 sites within 27 VDCs)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "890",
+        "raw_payload": {
+          "id": 7732,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "CARE Nepal",
+    "financing": [
+      {
+        "amount": 431985.8431,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-12-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-890",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/890",
+        "value": "890"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PAHUNCH - (Surakshit Matritwa Sewa ma Pahunch)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/890",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-890",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 431985.8431,
+    "total_disbursement": 410753.670843,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.076065Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-890",
+      "id": "version:entity:project/development_project/dfmis-890:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

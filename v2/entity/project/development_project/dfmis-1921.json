@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.741311Z",
+  "dates": [
+    {
+      "date": "2020-09-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-02-28",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1Provide relief support (food and non-food items/materials) to target families using modality agreed with the GoN. This is a priority action given economic impact for many vulnerable families, such as those dependent on daily wage labour who cannot work during the lockdown and affected by the COVID-19 pandemic.2.1.1Support local government for health material such as PPE and other required materials/equipment .This support is primarily for district and local health facilities, District Disaster Management Committee (DDMC) and Local Disaster and Climate Resilience Committee (LDCRC).2.1.2 Provide support to local level governments to establish or continue quarantine centers if required.2.1.3 Support government of Nepal’s request regarding NFI (non-food items) to the most vulnerable households staying in quarantine (seasonal migrants returning from India). Additional protection assessments are also required for support.3.1.1 Disseminate PSAs, social media, phone and video messaging on hand washing, food hygiene, personal hygiene, respiratory hygiene, maintaining personal distance and surface cleaning. (Using existing GoN materials and prescribed message, gender responsive , AGE SPECIFIC AND CHILD PROTECTION ) on COVID-19 preventive measures3.1.2 Social Behaviour Change Communication sessions on COVID-19 hygiene practices through WASH Champions and FCHVs.3.1.3 Work with youth groups to set up an online competition on handwashing demonstration, etc.3.1.4 Mobilize youth networks to raise awareness on frequent and proper personal hygiene that lead to behaviour change s (using safe approaches and maintaining a required social distance).3.1.5 Production and dissemination of education specific messages through audio using sign language  following govt and education cluster message3.1.6 Disseminate message on radio and social media to remind parents on how they can support their young children’s:3.1.7 Production and communication about transfer messages and IEC materials4.1.1 Establishment of child, women and senior citizen friendly feedback mechanism  to listen the concerns, fears and questions about our work in the community.4.1.2 Orientations on community engagement and accountability mechanism to staff of Plan and partner staff.4.1.3 Public audit/social audit, community feedback mechanisms and Independent third party monitoring"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Plan Nepal",
+      "donor_project_id": "1921",
+      "raw_payload": {
+        "id": 12945,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Plan Nepal",
+        "organization_id": 277,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Plan Nepal",
+  "financing": [
+    {
+      "amount": 843660.7536,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Plan Nepal",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-09-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1921",
+      "value": "1921"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "COVID - 19 Response Project in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1921",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1921",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 843660.7536,
+  "total_disbursement": 844142.2488,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.741308Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1921",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

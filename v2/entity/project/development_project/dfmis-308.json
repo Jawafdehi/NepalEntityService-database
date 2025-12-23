@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.744470Z",
+  "dates": [
+    {
+      "date": "2011-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "A description of the main activities of the project \r\n1.1  Inclusion of child Protection in all relevant national legislation being drafted or revised, in line with international child rights standards.\r\n1.2  Development of practical training curriculum and materials for the implementation of a child-friendly justice system\r\n1.3  Capacity building of justice personnel, police, child psychologists/social workers for the implementation of a child-friendly justice system in selected districts\r\n1.4  Implementation of a child-friendly justice system for children victims, witnesses and offenders in selected districts\r\n1.5 Development and implementation of community-based diversion, restorative justice and alternatives to detention in selected districts"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "308",
+      "raw_payload": {
+        "id": 2373,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Children's Fund",
+  "financing": [
+    {
+      "amount": 800000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/308",
+      "value": "308"
+    }
+  ],
+  "implementing_agency": "Society of Local Volunteers Effort, Diyalo Pariwar, JSI Research & Training Institute Inc/World Education, Centre for Victims of Torture Nepal, Human Rights Network and Peace Action Group, Forum for Women, Law & Development, Informal Sector Service Centre, Indreni Rural Development Centre, Integrated Community Development Campaign, Himalayan Human Rights Monitors, Search for Common Ground, Child Welfare Society, Rural Community Development Service Council, Central Child Welfare Committee, Beautiful Nepal Association, Siddhartha Social Development Center, Advocary Forum, Transcultural Psychosocial Organization, Children Women in Social Service and Human Rights, Save the Children, Panch Tara Yuva Samrakshyak Manch, Terre Des Hommes, Community Development Programme, Ecology, Agriculture and Rural Development Society",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PCR 4, IR 1 - Legislation and Justice System",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/308",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-308",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 800000.0,
+  "total_disbursement": 608168.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.744466Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-308",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.463578Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p152377",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.463581Z",
+    "dates": null,
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P152377",
+        "raw_payload": {
+          "boardapprovaldate": "2016-01-13T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "7047000100",
+          "envassesmentcategorycode": "B",
+          "grantamt": "1164000000",
+          "id": "P152377",
+          "major_sector_code": "EX",
+          "major_sector_name": "FY17 - Education",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "EX",
+                "major_sector_name": "FY17 - Education",
+                "sectors": [
+                  {
+                    "sector_code": "EP",
+                    "sector_name": "FY17 - Primary Education",
+                    "sector_percent": "70.0"
+                  },
+                  {
+                    "sector_code": "ES",
+                    "sector_name": "FY17 - Secondary Education",
+                    "sector_percent": "30.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Primary Education,FY17 - Secondary Education",
+          "proj_id": "P152377",
+          "project_name": "School Sector Reform Program Additional Financing",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Social Development and Protection",
+            "FY17 - Social Development and Protection"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Fragility, Conflict and Violence",
+            "FY17 - Social Inclusion"
+          ]
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 1164000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2016-01-13",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p152377",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P152377",
+        "value": "p152377"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "School Sector Reform Program Additional Financing",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P152377",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Education",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p152377",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Social Development and Protection",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Social Development and Protection",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.463578Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p152377",
+      "id": "version:entity:project/development_project/wb-p152377:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

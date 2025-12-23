@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.507065Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-144",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.507067Z",
+    "dates": [
+      {
+        "date": "2011-07-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-07-25",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "VDC & District Level Orientation\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tOrientation for Resource Pool\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on group management and leadership\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on saving and credit mobilizing for group\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on book keeping for group\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on dream mapping for groups\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on participatory planning for groups\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on participatory planning for groups\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tReview workshop with groups\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tGroup strengthening\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on network formation\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tNetwork formation\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on dream mapping & participatory planning & partnership for networks\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tExposure visit for networks\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTrainings for networks ( Communication, Record keeping, Account keeping, Report & Proposal Writing)\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tReview workshop with networks\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tVocational Training\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on Kitchen Gardening and inputs \r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on Sunflower Plantation and inputs\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on Sunflower Plantation\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tPoultry Farming\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tGroup promoted IGA activities\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on Professional Capacity Building\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tPromotion of Dhikki (Paddle)Pump or Irrigation\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t.School Enrollment Campaign\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tBasic Training on NFE\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tCurriculum /Material Development\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tRun NFE class for six month\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tIn Service Training\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tNFE Follow up Training/Refresher Training\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tNFE Follow up Training/Refresher Training\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tRun CLC Classes (15 Centre)\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tIn-service Training for CLC Facilitators\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on Wall Magazine Publication\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tPublish Wall Magazine\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tSpecial Coaching Class for 50 Students\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tOrientation on PHAST\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tPHAST Campaign (In 41 Clusters x 2 Times)\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on first aid\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tFollow-up training on first aid\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t.  Orientation on Adolescent & Women health\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tAwareness Campaign on Adolescent & Women Health\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tInteraction with government authorities and other key stakeholders\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on local, national & international policies\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tSubmit letter of attention\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tFreed Kamaiya Day - 2 Shrawan (Nepali Calendar)\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWomen's Day - 8 March\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tChildren's Day – 20 November\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tDay for violence against women-November 25\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on gender and domestic violence for group\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tTraining on advocacy skill development for group\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tIEC Materials\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tOrientation on local resources identification & mobilization\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tWorkshop on Local Resources Identification & Mobilization\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tVDC Level Interaction between Service Providers & Community\r\n\t\t\t\t\t\r\n\t\t\t\t\t\tDDC Level Interaction between Service Providers & Community"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "AWO International",
+        "donor_project_id": "144",
+        "raw_payload": {
+          "id": 2946,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "AWO International",
+          "organization_id": 516,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "AWO International",
+    "financing": [
+      {
+        "amount": 488974.8744,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-07-25",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-144",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/144",
+        "value": "144"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Empowerment and Sustainable Livelihood Development Program  (CESL)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/144",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-144",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 488974.8744,
+    "total_disbursement": 445528.242,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.507065Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-144",
+      "id": "version:entity:project/development_project/dfmis-144:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

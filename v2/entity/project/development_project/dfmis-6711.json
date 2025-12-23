@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.632469Z",
+  "dates": [
+    {
+      "date": "2023-06-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-06-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2027-06-14",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Support to land tenure security of landless and informal tenure-holdersImproved strategies and tools to support reduced landlessness.Strengthened capacity of near-landless indigenous people for application of green technology and Climate Smart Agriculture (CSA)Climate smart and resilient livelihood options demonstrated.Safety net of community groups/networks established with enhanced market linkages and value chain system.Community groups and individual beneficiary households with enhanced access to finance and risk transfer schemes.Regularize indigenous groups support conservation, regreening and ORR on public lands.Inclusive and Risk Sensitive Land Use Plans (RSLUP) developed.Strengthened capacity of municipal stakeholders to implement inclusive, gender responsive and fit-for-purpose (FFP) land tools, efficient land management and development/ implementation of climate smart RSLUP.Knowledge sharing and dissemination of learnings"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Human Settlements Programme",
+      "donor_project_id": "6711",
+      "raw_payload": {
+        "id": 44691,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Human Settlements Programme",
+        "organization_id": 16,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+  "financing": [
+    {
+      "amount": 3100000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Human Settlements Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6711",
+      "value": "6711"
+    }
+  ],
+  "implementing_agency": "United Nations Human Settlements Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "A safety net of innovative land tenure solutions for near landless sharecroppers and for a greener rural Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6711",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Public Service that are not elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "General Public Service that are not elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6711",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3100000.0,
+  "total_disbursement": 1054099.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.632466Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6711",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

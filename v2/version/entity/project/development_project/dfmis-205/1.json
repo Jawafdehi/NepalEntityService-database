@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.049679Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-205",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.049682Z",
+    "dates": [
+      {
+        "date": "2010-09-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-07-12",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A1. CBSP Groups know and use  available varieties and technologies\r\n\t\r\n\t\tA2. Poor and disadvantaged households have increased access to quality maize seed and proven technologies\r\n\t\r\n\t\tA3. CBSP groups/Cooperatives supply quality seeds at competitive market price\r\n\t\r\n\t\tA4. Poor and disadvantaged maize producing HHs have access to multiple agricultural interventions  for enhanced productivity\r\n\t\r\n\t\tB.1  National Seed Board ( NSB), NARC, DoA allow decentralized source seed production system\r\n\t\r\n\t\tB.2 Public and private institutions obtain seed inspection mandate and license\r\n\t\r\n\t\tB.3  CBSP/cooperatives manage  supply of quality seed\r\n\t\r\n\t\tB.4 NSB and NARC consider HMRP’s experience in variety development, certification and release system"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "U.S. Agency for International Development",
+        "donor_project_id": "205",
+        "raw_payload": {
+          "id": 1209,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 47,
+          "organization__development_cooperation_group__name": "United States of America",
+          "organization__logo": "",
+          "organization__name": "U.S. Agency for International Development",
+          "organization_id": 32,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "U.S. Agency for International Development",
+    "financing": [
+      {
+        "amount": 2000000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "U.S. Agency for International Development",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-09-03",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 215958.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "U.S. Agency for International Development",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-07-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-205",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/205",
+        "value": "205"
+      }
+    ],
+    "implementing_agency": "CIMMYT",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hill Maize Research Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/205",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-205",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2215958.0,
+    "total_disbursement": 2215958.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.049679Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-205",
+      "id": "version:entity:project/development_project/dfmis-205:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

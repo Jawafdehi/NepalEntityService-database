@@ -1,0 +1,154 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.708014Z",
+  "dates": [
+    {
+      "date": "2025-10-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-10-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1.IP Health workers training on air pollution and counselling skills1.1.2.IP Clinicians orientation on air pollution and counselling skills1.1.3.IP Air purifiers and air quality sensor installation in maternity and paediatric wards1.1.4. Social Welfare Council (SWC) Regulation charge1.1.5 Program Technical Team2.1.1.IP Orientation to implementing partner (partner onboarding)2.1.2.IP FCHVs training2.1.3.IP Monthly household visits by FCHV2.1.4.IP FCHVs deliver awareness sessions during mothers’ group meetings2.1.5.IP BCC strategy suggested activity implementation2.1.6.IP Hands-on orientation and supportive supervision3.1.1.IP.Consensus reached to form a drafting committee for local air quality management plan3.1.2.IP. Co-design workshop3.1.3.IP Listening tours3.1.4.IP Policy dialogue at Province & Local government level3.1.5.IP Annual review reported feedback and suggestions on the programme’s performance3.1.6.IP Local AQMP drafting3.1.1: Federal level policy dialogue3.1.2: National multi-stakeholder dialogue on national AQMP3.1.3 Field visit for program monitoring and evaluation"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Family Health International",
+      "donor_project_id": "6737",
+      "raw_payload": {
+        "id": 44831,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Family Health International",
+        "organization_id": 267,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health",
+  "financing": [
+    {
+      "amount": 278487.06736263,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "British Pound Sterling",
+      "donor": "Family Health International",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-10-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6737",
+      "value": "6737"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal FCDO Clean Air",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "Nepal FCDO Clean Air",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6737",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Pollution Minimization/Reduction",
+      "donor_subsector": null,
+      "normalized_sector": "Pollution Minimization/Reduction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6737",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 278487.06736263,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.708010Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6737",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

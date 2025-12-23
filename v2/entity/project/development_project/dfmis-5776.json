@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.345144Z",
+  "dates": [
+    {
+      "date": "2011-03-30",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-03-30",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Catalytic funding is sought for two activities related to the transition from the needs assessment to a longer term  programme of activities through the UNDP’s CLD Programme:\r\n\r\n\t \r\n\r\n\tA.      Three consultative workshops in March on collaborative leadership challenges in Nepal, targeting youth, women, and political party actors.   \r\n\r\n\tB.      The development and early implementation by the CLD Programme staff of a detailed two-year plan of action based on the CLD needs assessment, including a national mapping of all related donor-funded activities, and including the inputs received from the March consultative workshops.\r\n\r\n\t \r\n\r\n\tTimeline\r\n\r\n\tThree workshops will take place in March 2011.  The CLD Programme will host a meeting in early April 2011 of all actors, national and international, in order to share findings and support sustained coordination on issues regarding collaboration, leadership and dialogue.\r\n\r\n\t \r\n\r\n\tIn April 2011, on the basis of programme planning, the CLD Programme will hire a core team of three to six Nepali facilitators and trainers who can initiate activities. This core team will be needed for at least six months as partnerships with national and local actors as well as government, are established."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "5776",
+      "raw_payload": {
+        "id": 36121,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 22,
+        "organization__development_cooperation_group__name": "Norway",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 37,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 152157.8,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-04-28",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5776",
+      "value": "5776"
+    }
+  ],
+  "implementing_agency": "United Nations Development Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Peacebuilding and collaborative leadership, phase 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5776",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5776",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 152157.8,
+  "total_disbursement": 152157.8,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.345142Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5776",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

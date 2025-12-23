@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.529995Z",
+  "dates": [
+    {
+      "date": "2024-05-21",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-05-21",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2027-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "S2HSS II aims to enhance institutional capacity of state actors in health sector, including Ministry of Health and Population (MoHP), the Health Insurance Board (HIB), and municipal health authorities, to ensure equitable healthcare and social health protection for the population. The project is built on results of the previous phases (S2HSP,2016-21 and S2HSS, 2021-24). It concentrates on three thematic areas and is closely aligned with the implementation plan of the NHS-SP 2023-2030:a) Social health protection – improve the institutional capacity of Health Insurance Board (HIB) to achieve financial sustainability of the national health insurance schemeb) Health Governance- evidence based municipal health sector management with collaboration of vulnerable women and marginalized groupsc) Digital Health- Improve the institutional capacities of state actors to network digital health information systemshttps://www.giz.de/en/worldwide/108571.html"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "German Corporation for International Cooperation",
+      "donor_project_id": "6449",
+      "raw_payload": {
+        "id": 42294,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 35,
+        "organization__development_cooperation_group__name": "Germany",
+        "organization__logo": "",
+        "organization__name": "German Corporation for International Cooperation",
+        "organization_id": 24,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 8147173.78,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "Euro",
+      "donor": "German Corporation for International Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-05-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6449",
+      "value": "6449"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Support to the Health Sector Strategy II (S2HSS II)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6449",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6449",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 8147173.78,
+  "total_disbursement": 58170.91,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.529992Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6449",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

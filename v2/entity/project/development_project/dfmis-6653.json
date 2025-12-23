@@ -1,0 +1,168 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.462881Z",
+  "dates": [
+    {
+      "date": "2024-11-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-11-26",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Female and Male Migrant workers and their families have increased the Benefits and mitigated the Social Implications of Migration. 2. All three levels of government use effective mechanisms for the protection of migrant workers and their families."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "6653",
+      "raw_payload": {
+        "id": 44386,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Labour, Employment and Social Security",
+  "financing": [
+    {
+      "amount": 8238000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-11-26",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3102997.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-11-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6653",
+      "value": "6653"
+    }
+  ],
+  "implementing_agency": "Ministry of Labour, Employment and Social Security",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Safer Migration Programme, (SaMi) Phase IV",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "सुरक्षित आप्रवासन कार्यक्रम, चौथो चरण",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6653",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Unemployment",
+      "donor_subsector": null,
+      "normalized_sector": "Unemployment",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6653",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 11340997.0,
+  "total_disbursement": 2050244.72533149,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.462863Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6653",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from JICA Yen Loan Database",
+  "created_at": "2025-12-23T19:12:09.982956Z",
+  "entity_or_relationship_id": "entity:project/development_project/jica-kulekhani-disaster-prevention-project-19901005",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from JICA on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "JICA"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:09.982960Z",
+    "dates": [
+      {
+        "date": "1990-10-05",
+        "source": "JICA",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "JICA Yen Loan project: Kulekhani Disaster Prevention Project. Sector: Irrigation And Flood Control. Subsector: Irrigation And Flood Control"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "JICA",
+        "donor_project_id": "JICA-19901005-kulekhani-disaster-prevention-",
+        "raw_payload": {
+          "country": "Nepal",
+          "ex_ante_evaluation": "",
+          "ex_post_evaluation": "",
+          "memo": "",
+          "no": "10",
+          "other_url": "",
+          "region": "South Asia",
+          "special_loan_type": ""
+        }
+      }
+    ],
+    "executing_agency": "Nepal Electricity Authority",
+    "financing": [
+      {
+        "amount": 2710000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "JPY",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "JICA Yen Loan",
+        "is_actual": true,
+        "source": "JICA",
+        "terms": {
+          "grace_period_years": 10,
+          "interest_rate": 1.0,
+          "repayment_period_years": 30,
+          "tying_status": "General Untied"
+        },
+        "transaction_date": "1990-10-05",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": null,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "JPY",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "JICA Consulting Portion",
+        "is_actual": true,
+        "source": "JICA",
+        "terms": {
+          "grace_period_years": 10,
+          "interest_rate": 1.0,
+          "repayment_period_years": 30,
+          "tying_status": "General Untied"
+        },
+        "transaction_date": "1990-10-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/jica-kulekhani-disaster-prevention-project-19901005",
+    "identifiers": null,
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kulekhani Disaster Prevention Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Japan International Cooperation Agency",
+        "donor_sector": "Irrigation And Flood Control",
+        "donor_subsector": "Irrigation And Flood Control",
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "jica-kulekhani-disaster-prevention-project-19901005",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2710000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from JICA Yen Loan Database",
+      "created_at": "2025-12-23T19:12:09.982956Z",
+      "entity_or_relationship_id": "entity:project/development_project/jica-kulekhani-disaster-prevention-project-19901005",
+      "id": "version:entity:project/development_project/jica-kulekhani-disaster-prevention-project-19901005:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

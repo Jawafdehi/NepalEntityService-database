@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: German Corporation for International Cooperation",
+  "created_at": "2025-12-23T19:11:06.557796Z",
+  "entity_or_relationship_id": "entity:organization/international_org/german-corporation-for-international-cooperation",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Bilateral Partners",
+      "group": "Germany"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Bilateral Partners"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.557798Z",
+    "description": null,
+    "id": "entity:organization/international_org/german-corporation-for-international-cooperation",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "German Corporation for International Cooperation",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "german-corporation-for-international-cooperation",
+    "sub_type": "international_org",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: German Corporation for International Cooperation",
+      "created_at": "2025-12-23T19:11:06.557796Z",
+      "entity_or_relationship_id": "entity:organization/international_org/german-corporation-for-international-cooperation",
+      "id": "version:entity:organization/international_org/german-corporation-for-international-cooperation:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.299630Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2189",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.299632Z",
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-03-16",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Operation of TB Referral Centre and MDR TB centers in Nepalgunj, Kathmandu and BiratnagarTB Case finding intervention: sputum transportation & managementhousehold visits to Volunteer-Mandatory contact tracing of household member of PBC index and all child TB casesTB screening in border (transit point) between Nepal and India.Screening of prisoners with x-rayEstablishment of DOTS Center in prisonestablish presumptive childhood TB screening at major hospitalTB case notification from private Doctor to Recorder of those private provider and Private institutionpharmacist to screen of all referred presumptive cases and recording/reporting & provide x-ray cost to Hub facilities for presumptive patient.Active case finding InterventionsMessage broadcasting through Television, Radio, FMs and other social mediaProgram monitoring and supervisionMobilize FCHVS or community worker to trace and enroll initial defaulter on treatment.Initiation of TPT among children beyond 5 years, adult and adolescent contacts.Expansion of PPM activities to additional 5 Sub-metro cities.Strengthen Local level (LL) through micro planning in 50 districts.ACF in vulnerable and hard to reach areas using mobile VanTB screening among migrants and prison populationsTB screening among slum, Monasteries, refugees, Madarasa, geriatric homes and kiln and cement factories.Web/based smartphones platform TB applications & Phone based, text and voice Automation to Reach to TB clientsEstablishing Quality Management System (QMS) in TB reference laboratories including National TB Reference Laboratory (NTRL)Meeting with parliamentary (health and education) committeeWorkshop to define role and function of high-level end TB committeeworkshop to develop engagement strategy to develop and integrate TB component in the pre-service and in-service curriculumWorkshop to Revise CSS strategyMeeting with youth to identify their role and responsibility in community TB careWorkshop to develop social media planWorkshop to develop IEC/BCC materials for different platformWorkshop Re-designate the TB Microscopy centersmeeting of TB/HIV committee at national and provincial levelWorkshop to develop guidelines of TB/diabetic collaborative activitiesCoordination meeting to include TB-Diabetes in NCD PEN packageCollaborative meetings to initiate TB screening among diabeticWorkshop to develop standardized approach for screening of TB among diabetic patientsWorkshop to develop guideline of TPT managementWorkshop to develop interoperable reporting template between e-DR TB and DDA reportingWorkshop to identify flexible methods of DOTS in NepalWorkshop for finalization of guideline of micro planningMeeting with MoHP, DoHS and other relevant stakeholders to include FAST as part of hospital infection control guidelineWorkshop to develop Active Case Finding (ACF) protocolWorkshops to identify and record the hard to reach and vulnerable population.Kick off meeting/orientation/Semiannual meeting between PR/SR/MOHP at national levelWorkshop to develop and finalize the training manual for paramedical and nursing staff.Workshop to integrate TB screening and referral in regular childhood program - IMNCH, deworming, Vitamin A.Workshop to develop/revise IMNCI and CB-IMNCI guidelines including childhood TB management and R&R toolsMeeting with hospital administration and relevant staff on implementing FAST approachTrimester review meeting of hospital implementing FASTTrimester review meeting of active case finding interventions aligning with trimester program review workshop at local levelStartup meeting with stakeholders of province/districts including PHD, health office, security personnel and other organization working in borderStakeholder review meeting at border in every 3 monthsMeeting/workshop with prison and other stakeholderRegular meeting of survival groups at Provincial levelsAdvocacy meeting at local level with service providers, local leaders & patients.Workshop to finalize integrated sample transportation network plan.Training to develop a pool of national trainers for clinical management of TBTraining to develop a pool of national trainers for programmatic management of TBChildhood TB training at national/provincial levelTraining for store management, commodity handling, safety and security for store support staff of Central and PHLMC WarehouseConduct CME / orientation on TB-diabetic coinfectionTraining to develop capacity of health staff on TB diagnosis, Management and aDSMToT on micro planningOrientation of Hospital staff on FAST approachTraining to the ORWs on the active case finding interventions.Orientation to health worker on case finding interventionsOrientation to stakeholders working in borderTrain Prion staff- Naike, Bhai Naike and other relevant staffTraining to health workers used in screening campProvide refresher training on childhood TB management for medical doctors and paramedicOrientation to private doctors on NTP guidelines & R&ROrientation of pharmacist on presum"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "2189",
+        "raw_payload": {
+          "id": 12832,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Save the Children",
+    "financing": [
+      {
+        "amount": 16678143.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-03-16",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2189",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2189",
+        "value": "2189"
+      }
+    ],
+    "implementing_agency": "Save the Children",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "To achieve 80% reduction in the tuberculosis incident rate and 90% reduction in the absolute number of tuberculosis death by 2030 as compared to the levels of 2015",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2189",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2189",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 16678143.0,
+    "total_disbursement": 8273990.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.299630Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2189",
+      "id": "version:entity:project/development_project/dfmis-2189:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

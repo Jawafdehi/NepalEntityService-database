@@ -1,0 +1,198 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:16.251359Z",
+  "dates": [
+    {
+      "date": "2010-07-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-07-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Ipas/Nepal will continue supporting National Safe Abortion Policy (2002), National MA Scale up Strategy (2009) and will provide technical support to FHD/TCIC to ensure the quality of the Comprehensive Abortion Care provided by all listed CAC sites (government, NGOs and private) according to the Pregnancy Termination Procedural Order 2003.Ipas will support the process of national review and planning in order to ensure adequate resources to scale up and sustain a high quality Safe Abortion Program.Ipas will provide assistance in the development and baseline assessment of key indicators to measure impact of the Safe Abortion program.Ipas will work to expand increasing awareness strategies and will ensure the development and distribution of appropriate IEC materials.Ipas will also continue to support the local NGO partners to play a complementary and supplementary role to enhance the service delivery and expand access to safe abortion services to all needy women in Nepal."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "IPAS Nepal",
+      "donor_project_id": "1721",
+      "raw_payload": {
+        "id": 2654,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "IPAS Nepal",
+        "organization_id": 545,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "IPAS Nepal",
+  "financing": [
+    {
+      "amount": 888414.6453,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1049217.416,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1560170.877,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1754878.43,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1497067.671,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "IPAS Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1721",
+      "value": "1721"
+    }
+  ],
+  "implementing_agency": "IPAS Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Support to National Safe Abortion Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1721",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1721",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 6749749.0393,
+  "total_disbursement": 6748503.8373,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:16.251355Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1721",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

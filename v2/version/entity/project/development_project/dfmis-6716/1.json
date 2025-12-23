@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.650435Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6716",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.650438Z",
+    "dates": [
+      {
+        "date": "2024-09-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-09-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Output 1: Knowledge on successful gender-responsive and inclusive climate actions collated to develop an integrated framework for localization of relevant SDGsOutput 2: Targeted local governments capacitated with an integrated policy framework developed in a participatory manner to advance rural and urban development that is increasingly sustainable and climate resilient through localization of successful climate actions (UNSDCF Output 3.1.2)Output 3: Evidence-based advocacy and communications for scaling up of an integrated climate action localisation framework promoted to enhance awareness and access to finance"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Human Settlements Programme",
+        "donor_project_id": "6716",
+        "raw_payload": {
+          "id": 44711,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Human Settlements Programme",
+          "organization_id": 16,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forest, Tourism and Water Supply",
+    "financing": [
+      {
+        "amount": 75140.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Human Settlements Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-09-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6716",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6716",
+        "value": "6716"
+      }
+    ],
+    "implementing_agency": "United Nations Human Settlements Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SDG Acceleration for Climate Action",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6716",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Public Service that are not elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "General Public Service that are not elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6716",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 75140.0,
+    "total_disbursement": 20562.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.650435Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6716",
+      "id": "version:entity:project/development_project/dfmis-6716:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

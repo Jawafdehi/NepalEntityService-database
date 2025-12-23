@@ -1,0 +1,271 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.752937Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010348",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.752939Z",
+    "dates": [
+      {
+        "date": "1999-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The objectives of the project are: (a) to raise agricultural production and farm incomes through expansion of irrigated area; (b) to promote privatization and farmer participation in irrigation development; and (c) to strengthen irrigation institutions.  The project consists of: (a) Stage III of the ongoing Bhairawa Lumbini Groundwater Project, which would include construction of 73 new tubewells, completion works for 16 Stage II tubewells, and modification of 64 Stage I tubewells; (b) expansion of the irrigation \"line of credit\" pilot projects started under Mahakali II; and (c) institutional development support for the Department of Irrigation (DOI) which would, inter alia, strengthen DOI district and regional offices, support development of DOI's new Planning, Design and Research Division, strengthen DOI internal administration and management functions, and support a farmer participatory joint management pilot program in selected DOI schemes."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010348",
+        "raw_payload": {
+          "boardapprovaldate": "1990-05-29T00:00:00Z",
+          "closingdate": "1999-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "52700000",
+          "envassesmentcategorycode": "B",
+          "grantamt": "0",
+          "id": "P010348",
+          "major_sector_code": "AX,LX,TX",
+          "major_sector_name": "Energy and Extractives,FY17 - Agriculture, Fishing and Forestry,Transportation",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AB",
+                    "sector_name": "FY17 - Agricultural Extension, Research, and Other Support Activities",
+                    "sector_percent": "10.0"
+                  },
+                  {
+                    "sector_code": "AI",
+                    "sector_name": "FY17 - Irrigation and Drainage",
+                    "sector_percent": "66.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "LX",
+                "major_sector_name": "Energy and Extractives",
+                "sectors": [
+                  {
+                    "sector_code": "LD",
+                    "sector_name": "Power",
+                    "sector_percent": "12.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "TX",
+                "major_sector_name": "Transportation",
+                "sectors": [
+                  {
+                    "sector_code": "TA",
+                    "sector_name": "Roads and highways",
+                    "sector_percent": "12.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Agricultural Extension, Research, and Other Support Activities,FY17 - Irrigation and Drainage,Power,Roads and highways",
+          "proj_id": "P010348",
+          "project_abstract": "The objectives of the project are: (a) to raise agricultural production and farm incomes through expansion of irrigated area; (b) to promote privatization and farmer participation in irrigation development; and (c) to strengthen irrigation institutions.  The project consists of: (a) Stage III of the ongoing Bhairawa Lumbini Groundwater Project, which would include construction of 73 new tubewells, completion works for 16 Stage II tubewells, and modification of 64 Stage I tubewells; (b) expansion of the irrigation \"line of credit\" pilot projects started under Mahakali II; and (c) institutional development support for the Department of Irrigation (DOI) which would, inter alia, strengthen DOI district and regional offices, support development of DOI's new Planning, Design and Research Division, strengthen DOI internal administration and management functions, and support a farmer participatory joint management pilot program in selected DOI schemes.",
+          "project_name": "CLOSED(T) BHAIRAWA LUMBINI III",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Public Sector Management",
+            "FY17 - Social Development and Protection",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Public Administration",
+            "FY17 - Renewable Natural Resources Asset Management",
+            "FY17 - Renewable Natural Resources Asset Management",
+            "FY17 - Rural Development",
+            "FY17 - Rural Development",
+            "FY17 - Social Inclusion"
+          ],
+          "totalamt": "47200000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 47200000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1990-05-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010348",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010348",
+        "value": "p010348"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CLOSED(T) BHAIRAWA LUMBINI III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010348",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Energy and Extractives",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Transportation",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010348",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Social Development and Protection",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 47200000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.752937Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010348",
+      "id": "version:entity:project/development_project/wb-p010348:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.803120Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1061",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.803122Z",
+    "dates": [
+      {
+        "date": "2018-06-10",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1  Design and disseminate Behavior Change Communication (BCC) materials on DRM/disaster resilient community based on hazard profile in the project locations\r\n\r\n1.1.2  Organize awareness raising campaigns in the communities and schools on DRM\r\n\r\n1.1.3  Conduct inclusive Vulnerability and Capacity Assessments (VCA) of the communities and disseminate the information through hazard maps\r\n\r\n \r\n\r\n1.2.1 Identify the most vulnerable households and individuals such as elderlies, persons with disabilities, women headed households and the poorest\r\n\r\n1.2.2 Assist most vulnerable households and individuals selected to develop their household DRM plan\r\n\r\n1.2.3 Provide personalized support for the selected most vulnerable households and individuals to implement their household/individual DRM plan\r\n\r\n2.1.1  Form and train village and community level inclusive Local Disaster Management Committees on government's LDRMP Guideline and process\r\n\r\n2.1.2 Form and train inclusive task forces on their roles and responsibilities for risk reduction\r\n\r\n2.1.3 Develop inclusive Local Disaster Risk Management Plans for village and communities using findings from VCAs\r\n\r\n2.2.1 Engage DMCs and task force members on simulation and drilling of Local Disaster Risk Management Plans\r\n\r\n2.2.2 Identify and promote the use of traditional, indigenous and local knowledge and practices on DRM including on early warning systems to build the culture of safety in the communities\r\n\r\n2.2.3 Demonstrate low cost and replicable small scale mitigation measures (drainages, irrigation canals, bi-engineered spurs, culverts), model joint projects with VDCs/district authorities\r\n\r\n3.1.1 Provide trainings on first aid, light search and rescue, early warning, damage need assessments, water and sanitation to task force and DMC members\r\n\r\n3.1.2 Train Masons and disseminate information of the government/National Reconstruction Authority on building back better, safer and accessible among the communities rebuilding their houses\r\n\r\n3.1.3 Provide emergency equipment and emergency fund for Disaster Management Committees and task forces\r\n\r\n3.2.1 Mainstream and integrate DRM into education sector through selected inclusive school-based DRM interventions including temporary and safe learning centers\r\n\r\n3.2.2 Promote recovery of accessible water, sanitation and hygiene infrastructures that contribute towards risk reduction\r\n\r\n3.2.3 Advocate for inclusive preparedness and recovery policies and plans through networking, collaboration and capacity building measures on policies and Core Humanitarian Standards\r\n\r\n4.1.1 Prepare detailed operational plan for Cash Based Interventions- CBIs (Cash for Work and Unconditional Cash Transfer)\r\n\r\n4.1.2 Implement CBIs to rehabilitate community assets\r\n\r\n4.1.3 Conduct the survey impact of CBIs in local market and in reducing negative coping strategies of vulnerable people\r\n\r\n4.2.1 Train and provide inputs to support off-seasonable vegetable production\r\n\r\n4.2.2 Train and provide inputs for livestock raising\r\n\r\n4.2.3 Assist vulnerable people on off-farm enterprises including blacksmiths to recover their small scale business/enterprises"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "AWO International",
+        "donor_project_id": "1061",
+        "raw_payload": {
+          "id": 10902,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "AWO International",
+          "organization_id": 516,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "AWO International",
+    "financing": [
+      {
+        "amount": 332571.2293,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 332571.2293,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1061",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1061",
+        "value": "1061"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reaching Down and scaling Up: Strengthening resilience of local communities to disasters.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1061",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1061",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 665142.4586,
+    "total_disbursement": 326054.4000043,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.803120Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1061",
+      "id": "version:entity:project/development_project/dfmis-1061:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

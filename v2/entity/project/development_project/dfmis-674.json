@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.097571Z",
+  "dates": [
+    {
+      "date": "2015-09-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-09-14",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-09-13",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Client's capacity built for efficient production, enterprise finance planning and effective market access\r\n\tIdentification of target individuals/ HHs and community groups, Baseline survey design, training and study, Assessments of community institutions (CIs) such as local informal groups, cooperatives and CBOs, Identification of appropriate CIs for partnership with Project, Formation of groups, Enterprise Development/ Livelihoods Training package development, Enterprise Development/ Livelihoods Training delivery to individuals and groups, Development of individual/ group enterprise business plans, Financial Literacy Training package development, Financial Literacy Training delivery to individuals and groups, Linkages with Financial Institutions/ Community Institutions for appropriate financial products and/or services\r\n\tCapacity development of Community Institutions (CIs) and Financial Institutions (FIs) to create appropriate financial products and services for clients in rural Mountains and Hills\r\n\tAssessments of Financial Institutions, Partnership with Financial Institutions, Design, development and marketing of Financial Products, Assessments of Community Institutions (CIs), Institutional Capacity Development of partner CIs, Linkages of partner CIs with partner FIs for whole-sale loan, Seed Fund support for institutional Development of CIs\r\n\tPromising practices and innovative approaches of Mountain Finance model shared with key local and national stakeholders for replication and scale-up\r\n\tResearch, design and development of case studies, Dissemination of case studies through appropriate mediums and channels, District based “Access to Finance – key lessons from Samriddha Pahad” workshop, Regional  “Access to Finance – key lessons from Samriddha Pahad” workshop, National workshop on “Promising Practices on Access to Finance”,\r\n\tReview, Evaluation, Monitoring and Workshops\r\n\tInception workshops and meetings (Districts and VDCs), Formation of Central and District Project Advisory Committees (CPAC and DPAC), Half-yearly Project Review meetings of DPAC, Quarterly Review and Planning meetings for Samriddha Pahad Project, Annual Project Review Meeting, On-site monitoring by the Trust, Joint monitoring and supervision by DPAC, On-site monitoring by CPAC, SWC and relevant line agencies in coordination"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Samriddha Pahad UK",
+      "donor_project_id": "674",
+      "raw_payload": {
+        "id": 9208,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Samriddha Pahad UK",
+        "organization_id": 674,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Samriddha Pahad UK",
+  "financing": [
+    {
+      "amount": 203329.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Samriddha Pahad UK",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-09-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/674",
+      "value": "674"
+    }
+  ],
+  "implementing_agency": "NGOs, Ministry of Forests and Environment",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Samriddha Pahad-II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/674",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-674",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 203329.0,
+  "total_disbursement": 121814.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.097568Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-674",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.904635Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4133",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.904638Z",
+    "dates": [
+      {
+        "date": "2023-08-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-08-04",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2028-08-03",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1 Organize Basic ECD Facilitators Materials Development Training and Workshops: Phase I (7d, 5d and 2d) including visit1.1.2 Integrated Curriculum, Child-friendly Training and Dissemination Workshop to Teachers (3d+3d)1.2.1 Materials support to child clubs, organize ECAs and orient focal teachers1.3.1 Support for child-friendly sitting arrangement (furniture, cushion, greenboard and so on)1.3.2 Develop/establish model ECD Centre, Classroom furnishing and material support1.3.3 Construction of wash facilities and fencing1.3.4 Library, science lab and ICT support to schools1.4.1 Conduct extra class support for improving learning achievement2.1.1 Comprehensive assessment to identify needy children and families in the communities2.1.2 Formation of parents groups and awareness raising interactions and events2.2.1 Organize health camps and support health check-up materials2.3.1 Establishment of cooperatives, capacity building and community support2.3.2 Community volunteers mobilization programs2.4.1 Needy children benefitted through educational materials support 2.4.2 Operate community-based support classes3.1.1 Formation and skill sessions to School based disaster management committees3.2.1 Emergency response materials support, assess safe zones and simulation exercises to schools3.3.1 Form rapid response team at schools and sharing workshops3.4.1. Organize disaster risk mapping of schools and sharing workshops at school, and RM level.4.1.1 Application of governance tools in schools (SIP, Public hearing, social audit, community score cards, code of conduct, CRM)4.1.2 Media and outreach program4.2.1 Training and capacity building workshops with headteachers, SMC and PTA members4.2.2 Exposure visits and children with headteachers interactions program"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ChildFund Japan",
+        "donor_project_id": "4133",
+        "raw_payload": {
+          "id": 41631,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "ChildFund Japan",
+          "organization_id": 518,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Education, Science and Technology",
+    "financing": [
+      {
+        "amount": 1399975.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "ChildFund Japan",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-08-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4133",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4133",
+        "value": "4133"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "SECURING ACCESS FOR EDUCATION (SAFE) PROJECT-DHADING",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4133",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4133",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1399975.0,
+    "total_disbursement": 544516.44,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.904635Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4133",
+      "id": "version:entity:project/development_project/dfmis-4133:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

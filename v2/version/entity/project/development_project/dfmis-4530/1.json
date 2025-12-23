@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.589039Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4530",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.589041Z",
+    "dates": [
+      {
+        "date": "2018-01-31",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-07-31",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Growing up Healty​1.1 Facility Based Integrated management of New Born nad Childhood Illness ( IMNCI) (Province 6)1.2 Specialized Neonatal Care Unit (SNCU)support in 5 district hospitals1.3 Full Immunization Declaration Program ( Post declaration activities for sustainability)1.4 Support MoHp/ National Health Training center to strengthen local government health services.1.5 Social behavioral change communication on maternal, new born and child health including early child hood development through mothers and pregnant women Groups( Material and technical support)1.6 Strengthening birthing center in coordination with local government ( construction, equipment and SBA training)1.7 Parenting education on responsive care, early stimulation, early learning and gender socialization ( 5 month long practical sessions including play materials development and strengthening monitoring mechanism)Disability and emergency health support1.8 Screening, treatment, corrective surgery, assistive device and rehabilitation support to disable children.1.9 Emergency medical and surgical treatment support to marginalized and sponsored childrenGender Transformative and Inclusive Quality Education2.1 Construction of child friendly classrooms and toilets for girls2.2 Gender equality and inclusive education planning and management training to SMC/ PTA members in collabotation with local government2.3 Capacity development workshop on education policies, plans programmes, strategy and implementation guidelines at local government.2.4 support to conduct early gender socialization and pedagogy training to teachers and education committee members in collaboration with NCED.2.5 Construction of model safe and inclusive schools.2.6 Repair and improve schools for safe and inclusive.2.7 Support children with disabilities for accessible and inclusive teching and learning materials ( educational materials, school bags and school dress)2.8 Support to conduct training to parents, care-givers and teachers on early learning and reading matrials development.2.9 Provide early learing and reading materials ( from pre- primary class up to grade 3)2.10 Support child friendly furniture and face to face seating arrangement2.11 Mentoring support to low performer for early learning and reading improvement2.12 Training to parents for informal reading activities at home / communities ( as per package developed by DOE)2.13 Material support and orientation developed by Curriculum Development Center to families/ communities in early grade reading and mother tongue education.2.14 Continuous monitoring and support to carry out classroom baed early grade reading assessment ( develped minimum package and ERO)2.15 Out of school children (OOSC) mapping and campaign for \" all girls in school\" and declare OOSC free municipalities.2.16 provide education assistanship/ scholarship( education materials)2.17 Support IT based education(Pilot)2.18 material support and training for community learning centers( government)2.19 Support local government for inclusive and gender transformative quality education planning and budgeting in line with SSDP and 23 functions of local government.2.20 Support capacity development of education comittee members for gender equality and inclusive education in line with SSDP.2.21 Leadership development on basic and secondary education management ( SMC and ward)2.22 Organizational support to networks of Dalit, persons with Disabilities and women.2.23 Strengthen comprehensive education data system at different levels in collaboration with DoEST EMIS team.2,24 Support to conduct training of trainers on school WASH including menstrual Hygiene Management ( MHM) to facilitators and teachers2.25 Support to conduct hygiene behavour promotion activities.2.26 support to improvement of school WASH including MHM facilities ( construction and renovation of toilets, MHM room, Hand washing stations)3.1 Market oriented CTEVT skill training/ apprenticeship ( such as hotel/ tourism, plumbing, electrician, mason, auto repair, mobile/ tv repair). Participants will be selected base on agreed criteria using participatory approach among highly vulnerable, out of school, survivors ( GBV trafficking), single mother, women headed family).3.2 Business startup support to highly vulnerable young women  and GBV survivors to generate family/individual income( grocery, small resturant, salon, TV/ mobile repair shop, auto repair, electric/plumber shop). Participants will be selectd based on agreed criteria using participatory approach among highly vulnerable, out of school, survivors ( GBV trafficking), single mother, women headed family).3.3 Capacity building of self-reliant groups and cooperatives and help linkage of young women to market and financial services (SDG Target 1.4)3.4 Collaboration with private and government agencies for creating decent working environment to young women (develop and implement policy related to gender, child protection and ethical recruitment align"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Plan Nepal",
+        "donor_project_id": "4530",
+        "raw_payload": {
+          "id": 38728,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Plan Nepal",
+          "organization_id": 277,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Plan Nepal, Ministry of Health and Population, Ministry of Women, Children and Senior Citizens, Ministry of Water Supply, Ministry of Education, Science and Technology, Ministry of Youth and Sports",
+    "financing": [
+      {
+        "amount": 47358918.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Plan Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-01-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4530",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4530",
+        "value": "4530"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society, Non Governmental Organisations, Disabled People Organization, Children as Zone of Peace, Friends of the Disabled, Consortium of Organisation Working for Child Participation, Karnali Integrated Rural Development And Research Centre",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Child Centered Community Development Project in Nepal (II Phase)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4530",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4530",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 47358918.0,
+    "total_disbursement": 61309037.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.589039Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4530",
+      "id": "version:entity:project/development_project/dfmis-4530:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

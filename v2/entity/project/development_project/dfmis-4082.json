@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.843410Z",
+  "dates": [
+    {
+      "date": "2022-01-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-01-02",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Knowledge products and E-learning modules used on existing SDG Helpdesk to engage multi-level stakeholder network is active and maintained to disseminate best-practices, toolkits and other relevant policy materials and data to country-level stakeholdersNational urban policies/frameworks (through consultative process) are strengthened to mainstream LNOB objectives with focus on safety, inclusiveness and access for the disabled in SDGs 11 & 6Sensitization followed by capacity building of the national and sub-national government and stakeholders on the LNOB framework with focus on safety, inclusiveness and access for the disabled in national policies and SDGs 11 & 6Wider outreach through dissemination of various IEC materials and e-learning module on physical and digital accessibilityDeveloped or improved online dashboard for data collection, and MRV toolkit for LNOB reporting with toolkits and manuals focusing on safety, inclusiveness and access for the disabled in urban policies with focus on SDGs 11 & 6Urban local bodies capacitated in using online dashboard and toolkits for MRV and knowledge on LNOB in their respective citiesUrban local bodies capacitated to conduct accessibility audit of public services and infrastructure, to undertake necessary interventions with budgetary allocations for improving accessibility to services for the people with disability"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Human Settlements Programme",
+      "donor_project_id": "4082",
+      "raw_payload": {
+        "id": 41176,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Human Settlements Programme",
+        "organization_id": 16,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Urban Development",
+  "financing": [
+    {
+      "amount": 69772.0,
+      "assistance_type": "other",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Human Settlements Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-01-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4082",
+      "value": "4082"
+    }
+  ],
+  "implementing_agency": "United Nations Human Settlements Programme",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Mainstreaming LNOB in National Urban Policies and Programs (SDG 6 & 11) in South Asia",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4082",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Services",
+      "donor_subsector": null,
+      "normalized_sector": "General Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4082",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 69772.0,
+  "total_disbursement": 69772.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.843407Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4082",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

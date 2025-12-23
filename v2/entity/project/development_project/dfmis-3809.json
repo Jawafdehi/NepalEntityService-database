@@ -1,0 +1,165 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.333778Z",
+  "dates": [
+    {
+      "date": "2021-12-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "• Skill trainings, stipends and seed money for establishment of business for youth and conflict affected women• Psycho-social trainings for Health Post Staffs, civil society and youths; individual legal and psycho-social counseling and support, case documentation• Establishment of counseling rooms at health posts and schools• Capacity development for local representatives, GESI focal persons, minority-led local civil society and youth on GESI-friendly policy instruments, priorities, planning and budgeting• Support of formulation, realization and monitoring of GESI policies, plans and budgets of municipalities with the stakeholders and technical input• Skill development training for journalists, production and broadcasting of radio programs and video documentary on good practices of inclusive planning• Events for community awareness, volunteer work and social harmony, peace initiatives in schools and communities• Establishment of Community Peace Centers• Documentation for acknowledgement of history, inter-generational dialogues, workshops on current TJ issues (e.g. Reparation bill, TRC bill)• Support for provincial officers for mainstreaming common issues of conflict affected women (CAW) in their provinces• Trainings of elected CAW and single women representatives at local level."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "KURVE Wustrow",
+      "donor_project_id": "3809",
+      "raw_payload": {
+        "id": 40685,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "KURVE Wustrow",
+        "organization_id": 794,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 343131.4,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "KURVE Wustrow",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-12-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3809",
+      "value": "3809"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Supporting Social Inclusion, Gender Equality and Civic Education for Marginalized Groups",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3809",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3809",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 343131.4,
+  "total_disbursement": 378007.3,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.333775Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3809",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

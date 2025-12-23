@@ -1,0 +1,178 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.227147Z",
+  "dates": [
+    {
+      "date": "2008-04-25",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Operationalize Four Peace Centers\r\n\t\r\n\t\tRaise awareness on peace related issues of PVSEs\r\n\t\r\n\t\tCapacity building of Peace Ambassadors and pressure groups of PVSEs\r\n\t\r\n\t\tTrain Para-psychosocial counselors, mediators and community journalists\r\n\t\r\n\t\tProvide support to community peace groups and Peace Ambassadors  to conduct different peace initiatives (including normalization activities and peace support) \r\n\t\r\n\t\tProvide support to advocacy initiatives of local peace committee\r\n\t\r\n\t\tBuilding of capacity and sharing of knowledge at institutional level\r\n\t\r\n\t\tRaise awareness of media on issues related to conflict-affected PVSEs\r\n\t\r\n\t\tPromote innovative peace initiatives of PVSEs\r\n\t\r\n\t\tDocument and disseminate success stories of PVSEs\r\n\t\r\n\t\tEstablish micro – macro linkages for policy dialogues\r\n\t\r\n\t\tProvide Support to peace building advocacy initiatives at national level\r\n\t\r\n\t\tEngage with political parties."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CARE Nepal",
+      "donor_project_id": "231",
+      "raw_payload": {
+        "id": 1062,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CARE Nepal",
+        "organization_id": 304,
+        "percentage": 100
+      }
+    },
+    {
+      "donor": "European Commission",
+      "donor_project_id": "231",
+      "raw_payload": {
+        "id": 1067,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Home Affairs",
+  "financing": [
+    {
+      "amount": 112599.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CARE Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-04-25",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 844489.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-04-25",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/231",
+      "value": "231"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Women and Youth as Pillars of Sustainable Peace (WYPSP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/231",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-231",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 957088.0,
+  "total_disbursement": 875131.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.227145Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-231",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

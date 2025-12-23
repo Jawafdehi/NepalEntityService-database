@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.563941Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-288",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.563943Z",
+    "dates": [
+      {
+        "date": "2012-08-27",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-09-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "• Comparative analysis of Water Use Master Planning(WUMP) process, Village Development Periodic Planning (VDPP) process and Local Adaptation Plan for Action (LAPA)\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tPh.D Thesis on water governance\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tThree Masters Thesis  (Conflict in water Use, Local Planning process, Relationship of poverty and resources)\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t•  Water Use Master Plan process in 4 VDCs by integrating adaptation priorities from VDPP and LAPA ( Helambu, Mahankal, Kiwool and Ichowk VDCs of Sindhupalchowk district)\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t• Guidelines for prioritizing adaptation for climate change in WUMP process\r\n\t\t\t\r\n\t\t\t\t \r\n\t\t\t\r\n\t\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t•  Climate change and water governance adaptation strategy of the VDC"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_project_id": "288",
+        "raw_payload": {
+          "id": 3566,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "HELVETAS Swiss Intercooperation Nepal",
+          "organization_id": 532,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "HELVETAS Swiss Intercooperation Nepal",
+    "financing": [
+      {
+        "amount": 450262.3083,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-08-27",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 450262.3083,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-08-27",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-288",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/288",
+        "value": "288"
+      }
+    ],
+    "implementing_agency": "HELVETAS Swiss Intercooperation Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Building Effective Water Governance in Asian Highlands",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/288",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-288",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 900524.6166,
+    "total_disbursement": 179021.25015,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.563941Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-288",
+      "id": "version:entity:project/development_project/dfmis-288:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

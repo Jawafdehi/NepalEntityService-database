@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.479663Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-369",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.479666Z",
+    "dates": [
+      {
+        "date": "2008-07-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-07-11",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-04-15",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Prevention\r\n\r\n    Behavioral Change Communication - Community Outreach\r\n    Condom Distribution\r\n    Counseling and testing\r\n    STI diagnosis and treatment\r\n\r\n                          Supportive environment\r\n\r\n    Strengthening of civil society and institutional capacity building\r\n\r\n                          Treatment\r\n\r\n    Antiretroviral treatment (ARV) and monitoring\r\n\r\n                          Care and Support\r\n\r\n    Care and support for the chronically ill"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_project_id": "369",
+        "raw_payload": {
+          "id": 777,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 40,
+          "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+          "organization__logo": "",
+          "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+          "organization_id": 176,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Save the Children, Global Fund to Fight AIDS, Tuberculosis and Malaria",
+    "financing": [
+      {
+        "amount": 3593187.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-04-15",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2944832.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-07-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-369",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/369",
+        "value": "369"
+      }
+    ],
+    "implementing_agency": "Ministry of Health and Population",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Scaling Up Coverage and Quality of HIV & AIDS Prevention targeted to Most at Risk Population and Treatment Care and Support Services to PLHA / Save the Children",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/369",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-369",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 6538019.0,
+    "total_disbursement": 4378743.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.479663Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-369",
+      "id": "version:entity:project/development_project/dfmis-369:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

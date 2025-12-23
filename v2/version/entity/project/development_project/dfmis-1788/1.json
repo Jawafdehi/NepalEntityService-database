@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.768017Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1788",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.768034Z",
+    "dates": [
+      {
+        "date": "2017-02-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-02-24",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2021-03-21",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Develop a baseline and end line governance and technology contextual analysis including gender and diversity.Develop training manual on the use of integrated technology to promote civic participation (including concepts and approaches for open data, budget transparency, citizen reporting, grievance reporting)Capacity building activities for CSOs to promote civic participation in governance and accountability mechanismsCapacity building to DCSOs and other NGOs to develop/adopt GESI policies on WMG in governance processesDevelop gender  and social inclusion awareness materials for WMG on leadership/democratic participation and integrated technologiesCapacity building on leadership and participation in democratic citizenry processes for WMG and existing  women’ networkAdvocacy campaigns and lobbying activities to position WMG in decision-making systemsMapping and analysis of existing Open Data initiativesEstablishment of local government and community level Techno HubsRenovation/Rehabilitation of physical facilities to establish Techno HubsCapacitated to the citizens on develop innovative technological mechanisms and tools for citizens, especially WMG to access relevant data /information and  hold local government accountableDevelop and institutionalize mechanisms for off-line users to access relevant data and information by linking with online technologyConduct Knowledge, Attitude and Practice (KAP) surveyConduct Action-Research on the Socio-economic impacts of citizens-State engagementDevelop capacity building materials on use of integrated technologies for citizens, especially WMG for social accountability purposesCapacity development for citizens including WMG on the use integrated technologies and how to engage in governance and accountability processesPublic sensitization campaigns on the importance of participatory monitoring of public service delivery and of social-economic impacts of citizen-State engagement  using integrated technologiesDevelop the technological aspect/platforms of the accountability mechanisms and tools for the use of local government line agencies for increased responsivenessDevelop technology-based information gathering mechanisms (survey, polling, crowdsourcing tools, etc) for local government including integrated use of Open Data solutions through the Techno HubsProvide technical support including technology infrastructure (hardware)  support to local government line agencies to enhance the digitization and communication of  public informationCapacity building and provide technical backstopping to local government line agencies for using integrated technologies/Techno Hubs; including support to develop strategic documents/plans/policies/guidelinesCapacity building for local government line agencies for the use  and implementation of accountability  mechanisms and tools through integrated technologiesSharing of Canadian/international practices on accountability and governance experience using integrated technologies with local government line agencies to facilitate Develop and produce information and awareness materials for target groups on the use of integrated technologies for good governance and accountability,  capitalizing on the Nepalese lessons learntOpen data (research, initiatives /tools/ platform development, digitization of data, facilitation in capacity building…) and integrated technology development (online and offline-hardware and software)  and installation/implementation/capacity building…"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CECI Nepal",
+        "donor_project_id": "1788",
+        "raw_payload": {
+          "id": 11378,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CECI Nepal",
+          "organization_id": 523,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 2530756.726,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CECI Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-02-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1788",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1788",
+        "value": "1788"
+      }
+    ],
+    "implementing_agency": "CECI Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sustainable Use of Technology for Public Sector Accountability in Nepal  (SUSASAN)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1788",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1788",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2530756.726,
+    "total_disbursement": 2563054.1172,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.768017Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1788",
+      "id": "version:entity:project/development_project/dfmis-1788:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

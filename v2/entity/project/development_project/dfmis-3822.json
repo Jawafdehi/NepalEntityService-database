@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.372367Z",
+  "dates": [
+    {
+      "date": "2021-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Conduct baseline and endline surveys2. Strengthen capacity of 110 district-level government officials, CSOs, child protection duty bearers, children and/or survivors, border patrols to identify and refer victims of or persons at-risk of transnational TIP in Jhapa and Illam districts.3. Provide or refer 85   victims of transnational TIP who are already repatriated to Nepal to critical protection services (including case management, legal aid, etc.) in the two cross-border districts of Jhapa and Illam.4.  Victim led 3-day residential experience sharing workshop (2 events in each districts)5. ToT on MHPSS for staffs of Shankti Samuha and Tdh (10-day residential ToT)6. Deliver trainings to 120 service providers and caregivers on Mental Health Psycho-Social Support (MHPSS) and Trauma-Informed Care to support rehabilitation of survivors of TIP in 2 cross-border districts of Nepal.7. Conduct exploratory research on the impact of COVID on transnational trafficking trends, routes and practices, and on efforts to combat TIP to inform governments' prevention and protection responses in 2 border districts of Nepal."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Terre des hommes, Lausanne",
+      "donor_project_id": "3822",
+      "raw_payload": {
+        "id": 41033,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Terre des hommes, Lausanne",
+        "organization_id": 492,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 216636.1,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Terre des hommes, Lausanne",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-07-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3822",
+      "value": "3822"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Addressing Impacts of COVID on Efforts to Combat Transnational Trafficking in Persons (TIP) in two border districts of Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3822",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3822",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 216636.1,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.372364Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3822",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.302826Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-484",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.302828Z",
+    "dates": [
+      {
+        "date": "2011-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Mapping of community groups (2days*2 districts*30 person) per diem, food, local travel and stationery, staff travel cost to selected VDCs\r\n\t\r\n\t\tTrainings of LRPs (20 days for 270 individuals ) per diem, travel cost, lodging\r\n\t\r\n\t\tInteraction with community groups and CSOs by LRPs (2 districts, 270 LRP *10 events) per diem LRP, meetings snacks and tea.\r\n\t\r\n\t\tIEC Materials /Safe passage kits\r\n\t\r\n\t\tCreate Revolving Fund\r\n\t\r\n\t\tTraining of CHBC workers: 270 people X 2 weeks residential trainings\r\n\t\r\n\t\tIncentive to CHBC workers: per person Rs.10000per year (only 2 years)\r\n\t\r\n\t\tPurchase of CHBC Kits: (270*2500)\r\n\t\r\n\t\tTraining of key community leaders on stigma and discrimination: (30 events )\r\n\t\r\n\t\tTalk program and campaign by PLHIV and other professionals (2 events per year, per district) for all 3 years\r\n\t\r\n\t\tRadio message (per month Rs.20000) for 2 years\r\n\t\r\n\t\tTraining of women networks in far west region (NFWORC) 30 persons, 3 days  in each districts\r\n\t\r\n\t\tOrientation to  community groups at VDC level on resource mobilization and financial management (2 days for 540 persons) non-residential\r\n\t\r\n\t\tFollow up and advocacy (per year one event for 540 persons) one day only per event\r\n\t\r\n\t\tSensitization and orientation workshop  with district stakeholders (1 day orientation, 3 events in each districts)\r\n\t\r\n\t\tAwareness/mainstreaming workshop to district line agencies workshop on national action plan to DACC (2 days workshop in each districts)\r\n\t\r\n\t\tBridging workshop at district level, including the focus group discussion (1 day workshop, 5 event per districts)\r\n\t\r\n\t\tFollow up bridging workshop (5 events in each districts for 2 years)\r\n\t\r\n\t\tHIV service need assessment (technical assistance  fees and travel cost\r\n\t\r\n\t\tVCT/ART/PMTCT strengthening through training\r\n\t\r\n\t\tTechnical support to prepare DARP plan (technical consultants) 10 days in each districts (fees and other associated cost)\r\n\t\r\n\t\tPublication and disseminations of DARP.\r\n\t\r\n\t\tMonitoring of DARP implementation bi-annual visit one year 2 and 3\r\n\t\r\n\t\tSupport to DACC and NCASC\r\n\t\r\n\t\tWorkshop on resource mobilization with district stakeholders (one event per district), 2 days workshop\r\n\t\r\n\t\tFollow up and advocacy workshop on resource mobilization (1 event per year per district)\r\n\t\r\n\t\tLearning and interaction visit of policy makers to the project district (5 persons, from national level, for 10 days for 2 districts) 2nd year and 3rd year\r\n\t\r\n\t\tInteraction visit of PLHIV with service providers and networks such as NAPN+, National , NFWLHA (inter district) 2 events each year\r\n\t\r\n\t\tEstablish seed money under DPHO Basket fund for transportation, nutrition and other emergency support.\r\n\t\r\n\t\tOrientation to health service providers on referral service, OI treatment, friendly service delivery (2 days 1 batch of 20 people in each districts)\r\n\t\r\n\t\tReview workshop with health workers\r\n\t\r\n\t\tOrientation workshop (project wise , 2 days ,30 participants) consultant for 5 days@15000\r\n\t\r\n\t\tMigration, women and HIV (orientation at CO level) to CARE Staffs (consultant for 5 days)\r\n\t\r\n\t\tExposure and capacity building of project staff\r\n\t\r\n\t\tNational level conference (at Kathmandu), 1 event"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "484",
+        "raw_payload": {
+          "id": 3058,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "CARE Nepal",
+    "financing": [
+      {
+        "amount": 1382010.056,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-484",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/484",
+        "value": "484"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening State and Civil Society Capacity for Comprehensive Response to HIV/AIDS (Bharosa)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/484",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-484",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1382010.056,
+    "total_disbursement": 636073.9475,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.302826Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-484",
+      "id": "version:entity:project/development_project/dfmis-484:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

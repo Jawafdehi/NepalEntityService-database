@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.344074Z",
+  "dates": [
+    {
+      "date": "2021-06-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1 Understanding the enterprise need of project participants for self-employment.The project will conduct intersectional study which will provide the information on the most vulnerable groups present in the local government. Identification of project participants who will be engaged in self-employment (100% women and PWD) will be done as per the criteria specified in below section of beneficiary details. The assessment of areas of interest and knowhow of project participants towards self-employment will facilitate in designing the customized capacity building interventions for the participants. The process will ensure that the women and other marginalized groups are selected for economic empowerment. Activity 1.2 Capacity building of project participants in entrepreneurship skill, enterprise development and marketingThe project will develop a short-term practical based Business Induction Package including customized MEDEP’s Start and Improve Your Business Modules, skills for business start-up, women in business, investment analysis, market analysis, access to finance and risks and its mitigation measures. A ToT will be given to staffs on the effective delivery of the Package. The trained project staffs will then conduct session with the project participants in the Package thereby capacitating them in entrepreneurship, enterprise development, and marketing. Activity 1. 3 Conduction of training on technical skill-based training and providing necessary start-up support to project participants to operate the enterprise of their choice and knowhow.The project participants will be provided with technical skill-based training to in the enterprise of their choice and knowhow and can include both on-farm and off-far enterprises such as poultry, tailoring, retail shops, restaurants, honey, non-timber products, pig farm, spice cultivation, goat rearing, vegetable farming, shoe making, handicraft etc. The training will be provided through relevant service providers. These trainees will later be supported with required materials and input support to start/strengthen their enterprises. Regular coaching and mentorship to the entrepreneurs will be done by project staffs for smooth start-up and guidance and motivation for successful operation which will provide them with income generation. Activity 1.4 Facilitation in formalization of enterprises for greater access to investmentFacilitation will be provided for registration of the enterprise in relevant agencies. Further, linkages of entrepreneurs with financial institution, local government and Cottage and Small Industries Development Board will be done for resource leveraging. Similarly, the entrepreneurs will be supported in business plan development for obtaining financial loans. These will support entrepreneurs to greater access of resources, services, and finance. Activity 1.5 Facilitation in integration of the enterprise’s product in the value chainThe entrepreneurs will be facilitated to get linked to their respective value chain actors for sourcing of input materials and market of their product. This will include linkages events with market actors, market visits by entrepreneurs, collective marketing, and market sensitization. Activity 2.1 Strengthening leadership and decision-making skills of women entrepreneurs.Development of a concise short-term (1 day) Agency-based Women Empowerment (AWE) package with be done with expert’s inputs. The AWE package will have content on self-realization, leadership, and decision-making skills. ToT on AWE will be provided to project staffs who will then conduct the AWE package session among the women entrepreneurs. This package will motivate the entrepreneurs on taking entrepreneurship roles and empower them in leadership and decision-making skills. Activity 2.2 Sensitization of COVID preventive measures and gender equality among HHs of project participants by mobilization of women volunteersWomen volunteers such as Female Community Health Workers, Human Right Defenders will be engaged in sensitization of project participants household members in gender equality. ToT to women volunteers on gender sensitization and counselling sessions as well as COVID preventive measures to be delivered to participants household members will be done. After training, these trained women volunteers will go door to door of participants house and do the counselling to the family members on gender equality as well as COVID preventive measures. This intervention will support in greater realization on gaps in gender roles and motivate them to support each other. Activity 2.3 Conduction of community gender awareness and GBV sensitization campaignMass campaigning can be an effective means to sensitize communities in gender equality and GBV issues. IEC materials including print materials, public service announcements, video messaging/digital stories will be developed and rights for broadcasting will be obtained. Disseminated will be through appropr"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Adventist Development and Relief Agency",
+      "donor_project_id": "3813",
+      "raw_payload": {
+        "id": 42089,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Adventist Development and Relief Agency",
+        "organization_id": 340,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Adventist Development and Relief Agency",
+  "financing": [
+    {
+      "amount": 380965.5,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Adventist Development and Relief Agency",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3813",
+      "value": "3813"
+    }
+  ],
+  "implementing_agency": "Adventist Development and Relief Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promoting Economic Resilience of COVID-19 Affected Vulnerable People  (PERCAV)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3813",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3813",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 380965.5,
+  "total_disbursement": 381797.2,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.344070Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3813",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:09.809636Z",
+  "dates": [
+    {
+      "date": "2010-09-17",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-09-17",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1 - Lessons learned from DRILP and other RTI projects are identified, explained and modifications incorporated in the project design accordingly. \r\n2 - Options to improve district road maintenance (financial and institutional) are identified, accepted by government and supported by other RTI donors. \r\n3 - Transport services development in DRILP and other RTI projects is assessed, including affordability and reliability and practical and implementable options proposed for improvement. \r\n4 - Options to improve district planning and implementation capacity, RTI impact on poor beneficiaries are identified and incorporated in the project design. \r\n5 - 9 district roads and 3-4 trail bridge subprojects are appraised including technical, financial, economic and safeguard due diligence as per ADB standards and tender documents finalized. \r\n6 - Project investment and financing plan, design and monitoring framework, governance and safeguards framework, implementation paln, assessment of project implementation consultant requirement prepared. \r\n7 - RTI sector-wide approach (SWAp) framework is appraised including 19 chapters and guidelines/strategies identified for possible piloting under the project."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "400",
+      "raw_payload": {
+        "id": 1575,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 500000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-09-17",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/400",
+      "value": "400"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TA 7573-NEP: Decentralized  Rural Infrastructure & Livelihood Project II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/400",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-400",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 500000.0,
+  "total_disbursement": 480622.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:09.809633Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-400",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

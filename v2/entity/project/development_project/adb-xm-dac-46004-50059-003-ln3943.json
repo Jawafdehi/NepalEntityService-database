@@ -1,0 +1,164 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from ADB on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "ADB"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:12:08.697755Z",
+  "dates": [
+    {
+      "date": "2020-07-31",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2020-08-27",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2026-06-30",
+      "source": "ADB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Asian Development Bank (ADB) will provide a loan to the Government of Nepal (the government) to (a) upgrade 220/132 kilovolt (kV) substations to 400/220/132 kV substations to enable electricity generated from independent power producer (IPPs) plants in the Khimti hydropower corridor to be exported to India; (b) construction of three 132/11 kV substations in Teku, Koteshwor, and Thapathali which will increase supply capacity into the Kathmandu Valley; (c) modernizing and reinforcing four distribution centers around Kathmandu Valley  to be able to meet increasing domestic demand for electricity; and (d) construction of 33 kV, 11 kV, and 0.4 kV lines and substations to facilitate connection of approximately 150,000 new customers in Nepal's Province 2 in the country's southeast region The proposed project complements the efforts of Millennium Challenge Corporation (MCC)  to strengthen parts of Nepal's high-voltage transmission network and complete Nepal's portion of the second cross-border transmission line with India for increasing electricity trade."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "ADB",
+      "donor_project_id": "XM-DAC-46004-50059-003-LN3943",
+      "raw_payload": {
+        "activity_status": "2",
+        "contact": {
+          "organisation": "Asian Development Bank",
+          "person_name": "Pushkar Manandhar",
+          "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=50059-003 (Active)&officer= pmanandhar@adb.org&division= Nepal Resident Mission (NRM)&projectcountry= Nepal"
+        },
+        "default_currency": "USD",
+        "hierarchy": "1",
+        "iati_identifier": "XM-DAC-46004-50059-003-LN3943",
+        "last_updated": "2025-11-24T08:40:23+08:00",
+        "locations": [
+          {
+            "exactness": "2",
+            "lat": 28.25855,
+            "location_id": "9036855",
+            "lon": 83.94523,
+            "name": "Nepal",
+            "reach": "1"
+          }
+        ],
+        "recipient_country": "NP",
+        "reporting_org_ref": "XM-DAC-46004"
+      }
+    }
+  ],
+  "executing_agency": "Asian Development Bank",
+  "financing": null,
+  "identifiers": null,
+  "implementing_agency": "Nepal Electricity Authority (NEA)",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "South Asia Subregional Economic Cooperation Power Transmission and Distribution System Strengthening Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": null,
+  "sectors": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:23630",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "adb-xm-dac-46004-50059-003-ln3943",
+  "stage": "ongoing",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "CLIMATE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Accelerating progress in gender equality",
+      "normalized_tag": null
+    },
+    {
+      "category": "GOVERNANCE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Strengthening governance and institutional capacity",
+      "normalized_tag": null
+    },
+    {
+      "category": "GOVERNANCE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Governance and capacity development",
+      "normalized_tag": null
+    },
+    {
+      "category": "CLIMATE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Environmentally sustainable growth",
+      "normalized_tag": null
+    },
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Effective gender mainstreaming (EGM)",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from ADB IATI XML Feed",
+    "created_at": "2025-12-23T19:12:08.697752Z",
+    "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-50059-003-ln3943",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.404943Z",
+  "dates": [
+    {
+      "date": "2021-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The operation is the second in a series of three Development Policy Credit operations. The Energy Sector Development Policy Credit (DPC) operations aim to support the Government of Nepal’s (GoN) efforts to improve the financial viability and governance of the electricity sector. The programmatic DPC series has two pillars: (i) improving the financial viability of the electricity sector; and (ii) improving the governance of the electricity sector. The electricity sector is one of the key drivers of Nepal’s economy and has the potential to yield large economic dividend for the country by meeting domestic demand and generating revenues through electricity trade with neighbors. A twofold to fourfold increase in investment is needed to realize the full economic potential of the electricity sector. The operation seeks to strengthen the enabling conditions for investments to meet electricity demand in a reliable and sustainable manner. It also seeks to achieve greater integration with the regional electricity market to ensure the optimal use of Nepal’s hydropower resource. IDA will provide US100 million dollars equivalent credit for the second operation in the DPC series. The operation supports the World Bank's twin goals of poverty reduction and shared prosperity and is consistent with the World Bank Group's approach to Maximizing Finance for Development (MFD) and the Country Partnership Strategy for FY2019-2023. The DPC series complements the World Bank Group’s (WBG’s) existing engagement in generation, transmission, distribution and off-grid, renewable-based solutions in the form of investment operations and technical assistance (TA). In addition, the operation has synergy with WBG’s engagement in social protection, environmental and social risk and impact management, and water resources management. The operation also leverages the work undertaken by other development partners to support electricity sector reforms in Nepal."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P170248",
+      "raw_payload": {
+        "boardapprovaldate": "2020-06-02T00:00:00Z",
+        "borrower": "Nepal",
+        "closingdate": "2021-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "grantamt": "0",
+        "id": "P170248",
+        "impagency": "Ministry of Energy, Water Resources and Irrigation",
+        "major_sector_code": "AX,LX",
+        "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Energy and Extractives",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AT",
+                  "sector_name": "FY17 - Forestry",
+                  "sector_percent": "6.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "LX",
+              "major_sector_name": "FY17 - Energy and Extractives",
+              "sectors": [
+                {
+                  "sector_code": "LH",
+                  "sector_name": "FY17 - Renewable Energy Hydro",
+                  "sector_percent": "25.0"
+                },
+                {
+                  "sector_code": "LT",
+                  "sector_name": "FY17 - Energy Transmission and Distribution",
+                  "sector_percent": "31.0"
+                },
+                {
+                  "sector_code": "LU",
+                  "sector_name": "FY17 - Renewable Energy Solar",
+                  "sector_percent": "6.0"
+                },
+                {
+                  "sector_code": "LZ",
+                  "sector_name": "FY17 - Other Energy and Extractives",
+                  "sector_percent": "32.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Energy Transmission and Distribution,FY17 - Forestry,FY17 - Other Energy and Extractives,FY17 - Renewable Energy Hydro,FY17 - Renewable Energy Solar",
+        "proj_id": "P170248",
+        "project_abstract": "The operation is the second in a series of three Development Policy Credit operations. The Energy Sector Development Policy Credit (DPC) operations aim to support the Government of Nepal’s (GoN) efforts to improve the financial viability and governance of the electricity sector. The programmatic DPC series has two pillars: (i) improving the financial viability of the electricity sector; and (ii) improving the governance of the electricity sector. The electricity sector is one of the key drivers of Nepal’s economy and has the potential to yield large economic dividend for the country by meeting domestic demand and generating revenues through electricity trade with neighbors. A twofold to fourfold increase in investment is needed to realize the full economic potential of the electricity sector. The operation seeks to strengthen the enabling conditions for investments to meet electricity demand in a reliable and sustainable manner. It also seeks to achieve greater integration with the regional electricity market to ensure the optimal use of Nepal’s hydropower resource. IDA will provide US100 million dollars equivalent credit for the second operation in the DPC series. The operation supports the World Bank's twin goals of poverty reduction and shared prosperity and is consistent with the World Bank Group's approach to Maximizing Finance for Development (MFD) and the Country Partnership Strategy for FY2019-2023. The DPC series complements the World Bank Group’s (WBG’s) existing engagement in generation, transmission, distribution and off-grid, renewable-based solutions in the form of investment operations and technical assistance (TA). In addition, the operation has synergy with WBG’s engagement in social protection, environmental and social risk and impact management, and water resources management. The operation also leverages the work undertaken by other development partners to support electricity sector reforms in Nepal.",
+        "project_name": "Second Programmatic Energy Sector Development Policy Credit",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Environment and Natural Resource Management",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Private Sector Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Climate change",
+          "FY17 - Disease Control",
+          "FY17 - Energy",
+          "FY17 - Energy",
+          "FY17 - Energy",
+          "FY17 - Gender",
+          "FY17 - Jobs"
+        ],
+        "totalamt": "100000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 100000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2020-06-02",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170248",
+      "value": "p170248"
+    }
+  ],
+  "implementing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Second Programmatic Energy Sector Development Policy Credit",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P170248",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Energy and Extractives",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p170248",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Environment and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 100000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.404940Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p170248",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

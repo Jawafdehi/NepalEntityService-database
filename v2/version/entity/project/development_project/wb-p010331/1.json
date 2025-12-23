@@ -1,0 +1,149 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.760369Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010331",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.760372Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The objectives of the Arun Access Road Project are to provide access to the Arun three hydroelectric construction site, strengthen the ability of the Government to provide assistance to families affected by the project, and reduce the cost of transporting goods between the agricultural (but food deficit) areas of the Koshi Hills and the more industrialized and productive Terai. To achieve these objectives, the project comprises: (i) construction of a gravel surfaced road, from near the end of the existing road, to the Arun III construction site, including a six kilometer spur road to the administrative center of Chainpur; (ii) a road maintenance depot at Tumlingar to support maintenance of the project road and monitor maintenance operations carried out by contractors; (iii) rehabilitation of families adversely affected by the construction of the access road through implementation of a Land Acquisition, Compensation, and Rehabilitation Plan (ACRP); and (iv) consultancy services for construction supervision, training of maintenance personnel, and the preparation and implementation of the ACRP."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010331",
+        "raw_payload": {
+          "boardapprovaldate": "1989-05-30T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "envassesmentcategorycode": "C",
+          "id": "P010331",
+          "major_sector_code": "TX",
+          "major_sector_name": "Transportation",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "TX",
+                "major_sector_name": "Transportation",
+                "sectors": [
+                  {
+                    "sector_code": "TA",
+                    "sector_name": "Roads and highways",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Roads and highways",
+          "proj_id": "P010331",
+          "project_abstract": "The objectives of the Arun Access Road Project are to provide access to the Arun three hydroelectric construction site, strengthen the ability of the Government to provide assistance to families affected by the project, and reduce the cost of transporting goods between the agricultural (but food deficit) areas of the Koshi Hills and the more industrialized and productive Terai. To achieve these objectives, the project comprises: (i) construction of a gravel surfaced road, from near the end of the existing road, to the Arun III construction site, including a six kilometer spur road to the administrative center of Chainpur; (ii) a road maintenance depot at Tumlingar to support maintenance of the project road and monitor maintenance operations carried out by contractors; (iii) rehabilitation of families adversely affected by the construction of the access road through implementation of a Land Acquisition, Compensation, and Rehabilitation Plan (ACRP); and (iv) consultancy services for construction supervision, training of maintenance personnel, and the preparation and implementation of the ACRP.",
+          "project_name": "ARUN III ACCESS RD",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010331",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010331",
+        "value": "p010331"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "ARUN III ACCESS RD",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010331",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Transportation",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010331",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.760369Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010331",
+      "id": "version:entity:project/development_project/wb-p010331:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

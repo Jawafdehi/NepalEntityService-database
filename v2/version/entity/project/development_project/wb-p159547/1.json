@@ -1,0 +1,248 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.418334Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p159547",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.418336Z",
+    "dates": [
+      {
+        "date": "2019-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "This is the fourth operation in a series of Development Policy Credit (DPC) operations with thedevelopment objective of supporting the Government of Nepal’s (GoN) financial sector medium-termreform to reduce the vulnerability of the banking sector and increase its transparency. This program document describes the Fourth Financial Sector Stability Development Policy Credit (DPC4) to the GoN, in the amount of SDR 71.1 million (US$100 million equivalent). The initial IDA Financial Sector Stability Credit approved in June 2013, was a stand-alone single tranche credit in the amount of USD 30 million equivalent). The second and third credits (each in the amount of USD 100 million equivalent, and approved in June 2015 and March 2017, respectively), were designed in a programmatic series of three operations. The series has four pillars: (a) enhancing financial sector development; (b) restructuring and consolidating the financial system; (c) strengthening the legal and regulatory framework; and (d) enhancing the governance and transparency of the banking system.The proposed operation is consistent with the Country Partnership Strategy (CPS) for FY2014–2017 that acknowledges the persistent financial sector weakness and the risk it poses to macroeconomic stability and economic growth. The Performance and Learning Review (PLR, FY2017) of the CPS also acknowledges the progress made through the series of DPCs, particularly in addressing the capital adequacy of state-owned banks, strengthening inspection and compliance, ensuring overall financial sector stability and contributing to access to finance. The Systematic Country Diagnostic (FY2018) highlights financial sector stability and inclusion as important aspects for broader economic growth and poverty reduction. The operation was prepared in close collaboration with the International Finance Corporation (IFC), the International Monetary Fund (IMF), and the United Kingdom Department for International Development (DFID)."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P159547",
+        "raw_payload": {
+          "boardapprovaldate": "2018-08-07T00:00:00Z",
+          "borrower": "Nepal",
+          "closingdate": "2019-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "100000000",
+          "grantamt": "0",
+          "id": "P159547",
+          "impagency": "Beema Samiti (Insurance Board),Nepal Rastra Bank",
+          "major_sector_code": "FX",
+          "major_sector_name": "FY17 - Financial Sector",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "FX",
+                "major_sector_name": "FY17 - Financial Sector",
+                "sectors": [
+                  {
+                    "sector_code": "FA",
+                    "sector_name": "FY17 - Banking Institutions",
+                    "sector_percent": "83.0"
+                  },
+                  {
+                    "sector_code": "FD",
+                    "sector_name": "FY17 - Insurance and Pension",
+                    "sector_percent": "17.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Banking Institutions,FY17 - Insurance and Pension",
+          "proj_id": "P159547",
+          "project_abstract": "This is the fourth operation in a series of Development Policy Credit (DPC) operations with thedevelopment objective of supporting the Government of Nepal’s (GoN) financial sector medium-termreform to reduce the vulnerability of the banking sector and increase its transparency. This program document describes the Fourth Financial Sector Stability Development Policy Credit (DPC4) to the GoN, in the amount of SDR 71.1 million (US$100 million equivalent). The initial IDA Financial Sector Stability Credit approved in June 2013, was a stand-alone single tranche credit in the amount of USD 30 million equivalent). The second and third credits (each in the amount of USD 100 million equivalent, and approved in June 2015 and March 2017, respectively), were designed in a programmatic series of three operations. The series has four pillars: (a) enhancing financial sector development; (b) restructuring and consolidating the financial system; (c) strengthening the legal and regulatory framework; and (d) enhancing the governance and transparency of the banking system.The proposed operation is consistent with the Country Partnership Strategy (CPS) for FY2014–2017 that acknowledges the persistent financial sector weakness and the risk it poses to macroeconomic stability and economic growth. The Performance and Learning Review (PLR, FY2017) of the CPS also acknowledges the progress made through the series of DPCs, particularly in addressing the capital adequacy of state-owned banks, strengthening inspection and compliance, ensuring overall financial sector stability and contributing to access to finance. The Systematic Country Diagnostic (FY2018) highlights financial sector stability and inclusion as important aspects for broader economic growth and poverty reduction. The operation was prepared in close collaboration with the International Finance Corporation (IFC), the International Monetary Fund (IMF), and the United Kingdom Department for International Development (DFID).",
+          "project_name": "Nepal Fourth Financial Sector Stability Credit DPC4",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Finance",
+            "FY17 - Finance",
+            "FY17 - Finance",
+            "FY17 - Finance",
+            "FY17 - Human Development and Gender",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Climate change",
+            "FY17 - Disaster Risk Management",
+            "FY17 - Disaster Risk Management",
+            "FY17 - Finance for Development",
+            "FY17 - Financial Infrastructure and Access",
+            "FY17 - Financial Stability",
+            "FY17 - Financial Stability",
+            "FY17 - Gender"
+          ],
+          "totalamt": "100000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 100000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2018-08-07",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p159547",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P159547",
+        "value": "p159547"
+      }
+    ],
+    "implementing_agency": "Beema Samiti (Insurance Board),Nepal Rastra Bank",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Fourth Financial Sector Stability Credit DPC4",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P159547",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Financial Sector",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p159547",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 100000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.418334Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p159547",
+      "id": "version:entity:project/development_project/wb-p159547:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

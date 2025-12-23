@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.993538Z",
+  "dates": [
+    {
+      "date": "2024-07-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-08-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Sustainable Tourism for Livelihood Recovery Project (STLRP) – a joint project of the Nepal Tourism Board (NTB) and UNDP aims to contribute to the revival of the tourism sector by supporting livelihoods recovery of the most affected workers by providing short-term employment as well as enhancing the capacity of the NTB and other relevant stakeholders to accelerate recovery efforts including supporting the formulation of the National Tourism Recovery Strategy after COVID-19. The project will also initiate activities to support the long-term revival of the tourism sector by creating sustainable jobs and livelihood opportunities in partnership with the private sector; developing human resource capacity; supporting the creation of tourism-based enterprises; strengthening sector-related data and information management and digitalization, and articulating a comprehensive tourism recovery strategy. Aligned with sustainable tourism concepts, project activities will be oriented towards promoting a green economy."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Development Programme",
+      "donor_project_id": "2385",
+      "raw_payload": {
+        "id": 13608,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Development Programme",
+        "organization_id": 8,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Nepal Tourism Board",
+  "financing": [
+    {
+      "amount": 1447125.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Development Programme",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-07-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2385",
+      "value": "2385"
+    }
+  ],
+  "implementing_agency": "Nepal Tourism Board",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sustainable Tourism for Livelihood Recovery Project (STLRP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2385",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2385",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1447125.0,
+  "total_disbursement": 951897.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.993533Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2385",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.045168Z",
+  "dates": [
+    {
+      "date": "2014-07-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-01-02",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "-        To contribute towards gender equality for equitable and just society\r\n\r\n\t-        Develop rural women’s entrepreneurship skills to engage in the value chain process as producers, entrepreneurs, suppliers, workers and consumers\r\n\r\n\t-        Support to organize entrepreneurship and business creation  training and support\r\n\r\n\t-        Strengthen women’s capacity for joint ownership of land which would enable women to have access and control over the resources at household level.\r\n\r\n\t-        Establish information centers to update women entrepreneurs on recent technologies, market and credit information.\r\n\r\n\t-        Strengthen capacity of District Coordination Committee’s (DCC), to facilitate and monitor implementation of NAP (UNSCR 1325 & 1820).\r\n\r\n\t-        Strengthen the capacity of community women's´ group leaders to be the focal persons on NAP implementation (UNSCR 1325 & 1820). \r\n\r\n\t-        Develop and strengthen monitoring  system at district level and support to prepare NAP monitoring report  to  be shared nationally and internationally\r\n\r\n\t-        Orient village leaders on key social issue (GBV, human rights, key socio-cultural norms) and their negative impact on family and community.\r\n\r\n\t-        Support/advocate local planning process to mainstream GBV prevention into local planning process.\r\n\r\n\t-        Capacity building of VDC secretary, local leaders and psychosocial support committee (PSSC) on gender responsive participatory planning and budgeting.\r\n\r\n\t-        Forge partnership with VDC, networks and support campaigns to declare “Domestic Violence” free VDCs\r\n\r\n\t-        Capacity Building of Community Based Social Workers (CBSW), establish Psychosocial Coordination Group (PSCG and institutionalize at VDC level)\r\n\r\n\t-        Identify influential “positive deviants” and/or popular opinion leaders (individuals, families, and/or community groups) who will denounce harmful practices.\r\n\r\n\t-        Work with village leaders, faith healers, religious leaders, and marriage brokers to influence patriarchy values, norms and system and health and legal consequences of early marriage\r\n\r\n\t-        Work closely with District Coordination Committee (DCC)  to provide emergency support (disaster, fire, flood etc)\r\n\r\n\t-        Engage men and boys to strengthen their capacity  in challenging attitudes of gender inequity and Violence Against Women (VAW)\r\n\r\n\t-        Commemorate 16 Days of Activism, International Women’s Day  and International Peace day\r\n\r\n\t-        Strengthen REFLECT Centers and link with broader social movements and alliances\r\n\r\n\t-        Mobilize media to showcase success stories, feature writing and issue for policy influence develop and disseminate Behavior Change Communication (BCC) and Information Education and Communication (IEC) materials (leaflet, poster, story book and newsletter)\r\n\r\n\t \r\n\r\n\t-        Conduct actions research to test hypothesis and validate assumption as per Women Empowerment Framework\r\n\r\n\t-        Organize finding sharing workshops (Assess outcomes/impact of CARE Nepal initiatives to women empowerment).\r\n\r\n\t-        Document best practices and lesson learnt and disseminate \r\n\r\n\t-        Publish case studies and best practices of  women empowerment\r\n\r\n\t-        Mid- term evaluation\r\n\r\n\t-        Final evaluation\r\n\r\n\t-        Organize joint project monitoring (WCO, DDC, Media, CARE and SWC)\r\n\r\n\t-        Establishment, strengthening and institutionalization of cooperatives\r\n\r\n\t-        Strengthen VDC, District networks, women and men’s groups\r\n\r\n\t-        Organizes policy advocacy on women rights from grassroots to national level\r\n\r\n\t-        Establishment of Psychosocial Support Committees (PSSC) in all working VDC in  collaboration with VDC\r\n\r\n\t-        Support VDC & DDC to develop women empowerment Strategic plan and advocate for its implementation\r\n\r\n\t-        Provide support to implement women empowerment strategic plan\r\n\r\n\t-        Collaborate with DDC and VDC and carry out  gender budget audit of 3 DDCs and  6 VDCs\r\n\r\n\t-        Support to organize social audit every year\r\n\r\n\t-        Organize orientation on psychosocial programming approach, gender and social inclusion and Code of Conduct to staff members including those of partners\r\n\r\n\t-        Development of Gender Equality and Social Inclusion mainstreaming tools, Checklists, Guidelines, GESI Scoreboard etc\r\n\r\n\t-        Conduct GESI gap analysis and operationalize gender analysis framework\r\n\r\n\t-        Develop Mission level Men Engagement strategy and incorporate into projects"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CARE Nepal",
+      "donor_project_id": "662",
+      "raw_payload": {
+        "id": 6635,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CARE Nepal",
+        "organization_id": 304,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "CARE Nepal",
+  "financing": [
+    {
+      "amount": 781373.538,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CARE Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-07-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/662",
+      "value": "662"
+    }
+  ],
+  "implementing_agency": "CARE Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Women Empowerment for Transformation in the Churia area SAKCHAM III",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/662",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-662",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 781373.538,
+  "total_disbursement": 1005649.12323,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.045165Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-662",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

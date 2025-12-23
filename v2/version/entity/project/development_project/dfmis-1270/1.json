@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.159915Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1270",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.159919Z",
+    "dates": [
+      {
+        "date": "2010-08-31",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-01-27",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1) Performances (target groups: Nepali people (audience) including rural villagers, dalits, ethnic minorities and other marginalized groups, in addition to theatre groups and social activists2) Workshops (Target groups: theatre artists from Aarohan  and national and regional partners3) National, regional and international exchanges (Target group: artists and workers from Aarohan, other national, regional and international artists and theater workers),4) Documentation (Target groups: local communities, researchers, universities, theatre people, media and the general public)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ministry of Foreign Affairs",
+        "donor_project_id": "1270",
+        "raw_payload": {
+          "id": 1652,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 22,
+          "organization__development_cooperation_group__name": "Norway",
+          "organization__logo": "",
+          "organization__name": "Ministry of Foreign Affairs",
+          "organization_id": 37,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Foreign Affairs",
+    "financing": [
+      {
+        "amount": 444345.701,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Foreign Affairs",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-08-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1270",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1270",
+        "value": "1270"
+      }
+    ],
+    "implementing_agency": "Ministry of Foreign Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Theatre Partnership Nepal-Norway",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1270",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1270",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 444345.701,
+    "total_disbursement": 447627.30023,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.159915Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1270",
+      "id": "version:entity:project/development_project/dfmis-1270:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

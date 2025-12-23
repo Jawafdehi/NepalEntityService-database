@@ -1,0 +1,171 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:21.394668Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-4298",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:21.394670Z",
+    "dates": [
+      {
+        "date": "2022-04-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-04-29",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1: Conduct participatory  technical reviews of NDCs and/or NAPs to  identify priority land-use and agriculture  actions with transformative and systemschange  potential  1.1.2: Conduct participatory systems-level assessments to define evidence-based transformative and inclusive implementation options1.2.1: Compile, adapt, and produce tools for the technical reviews of NDCs and/or NAPs, systems-level assessments and other related analytical tools  1.2.2: Develop user-guidance material and disseminate tools and best practices2.1.1: Strengthen multistakeholder coordination and  organisational capacities for the integration of NDC and/or NAPs’ priorities on land-use and agriculture in policies, plans and budgets  2.1.2: Improve/develop MRV and M&E systems at national and/or sectoral level for monitoring and reporting in regard to mitigation and/or adaptation in land-use and agriculture, including collection of gender disaggregated data  2.1.3: Enhance NDCs and/or NAPs by integrating transformative and inclusive land-use and agriculture priorities2.2.1 Produce and disseminate guidance/toolkit to support national capacities to integrate land-use and agriculture into government policy, planning, budgeting, and MRV/M&E systems  2.2.2: Contribute to the global advocacy and knowledge sharing on NDC, NAPs, and transformative actions for landuse  and agriculture  2.2.3: Support an additional set of countries to incorporate land-use and agriculture sector into national climate related goals and enhance their NDCs and/or NAPs3.1.1: Identify policy and financial de-risking measures and business opportunities 3.1.2: Develop project concept notes to leverage investment for transformative and inclusive action in partnership with the private sector3.2.1 Produce and disseminate guidance to support national capacities in engaging the private sector on NDCs and/or NAPs  3.2.2 Produce and disseminate technical briefs for private sector engagement on transformative and/or innovative climate action.3.3.1: Support target countries to strengthen dialogues with the private sector, identify and address barriers in the enabling environment and develop public-private  partnerships for climate ambition and solutions in land use and agriculture 3.3.2: Contribute to South-South Cooperation and cross sector learning mechanisms to encourage learning across countries"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "4298",
+        "raw_payload": {
+          "id": 42151,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "4298",
+        "raw_payload": {
+          "id": 42152,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Food and Agriculture Organization",
+    "financing": [
+      {
+        "amount": 300000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-04-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-4298",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/4298",
+        "value": "4298"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization, United Nations Development Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Support Programme on Scaling up Climate Ambition on Land Use and Agriculture through NDCs and NAPs (SCALA)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/4298",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-4298",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 300000.0,
+    "total_disbursement": 265458.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:21.394668Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-4298",
+      "id": "version:entity:project/development_project/dfmis-4298:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

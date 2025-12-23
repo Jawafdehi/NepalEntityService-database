@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.864078Z",
+  "dates": [
+    {
+      "date": "2020-05-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-05-24",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "01.01.01Develop and apply core teacher skills for inclusive early grade learning, teaching and outcomes  (Grade 1-3)01.01.02Train and provide on-site support to Grade 1-3 teachers to promote application of Inclusive Education training, and use information for periodic reflection meetings.01.01.03Address Learning Needs of Students in Grades 4-801.01.04Develop/ Adapt and deliver training manual, both foundational and refresher, on Inclusive Education which integrates Gender, Disability, Caste and Ethnicity intersection, including early detection and individualized education plan, for ECED Facilitators01.01.05Provide on-site support to ECD teachers to promote application of Inclusive Education training, and use information for periodic reflection meetings.01.01.06Develop/ Adapt and deliver training manual, both foundational and refresher, on Inclusive Education which integrates Gender, Disability, Caste and Ethnicity intersection, including early detection and individualized education plan01.01.07Provide specialised assistance to schools to identify & support CWDs01.01.08Conduct inclusive Extra-Curricular Activities (ECA) in schools on IE related themes (including barriers relating to gender, caste/ethnicity, disability) - child clubs01.02.01Schools supported with supplementary learning materials and establish book corners in ECD and grade 1-301.02.02Carry out Language Assessment and organize workshop at local level to develop the  inclusive  teaching learning material01.02.03Design, develop, print and distribute Inclusive Education Learning Materials (including 3D print , picture symbols - and guidelines)01.02.04Provide teachers kit - aims to create print rich environment in classrooms01.02.05Build capacity of upper-grade teachers (4 & above) around materials creation01.03.01Support school and local government to conduct need assessments of inclusive physical facilities at school01.03.02Support to construct/ rehabilitate/ repair schools to upgrade the existing physical facilities to make them more inclusive including girl-friendly (with incinerator & changing room), child friendly and disabled friendly toilets in schools Drinking Water system and Hand Washing station with footprint and nudges01.03.03Provide child friendly furniture to establish child friendly sitting arrangements in classroom (ECD and Grade 1-3)01.03.04Install sanitary bins and support schools with sanitary pads01.03.05Work with schools to make the playgrounds more inclusive (e.g. levelling) and fencing01.04.01Develop orientation resources and deliver orientation on Inclusive Education which integrates Gender, Disability, Caste and Ethnicity intersection for school level stakeholders (Head teachers, SMC, PTSA members)01.04.02Work with SMC to develop & roll-out Inclusive School Improvement Plan (SIP) that includes School Safety plan01.04.03Support schools with small scale grants for effective implementation of their SIP01.04.04Support schools to form and functionalize CP committee to handle CP incidents and link with referral mechanism02.01.01Carry out assessment  to identify the most vulnerable children and their families including early detection and screening  (based on disability, caste, gender, poverty, OSC etc.) - engaging child clubs members as well.02.01.02Provide special packages to identified MVF/MVC (e.g. conditional cash support programme, eye glasses, hearing aid, stationary, uniform)02.01.03Run bridging classes for Out-of-School Children (OSC) to bring them back to formal education system02.01.04Prepare and disseminate school & community level (including municipality) referral mechanisms02.02.01Facilitate broader community action components to improve early grade learning (literacy & numeracy) skill (including read-a-thons, reading mela, community story time and reading buddies)02.02.02Develop parental education course/ package focusing on ECD and covering issues around Inclusive Education and conduct orientation to parents/caregivers - parents of target schools children02.03.01Adapt and contextualize the C-Change facilitators manual and train facilitators02.03.02Establish community change groups taking school catchment area as cluster with representatives from existing, new groups and other representatives of the community02.03.03C-Change groups identify and explore gender, ethnicity/caste, disability-related barriers (including root causes) affecting MVC through structured facilitated sessions (20+ sessions) 02.03.04C-Change groups develop and implement action plans to address discriminatory and harmful attitudes, behaviours and practices02.03.05C-Change groups review and reflect on their action plans  02.03.06Identify key influencers and gatekeepers to support efforts to address discriminatory and harmful attitudes, behaviours and practices (men, boys, social and faith leaders, women leaders, local media person, head teachers, youths- media campaign, awareness campaign and intergenerational dialogues)02.03.07Engage the local g"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Vision International",
+      "donor_project_id": "2369",
+      "raw_payload": {
+        "id": 12248,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "organization/logos/WVI_Nepal_New_Logo_FY2023.png",
+        "organization__name": "World Vision International",
+        "organization_id": 459,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 3217536.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Vision International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-05-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2369",
+      "value": "2369"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening Inclusive Education Project in Nepal (SIKAI)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2369",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2369",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3217536.0,
+  "total_disbursement": 2772598.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.864055Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2369",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

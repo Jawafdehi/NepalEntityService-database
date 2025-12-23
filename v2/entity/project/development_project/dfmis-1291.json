@@ -1,0 +1,147 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.227820Z",
+  "dates": [
+    {
+      "date": "2007-01-14",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2007-01-14",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-01-14",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Upgrading and improvement of following roads with \" otta-Sealed-Surface\"Sanfebagar-Martadi Road (USD 3960337.2+4553231.69)Sanfebagar-Mangalsen Road (USD 4393623.03+5045549.96)Surkhet-Ranimatta-Dailesh Road (Surkhet-Diyakot Section) (USD 3913911.26+4553231.69)Tulsipur-Salyan Road (USD 5511079.73+6337741.69)Bhaluwang-Pyuthan Road (USD4136694.03+ 4513680.30)Chakchake-Liwang Road (USD 5626527.39+6222085.89)Chandranigahapur-Gaur Road (USD 4147193.75+5546000.91)Hilepani-Diktel Road (USD4914200.45+ 5622056.69)Basantapur-Myanglung Road (USD2082939.52+ 2395380.45)Ameliya-Tulsipur Road (USD 1568155.59+1803378.93)Maldhunga-Beni Road (USD 1171741.13+1347502.30)Rajbiraj-Sakhada Govindapur RoadRupani-Rajbiraj RoadRajbiraj-Hanumannagar -Bhardaha"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "India Exim Bank",
+      "donor_project_id": "1291",
+      "raw_payload": {
+        "id": 3862,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 14,
+        "organization__development_cooperation_group__name": "India",
+        "organization__logo": "",
+        "organization__name": "India Exim Bank",
+        "organization_id": 457,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Physical Infrastructure and Transport",
+  "financing": [
+    {
+      "amount": 50000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "India Exim Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2007-01-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1291",
+      "value": "1291"
+    }
+  ],
+  "implementing_agency": "Department of Roads",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Road Improvement Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1291",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Transport",
+      "donor_subsector": null,
+      "normalized_sector": "Transport",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1291",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 50000000.0,
+  "total_disbursement": 45785712.672,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.227817Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1291",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.813373Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-401",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.813376Z",
+    "dates": [
+      {
+        "date": "2010-08-09",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-08-09",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Review existing Civil Service Act and Local Government Service rules\r\nInitial stakeholder consultations on options for reforms\r\nDraft options analysis report \r\n \r\nReview of RBM in public service\r\n \r\nDraft performance-based contract (PBC) for review\r\n \r\nStakeholder consultations on PBC\r\n \r\nReview existing PPP arrangements for service delivery at local level \r\n \r\nShare the findings of the review with government, local bodies, and development partners for feedback\r\n \r\nPrepare the plan for up scaling PPPs \r\n \r\nReview local government block grant formula\r\n \r\nConduct stakeholders discussions\r\n \r\nPrepare draft recommendations for review by government \r\n \r\nEstablish TA steering committee \r\n \r\nEngage consultants for TA activities \r\n \r\nPrepare draft program document for further processing\r\n \r\nConduct stakeholders’ discussions on the draft program document\r\n \r\nRegular reviews of the TA (by the Project Steering Committee and ADB)\r\n \r\nSubmission of inception report\r\n \r\nSubmission of interim report\r\n \r\nSubmission of final report\r\n \r\nLGCDP = Local Governance and Community Development Program, PBC = performance-based contract, PPP = public-private partnerships, RBM = results-based management, S-PPTA = small-scale project preparatory technical assistance, TA = technical assistance"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "401",
+        "raw_payload": {
+          "id": 1578,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 200000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-08-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-401",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/401",
+        "value": "401"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "PPTA 7574-NEP: Governance Support Program (Subprogram II)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/401",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-401",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 200000.0,
+    "total_disbursement": 105204.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.813373Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-401",
+      "id": "version:entity:project/development_project/dfmis-401:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

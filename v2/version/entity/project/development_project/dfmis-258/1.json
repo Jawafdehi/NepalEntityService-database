@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.356131Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-258",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.356134Z",
+    "dates": [
+      {
+        "date": "2011-10-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-10-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Fida Internaitonal has following inputs for the project ' Transformed People - Transformed Communities 2011 - 2014'.\r\n\r\ni. provide organizational developmet trainings and support to the implmenting partners\r\n\r\nii. Support partners to develop their capacity in project management.\r\n\r\niii. Facilitate the implementing partners to develop networkign and coordination with government of Nepal, concern stakeholders and possible donors.\r\n\r\nvi. Financial and technical support to holsitic community development project for community services, health services and family services.\r\n\r\nv. Provide financial and technical support to Maithili empowerment project to implement literacy, primary education, health and culture awareness programme.\r\n\r\nvi. Support youth empowerement project to enhacne capacity of youths.\r\n\r\nvii. support implementing partners to conduct primary eduecation, vocational education and skill based trainigns to the chidlren and youths.\r\n\r\nviii. Support the partners for Water and Sanitation Project.\r\n\r\nix. Conduct monitoring visit, DPAC, CPAC meetings to assess the progress of the project and provide techincal and fancial support."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Finnish International Development Agency",
+        "donor_project_id": "258",
+        "raw_payload": {
+          "id": 2710,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 10,
+          "organization__development_cooperation_group__name": "Finland",
+          "organization__logo": "",
+          "organization__name": "Finnish International Development Agency",
+          "organization_id": 23,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Finnish International Development Agency",
+    "financing": [
+      {
+        "amount": 1338582.677,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finnish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-10-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-258",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/258",
+        "value": "258"
+      }
+    ],
+    "implementing_agency": "Finnish International Development Agency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Transformed People - Transformed Communities",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/258",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-258",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1338582.677,
+    "total_disbursement": 1512567.866,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.356131Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-258",
+      "id": "version:entity:project/development_project/dfmis-258:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

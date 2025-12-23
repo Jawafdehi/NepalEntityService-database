@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.457373Z",
+  "dates": [
+    {
+      "date": "2015-01-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-01-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1: Training of two government technical officers on agribusiness development in fresh produce chains;\r\n\r\nActivity 1.2: Capitalizing on experiences and expertise from other countries in the region, develop training modules and guidelines for a Farm Business School to address farm to market agri-business linkages  and on horticultural chain management to address safety and quality across the supply chain.\r\n\r\nActivity 1.3: Train 50 Officer level Master Trainers from the government agencies originating from central to district levels through a Farm Business School ToT (10-12 days) on farm-to-market agribusiness linkages and in horticultural chain management.\r\n\r\n \r\n\r\nActivity 1.4:  With support from the master trainers, train local level trainers  (6 groups of 20 stakeholders, with a total of 120 participants), including government extension service providers (40) and Leader Farmers/Farmer Facilitators (80) on farm-to-market agribusiness linkages and horticultural chain management to assure the safety and quality of fresh produce.\r\n\r\nActivity 2.1: Implement 60 Farm Business Schools (15 each district having 3 clusters, each cluster-5 groups) with training on horticultural chain management with the participation of existing production groups - preferably IPM groups - on the establishment of farm to market agribusiness linkages for produce outputs that are safe and of good quality;\r\n\r\nActivity 2.2: Organize 6 observation visits of farmers’ group leaders to market sites and facilitate regular interactions with the traders, retailers and supermarkets to understand the market needs and opportunities for safe produce of good quality;\r\n\r\nActivity 2.3: Support 60 farmers’ groups/cooperatives in the development of market linkages and in the establishment and operation of safe and quality crop production and marketing agribusinesses;\r\n\r\nActivity 2.4: Provide specific trainings to the farmers’ groups in good post-harvest management practice - sorting, grading, cleaning, packaging, truthful labelling of safe and quality  produce, in line with market needs;  \r\n\r\nActivity 2.5: Support famers’ groups in scaling up their agribusinesses activities through creating linkages with lending institutions, input supply sources, contract farming and other arrangements.\r\n\r\nActivity 3.1:  Undertake a market survey and identify potential marketing channels and traders interested in handling and supplying safe produce of good quality;\r\n\r\nActivity 3.2: Identify the requirements of traders and supermarkets for marketing safe and quality crop products;\r\n\r\nActivity 3.3: Organize programmes that facilitate potential traders of safe and quality produce to interact with agri-businesses including supermarket chains;\r\n\r\nActivity 3.4: Support traders to link them with production groups and agribusinesses and identification of marketing points or stalls;\r\n\r\nActivity 3.5: Provide small equipment and materials to traders/retailers to assist them in differentiating their produce in the local market.\r\n\r\nActivity 3.6: Assist traders in identifying and linking with local collectors for safe and quality produce.\r\n\r\nActivity 3.7: Implement training and follow up support for produce collectors and traders (50) to trade produce that is differentiated on the basis of its safety and quality.\r\n\r\nActivity 4.1: Document and disseminate success stories through printing media and video;\r\n\r\nActivity 4.2: Implement a media campaign to promote the importance of assuring the safety of fresh produce for health and nutrition.\r\n\r\nActivity 4.3: Develop and disseminate ICT materials on the benefits of safe produce of good quality;"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "976",
+      "raw_payload": {
+        "id": 8915,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 350000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/976",
+      "value": "976"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Building Agribusiness Capacity of Smallholder Farmers to Market Safe Produce of Good Quality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/976",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-976",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 350000.0,
+  "total_disbursement": 349972.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.457370Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-976",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

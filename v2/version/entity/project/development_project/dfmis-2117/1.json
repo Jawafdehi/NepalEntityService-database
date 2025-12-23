@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.166388Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2117",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.166391Z",
+    "dates": [
+      {
+        "date": "2020-11-05",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-11-05",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-11-04",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "# 80% of women are more involved in the social, economic and political life of the district, on the sample directly involved in the project# the nurseries are active, spread at least 3,000 seedlings each per year and are managed by a cohesive and permanent team each# Land use maps produced by the project partnership through remote sensing and GIS# training of 12 families and equipment with complete beekeeping materials# training and supply of seedlings for the replanting of arboreal plants for the production of branches for animal feed# Technical evaluations on the performance of mushroom sheds, conducted by the Naukunda Rural Municipality Agriculture section is responsible for monitoring# Training of 12 families and equipment with complete mushroom construction materials# Construction of irrigation canal# Training of 120 families on animal nutrition and plantation of fodder crops.# Training of 150 families on agriculture on agriculture extension services# Training of 150 families on agriculture extension services to for the income generation# Training of 25 families and on cooperatives management# Training to 150 students on high value agriculture crops to make them interest in farming.# 6 nurseries for the reproduction of local tree species# 18 hectares of marginal areas are planted with native tree species,# 180 families are trained and equipped to start or expand the beekeeping activity# 12 families are trained in the production of mushroom cultivation# 120 families of breeders are trained on the pruning techniques of tree# 1 Irrigation and 1 collection centre establishment  # 150 Farmers Agriculture extension services provided to the farmers for increasing production and processing efficiency# 150 Farmers Agricultural extension services provided for income generation through cash crop and livestock farming# 25 Local small farmers’ cooperatives supported and market chain improved# At least 150 youth students will be trained on high value crops cultivation#At least 1 hospital will supported with COVID  materials# At least more than 100 persons will be supported by food items and more than 400 children will# At least 6000 people will be aware from the COVID 19 awareness campaign.#3500 farmers (2100 women) trained in improved agricultural techniques for the production of seeds and vegetables#At least 50% of the target groups (of which at least 60% are women) will adopt improved agricultural practices for seed production.#At least 1 seed bank and 5 seed collection units will be established and managed by cooperatives and social enterprises#Set up 2 Community companies that provide farmers with extension services to guarantee market access and improve the characterization of the local value.#The members of 10 existing cooperatives and 2 community social enterprises (at least 60% of women participants) trained on the business plan and on financial management.#Established business relationships with at least 2 private companies for the sale of agricultural products in national markets#At least 5 local government agencies will be supported in preparing the agricultural development plan to increase the production and marketing of high value vegetables and seeds#At least 10 representatives of the 5 rural municipalities participate in the project coordination meetings#Weekly markets regulated in local strategies#1 seed bank and 2 community social enterprises supported by local governments during the project#Community Resources Persons trained in the dissemination of extensive government agricultural services#Weekly markets realized once a week in the 5 municipalities#2 selected private companies and 2 sales contracts stipulated for marketing at national level#3500 farmers have access to the use of ICT products for agricultural production and other marketing information#20 teachers will be trained focused on improving of learning achievements.# 681 students supported with school fee, stationery, dress, food and extracurricular activities.# 4 schools supported for minor maintenance."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ASIA ONLUS",
+        "donor_project_id": "2117",
+        "raw_payload": {
+          "id": 13298,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "ASIA ONLUS",
+          "organization_id": 568,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "ASIA ONLUS",
+    "financing": [
+      {
+        "amount": 1380940.457,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "ASIA ONLUS",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-11-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2117",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2117",
+        "value": "2117"
+      }
+    ],
+    "implementing_agency": "ASIA ONLUS",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "GROW YOUR FUTURE: EDUCATION AND RUAL DEVELOPMENT FOR A SUSTAINABLE AND RESILIENT LIFE",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2117",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2117",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1380940.457,
+    "total_disbursement": 992791.0749,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.166388Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2117",
+      "id": "version:entity:project/development_project/dfmis-2117:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

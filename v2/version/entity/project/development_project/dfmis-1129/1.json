@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.308953Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1129",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.308955Z",
+    "dates": [
+      {
+        "date": "2014-03-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-03-26",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Conduct baseline study\r\n\t\r\n\t\tEnrolment campaign for education in community school and Non Formal Education (NFE)\r\n\t\r\n\t\tEstablish girl clubs (GCs) for in school and out of school girls\r\n\t\r\n\t\tAdvocacy with District Education Office for STEM girls to receive scholarships and other supports\r\n\t\r\n\t\tSupport SMCs and PTAs to develop enrolment messages\r\n\t\r\n\t\tDevelop IEC materials to raise awareness and conduct door to door campaign\r\n\t\r\n\t\tEstablish Solar Light Lending Libraries (optional based on baseline survey)\r\n\t\r\n\t\tConduct market assessment and identify entrepreneurs in pilot communities\r\n\t\r\n\t\tFacilitate to support entrepreneurs to receive  financial and inventory loans, and training\r\n\t\r\n\t\tOrganize orientation for schools, students, and community\r\n\t\r\n\t\tEstablish rent-to-buy libraries (optional based on baseline survey)\r\n\t\r\n\t\tDistribute of solar lighting  to girls club (GCs) and train on use and maintenance (optional based on baseline survey)\r\n\t\r\n\t\tFinance community projects\r\n\t\r\n\t\tOrganize Most Improved Student (MIS) Awards\r\n\t\r\n\t\tPromote girl club and girl recruitment\r\n\t\r\n\t\tProvide academic tutoring, financial literacy, and entrepreneurship sessions to girl clubs.\r\n\t\r\n\t\tConduct campaign for school re-enrolment placement exams\r\n\t\r\n\t\tPromote participation of marginalised girls in vocational training, apprenticeships and small-business start-up"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Ministry of Education, Science and Technology",
+        "donor_project_id": "1129",
+        "raw_payload": {
+          "id": 7114,
+          "organization__development_cooperation_group__architecture__id": 4,
+          "organization__development_cooperation_group__architecture__name": "Government of Nepal",
+          "organization__development_cooperation_group__id": 54,
+          "organization__development_cooperation_group__name": "Line Ministries",
+          "organization__logo": "",
+          "organization__name": "Ministry of Education, Science and Technology",
+          "organization_id": 69,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "MercyCorps",
+    "financing": [
+      {
+        "amount": 1665191.489,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-12-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 1703100.1,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Ministry of Education, Science and Technology",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-03-03",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 440639.379,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-03-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1129",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1129",
+        "value": "1129"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Supporting the Education of Marginalised Girls in Kailali (STEM)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1129",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1129",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 3808930.968,
+    "total_disbursement": 1711883.015389,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.308953Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1129",
+      "id": "version:entity:project/development_project/dfmis-1129:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

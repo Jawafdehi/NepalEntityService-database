@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.870998Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1793",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.871002Z",
+    "dates": [
+      {
+        "date": "2021-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Improving income-generation practices and livelihood skills. Considering the profile of households—  landless, elderly, women-headed households, etc.—and likely wide geographic spread of the targeted  households, ReCoVER will focus on organizing small group trainings, field demonstrations, on-field  mentoring support and digital mediums like radio, which can address barriers like low mobility to build  the skills of target households on improved livelihood production and marketing practices.  To ensure trainings are targeted to the most common needs, and the most likely opportunities for  generating income, CRS will use the early start-up phase of the program to understand specific barriers  that selected vulnerable households face to increasing their income. Considering the COVID-19 context,  and in order to be efficient and safe, area assessments to decide the specific types of livelihood  interventions can mostly be completed remotely, in collaboration with implementing partners and key  local stakeholders like municipalities, agriculture knowledge centers, and private sector actors like local  chambers of commerce, financial service providers, cooperative groups and other value chain actors.  These stakeholders will help ReCoVER leadership tailor production and marketing interventions for the  most practical and applicable production improvements to generate income for households. CRS  technical staff will use the simple guidelines or standard operating procedures that worked in Gorkha  and Okhaldunga, and adjust them to the new working areas using the information gained in the process,  with focus on inclusion of women and vulnerable households. The customized guidance will be rolled out  across staff, partners and local agricultural extension workers to ensure uniform understanding across  program areas. CRS and partner staff will lead trainings on these guidelines through a mix of adultlearning  methodologies like classroom trainings, field visits, farmer exchange visits and practical handson  accompaniment sessions.  Due to the recent decentralization of governance in Nepal, the local municipalities are now responsible  for providing agriculture extension services to communities. The newly recruited and young extension  staff at municipalities will benefit from trainings organized by the program. ReCoVER will work with  municipality extension workers, private sector agricultural vendors and local cooperatives to ensure they  have the skills needed to support ReCoVER livelihood activities. The residual benefit of training these  local stakeholders is that the improved practices remain in the community after the program has ended.  • After building skills of targeted households on improved livelihood practices, ReCoVER will provide  improved inputs to nudge and motivate households in adopting the improved practices to increase  production. Based on experience from Gorkha and Okhaldunga, CRS anticipates that the key livelihood  sub-sectors will be market-oriented vegetable production, backyard poultry, goat rearing and postharvest  management in high value crops like large cardamom and coffee which will contribute to increase  15  in income. ReCoVER will focus on ensuring participants incorporate a few key improved marketing  practices with the aim of bringing their goods to market."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Catholic Relief Services",
+        "donor_project_id": "1793",
+        "raw_payload": {
+          "id": 13210,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Catholic Relief Services",
+          "organization_id": 677,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Catholic Relief Services",
+    "financing": [
+      {
+        "amount": 9124886.568,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Catholic Relief Services",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1793",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1793",
+        "value": "1793"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "RESILIENT COMMUNITIES THROUGH VULNERABLE EARTHQUAKE RECOVERY (ReCoVER)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1793",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Housing",
+        "donor_subsector": null,
+        "normalized_sector": "Housing",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1793",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 9124886.568,
+    "total_disbursement": 874883.9618,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.870998Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1793",
+      "id": "version:entity:project/development_project/dfmis-1793:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

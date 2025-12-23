@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.822451Z",
+  "dates": [
+    {
+      "date": "2021-04-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-04-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2030-04-06",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activities related to outcome 1: Child-friendly furniture and TLM to classroomsChild-friendly school infrastructure (WASH and playground)ICT equipment to classroomsExtra-curricular activitiesTeachers trainingSMC/PTA trainingsFormation and support to child clubsHeadteacher trainingsScholarships/ Child fundTuition classes/ Learning campsParenting EducationStrengthening local capacities/policies/strategies on education and child rightsEstablishing and strengthening Child Rights Committees at Municipalities and WardsCoordination and review meetingsActivities related to outcome 2:Entrepreneurship/vocational trainingsAgricultural trainingsBusiness skills trainingEquipment and tools and financial support to vocational graduates/IGA seekersSupport to farmersFormation of groups and cooperativesAdolescent group formation and trainings (SAMVAD and Rupantatran)Community meetings on Child Rights and EducationProject Accompanying ActivitesCapacity building/exposure visitsOrganizational monitoring and support/report, documentation and printing/publication and promotion/project staff annual reviewBaseline/mid-line/end-line studies"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Childaid Network Foundation",
+      "donor_project_id": "6511",
+      "raw_payload": {
+        "id": 43071,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "organization/logos/CA-Logo-RGB_4.jpg",
+        "organization__name": "Childaid Network Foundation",
+        "organization_id": 796,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Finance, Ministry of Education, Science and Technology, Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 5474261.34,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Childaid Network Foundation",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-04-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6511",
+      "value": "6511"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education and Skill Enhancement Project (ESEP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6511",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6511",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5474261.34,
+  "total_disbursement": 1200611.90296516,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.822449Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6511",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

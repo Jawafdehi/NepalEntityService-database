@@ -1,0 +1,135 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.795922Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Third Highway Project for Nepal provides a means to integrate the far western part of Nepal with the rest of the country through completion of an all-weather East-West Highway. The project will improve traffic conditions between Kathmandu and Birganj at the Indian border through selective rehabilitation of bridges and road pavements, and strengthen the construction and maintenance capability of the Borrower. It will construct about 204 km of the East-West Highway including a bridge over Karnali (Chisapani) River and feeder roads, rehabilitate about 82 km of the Mugling-Naubise road, provide maintenance equipment, technical assistance and training."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010206",
+      "raw_payload": {
+        "boardapprovaldate": "1984-08-28T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "envassesmentcategorycode": "C",
+        "id": "P010206",
+        "major_sector_code": "TX",
+        "major_sector_name": "Transportation",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "TX",
+              "major_sector_name": "Transportation",
+              "sectors": [
+                {
+                  "sector_code": "TH",
+                  "sector_name": "(Historic)Highways",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Highways",
+        "proj_id": "P010206",
+        "project_abstract": "The Third Highway Project for Nepal provides a means to integrate the far western part of Nepal with the rest of the country through completion of an all-weather East-West Highway. The project will improve traffic conditions between Kathmandu and Birganj at the Indian border through selective rehabilitation of bridges and road pavements, and strengthen the construction and maintenance capability of the Borrower. It will construct about 204 km of the East-West Highway including a bridge over Karnali (Chisapani) River and feeder roads, rehabilitate about 82 km of the Mugling-Naubise road, provide maintenance equipment, technical assistance and training.",
+        "project_name": "HIGHWAYS III",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010206",
+      "value": "p010206"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "HIGHWAYS III",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010206",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Transportation",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010206",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.795919Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010206",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

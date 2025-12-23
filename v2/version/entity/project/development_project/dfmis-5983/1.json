@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.441249Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5983",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.441251Z",
+    "dates": [
+      {
+        "date": "2011-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Contextual analysis, community mapping and cost benefit analysis of REDD \r\n    formulation of REDD management plan including benefit sharing mechanism \r\n    Capacity development related to REDD process \r\n    assessment of local REDD like payment mechanism and streamline them into national REDD framework for sustainability\r\n    Support multistakeholder’s discussions and debate on REDD and benefit sharing mechanism\r\n    Capacity building of civil society and government line agencies through participation on national and regional workshops\r\n    linkage building of indentified civil society organisations, national authorities to national climate change forums \r\n    strengthen capacity of District Forest Coordination Committee (DFCCs) in REDD process discussions and partnerships \r\n    Analyse and document the learning of REDD into recommendations in order streamlise in national REDD framework \r\n    Develop Capacity development package on REDD for sub-national users \r\n    Support and strengthen sub-national multi-stakeholders on REDD consultation processes \r\n    Sub-national REDD learning platforms prepared and functional, and lessons \r\n    Documentation and publication on lesson learnt"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Stichting Veldwerk the Netherlands",
+        "donor_project_id": "5983",
+        "raw_payload": {
+          "id": 35474,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Stichting Veldwerk the Netherlands",
+          "organization_id": 503,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 51547.73,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Stichting Veldwerk the Netherlands",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5983",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5983",
+        "value": "5983"
+      }
+    ],
+    "implementing_agency": "Stichting Veldwerk the Netherlands",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Pro Poor Reduction of Emissions from Deforestation and Destruction of Forests (REDD)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5983",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5983",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 51547.73,
+    "total_disbursement": 23800.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.441249Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5983",
+      "id": "version:entity:project/development_project/dfmis-5983:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

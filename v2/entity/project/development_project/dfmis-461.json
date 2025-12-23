@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.199175Z",
+  "dates": [
+    {
+      "date": "2011-07-04",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-07-04",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "o. Preparation - Baseline infromation collection\r\n\r\n1. Understanding and sharing of information\r\n\r\n2. Strengthening of the coping mechanism\r\n\r\n3. Maintenance of infrastructure\r\n\r\n4. Strengthing local voice and advocacy\r\n\r\n5. Linkage between line agencies and villagers"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Shapla Neer",
+      "donor_project_id": "461",
+      "raw_payload": {
+        "id": 3016,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Shapla Neer",
+        "organization_id": 566,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Shapla Neer",
+  "financing": [
+    {
+      "amount": 563980.3501,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Shapla Neer",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-07-04",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/461",
+      "value": "461"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Community Initiatives for Disaster Risk Reduction Project (CIDP) in Chitwan District, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/461",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Civil Defense",
+      "donor_subsector": null,
+      "normalized_sector": "Civil Defense",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-461",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 563980.3501,
+  "total_disbursement": 292866.91829,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.199172Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-461",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

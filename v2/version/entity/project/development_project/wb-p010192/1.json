@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.801792Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010192",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.801794Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project would support the planting of forests on private farms, institutionally owned land, waste land, roadsides, river and canal banks, and isolated areas of degraded forest land. Other forests would be established through an agro-forestry scheme, which would permit the cultivation of crops between rows of young trees. Areas of natural forest would be rehabilitated through better management practices. The project would improve support services for these activities by strengthening, within the Forestry Department: (a) the organization and management of reforestation programs; (b) forestry research; (c) monitoring and evaluation; and (d) planning. In addition, technical assistance and specialized consultancy services would be provided for these activities. Opportunities for staff training would be increased by the provision of formal and in-service training facilities. As a conservation measure, 20,000 fuel efficient stoves would be distributed.The major benefits would be increased production of fuelwood, timber, poles, fodder, fruits and agricultural crops. Additional benefits wuld accrue from increased employment opportunities. The project faces no major risks."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010192",
+        "raw_payload": {
+          "boardapprovaldate": "1983-07-12T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010192",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AT",
+                    "sector_name": "Forestry",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Forestry",
+          "proj_id": "P010192",
+          "project_abstract": "The project would support the planting of forests on private farms, institutionally owned land, waste land, roadsides, river and canal banks, and isolated areas of degraded forest land. Other forests would be established through an agro-forestry scheme, which would permit the cultivation of crops between rows of young trees. Areas of natural forest would be rehabilitated through better management practices. The project would improve support services for these activities by strengthening, within the Forestry Department: (a) the organization and management of reforestation programs; (b) forestry research; (c) monitoring and evaluation; and (d) planning. In addition, technical assistance and specialized consultancy services would be provided for these activities. Opportunities for staff training would be increased by the provision of formal and in-service training facilities. As a conservation measure, 20,000 fuel efficient stoves would be distributed.The major benefits would be increased production of fuelwood, timber, poles, fodder, fruits and agricultural crops. Additional benefits wuld accrue from increased employment opportunities. The project faces no major risks.",
+          "project_name": "FORESTRY II (TERAI)",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010192",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010192",
+        "value": "p010192"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "FORESTRY II (TERAI)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010192",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010192",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.801792Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010192",
+      "id": "version:entity:project/development_project/wb-p010192:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

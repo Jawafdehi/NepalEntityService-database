@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.856201Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010098",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.856204Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The four-year project would involve the construction of 63 tubewells to serve the 7,500 hectares that are now limited to the production of one crop per year under rainfed conditions during the monsoon season. In addition, the project would include the construction of 11 kv transmission systems to electrify the wells, construction of feeder roads, the provision of additional grain storage capacity, strengthening of the agricultural supporting services -- particularly the extension service and provision of agricultural production credit, the completion of a feasibility study for another tubewell project in adjacent areas and a study of water charges in Nepal."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010098",
+        "raw_payload": {
+          "boardapprovaldate": "1976-07-06T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010098",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AI",
+                    "sector_name": "Irrigation and Drainage",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Irrigation and Drainage",
+          "proj_id": "P010098",
+          "project_abstract": "The four-year project would involve the construction of 63 tubewells to serve the 7,500 hectares that are now limited to the production of one crop per year under rainfed conditions during the monsoon season. In addition, the project would include the construction of 11 kv transmission systems to electrify the wells, construction of feeder roads, the provision of additional grain storage capacity, strengthening of the agricultural supporting services -- particularly the extension service and provision of agricultural production credit, the completion of a feasibility study for another tubewell project in adjacent areas and a study of water charges in Nepal.",
+          "project_name": "BHAIRAWA-LUMBINI GRO",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010098",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010098",
+        "value": "p010098"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "BHAIRAWA-LUMBINI GRO",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010098",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010098",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.856201Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010098",
+      "id": "version:entity:project/development_project/wb-p010098:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

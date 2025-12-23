@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.712436Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-807",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.712438Z",
+    "dates": [
+      {
+        "date": "2015-07-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-08-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Identify and facilitate mechanisms for long-term sustainability of framework\r\n\r\n1.2 Evaluate institutional structures to enhance the impact of optimal animal disease control technologies and strategies for poor livestock producers\r\n\r\n1.3 Organize regular meetings of national chief veterinary officers (CVO), heads of epidemiological units, etc.\r\n\r\n1.4 Organize annual meetings of regional and national animal and human health experts (Q3 2015- Q2 2017\r\n\r\n1.5 Identify regulations, policies and strategies to support smallholder farmers’ access to markets (Q3 2016)\r\n\r\n1.6 Evaluate social welfare benefits of policy and technology options, and assess trade-offs\r\n\r\n2.1 Develop long-term plan for dissemination and promotion of Regional Support Unit (RSU), Regional Epidemiology Centre (REC) and Regional Diagnostic Laboratories (RDLs) outputs\r\n\r\n2.2 Leverage other sources of funding for the long-term delivery of RSU, REC and RDL outputs\r\n\r\n2.3 Assess administrative and financial sustainability of RSU, REC, and RDLs and recommend measures for sustainability\r\n\r\n3.1 Support REC and enhanced intercountry information sharing\r\n\r\n3.2 Prepare national epidemiological studies and national disease survey plans\r\n\r\n3.3 Characterize viral strains, disease prevalence and vaccine strains for overall Transboundary Animal Disease (TAD) control programme\r\n\r\n3.4 Map animal movements and main drivers of movement\r\n\r\n3.5 Develop optimal TAD control options to benefit poor livestock farmers\r\n\r\n3.6 Develop regional TAD reporting system and surveillance plans and early warning network\r\n\r\n3.7 Assess border control mechanisms\r\n\r\n3.8 Support the continued publication of bimonthly (occurring every 2 months)  bulletin and operation of website and web-based animal health reporting system\r\n\r\n4.1 Evaluate veterinary services delivery mechanism and their effectiveness in reaching the poor\r\n\r\n4.2 Develop national capacity strengthening and training plans\r\n\r\n4.3 Conduct training and capacity development programme\r\n\r\n4.4 Develop capacity to deploy emergency animal health missions\r\n\r\n4.5 Develop frameworks for market assessment and capacity building in international animal health regulations"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "807",
+        "raw_payload": {
+          "id": 9137,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 247470.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-07-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-807",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/807",
+        "value": "807"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Regional Capacity Development for Regional Cooperation on Food Security through Control of TADs in South Asia",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/807",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-807",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 247470.0,
+    "total_disbursement": 236962.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.712436Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-807",
+      "id": "version:entity:project/development_project/dfmis-807:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

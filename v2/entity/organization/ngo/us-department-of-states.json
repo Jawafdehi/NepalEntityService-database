@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Non-Government Organisation",
+    "group": "NGO"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Non-Government Organisation"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.534631Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "U.S. Department of States",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "us-department-of-states",
+  "sub_type": "ngo",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: U.S. Department of States",
+    "created_at": "2025-12-23T19:11:06.532902Z",
+    "entity_or_relationship_id": "entity:organization/ngo/us-department-of-states",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.696649Z",
+  "dates": [
+    {
+      "date": "2016-03-11",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-12-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "4 play space construction with additional facilities\r\n\r\n\r\n1.1.2 4 events during the inauguration of space\r\n\r\n2.1.1       3 Training of youth-trainers, youth and youth leaders in Youth as a leader. (Basic training  and Refresher)\r\n\r\n2.1.2       10 youth mobilized in 3 districts of program for regular youth engagement.\r\n\r\n3.1.1       12 trainings on leadership development, GESI, child protection and DRR for youth and club members.\r\n\r\n3.1.2       Building partners capacity by supporting basic office set up(Computer, printer and furniture)\r\n\r\n3.1.3       9 Youth service projects in community\r\n\r\n3.1.4       20 orientation conducted in different community and school on cross cutting themes.\r\n\r\n               \r\n\r\n."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "1040",
+      "raw_payload": {
+        "id": 9982,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "MercyCorps",
+  "financing": [
+    {
+      "amount": 308464.6689,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-03-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1040",
+      "value": "1040"
+    }
+  ],
+  "implementing_agency": "MercyCorps",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Youth Leadership Development Program ‘Generation Amazing’",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1040",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1040",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 308464.6689,
+  "total_disbursement": 144074.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.696646Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1040",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.558063Z",
+  "dates": [
+    {
+      "date": "2024-04-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-05-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Preparation of a national strategic action plan on eradication of child labour in agriculture1.2 Conduct consultations meetings at various level and a national validation workshop2.1 Launch the first national dialogue meeting focusing on agriculture2.2 Organize regular coordination meetings with the stakeholders at federal, provincial, and local level2.3 Conduct an assessment on the stakeholders needs and existing systems including gaps and opportunities2.4 Organization of the monitoring visits in the piloted municipalities3.1 Organize ToT to build capacity of the extension workers on OSH and exposure to hazards, and hazardous pesticides3.2 Organize training to the municipality based professional staff3.3 Adopting Municipality piloting cases with the enhanced visual tool3.4   Participate in the national level conference on Child labour, forced labor and Human Trafficking3.5 Develop IEC materials (printed materials, newspaper articles,) success stories to launch through a mass media campaign for raising awareness3.6 Organize result sharing meeting"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "6683",
+      "raw_payload": {
+        "id": 44568,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Labour, Employment and Social Security",
+  "financing": [
+    {
+      "amount": 75000.0,
+      "assistance_type": "other",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-04-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6683",
+      "value": "6683"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Protecting children from child labour in the agriculture through capacity development in all three tiers of Government of Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "Protecting children from child labour in the agriculture through capacity development in all three tiers of Government of Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6683",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6683",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 75000.0,
+  "total_disbursement": 75000.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.558059Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6683",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

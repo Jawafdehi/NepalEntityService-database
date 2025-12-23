@@ -1,0 +1,205 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.460367Z",
+  "dates": null,
+  "description": null,
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P159085",
+      "raw_payload": {
+        "boardapprovaldate": "2016-06-21T00:00:00Z",
+        "borrower": "Government of Nepal",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "4800000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "4000000",
+        "id": "P159085",
+        "impagency": "Public Procurement Monitoring Office,Public Procurement Monitoring Office",
+        "major_sector_code": "BX,CX",
+        "major_sector_name": "FY17 - Information and Communications Technologies,FY17 - Public Administration",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BZ",
+                  "sector_name": "FY17 - Other Public Administration",
+                  "sector_percent": "60.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "CX",
+              "major_sector_name": "FY17 - Information and Communications Technologies",
+              "sectors": [
+                {
+                  "sector_code": "CF",
+                  "sector_name": "FY17 - Public Administration - Information and Communications Technologies",
+                  "sector_percent": "10.0"
+                },
+                {
+                  "sector_code": "CS",
+                  "sector_name": "FY17 - ICT Services",
+                  "sector_percent": "20.0"
+                },
+                {
+                  "sector_code": "CZ",
+                  "sector_name": "FY17 - Other Information and Communications Technologies",
+                  "sector_percent": "10.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - ICT Services,FY17 - Other Information and Communications Technologies,FY17 - Other Public Administration,FY17 - Public Administration - Information and Communications Technologies",
+        "proj_id": "P159085",
+        "project_name": "Public Procurement Improvement Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped",
+        "themev2_level1_exact": [
+          "FY17 - Private Sector Development",
+          "FY17 - Public Sector Management",
+          "FY17 - Public Sector Management"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Enterprise Development",
+          "FY17 - Public Administration",
+          "FY17 - Public Finance Management"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 4000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2016-06-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P159085",
+      "value": "p159085"
+    }
+  ],
+  "implementing_agency": "Public Procurement Monitoring Office,Public Procurement Monitoring Office",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Public Procurement Improvement Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P159085",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Information and Communications Technologies",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p159085",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.460364Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p159085",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

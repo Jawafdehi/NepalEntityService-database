@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.770258Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-596",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.770260Z",
+    "dates": [
+      {
+        "date": "2016-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-05-12",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Enhance the Government of Nepal’s capacity  to conduct tiger and prey base monitoring including the analysis of scientific data.\r\n\tConduct annual camera trapping and line transect surveys to estimate tiger and prey base density within the newly extended Parsa Wildlife Reserve\r\n\tStrengthen existing law enforcement interventions by providing park authorities with key data on tiger and prey base presence as well as threats based on monitoring results."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Zoological Society of London Nepal Office",
+        "donor_project_id": "596",
+        "raw_payload": {
+          "id": 9677,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Zoological Society of London Nepal Office",
+          "organization_id": 590,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Department of National Parks and Wildlife Conservation , NGOs",
+    "financing": [
+      {
+        "amount": 68959.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Zoological Society of London Nepal Office",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-596",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/596",
+        "value": "596"
+      }
+    ],
+    "implementing_agency": "Department of National Parks and Wildlife Conservation , Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening tiger conservation initiatives in Parsa Wildlife Reserve, Nepal: Monitoring tigers and its prey in Parsa Wildlife Reserve to inform adaptive conservation interventions",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/596",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-596",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 68959.0,
+    "total_disbursement": 65687.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.770258Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-596",
+      "id": "version:entity:project/development_project/dfmis-596:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,210 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.690919Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010396",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.690937Z",
+    "dates": [
+      {
+        "date": "1999-06-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project aims to expand telecommunications facilities and provide new services, improve the quality of existing services, strengthen the Nepal Telecommunications Corporation (NTC) and address major sector organization issues.  It will provide about 60,850 net additional telephone lines, expand national and international long distance facilities, and engage consultants to strengthen NTC and address sector organization issues.  It will benefit all sectors of the economy through improved access to telecommunications facilities and improved service quality.  About 50,000 new subscribers will gain access to the network, which will provide a partial substitute for, and contribute to the overall efficiency of physical transportation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010396",
+        "raw_payload": {
+          "boardapprovaldate": "1992-05-12T00:00:00Z",
+          "closingdate": "1999-06-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "116500000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "37500000",
+          "id": "P010396",
+          "major_sector_code": "CX",
+          "major_sector_name": "FY17 - Information and Communications Technologies",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "CX",
+                "major_sector_name": "FY17 - Information and Communications Technologies",
+                "sectors": [
+                  {
+                    "sector_code": "CI",
+                    "sector_name": "FY17 - ICT Infrastructure",
+                    "sector_percent": "100.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - ICT Infrastructure",
+          "proj_id": "P010396",
+          "project_abstract": "The project aims to expand telecommunications facilities and provide new services, improve the quality of existing services, strengthen the Nepal Telecommunications Corporation (NTC) and address major sector organization issues.  It will provide about 60,850 net additional telephone lines, expand national and international long distance facilities, and engage consultants to strengthen NTC and address sector organization issues.  It will benefit all sectors of the economy through improved access to telecommunications facilities and improved service quality.  About 50,000 new subscribers will gain access to the network, which will provide a partial substitute for, and contribute to the overall efficiency of physical transportation.",
+          "project_name": "CLOSED(T) TELECOMS. V",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Private Sector Development",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Jobs",
+            "FY17 - Rural Development",
+            "FY17 - Urban Development",
+            "FY17 - Urban Development"
+          ],
+          "totalamt": "55000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 37500000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1992-05-12",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p010396",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010396",
+        "value": "p010396"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CLOSED(T) TELECOMS. V",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010396",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Information and Communications Technologies",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010396",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 55000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.690919Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010396",
+      "id": "version:entity:project/development_project/wb-p010396:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

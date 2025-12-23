@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.227400Z",
+  "dates": [
+    {
+      "date": "2023-02-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-02-26",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-05-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1.1 Orientation with practical session and support to existing user groups (Farmers groups and Forest User Committees) addressing (technical inputs regarding climate change/ agricultural practices/farmer  plant clinic/ FFS: farmers field school along with their various common issues like saving, income generation, sanitation, disaster and climate change, livelihood related issues, and other issues)  Activity 1.1.2 Provide Training Kitchen gardening and provide seed/seedlings for kitchen gardening  in selected clusters level (2 days).(Focusing on newly formed groups)  Activity 1.1.3 Provide training and support of IPM to farmers.   Activity 1.1.4 \"Initial livestock support to most vulnerable people (Single women/PWDs/poorest household especially for newly formed group).\"  Activity 1.1.5 Provide training and support on establishment model farm Demonstration(MFD) focusing for off seasonal vegetable farming  Activity 1.1.6 Construction of grey water collection pit and promote drip irrigation  Activity 1.1.7 Construction/maintenance of small and medium irrigation schemes  Activity 1.1.8 Promote and linkage with GeoKrishi (staff, stakeholders and farmers)  Activity 1.1.9 Facilitate Livestock health camp and agricultural and livestock insurance  Activity 1.1.10  Conduct soil test camp in coordination with local government and relevant authorities.  Activity 1.1.11 Training  farmers on post-harvest management and support with seed bin(bhakari*), seed production, provide improved seeds.  Activity 1.1.12 Conduct climate sensitive farming training for CFUG's  Activity 1.1.13 Support community group for high value agriculture livelihood product  Activity 1.1.14 Establish community agriculture nursery   Activity 1.1.15 Support farmers with skill, tools, machines and other equipment for value addition of their product  Activity 1.2.1 Sensitize school students and community people on climate change, DRR (Celebration of world environment day, quiz competitions, drawings, orientation etc.)  Activity 1.2.2 Hazard mapping in the community  Activity 1.2.3 Support locally made grain collection drum for disaster prepardeness (ward#1, 6Nos.)  Activity 1.2.4 Consultation visit meeting with CFUG's  Activity 1.2.5 Conduct Community Based Disaster Risk Management (CBDRM) Training  Activity 1.2.6 Organize events on environmental sensitive safer practices at community groups  Activity 2.2.1 Orientation on alternative energy resources and solid waste management  Activity 1.3.1 Conduct awareness raising training in climate change and environment conservation for CFUG's at Rakhsirang RM  Activity 1.3.2 Promote ICS technologise to traget communities  Activity 1.3.3 Alternative energy technology support  Activity 1.3.4 Support for environment degradation mitigation measures (bioengineering technology/tree plantations) in disaster prone areas.  Activity 1.3.5 Strengthening(orientation, tools, eqipments) forest user committee and provide tools/equipments for firefighting  Activity 1.3.6 Organize training/Orientation about sustainable forest management to CFUG at Budhinanda M  Activity 1.4.9 CFUG's Land conservation plan develop and support in canal improvement (3 irrigation canals)  Activity 1.4.10 CFUG's Land conservation plan develop and support in landslide control and prevention (3 places)  Activity 1.4.11 CFUG's Land conservation plan develop and support in water resource conservation ( 3 water spouts)  Activity 1.4.12 Material supports for CFUG's Women Group  Activity 1.4.1 Develop local disaster climate resilience plan (LDCRP) of Rakshirang Rural Municipality   Activity 1.4.2 Support to update  level local disaster and climate resilience plan(LDCRP) Budhinanda M  Activity 1.4.3 Support to develop/update RM level Local climate adaptaion plan.  Activity 1.4.4 Forest Measurement and Forest Production unitilization action plan  Activity 1.4.5 Community Forest Monitoring and Evaluation on action plan  Activity 1.4.6 CFUG's nursery development  Activity 1.4.7 Emergency Disaster Response Fund  Activity 1.4.8 Most vulnerable families support for forest utilization; land use, plantation, farming  Activity 1.4.9 Initiating environment conservationmovement building at grassroots level   Activity 2.1.1  SHG Network Formation/ RM Registration  Activity 2.1.2 SHG trained with vocational training with support for self employment and entreprenuers development  Activity 2.1.3 SHG water source conservation for multiple uses of water   Activity 2.1.4 Provide vocational skill training focusing for survivor / PWDs/marginalised.  Activity 2.1.5 Business starts up support for trained survivor/ PWDs  Activity 2.1.6 Liaise and referral for skills development vocational training for CFUG's Members  Activity 2.1.7 Conduct vocational technical training (Bee Keeping, Amrisho, Goat rising, Chiuri  )  Activity 2.1.8 Livelihood complimentary support to sustain and flourish business as model  Activity 2.1.9 Equipments for field mobilization  Activity 2.1.10"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Tear Fund",
+      "donor_project_id": "2452",
+      "raw_payload": {
+        "id": 14637,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Tear Fund",
+        "organization_id": 609,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Tear Fund",
+  "financing": [
+    {
+      "amount": 2809866.316,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Tear Fund",
+      "donor_id": null,
+      "financing_instrument": "Sector Wide Approach",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-02-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2452",
+      "value": "2452"
+    }
+  ],
+  "implementing_agency": "Tear Fund",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Building Resilience of Vulnerable Communities through Environmental and Economic Sustainability, Gender Justice and Equality Interventions - Phase II'",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2452",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2452",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2809866.316,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.227397Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2452",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

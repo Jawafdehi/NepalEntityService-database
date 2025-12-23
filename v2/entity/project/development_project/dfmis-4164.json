@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.987179Z",
+  "dates": [
+    {
+      "date": "2023-06-29",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2026-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Delivery of an 8-day residential Teaching at the Right Level teacher training to teachers, mentors, and government representatives.This will be followed by an intensive 3-month Teaching at the Right Level intervention (180 hours of instructional period per child) in target state schools for 36,000 students across the three phases.Distribution of instructional resources for Teaching at the Right Level to respective schools.Periodic Teaching at the Right Level-focused mentoring and coaching for 1,800 teachers by 150 mentors (1 mentor per school).Regular monitoring for quality assurance and producing analytical periodic reports.Teachers and School Management Committee members trained in conducive and inclusive classroom practices.A tailored manual developed which outlines inclusive and adaptive teaching approaches that will inform teacher training, mentoring, and monitoring.Mentoring of teachers and school representatives on conducive and inclusive classroom practices; andSchool Improvement Plan (SIP) support, encouraging reflection and adaptive learning and improvement amongst teachers and across schools.Meetings and consultation with local government representatives at district level to update on ongoing activities,Development of evidence-based reports, tailored for government as well as non-government stakeholders,Share information and evidence on adaptive learning methods with Palika-specific data to improve learning outcomes and ensure buy-in for longer term investment on quality learning; andNetwork of ‘champions’ share evidence to run targeted advocacy for buy-in for scaling at a national level."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Street Child of Nepal",
+      "donor_project_id": "4164",
+      "raw_payload": {
+        "id": 41806,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Street Child of Nepal",
+        "organization_id": 745,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 2471231.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Street Child of Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-29",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4164",
+      "value": "4164"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Build the Basics (BTB): Improving Foundational Learning to Close the Learning Gap",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4164",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4164",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2471231.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.987176Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4164",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

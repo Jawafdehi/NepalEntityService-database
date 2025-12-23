@@ -1,0 +1,76 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Financial Comptroller General Office",
+  "created_at": "2025-12-23T19:11:06.713359Z",
+  "entity_or_relationship_id": "entity:organization/government_body/financial-comptroller-general-office",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Government of Nepal",
+      "group": "Departments"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Government of Nepal"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.713362Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/financial-comptroller-general-office",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Financial Comptroller General Office",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "financial-comptroller-general-office",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Financial Comptroller General Office",
+      "created_at": "2025-12-23T19:11:06.713359Z",
+      "entity_or_relationship_id": "entity:organization/government_body/financial-comptroller-general-office",
+      "id": "version:entity:organization/government_body/financial-comptroller-general-office:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

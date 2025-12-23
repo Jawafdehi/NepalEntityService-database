@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.279601Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-707",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.279603Z",
+    "dates": [
+      {
+        "date": "2013-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1  District Coffee cooperative unions and primary coffee cooperatives are strengthened to practic good governance system.\r\n\r\n\t1.2 District coffee cooperative unions are capacitated to implement their continuously updated business plan.\r\n\r\n\t1.3 PCCs are enabled to produce increasing volumes of certified organic coffee.\r\n\r\n\t1.4 DCCUs and PCCs are made aware of necessary quality measures throughout the value chain including production and processing\r\n\r\n\t2.1 The coffee policy, quality standard and logo implementation guideline endorsed and implemented.\r\n\r\n\t2.2 The National level stakeholders are sensitized on the scope of Organic and Fair Trade.\r\n\r\n\t2.3  Relevant coffees Stakeholders' (coffee sub-sector working group NTCDB, NCPA, CCCU) capacity increased\r\n\r\n\t2.4 A market promotion strategy developed and implemented at the national level."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_project_id": "707",
+        "raw_payload": {
+          "id": 3634,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "HELVETAS Swiss Intercooperation Nepal",
+          "organization_id": 532,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "HELVETAS Swiss Intercooperation Nepal",
+    "financing": [
+      {
+        "amount": 1315356.791,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 151553.5417,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "HELVETAS Swiss Intercooperation Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-707",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/707",
+        "value": "707"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Coffee Promotion Programme",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/707",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-707",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1466910.3327,
+    "total_disbursement": 740298.23911,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.279601Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-707",
+      "id": "version:entity:project/development_project/dfmis-707:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

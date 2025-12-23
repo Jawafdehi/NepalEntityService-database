@@ -1,0 +1,157 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.080346Z",
+  "dates": [
+    {
+      "date": "2012-07-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-07-24",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-04-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Training need assessment of tartget groups for promotion of entrepreneurial and vocational skils; mapping of BDS/Vocational trating institutions; support trainningon entrepreneurship and vocational skills development; facilitate linkages with business service providers including micro finance; post training support and sensitization and training on gender equality."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "UN Women",
+      "donor_project_id": "443",
+      "raw_payload": {
+        "id": 3774,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "UN Women",
+        "organization_id": 174,
+        "percentage": 25
+      }
+    },
+    {
+      "donor": "United Nations Peace Fund",
+      "donor_project_id": "443",
+      "raw_payload": {
+        "id": 3779,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Peace Fund",
+        "organization_id": 362,
+        "percentage": 75
+      }
+    }
+  ],
+  "executing_agency": "International Labour Organization, UN Women, Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 293540.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Peace Fund",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-07-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/443",
+      "value": "443"
+    }
+  ],
+  "implementing_agency": "International Labour Organization, UN Women, Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Gender Responsive Recovery for Sustainble Peace",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/443",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-443",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 293540.0,
+  "total_disbursement": 293540.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.080343Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-443",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

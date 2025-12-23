@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.199006Z",
+  "dates": [
+    {
+      "date": "2010-09-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-10-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-09-14",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Objective 1: Enhance knowledge, capacity and awareness of Disaster Risk Reduction (DRR) education for children, parents and teachers\r\n\r\n\t\r\n\t\tStudent and teacher Knowledge, Attitude, and Practice (KAP) survey\r\n\t\r\n\t\t\r\n\t\t\tOrientation and Capacity building of teachers and community resource persons \r\n\t\r\n\r\n\r\n\t \r\n\r\n\t \r\n\r\n\t\r\n\t\tOrientation and formation of Junior Red Cross Circles (JRCs)\r\n\t\r\n\t\t\r\n\t\t\tFirst Aid Training of Teachers and Executive Members of JRCs\r\n\t\r\n\r\n\r\n\t \r\n\r\n\t\r\n\t\tTraining of JRCs (DRR, Leadership, Child to Chil\r\n\t\r\n\t\tEstablishment of Emergency Funds\r\n\t\t \r\n\t\r\n\t\t\r\n\t\t\tFormation of Parents Council to advocate DRR and safe schools and community environment\r\n\t\t\r\n\t\t\t \r\n\t\r\n\t\r\n\t\tEnhancement of School Libraries\r\n\r\n\r\n\tObjective 2: Design and promote “safe school” standards by training and mobilizing parents, students, and teachers to champion school-based DRR\r\n\r\n\t\r\n\t\t\r\n\t\t\tPromoting schools as ‘Centers of Community DRR’\r\n\t\t\r\n\t\t\tDevelop school ‘action plan’ on Disaster Preparedness and intervention\r\n\t\t\r\n\t\t\tImprove school facilities based on “safe school” standards \r\n\t\t\r\n\t\t\tEquip schools with First Aid, Search &Rescue and Early Warning System tools and material\r\n\t\t\r\n\t\t\tArt/ Essay/ Speaking/ Drama Competitions\r\n\t\t\r\n\t\t\tSchool-Based Disaster Response Simulations\r\n\t\t\r\n\t\t\tJRC district jamboree\r\n\t\r\n\t\r\n\t\tObjective 3: Advocate for the integration of “safe school” standards and DRR curriculum into district-level education policies\r\n\t\r\n\t\t \r\n\t\r\n\t\t\r\n\t\t\tSign Project MoU with Key Government Stakeholders\r\n\t\t\r\n\t\t\tLobby the District Education Office (DEO) and Ministry of Education to include DRR in the formal curriculum at both primary and secondary levels\r\n\t\t\r\n\t\t\tWork with the DEO to Develop “Safe School” Standards for Application across the District"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "226",
+      "raw_payload": {
+        "id": 1906,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Reach Out To Asia (ROTA)",
+  "financing": [
+    {
+      "amount": 1283929.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-09-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/226",
+      "value": "226"
+    }
+  ],
+  "implementing_agency": "MercyCorps",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Supporting the Role of Schools in Disaster Risk Reduction (SRSD)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/226",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-226",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1283929.0,
+  "total_disbursement": 1258148.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.199004Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-226",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

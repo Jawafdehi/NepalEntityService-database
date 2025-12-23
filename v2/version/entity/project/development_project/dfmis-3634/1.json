@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.067211Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3634",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.067213Z",
+    "dates": [
+      {
+        "date": "2020-03-10",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-01-10",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-01-09",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1 Advertisement for trainee selection notice and Social Mobilization.1.1.2 Beneficiary selection (Aptitude test and interview )1.1.3 YES!ME beneficiary registration and “on-boarding”1.1.4 Review and revisit training curricular of respective vocations1.1.5 Orientation to vocational training providers on women friendly training delivery modalities1.1.6 Provide vocational training of choice to young women with focus on non-traditional occupations1.2.1 Identification of hosting (OJT) companies1.2.2 Skill needs assessment of hosting OJT companies1.2.3 On-the-job training (OJT) placement1.2.4 Support services for young women during internship / OJT placement1.2.5 Skill test  of trained beneficiaries by CTEVT(Council for  technical education and vocational training )1.3.1 Provide life skills training 1.3.2 Content development for protection training1.3.3 Conduct TOT on protection package to facilitator 1.3.4  Conduct review and reflection on issues concerning to participants on regular basis among themselves with facilitators1.3.5 Provide protection Training (human rights, labor  rights, safe migration ,gender equality human trafficking, being assertive and stick and stone )1.3.6  Provide computer / digital literacy training1.3.7 Provide language training1.3.8 Provide Orientation on obtaining citizenship card (importance, process, relevant  government department, documentation )1.4.1 Formation and mobilization of skill trainee network group to facilitate job placements and employment1.4.2 Joint review and reflection meeting between trainees and trainers (work place supervisors)1.4.3 Provide technical backstopping during OJT  1.5.1 Identify and engage with care facilities for young mothers1.5.2 Connect young mothers to facilities2.1.1 Baseline study of companies 2.1.2 Develop ToR and recruitment of consultant 2.1. 3 Study to identify decent work status and gap in tourism sector 2.1.4  Findings sharing on decent work gap in tourism sector2.2.1 Develop business case plan2.2.2 Development of briefs, summarized versions of business case2.2.3 Dissemination of business case to employers/ associations using different platforms2.3.1 Provide orientation sessions on labor law for employers2.3.2 Engaging with underemployed and employed young girls and boys on discussion for decent work gaps2.3.3 Engage employers individually on decent work practice implementation2.3.4 Establish media partnership on decent work and its gap in Pokhara (jingles, PSAs, calendar, radio programs)2.3.5 Recruit Decent Work Specialist (short-term) 2.4.1 Periodic interaction with employers / members 2.4.2 Coordination meetings with municipalities and Pokhara tourism council2.4.3 Invite / engage guest speakers/presenters on pertinent topics 3.1.1.1 Disseminate Code of Conduct, Gender Policy, Decent Workplace Policy,  Child Protection, etc. to member of HAAN and TAAN3.1.1.2 Ope-rationalize Code of Conduct and identify priority investment areas3.1.2.1 Periodic Interaction with employers3.1.3.1 Develop ToRs for Fund3.1.3.2 Call for EOI and proposals  3.1.3.2 Call for EOI and proposals  3.1.3.3 Select winners and monitor implementation of proposals 3.1.4.1 Develop engagement approach and dialogue structure3.1.4.2 hold dialogue meetings3.2.1.1 Design awareness campaigns and radio program3.2.1.2 Identify suitable media outlets and channels and implement 3.2.2.1 Train and interact with parents, caretakers and household heads in selected communities4.1.1 Collection of labor market information (e.g. vacancies) through market scan / appraisal4.1.2 Identify local recruitment practices4.1.3 Sharing of findings with broader stakeholders4.2.1 Strengthen and or adapt an online solution  (if appropriate)4.2.2 Arrange and undertake job fairs4.2.3 Engage with local labor employment service center"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Plan Nepal",
+        "donor_project_id": "3634",
+        "raw_payload": {
+          "id": 42877,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Plan Nepal",
+          "organization_id": 277,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration, Ministry of Labour, Employment and Social Security, Ministry of Education, Science and Technology, Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 1110364.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Plan Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-03-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3634",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3634",
+        "value": "3634"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting Young Women in Employment (PYWE) in Pokhara, Kaski",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3634",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3634",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1110364.0,
+    "total_disbursement": 1177693.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.067211Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3634",
+      "id": "version:entity:project/development_project/dfmis-3634:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

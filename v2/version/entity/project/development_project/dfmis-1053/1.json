@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.770250Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1053",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.770252Z",
+    "dates": [
+      {
+        "date": "2015-01-05",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Ensure target group orientation and participation\r\n\r\n\t1.2 Development of ‘Sustainable Integrated Forest and Farming Systems’\r\n\r\n\t1.3 Support the establishment of Green Clubs \r\n\r\n\t2.1 Establish / Strengthen local biodiversity cooperatives\r\n\r\n\t2.2. Cultivation, processing and marketing of selected NTFPs/MAPs\r\n\r\n\t2.3. Promotion of eco-tourism \r\n\r\n\t2.4 Conduct vocational training programme for ecopreneurs \r\n\r\n\t3.1 Development of a communication plan\r\n\r\n\t3.2 Conduct local level learning and sharing event\r\n\r\n\t3.3 Conduct district/national level sharing of learning on SIFFS and financing models"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_project_id": "1053",
+        "raw_payload": {
+          "id": 7873,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Deutsche Welthungerhilfe e.V",
+          "organization_id": 529,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Deutsche Welthungerhilfe e.V",
+    "financing": [
+      {
+        "amount": 827928.5511,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-01-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1053",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1053",
+        "value": "1053"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Community-Based Biodiversity Management through Sustainable Financing Mechanisms in the Sacred Himalayan Landscape of Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1053",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1053",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 827928.5511,
+    "total_disbursement": 763245.4486,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.770250Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1053",
+      "id": "version:entity:project/development_project/dfmis-1053:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

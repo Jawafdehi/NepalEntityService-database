@@ -1,0 +1,203 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.392031Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p178205",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.392034Z",
+    "dates": [
+      {
+        "date": "2024-07-15",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project development objective is to prevent, detect and respond to the threat posed by COVID-19 and to strengthen national systems for public health preparedness in Nepal. It will achieve this objective by supporting the Government of Nepal, and specifically the Ministry of Health and Population (MoHP), to (i) provide emergency COVID-19 response for better case detection, confirmation, contact tracing, recording, and reporting as well for strengthening health system for enhanced case diagnosis and treatment, focusing on critical hospital and laboratory infrastructure needed for COVID-19 and other public health emergencies; (ii) support community engagement and risk communication; (iii) strengthen the MoHP and its emergency coordination and implementation structures to improve the coordination of the response, monitor and learn from the response, and as well as to support project implementation including procurement, financial management, undertaking of the Stakeholder Engagement Plan (SEP) and compliance with the Environment and Social Commitment Plan (ECSP); and (iv) enable the government, following an eligible crisis or event, to request the Bank to re-allocate project funds to support additional emergency response through Contingency Emergency Response Component."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P178205",
+        "raw_payload": {
+          "boardapprovaldate": "2022-01-12T00:00:00Z",
+          "borrower": "Government of Nepal",
+          "closingdate": "2024-07-15",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "18000000",
+          "grantamt": "0",
+          "id": "P178205",
+          "impagency": "Ministry of Health and Population",
+          "major_sector_code": "HX",
+          "major_sector_name": "FY17 - Health",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "HX",
+                "major_sector_name": "FY17 - Health",
+                "sectors": [
+                  {
+                    "sector_code": "HG",
+                    "sector_name": "FY17 - Health",
+                    "sector_percent": "100.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Health",
+          "proj_id": "P178205",
+          "project_abstract": "The project development objective is to prevent, detect and respond to the threat posed by COVID-19 and to strengthen national systems for public health preparedness in Nepal. It will achieve this objective by supporting the Government of Nepal, and specifically the Ministry of Health and Population (MoHP), to (i) provide emergency COVID-19 response for better case detection, confirmation, contact tracing, recording, and reporting as well for strengthening health system for enhanced case diagnosis and treatment, focusing on critical hospital and laboratory infrastructure needed for COVID-19 and other public health emergencies; (ii) support community engagement and risk communication; (iii) strengthen the MoHP and its emergency coordination and implementation structures to improve the coordination of the response, monitor and learn from the response, and as well as to support project implementation including procurement, financial management, undertaking of the Stakeholder Engagement Plan (SEP) and compliance with the Environment and Social Commitment Plan (ECSP); and (iv) enable the government, following an eligible crisis or event, to request the Bank to re-allocate project funds to support additional emergency response through Contingency Emergency Response Component.",
+          "project_name": "Second Additional Financing to Nepal COVID-19 Emergency Response and Health Systems Preparedness Project",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Active",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Disease Control",
+            "FY17 - Health Systems and Policies",
+            "FY17 - Health Systems and Policies"
+          ],
+          "totalamt": "18000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 18000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2022-01-12",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p178205",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178205",
+        "value": "p178205"
+      }
+    ],
+    "implementing_agency": "Ministry of Health and Population",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Second Additional Financing to Nepal COVID-19 Emergency Response and Health Systems Preparedness Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178205",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Health",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p178205",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 18000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.392031Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p178205",
+      "id": "version:entity:project/development_project/wb-p178205:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

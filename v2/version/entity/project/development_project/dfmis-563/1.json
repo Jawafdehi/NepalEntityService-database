@@ -1,0 +1,140 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.614361Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-563",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.614364Z",
+    "dates": [
+      {
+        "date": "2015-07-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": null,
+    "donor_extensions": [
+      {
+        "donor": "China International Development Cooperation Agency",
+        "donor_project_id": "563",
+        "raw_payload": {
+          "id": 8480,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 7,
+          "organization__development_cooperation_group__name": "China",
+          "organization__logo": "",
+          "organization__name": "China International Development Cooperation Agency",
+          "organization_id": 20,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Home Affairs",
+    "financing": [
+      {
+        "amount": 22546180.58,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "China International Development Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-07-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-563",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/563",
+        "value": "563"
+      }
+    ],
+    "implementing_agency": "Ministry of Home Affairs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Emergency Relief Goods (Three Batches)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/563",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Housing",
+        "donor_subsector": null,
+        "normalized_sector": "Housing",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-563",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 22546180.58,
+    "total_disbursement": 22546180.58,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.614361Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-563",
+      "id": "version:entity:project/development_project/dfmis-563:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

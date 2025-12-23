@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Individual donor (private)",
+  "created_at": "2025-12-23T19:11:06.564116Z",
+  "entity_or_relationship_id": "entity:organization/ngo/individual-donor-private",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Others",
+      "group": "Other Partners"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Others"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.564119Z",
+    "description": null,
+    "id": "entity:organization/ngo/individual-donor-private",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Individual donor (private)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "individual-donor-private",
+    "sub_type": "ngo",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Individual donor (private)",
+      "created_at": "2025-12-23T19:11:06.564116Z",
+      "entity_or_relationship_id": "entity:organization/ngo/individual-donor-private",
+      "id": "version:entity:organization/ngo/individual-donor-private:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

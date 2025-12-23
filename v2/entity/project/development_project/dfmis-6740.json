@@ -1,0 +1,198 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.712291Z",
+  "dates": [
+    {
+      "date": "2015-07-16",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-07-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Increase case detection by 14000 cases from 3800 TB cases reported in 2013/14 (all forms of TB) by 2020Maintain the treatment success rate at 90% patients (all forms of TB) by 2020Provide MDR diagnostic services for 55% of persons with suspected MDR TB by 2017 and 100% by 2020; successfully treat at least 75 % of the diagnosed MDR patientsEngage 60% of all private health care providers (hospitals and practitioners) in TB control by 2017, and 80% by 2020Strengthen community systems for management, advocacy, support and rights for TB patients in order to create an enabling environment  to detect & manage TB cases in 60% of all districts by 2017 and 100% by 2020Ensure availability of quality TB services, in line with current international standards and provided by qualified personnel, at 70% of all facilities by 2017 and 90% of the facilities by 2020"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_project_id": "6740",
+      "raw_payload": {
+        "id": 44853,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 40,
+        "organization__development_cooperation_group__name": "Global Fund to Fight Aids,  Tuberculosis and Malaria",
+        "organization__logo": "",
+        "organization__name": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "organization_id": 176,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 2235271.85485466,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2607690.81075737,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 6921.09946608661,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 8649261.82,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 6294369.7,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6740",
+      "value": "6740"
+    }
+  ],
+  "implementing_agency": "Ministry of Health and Population",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal National Strategic plan - implementation of Stop TB Strategy",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6740",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6740",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 19793515.2850781,
+  "total_disbursement": 18753488.3416469,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.712287Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6740",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

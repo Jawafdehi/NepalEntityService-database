@@ -1,0 +1,248 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.546940Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p040613",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.546946Z",
+    "dates": [
+      {
+        "date": "2010-07-15",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Health Sector Program for Nepal seeks to address inequities and improve the health of the Nepalese as a means to develop healthy and capable human power to support poverty alleviation. The project has the following two components: Component 1) will support the expansion and/or strengthening of eleven priority cost-effective services by: (i) developing and implementing technical standards to improve service quality;(ii) providing in-service training to upgrade the technical skills of field workers; (iii) ensuring drug availability in health facilities by improved drug procurement and distribution; (iv) using behavior change communication to inform the public about services, to promote healthy behaviors and to promote a client focused, gender-sensitive attitude among providers; (v) improving outreach activities especially in the Mid and Far-Western Regions; and (vii) conducting Service Delivery Surveys to obtain client and provider feedback about the quality and adequacy of health services. Component 2) aims at strengthening Ministry of Health's capacity to undertake a sector-wide approach and manage the sector more effectively focusing on (a) the division of labor among key actors in the sector; (b) the key management tasks of planning, programming, budgeting and monitoring; and (c) resource management-financial, human and physical."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P040613",
+        "raw_payload": {
+          "boardapprovaldate": "2004-09-09T00:00:00Z",
+          "closingdate": "2010-07-15",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "498280000",
+          "envassesmentcategorycode": "B",
+          "grantamt": "36750000",
+          "id": "P040613",
+          "major_sector_code": "BX,HX",
+          "major_sector_name": "FY17 - Health,FY17 - Public Administration",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BC",
+                    "sector_name": "FY17 - Central Government (Central Agencies)",
+                    "sector_percent": "12.0"
+                  },
+                  {
+                    "sector_code": "BH",
+                    "sector_name": "FY17 - Sub-National Government",
+                    "sector_percent": "1.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "HX",
+                "major_sector_name": "FY17 - Health",
+                "sectors": [
+                  {
+                    "sector_code": "HF",
+                    "sector_name": "FY17 - Public Administration - Health",
+                    "sector_percent": "1.0"
+                  },
+                  {
+                    "sector_code": "HG",
+                    "sector_name": "FY17 - Health",
+                    "sector_percent": "86.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Health,FY17 - Public Administration - Health,FY17 - Sub-National Government",
+          "proj_id": "P040613",
+          "project_abstract": "The Health Sector Program for Nepal seeks to address inequities and improve the health of the Nepalese as a means to develop healthy and capable human power to support poverty alleviation. The project has the following two components: Component 1) will support the expansion and/or strengthening of eleven priority cost-effective services by: (i) developing and implementing technical standards to improve service quality;(ii) providing in-service training to upgrade the technical skills of field workers; (iii) ensuring drug availability in health facilities by improved drug procurement and distribution; (iv) using behavior change communication to inform the public about services, to promote healthy behaviors and to promote a client focused, gender-sensitive attitude among providers; (v) improving outreach activities especially in the Mid and Far-Western Regions; and (vii) conducting Service Delivery Surveys to obtain client and provider feedback about the quality and adequacy of health services. Component 2) aims at strengthening Ministry of Health's capacity to undertake a sector-wide approach and manage the sector more effectively focusing on (a) the division of labor among key actors in the sector; (b) the key management tasks of planning, programming, budgeting and monitoring; and (c) resource management-financial, human and physical.",
+          "project_name": "Nepal Health Sector Program Project",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Public Sector Management"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Disease Control",
+            "FY17 - Health Systems and Policies",
+            "FY17 - Health Systems and Policies",
+            "FY17 - Health Systems and Policies",
+            "FY17 - Public Administration"
+          ],
+          "totalamt": "50000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 36750000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2004-09-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p040613",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P040613",
+        "value": "p040613"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Health Sector Program Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P040613",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Health",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p040613",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 50000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.546940Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p040613",
+      "id": "version:entity:project/development_project/wb-p040613:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.976391Z",
+  "dates": [
+    {
+      "date": "2024-09-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2027-09-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2027-09-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Output 1:1.1 Foundation of community groups1.2 Capacity building community groups1.3 Exchange meetings with community groups and representatives of the authorities1.4 Establishment of project forums1.5 Development of teaching units for environmental education1.6 Awareness and sensitization campaigns Environmental protection and nature conservation1.7 Founding women-led cooperativesOutput 2: 2.1 Political dialogue on the recognition of the buffer zone2.2 Media dialogue, radio programme and material production2.3 Production of audiovisual promotional and information material2.4 Exposure visits by external stakeholdersOutput 3:3.1 Setting up Home Stays3.2 Establishment of a Tourist Information and Reception Centre3.3 Establishment of a value creation and marketing centre3.4 Further processing of animal agricultural products3.5 Tourism Management TrainingOutput 4:4.1 Exchange and research partnerships4.2 Production IEC materials4.3 Preparation of the Tourism Development Plan4.4 Capacity building partner organisation, CBOs, youth groups"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Terre Des Hommes, Germany",
+      "donor_project_id": "6551",
+      "raw_payload": {
+        "id": 43288,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Terre Des Hommes, Germany",
+        "organization_id": 632,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 807984.36,
+      "assistance_type": "other",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Terre Des Hommes, Germany",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-09-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6551",
+      "value": "6551"
+    }
+  ],
+  "implementing_agency": "Terre Des Hommes, Germany",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sustainable Tourism: Community-based Mechanisms Strengthen Environmental, Economic and Resilience to Climate Change Impacts",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6551",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6551",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 807984.36,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.976385Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6551",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

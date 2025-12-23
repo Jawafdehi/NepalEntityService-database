@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.169998Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-687",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.170000Z",
+    "dates": [
+      {
+        "date": "2017-09-20",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-09-20",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Workshop with DPHO\r\n\r\n2. Meeting with Wards and Gaupalikas\r\n\r\n3. Health Camps (specialized on Reproductive health)\r\n\r\n4. ANC/ PNC mobile camps\r\n\r\n5. School level Drinking water supplies\r\n\r\n6. Community level drinking water supplies\r\n\r\n7. Social Marketing of Soap and Water Purifiers\r\n\r\n8. Renovation of Birthing Centers \r\n\r\n9. Equipments/ tool kit for Health workers\r\n\r\n10. Support health management Committee for the operation of Health Related Activities\r\n\r\n11. Distribution of Dignity Kits  to the  postnatal mothers  \r\n\r\n12. Training to Mother's groups on Nutritional Food Habit\r\n\r\n13. Capacity Development Training of FCHVs on Child and Maternal health (integrated nutrition component)\r\n\r\n14. Formation and Strengthening of Child clubs (awareness- street drama, kitchen garden, plantations etc.)\r\n\r\n15. IEC (Information, Education,Communication) materials Development and Dissemination\r\n\r\n16. Awareness Raising Activities through Health personnels of VDC/District/Consultant followed with research dissemination"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Al-Khair Foundation",
+        "donor_project_id": "687",
+        "raw_payload": {
+          "id": 10877,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Al-Khair Foundation",
+          "organization_id": 751,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "NGOs",
+    "financing": [
+      {
+        "amount": 435128.4754,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Al-Khair Foundation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-09-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-687",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/687",
+        "value": "687"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Maternal and Child Health Project in Mugu, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/687",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-687",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 435128.4754,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.169998Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-687",
+      "id": "version:entity:project/development_project/dfmis-687:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

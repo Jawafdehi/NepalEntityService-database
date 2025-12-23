@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.891814Z",
+  "dates": [
+    {
+      "date": "2016-03-08",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-06-16",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-06-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Ginger seed support to 100 HHs\r\n\tBean seed support to 200 HHs\r\n\tVegetable seed support (cabbage, cauliflower and Tomato) to 100 HHs\r\n\tBuck goat distribution to beneficiaries\r\n\tGoat distribution to 54 beneficiaries\r\n\tGinger cultivation and post harvesting   training to 100HHs\r\n\tTraining on Plastic house technology\r\n\tGoat rearing training to 100 farmers\r\n\tCollective marketing training to 400 HHs\r\n\tVegetable cultivation  training to 200 farmers\r\n\tBin support for community storage at Thulogaun\r\n\tForage and fodder seedlings distribution and plantation\r\n\tFormation of agriculture commodity market committee\r\n\t \r\n\t \r\n\t1 trail route construction\r\n\t54 goat sheds construction\r\n\t6 sheepherders houses construction\r\n\t56 plastic houses construction\r\n\t                                                                                                          \r\n\tSeven days trainings PVCA and concept on disaster to  staffs\r\n\tFive days first aid training to the project staffs\r\n\tThree days training on early warning system to the staffs\r\n\tThree days training on Light search and rescue to the staffs\r\n\tTwo LDRC team formed/reformed at VDC level in coordination with DDRC\r\n\tInstallation of 18 hoarding  boards displaying information on disaster\r\n\tConstruction (masonry and Carpentry) Trainings to 75 selected on EQ resistant technology\r\n\tAwareness training on the concept of disaster, S&R, first aid and early warning system to the child clubs and other members of LDRC\r\n\t18 ward level community based disaster risk management plan preparation\r\n\t6 Child clubs formed and orientation\r\n\tAwareness training on the importance of clean water and its consequences to the project staffs\r\n\tAwareness training on the importance of clear water and its consequences to the child clubs and other members of LDRC.\r\n\tOne water supply scheme constructed\r\n\tBacteriological test of water at 6 sources"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Norlha-Helping People in the Himalayas",
+      "donor_project_id": "627",
+      "raw_payload": {
+        "id": 9768,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Norlha-Helping People in the Himalayas",
+        "organization_id": 546,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Norlha-Helping People in the Himalayas",
+  "financing": [
+    {
+      "amount": 281922.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Norlha-Helping People in the Himalayas",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-03-08",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/627",
+      "value": "627"
+    }
+  ],
+  "implementing_agency": "Norlha-Helping People in the Himalayas",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Building Better lives,Rebuilding Livelihood",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/627",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-627",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 281922.0,
+  "total_disbursement": 207940.22768,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.891812Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-627",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:21.527907Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-4407",
+  "start_date": null,
+  "target_entity_id": "entity:organization/government_body/prime-minister-and-council-of-ministers-office",
+  "type": "EXECUTED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project executed by Prime Minister and Council of Minister's Office",
+    "created_at": "2025-12-23T19:11:21.527917Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-4407:organization/government_body/prime-minister-and-council-of-ministers-office:EXECUTED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

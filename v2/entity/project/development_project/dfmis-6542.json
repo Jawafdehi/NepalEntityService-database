@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.876052Z",
+  "dates": [
+    {
+      "date": "2024-02-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-02-13",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2029-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1.1: Support to improve safe and inclusive school learning environment including school facility in coordination with government.  Activity 1.1.2: Support to improve knowledge and skills of Teachers, SMC/PTA and student on WASH, MHM, DRR and Comprehensive School Safety.Activity 1.1.3: Support to identify children with disabilities and their easy access to educationActivity 1.1.4: Support to development of Model Classroom together with teachers' competency development in its managementActivity 1.1.5: Support to improve teacher's capacity on disability identification, inclusive classroom management and remedial and alternative learning class facilitationActivity 1.1.6: Support to integrate STEAM approach in education and improve STEAM facilitiesActivity 1.1.7: Support schools and Local Government for strengthening inclusive governance structure via developing/updating gender responsive inclusive education policies and plans. (Same 5 R/M in five year)Activity 1.2.1:  Awareness to parents, community and children engagement in education for improving children's access to quality learning achievement.Activity 1.2.2: Support to identify Out of School children and their entry and re-entry in school.Activity 1.3.1:  Provide soft skill training (Life skills, protection, gender equality, decent work) training  to program participantsActivity 1.3.2: Provide micro-enterprise/business skills development trainingActivity 1.3.3:  Provide vocational skill training as per market demand and local need including promotion of green job and enterpriseActivity 1.3.4:  Provide business start-up support Activity 1.3.5:  Provide marketing strategy/market linkage through digital and non-digital medium.Activity 1.3.6: Provide mentoring, coaching and career counselling and technical backstopping supportActivity 1.3.7: Support/linkage youth with cooperative for saving and creditActivity 1.4.1:  Orientation to potential employers on decent work and gender equalityActivity 1.4.2:  Orientation to training provider on women friendly training delivery modalitiesActivity 1.4.3:  Establish media partnership on decent work and gender equalityActivity 1.4.4: Provide gender equality training to parents and conduct intergenerational dialogue to make conducive environment for young women.Activity 1.4.5: Childcare facility provision to young mother beneficiariesActivity 2.1.1: Training to health workers & FCHV on Parenting Education, WASH, Nutrition and male engagement package (Output code 2121)  Activity 2.1.2: Deliver Parenting Education Session by FCHV targeting to pregnant women & parents/caregivers of <5-year children (Output code 2121)Activity 2.1.3: Orientation to individual on various water purification mechanism, 6 key hygiene messages and safe WASH to health importance (Output code 2421)  Activity 2.1.4: Functionality of Health Mothers Group meeting as per government protocols to promote nurturing care from prenatal period (Output code 2121)Activity 2.1.5: Separate Male group session to promote male engagement in childcare at HHs level (Output code 2121)Activity 2..2.1: Training on community collective dialogue on nurturing care (Nutrition and child health) for health workers and Nutrition facilitators (Output code 2121)Activity 2..2.2: Conduct SBCC sessions on maternal child health & nutrition by nutrition facilitators (Output code 2121) Activity 2..2.3: Community-led campaigns on promotion of nurturing care focused on nutrition and gender responsive parenting (Output code 2121)Activity 2..2.4: Support for refurbishment of community-based WASH service system and clean drinking water for vulnerable families/community (output code: 2421)Activity 2..2.5: Orientation to WASH Champions to promote community led total sanitation (Output code 2421)Activity 2.3.1: Establish child play centers at health facilities & community level (different play toys, visual aid, play station set up) (Output code 2121)Activity 2.3.2: Support to Zero malnutrition campaign and promote nutrition friendly local government (Output code 2113)Activity 2.3.3: Support to establish OTC (Outpatient Therapeutic Care) centers at health centers for Integrated Management of Acute Malnutrition (IMAM) (Output code 2114)Activity 2.3.4: Support to strengthening of local level ECD committee and prepare ECD strategic plan as guided by national ECD strategyActivity 2.4.1: Collaborative engagement with local and province governments (child rights committees and judicial committees) and protection actors on protection related system establishment and policy formulation. Activity 2.4.2: Conduct capacity building events for team and stakeholders on protection, WASH, DRR, CPiEActivity 2.4.3: Re/ form, support and mobilize religious leaders/ networks, champions and CSOs network in local and district levelActivity 2.5.1: self-protection training - Sticks and Stones training module to children and young people (school/ community)Activity 2.5.2: Support to conduct Girls summit and c"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Plan Nepal",
+      "donor_project_id": "6542",
+      "raw_payload": {
+        "id": 43208,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Plan Nepal",
+        "organization_id": 277,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens, Ministry of Education, Science and Technology, Ministry of Youth and Sports",
+  "financing": [
+    {
+      "amount": 1328585.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Plan Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-02-13",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6542",
+      "value": "6542"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Girls focused Community Development Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6542",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6542",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1328585.0,
+  "total_disbursement": 1254703.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.876048Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6542",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

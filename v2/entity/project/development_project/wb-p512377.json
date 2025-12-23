@@ -1,0 +1,344 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.335445Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The proposed project will support the Government of Nepal in transforming the Greater Lumbini Buddhist Circuit (GLBC) into a sustainable, inclusive, and competitive cultural tourism destination that encourages longer stays, higher spending, and stronger economic benefits for local communities. Despite Lumbini’s global recognition as the birthplace of the Buddha and its UNESCO World Heritage status, the region has yet to realize its full tourism potential. Most visitors currently spend only a few hours at key sites due to limited tourism offerings, weak promotion and branding, and inadequate tourism infrastructure and facilities—resulting in “hit-and-run” tourism with low economic impact.Anchored in Lumbini’s spiritual and cultural significance, the project will shift from fragmented, site-specific interventions to a holistic, integrated destination model that improves services, strengthens connectivity, diversifies tourism products, and actively engages communities and the private sector. It will target three main visitor segments: (i) pilgrimage and heritage tourists, by enhancing the visitor experience and developing sites across the GLBC; (ii) cultural travelers visiting the region for whom Lumbini is currently a secondary stop, by improving connectivity, marketing, and product offerings; and (iii) new markets, especially in East and Southeast Asia, through stronger branding and targeted promotion.The proposed project will focus on four priority sites: the Lumbini Master Plan Area—home to the Maya Devi Temple—and three culturally and ecologically significant locations: Tilaurakot (ancient Kapilvastu), Devdaha (maternal home of Queen Maya Devi), and Ramgram (the only intact relic stupa containing the Buddha’s remains). Site selection is based on cultural and historical significance, tourism potential, and alignment with recommendations from UNESCO and ICOMOS for a unified management vision and heritage-sensitive development. Additional sites within the Greater Lumbini Area may be considered subject to their alignment with the project Development Objective—particularly in enhancing cultural heritage value, improving visitor experiences, and generating local economic opportunities and jobs.The proposed project will foster community-centered and environmentally responsible tourism, integrating benefit-sharing models to ensure local ownership, protect cultural and natural heritage, and address environmental and social challenges. It will also actively engage the private sector alongside the public sector to create opportunities to unlock investment and innovation. Finally, the proposed project will embody the One WBG approach in its preparation and implementation, leveraging the recent institutional changes that strengthen cross-Group collaboration. Teams from across the World Bank, IFC, and multiple sectors—including Finance, Competitiveness and Innovation (FCI), Transport, and Education—are working together to design an integrated operation that maximizes development impact."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P512377",
+      "raw_payload": {
+        "boardapprovaldate": "2026-03-16T00:00:00Z",
+        "borrower": "Nepal",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "85000000",
+        "esrc_ovrl_risk_rate": "Moderate",
+        "grantamt": "0",
+        "id": "P512377",
+        "impagency": "Ministry of Urban Development (MoUD)",
+        "major_sector_code": "BBX,NNX,TTX,YYX",
+        "major_sector_name": "Industry, Trade and Services,Public Administration,Social Sustainability and Inclusion,Transportation",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "YYX",
+              "major_sector_name": "Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YYT",
+                  "sector_name": "Tourism",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "YYF",
+                  "sector_name": "Public Administration - Industry, Trade, and Services ",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "BBX",
+              "major_sector_name": "Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BBH",
+                  "sector_name": "Sub-National Government",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "TTX",
+              "major_sector_name": "Transportation",
+              "sectors": [
+                {
+                  "sector_code": "TTF",
+                  "sector_name": "Public Administration - Transportation",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "NNX",
+              "major_sector_name": "Social Sustainability and Inclusion",
+              "sectors": [
+                {
+                  "sector_code": "NNI",
+                  "sector_name": "Social Inclusion",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Public Administration - Industry, Trade, and Services ,Public Administration - Transportation,Social Inclusion,Sub-National Government,Tourism",
+        "proj_id": "P512377",
+        "project_abstract": "The proposed project will support the Government of Nepal in transforming the Greater Lumbini Buddhist Circuit (GLBC) into a sustainable, inclusive, and competitive cultural tourism destination that encourages longer stays, higher spending, and stronger economic benefits for local communities. Despite Lumbini’s global recognition as the birthplace of the Buddha and its UNESCO World Heritage status, the region has yet to realize its full tourism potential. Most visitors currently spend only a few hours at key sites due to limited tourism offerings, weak promotion and branding, and inadequate tourism infrastructure and facilities—resulting in “hit-and-run” tourism with low economic impact.Anchored in Lumbini’s spiritual and cultural significance, the project will shift from fragmented, site-specific interventions to a holistic, integrated destination model that improves services, strengthens connectivity, diversifies tourism products, and actively engages communities and the private sector. It will target three main visitor segments: (i) pilgrimage and heritage tourists, by enhancing the visitor experience and developing sites across the GLBC; (ii) cultural travelers visiting the region for whom Lumbini is currently a secondary stop, by improving connectivity, marketing, and product offerings; and (iii) new markets, especially in East and Southeast Asia, through stronger branding and targeted promotion.The proposed project will focus on four priority sites: the Lumbini Master Plan Area—home to the Maya Devi Temple—and three culturally and ecologically significant locations: Tilaurakot (ancient Kapilvastu), Devdaha (maternal home of Queen Maya Devi), and Ramgram (the only intact relic stupa containing the Buddha’s remains). Site selection is based on cultural and historical significance, tourism potential, and alignment with recommendations from UNESCO and ICOMOS for a unified management vision and heritage-sensitive development. Additional sites within the Greater Lumbini Area may be considered subject to their alignment with the project Development Objective—particularly in enhancing cultural heritage value, improving visitor experiences, and generating local economic opportunities and jobs.The proposed project will foster community-centered and environmentally responsible tourism, integrating benefit-sharing models to ensure local ownership, protect cultural and natural heritage, and address environmental and social challenges. It will also actively engage the private sector alongside the public sector to create opportunities to unlock investment and innovation. Finally, the proposed project will embody the One WBG approach in its preparation and implementation, leveraging the recent institutional changes that strengthen cross-Group collaboration. Teams from across the World Bank, IFC, and multiple sectors—including Finance, Competitiveness and Innovation (FCI), Transport, and Education—are working together to design an integrated operation that maximizes development impact. ",
+        "project_name": "Greater Lumbini Area Development Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Pipeline",
+        "themev2_level1_exact": [
+          "Economic Policy",
+          "Economic Policy",
+          "Economic Policy",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Finance",
+          "Finance",
+          "Jobs",
+          "Private Sector Development",
+          "Private Sector Development",
+          "Private Sector Development",
+          "Social Sustainability",
+          "Social Sustainability",
+          "Social Sustainability",
+          "Urban Development and Land Administration / Management",
+          "Urban Development and Land Administration / Management"
+        ],
+        "themev2_level2_exact": [
+          "Business Enabling Environment",
+          "Climate Change",
+          "Community and Local Development Policy and Programs",
+          "Community and Local Development Policy and Programs",
+          "Culture and Cultural Heritage",
+          "Develop Financial Markets",
+          "Economic Growth",
+          "Economic Growth",
+          "Economic Growth",
+          "Enterprise and Sector Development",
+          "Finance for the Real Economy",
+          "Job creation",
+          "Public Private Partnerships",
+          "Social Inclusion Policy and Programs",
+          "Urban Infrastructure and Service Delivery"
+        ],
+        "totalamt": "85000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 85000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2026-03-16",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P512377",
+      "value": "p512377"
+    }
+  ],
+  "implementing_agency": "Ministry of Urban Development (MoUD)",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Greater Lumbini Area Development Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P512377",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Transportation",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Social Sustainability and Inclusion",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p512377",
+  "stage": "pipeline",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Jobs",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Urban Development and Land Administration / Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Urban Development and Land Administration / Management",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 85000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.335410Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p512377",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

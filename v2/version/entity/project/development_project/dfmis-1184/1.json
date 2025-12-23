@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:13.797059Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1184",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:13.797061Z",
+    "dates": [
+      {
+        "date": "2015-04-23",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-04-22",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Assessment of Hydrometeorological Hazards\r\n\t\r\n\t\t\r\n\t\t\tCommunities and Stakeholders trained on Hydro-meteorological hazard in Kankai  river basin\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tTechnical inputs and supports provided for designing flood EWS guidance document\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tBuilding Community Awareness/ Mobilization\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tCapacity Building and Training\r\n\t\r\n\t\r\n\t\t\r\n\t\t\tPolicy and Planning"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Practical Action Nepal",
+        "donor_project_id": "1184",
+        "raw_payload": {
+          "id": 9059,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Practical Action Nepal",
+          "organization_id": 318,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Practical Action Nepal",
+    "financing": [
+      {
+        "amount": 498766.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Practical Action Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-04-23",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1184",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1184",
+        "value": "1184"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "STRENGTHENING FLOOD RESILIENCE IN KANKAI BASIN IN NEPAL: E2E EARLY\r\nWARNING",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1184",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Pollution Minimization/Reduction",
+        "donor_subsector": null,
+        "normalized_sector": "Pollution Minimization/Reduction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1184",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 498766.0,
+    "total_disbursement": 450921.75779,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:13.797059Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1184",
+      "id": "version:entity:project/development_project/dfmis-1184:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

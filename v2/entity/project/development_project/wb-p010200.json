@@ -1,0 +1,135 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.797439Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Marsyangdi Hydroelectric Power Project seeks to meet the forecasted demand for electricity in Nepal for the medium term and to strengthen the Borrower's power sector. This will be a run-of-river hydroelectric power project, with an installed capacity of 69 MW, located on the Marsyangdi River. Major project components include diversion works and diversion weir, headrace and tailrace tunnels, powerhouse, transmission lines, substations and equipment. The project also provides for consulting engineers, technical assistance and training. A primary benefit will be derived from the generation of additional electricity for industrial, commercial and domestic consumption, and for irrigation purposes. Benefits will also be received through improvement of the distribution system, enhancement of maintenance capacity and the training of manpower. Some risk relates to possible deficient design and construction, poor management and cost overruns. Appointment of a panel of experts to review design and construction, adequate provision for supervision in close cooperation with the consulting engineer, and assignment of a claims advisor should help minimize these risks."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010200",
+      "raw_payload": {
+        "boardapprovaldate": "1984-05-22T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "envassesmentcategorycode": "C",
+        "id": "P010200",
+        "major_sector_code": "PX",
+        "major_sector_name": "(Historic)Electric Power & Other Energy",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "PX",
+              "major_sector_name": "(Historic)Electric Power & Other Energy",
+              "sectors": [
+                {
+                  "sector_code": "PP",
+                  "sector_name": "(Historic)Electric power and other energy adjustment",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Electric power and other energy adjustment",
+        "proj_id": "P010200",
+        "project_abstract": "The Marsyangdi Hydroelectric Power Project seeks to meet the forecasted demand for electricity in Nepal for the medium term and to strengthen the Borrower's power sector. This will be a run-of-river hydroelectric power project, with an installed capacity of 69 MW, located on the Marsyangdi River. Major project components include diversion works and diversion weir, headrace and tailrace tunnels, powerhouse, transmission lines, substations and equipment. The project also provides for consulting engineers, technical assistance and training. A primary benefit will be derived from the generation of additional electricity for industrial, commercial and domestic consumption, and for irrigation purposes. Benefits will also be received through improvement of the distribution system, enhancement of maintenance capacity and the training of manpower. Some risk relates to possible deficient design and construction, poor management and cost overruns. Appointment of a panel of experts to review design and construction, adequate provision for supervision in close cooperation with the consulting engineer, and assignment of a claims advisor should help minimize these risks.",
+        "project_name": "POWER II (MARSYANGDI",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010200",
+      "value": "p010200"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "POWER II (MARSYANGDI",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010200",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "(Historic)Electric Power & Other Energy",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010200",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.797437Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010200",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

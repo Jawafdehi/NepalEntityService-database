@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.646271Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-303",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.646274Z",
+    "dates": [
+      {
+        "date": "2014-09-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-09-24",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-09-23",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project will be implemented in 2 districts, 2 municipalities by 2 national NGOs implementing partners. The project will engage 10 staff from the implementing partners and  3 INCLUDED Nepal staff. \r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\tThe total cost of the project for 3 years (2014-2016) will be USD 532,885.\r\n\t\t\t\t\r\n\t\t\t\t\tAll components of the project will be run through the platform of a Community Center in or near migrant settlements in the identified areas. The components of the project are:\r\n\t\t\t\t\r\n\t\t\t\t\t1. Early childhood development\r\n\t\t\t\t\r\n\t\t\t\t\t2. After School Program\r\n\t\t\t\t\r\n\t\t\t\t\t3. Family Education\r\n\t\t\t\t\r\n\t\t\t\t\t5. Vocation and Life skills\r\n\t\t\t\t\r\n\t\t\t\t\t6. Research and Advocacy"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "INCLUDED Hongkong Limited",
+        "donor_project_id": "303",
+        "raw_payload": {
+          "id": 7884,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "INCLUDED Hongkong Limited",
+          "organization_id": 592,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "INCLUDED Hongkong Limited",
+    "financing": [
+      {
+        "amount": 532885.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "INCLUDED Hongkong Limited",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-09-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-303",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/303",
+        "value": "303"
+      }
+    ],
+    "implementing_agency": "INGO, Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Education to the Children in Urban Poor Community",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/303",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-303",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 532885.0,
+    "total_disbursement": 26612.386604,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.646271Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-303",
+      "id": "version:entity:project/development_project/dfmis-303:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

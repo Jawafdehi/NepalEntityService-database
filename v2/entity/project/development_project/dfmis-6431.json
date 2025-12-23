@@ -1,0 +1,147 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.454049Z",
+  "dates": [
+    {
+      "date": "2024-05-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-05-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-08-28",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The development objectives of the Second Fiscal Policy for Growth, Recovery, and Resilience for Nepal are to: (i) strengthen the regulatory and institutional framework to build back better and greener, and (ii) enhance systems and regulations to protect the most vulnerable and support sustainable business growth. This operation supports fiscal and growth focused reforms that underpin the Government of Nepal (GoN’s) transition to green, resilient, and inclusive development (GRID). Green growth is supported through environmental fiscal policy reforms and support to public investment management. Reforms targeted at strengthening fiscal and debt sustainability as well as the climate resilience of public infrastructure and disaster risk management will enhance overall resilience. Reforms to education, health, and social protection spending will support inclusive growth, while actions aimed at attracting foreign direct investment (FDI) will strengthen aggregate growth."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Development Association",
+      "donor_project_id": "6431",
+      "raw_payload": {
+        "id": 42191,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "International Development Association",
+        "organization_id": 17,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Finance",
+  "financing": [
+    {
+      "amount": 100000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2024-05-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6431",
+      "value": "6431"
+    }
+  ],
+  "implementing_agency": "Ministry of Finance",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Second Fiscal Policy for Growth, Recovery and Resilience DPC",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6431",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Services",
+      "donor_subsector": null,
+      "normalized_sector": "General Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6431",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 100000000.0,
+  "total_disbursement": 98095270.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.454041Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6431",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

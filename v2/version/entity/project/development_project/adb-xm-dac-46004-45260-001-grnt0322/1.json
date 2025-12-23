@@ -1,0 +1,162 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.691639Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-45260-001-grnt0322",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.691643Z",
+    "dates": [
+      {
+        "date": "2012-11-29",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2013-02-25",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2015-11-15",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB's regional cooperation strategy for South Asia (2011-2015) and builds on the commitments expressed by the SASEC Trade and Transport Working Group.  Its intended impact is to increase intra-regional trade among the SASEC member countries of Bangladesh, Bhutan, and Nepal. India is not included in the program because it is self-financing its trade facilitation reforms and has already taken significant strides ahead of the other countries. It is, notably, the only SASEC member country that has acceded to the Revised Kyoto Convention for the Simplification and Harmonization of Customs Procedures (RKC). This program's expected outcome is efficient, effective, transparent, secure and service-oriented processing of cross-border trade in the sub-region. To achieve this outcome, the Program and its associated TA will support activities under three thematic areas: (i) modern and effective customs administration, (ii) streamlined and transparent regulations and procedures, and (iii) improved information and responsiveness to the private sector. The importance of this program is underscored by the realities in South Asia as described below."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-45260-001-GRNT0322",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Ronald Antonio Butiong",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=45260-001 (Closed)&officer= RQBUTIONG@GMAIL.COM&division= Regional Cooperation and Operations Coordination Div, SARD&projectcountry= Regional"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-45260-001-GRNT0322",
+          "last_updated": "2025-11-24T08:36:29+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 24.0,
+              "location_id": "1210997",
+              "lon": 90.0,
+              "name": "Bangladesh",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 28.0,
+              "location_id": "1282988",
+              "lon": 84.0,
+              "name": "Nepal",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.5,
+              "location_id": "1252634",
+              "lon": 90.5,
+              "name": "Bhutan",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-45260-001-grnt0322",
+    "identifiers": null,
+    "implementing_agency": "National Board of Revenue",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "South Asia Subregional Economic Cooperation Trade Facilitation Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:32110",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-45260-001-grnt0322",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.691639Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-45260-001-grnt0322",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-45260-001-grnt0322:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,294 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.543326Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p093294",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.543328Z",
+    "dates": [
+      {
+        "date": "2009-12-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Economic Reform Technical Assistance Project for Nepal aims to support the implementation of key short term measures of the reform agenda as embodied in the Royal Proclamation, the 21-point program, and the PRS. The Nepal Economic Reform Technical Assistance Project (NERTA) should be structured to provide flexibility in sourcing and building capacity. During the preparation and appraisal meetings, Bank support was requested in the following areas; (i) improving governance and public sector management; (ii) accelerating privatization; (iii) improving service delivery; and (iv) implementing a strategic communications program. A brief overview of support in each of these areas is presented below. It is proposed that these areas form the areas of pre-identified technical assistance while the remainder of the resources is placed in a challenge fund."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P093294",
+        "raw_payload": {
+          "boardapprovaldate": "2005-06-28T00:00:00Z",
+          "closingdate": "2009-12-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "3000000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "0",
+          "id": "P093294",
+          "major_sector_code": "BX,CX,TX,YX",
+          "major_sector_name": "FY17 - Industry, Trade and Services,FY17 - Information and Communications Technologies,FY17 - Public Administration,FY17 - Transportation",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "BX",
+                "major_sector_name": "FY17 - Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BZ",
+                    "sector_name": "FY17 - Other Public Administration",
+                    "sector_percent": "93.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "CX",
+                "major_sector_name": "FY17 - Information and Communications Technologies",
+                "sectors": [
+                  {
+                    "sector_code": "CI",
+                    "sector_name": "FY17 - ICT Infrastructure",
+                    "sector_percent": "1.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "TX",
+                "major_sector_name": "FY17 - Transportation",
+                "sectors": [
+                  {
+                    "sector_code": "TV",
+                    "sector_name": "FY17 - Aviation",
+                    "sector_percent": "5.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "YX",
+                "major_sector_name": "FY17 - Industry, Trade and Services",
+                "sectors": [
+                  {
+                    "sector_code": "YZ",
+                    "sector_name": "FY17 - Other Industry, Trade and Services",
+                    "sector_percent": "1.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Aviation,FY17 - ICT Infrastructure,FY17 - Other Industry, Trade and Services,FY17 - Other Public Administration",
+          "proj_id": "P093294",
+          "project_abstract": "The Economic Reform Technical Assistance Project for Nepal aims to support the implementation of key short term measures of the reform agenda as embodied in the Royal Proclamation, the 21-point program, and the PRS. The Nepal Economic Reform Technical Assistance Project (NERTA) should be structured to provide flexibility in sourcing and building capacity. During the preparation and appraisal meetings, Bank support was requested in the following areas; (i) improving governance and public sector management; (ii) accelerating privatization; (iii) improving service delivery; and (iv) implementing a strategic communications program. A brief overview of support in each of these areas is presented below. It is proposed that these areas form the areas of pre-identified technical assistance while the remainder of the resources is placed in a challenge fund.",
+          "project_name": "Nepal Economic Reform TA (NERTA)",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Public Sector Management",
+            "FY17 - Public Sector Management",
+            "FY17 - Public Sector Management",
+            "FY17 - Public Sector Management"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Health Systems and Policies",
+            "FY17 - Public Administration",
+            "FY17 - Public Administration",
+            "FY17 - Public Administration",
+            "FY17 - Public Finance Management"
+          ],
+          "totalamt": "3000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 3000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2005-06-28",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p093294",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P093294",
+        "value": "p093294"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Economic Reform TA (NERTA)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P093294",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Information and Communications Technologies",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Transportation",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Industry, Trade and Services",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p093294",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Public Sector Management",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 3000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.543326Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p093294",
+      "id": "version:entity:project/development_project/wb-p093294:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

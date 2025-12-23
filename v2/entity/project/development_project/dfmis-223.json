@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.187075Z",
+  "dates": [
+    {
+      "date": "2008-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The concept of Open Village School will be established under which 2600 villagers will receive training on eco-literacy, bio-intensive gardening, watershed literacy, livestock management, local history and geography, current affairs, natural pest management, primary health, women’s rights, gender based violence and other topics.\r\n\t\r\n\t\t525 people will get orientation on HIV/AIDS, sexual and reproductive health rights, natural resource management, democracy and other topics.\r\n\t\r\n\t\t14 different training packages for illiterate people will be developed and distributed.\r\n\t\r\n\t\t225 people within the villages will receive training/ develop skills in facilitation, teaching and organisation.\r\n\t\r\n\t\t1,650 people will attend meetings and discussions.\r\n\t\r\n\t\tCapacity building and infrastructure development will be provided to Jaladh Youth Club. Under the initiative, 950 school youth will receive training/ orientation in ecology, watersheds, history, the global challenges, agro-ecology, family planning, HIV/AIDS and sexual and reproductive health rights.\r\n\t\r\n\t\t18 learning resource centres with audio-visual capacities will be established and managed\r\n\t\r\n\t\t80 youth (both boys and girls) will receive training and develop skills in facilitation and organisation\r\n\t\r\n\t\t470 (other) girls and boys will participate in meetings, village activities, advocacy and campaign work.\r\n\t\r\n\t\tAbout 2699 people will receive Functional Literacy\r\n\t\r\n\t\tApproximately three community based organisations and 10 village organisations will be established.\r\n\t\r\n\t\tApart from other regular study tours, information and documentation activities,  the project will establish a 400 m2 of demonstration garden at the Life school center\r\n\t\r\n\t\tUnder Rural Workers and Crafts People’s Programme (RWCPP) 200 landless will receive training on new technical skills and efforts will be catered towards providing and use rights to 200 others.\r\n\t\r\n\t\t144 landless people will receive training/ basic skills in conducting meetings, basic primary health care, trade unions and other issues.\r\n\t\r\n\t\tParticipatory Conservation and Community Activities Programme (PCCAP) of the project will assist  in preparing 100 village plan/projects\r\n\t\r\n\t\tGroup Partnership Programme (GPP)  will help form and operationalise 18 cooperatives with lead representation from poor and socially excluded families\r\n\t\r\n\t\t35 groups will receive training/ skills to improved their natural resource management capacity\r\n\t\r\n\t\tThe Whole Watershed Programme (WWP) hopes to ensure access of  100 households to natural resources. This also hopes to conserve and manage 200ha of currently fragile land.\r\n\t\r\n\t\tAdvocacy and Policy Dialogue Programme (APD) will provide training/orientation on basic advocacy skills to 500 men and women. Similarly, Advocacy campaign will be conducted for popular co-management  of Churia"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Danish International Development Agency",
+      "donor_project_id": "223",
+      "raw_payload": {
+        "id": 915,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 8,
+        "organization__development_cooperation_group__name": "Denmark",
+        "organization__logo": "",
+        "organization__name": "Danish International Development Agency",
+        "organization_id": 21,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Forests and Environment",
+  "financing": [
+    {
+      "amount": 1880894.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Danish International Development Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-07-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/223",
+      "value": "223"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Jaladh Integrated Watershed and Natural Resource Management Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/223",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-223",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1880894.0,
+  "total_disbursement": 1840449.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.187072Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-223",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.943871Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1458",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.943874Z",
+    "dates": [
+      {
+        "date": "2015-06-16",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ActivitiesHealthBirth Centre staffMedical equipmentBirth Centre maintenanceBirth Centre constructionHealth education sessionsSanitation AuditHealth Camps in MuguHealth Camps in ChitwanContingency health careWater, Sanitation, and HygieneHygiene articles for school childrenHygiene awarenessGlobal Handwashing DayMenstrual Hygiene Management TrainingSchool sanitation upgradeMenstrual Hygiene Management campaigns and community mobilisationWater supply systemsEducationSchool uniformsWinter clothesSchool bagsLearning materialsPrivate tuitionHigher secondary enrolment feesSchool infrastructure - higher secondary schoolSchool infrastructure - primary schoolSchool infrastructure - maintenanceSchool Meal ProgrammePlaygrounds for schoolsProfessional development for teachersReplication of teacher trainingFunding of additional teachers in selected schoolsScience and IT labsSchool libraries\"Reading Clubs\" - financial incentive for facilitatorsChild Club initiativesExtra scholarshipsDisabilityDaily needs support for Deaf and Blind Children's Hostels in GamgadhiEquipment for new Blind Children's HostelDifferently able children hostel constructionSalary top-up for wardens for Deaf and Blind Children's Hostels in GamgadhiLivelihoods & EnvironmentIncome Generation ProgrammeEnergy-efficient cook stovesSolar light home systems (off-grid)Environmental awareness activitiesImproved waste collection pointsSchool and village clean-upsWorld Environment DayWooden guideposts and educational signageClean-up of Rara National ParkSocial Support"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Back To Life",
+        "donor_project_id": "1458",
+        "raw_payload": {
+          "id": 9481,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Back To Life",
+          "organization_id": 618,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Back To Life",
+    "financing": [
+      {
+        "amount": 2951968.168,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Back To Life",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-06-16",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1458",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1458",
+        "value": "1458"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Health, Education and Community Promotion Project III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1458",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1458",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2951968.168,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.943871Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1458",
+      "id": "version:entity:project/development_project/dfmis-1458:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

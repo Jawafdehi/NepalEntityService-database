@@ -1,0 +1,73 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+  "created_at": "2025-12-23T19:11:23.756250Z",
+  "entity_or_relationship_id": "entity:organization/government_body/ministry-of-industry-commerce-and-suppliesministry-of-physical-infrastructure-and-transport",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Development Partner"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.756252Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/ministry-of-industry-commerce-and-suppliesministry-of-physical-infrastructure-and-transport",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "ministry-of-industry-commerce-and-suppliesministry-of-physical-infrastructure-and-transport",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+      "created_at": "2025-12-23T19:11:23.756250Z",
+      "entity_or_relationship_id": "entity:organization/government_body/ministry-of-industry-commerce-and-suppliesministry-of-physical-infrastructure-and-transport",
+      "id": "version:entity:organization/government_body/ministry-of-industry-commerce-and-suppliesministry-of-physical-infrastructure-and-transport:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

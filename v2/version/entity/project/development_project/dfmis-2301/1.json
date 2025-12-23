@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.592083Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2301",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.592085Z",
+    "dates": [
+      {
+        "date": "2023-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2024-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1          Formation/reformation of CDMCs at highly vulnerable settlements and facilitating the regular (bi/monthly) meetings of CDMCs by Social Mobilizers/Staff1.2          Conduct community-level HVCA, review HVCA, household-level contingency plan, and community-level DMP development through the training of the leaders of CDMCs.1.3          Organize training on Inclusive Community Based Disaster and Climate Resilience (ICBDCR) for DMC members1.4          Organize task-specific skills training on climatic/ multi-hazards (flood, earthquake, fire, snakebite, etc.) for the task forces. (1) light search and rescue and first aid, (2) need assessment (IRA, MIRA, Sphere/CHS, (3) EWS,1.5          Facilitate mock drills/simulations at community, and wards levels1.6          Develop and disseminate IEC materials (brochure, calendar, Pana flex, hoarding board, etc.) on multi-hazards and climate risk reduction1.7          Conduct awareness-raising sessions and campaigns on DRR-CCA (Street drama, radio jingles, door-to-door campaigns, use of social media, day celebration, etc.) involving trained DMC/task force members where applicable or relevant1.8          Strengthen the existing EWS and disseminate the information up to the community level1.9          Organize monsoon preparedness and EWS workshop at ward and Municipal levels and support the provisioning of life-saving equipment at vulnerable locations (CDMC/WDMC) based on assessment. 2.1          Develop beneficiary selection and prioritization criteria in consultation with local stakeholders and select beneficiaries based on well-being ranking2.2          Conduct interactions with selected beneficiaries to identify their interested areas of small businesses and orient them on business plan development by organizing them in groups.2.3          Organize off-farm training for those beneficiaries who are interested to involve in on-farm business/services. (Mobile repair, motorcycle repair, electricians, and plumbers in collaboration with CTEVT and DCSI)2.4          Formation of farmer's groups and running farmers' field schools (FFS) classes at the community level and promote river bed farming, organic farming, intercropping, agroforestry, integrated pest management, etc. through farmers' field schools2.5          Train community members on improved livestock management and on-farm training (crop management, off-season vegetables farming, nursery management) in coordination with RM, ward office, Cooperatives, and private sector2.6          Provide input support to the selected social structures based on their business plan (with emphasis on incentivizing group-based interventions) for micro and small enterprises, for local value addition of agri- or cattle products2.7          Provide agriculture and livestock input support to marginalized HHs (Such as climate resilient seeds, livestock (such as goats, and pigs), fishery, fish ponds, plastics for tunnel farming, pump sets/generators for irrigation, etc.)2.8          Organize livestock health camps and pest management camps (as required) in collaboration with the local government2.9          Promote flood-tolerant and drought-tolerant crop varieties (paddy, wheat, maize, etc.) through selected farmers2.10        Collaborate with cooperatives (with the mandate of saving and credit program) for access to finance of beneficiaries, emergency funds mobilization, promotion insurance program for pet animals, crops, and individual beneficiaries, and market linkage for the production of beneficiaries 3.1          Conduct a scientific assessment of drought risk in coordination with local government and share findings with the community and stakeholders to inform CCA plans3.2          Support vulnerable communities to establish small-scale mitigation/adaptation measures (like bioengineering, spurs, dyke, embankment, retaining walls, evacuation routes, culverts, etc.,) and formulate a maintenance plan for each measure3.3          Support CFUGs to implement high-value plants plantation based on their business plan (fodder/fruit species, moringa, etc.) in degraded lands, trenching for fire risk management, construction of multi-purpose recharge ponds for fire and drought risk management, and drinking water for cattle/fishery, etc.3.4          Support selected HHs with Biogas/electric cooking stoves to reduce fuel wood consumption and a climate-friendly environment3.5          Organize orientation for the mason and technician regarding flood-resilient tube well, and toilets construction in the communities3.6          Organize flood and earthquake resistance shelter construction training for the existing masons of the project location and construct a model multi-purpose emergency shelter in flood-vulnerable areas3.7          Organize advocacy training and provide support to community groups (social structures) to prepare advocacy action plans and follow up and support to implement advocacy action plans3.8          Follow up and supp"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "AWO International",
+        "donor_project_id": "2301",
+        "raw_payload": {
+          "id": 14574,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "AWO International",
+          "organization_id": 516,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Home Affairs",
+    "financing": [
+      {
+        "amount": 318025.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2301",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2301",
+        "value": "2301"
+      }
+    ],
+    "implementing_agency": "NGO Federation of Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promotion of climate-resilient adaptation measures for sustainable livelihood in agroecological zones of Raptisonari Municipality, Banke district, Nepal.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2301",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2301",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 318025.0,
+    "total_disbursement": 227479.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.592083Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2301",
+      "id": "version:entity:project/development_project/dfmis-2301:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

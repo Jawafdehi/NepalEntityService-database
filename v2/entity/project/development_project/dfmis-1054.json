@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.774519Z",
+  "dates": [
+    {
+      "date": "2019-05-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-05-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2024-05-21",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.Screening of all types of injuries\r\n\r\n2.Treatment of acute burn\r\n\r\n3.Treatment of deformities of limbs and body parts\r\n\r\n4. Screening camps\r\n\r\n5.Surgical camps\r\n\r\n6.Basic health education\r\n\r\n7.Surgeons, medical officers and nurses given on site coaching and skills by Foreign specialized surgeons\r\n\r\n8.Collaborate with GoN and Universities for Teaching learning for Doctors (Public & private Hospital)\r\n\r\n9.Free and subsidized treatment to poor patients\r\n\r\n10.General Medical checkup and treatment\r\n\r\n11. Ambulance Service\r\n\r\n12.Check-up Plastic and Reconstructive Surgeries\r\n\r\n13. Gynec checkup and treatment including UVP \r\n\r\n14.Physiotherapy services\r\n\r\n15.Dental Treatment"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Interplast Germany",
+      "donor_project_id": "1054",
+      "raw_payload": {
+        "id": 43469,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Interplast Germany",
+        "organization_id": 602,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health and Population",
+  "financing": [
+    {
+      "amount": 1623958.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Interplast Germany",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-05-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1054",
+      "value": "1054"
+    }
+  ],
+  "implementing_agency": "Sushma Koirala Memorial Hospital",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "The Sushma Koirala Memorial Hospital Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1054",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1054",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1623958.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.774517Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1054",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

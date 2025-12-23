@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.900527Z",
+  "dates": [
+    {
+      "date": "2021-11-02",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-11-02",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Distribution of educational materials to students 1.2 Conduct tutorial classes for low performing students in grades 8 to 10 1.3 Conduct program for recognizing students with the most improvement in attendance and marks. 1.4 Train Child Club (CC) members and focal teachers on leadership and CC management including child rights and protection 1.5 Provide basic materials for Child Club for their activities1.6 CC organize interaction meetings and awareness raising with students and community members on the importance of education, health and child rights, protection and Child Abuse Prevention to develop Child friendly schools Child Protection Policy 1.7 Gathering of Child Clubs and advocacy forum in the Rural Municipality 1.8 Provide hygiene kit for students and teachers 2.1 Classroom construction 2.2 Classroom management 2.3 Provide furniture and equipment for 3 science lab in 3 schools.2.4 Provide furniture and books for libraries 2.5 Install playground equipment 2.6 Construction of toilet facilities 3-doors block 2.7 Construction of drinking water facility with 4 taps in 6 schools and water intake tank in 1 school3.1. Training of teachers on child friendly teaching methodologies & developing and using low cost teaching material, Kamishibai, DRR and earthquake preparedness 3.2. Hold reflection and demonstration workshop showing various teaching methodologies and low-cost teaching material, motivation, and leadership seminar and reflection meeting Off Budget IATI Identifier: Gender Marker: Climate Change Budget Head: Status Reason: Input: “Education for Hope (Supplementary) 3.3. Provide education teaching supplies to teachers 3.4. Support mobile meetings of teachers Output 4.1 Conduct training for SMC / PTA on ASIP, proposal development, social audit, role and responsibility 4.2 PTA members conduct of social audit participated by community people & PTA members organize and conduct Education Awareness campaign for parents and community leaders on the importance of education, child care, especially on health and hygiene management 4.3 Conduct Disaster Risk Reduction and Child Protection in Emergency Training and evacuation drills. 4.4 National earthquake safety day celebration 4.5 Provide sanitation kit for schools 4.6 Train teachers, head teachers, ward and municipal officials on child protection & CRC including CFAcc approach and child rights programing and Complaint Response Mechanism (CRM). 4.7 Finalize school child protection policy 4.8 Awareness raising on community child protection mechanism and Covid19, negative social norms and praxis, national and local CP system and policies and earthquake preparedness4.9 Mentoring on Child rights Programming for CFJ and Tuki staff"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "ChildFund Japan",
+      "donor_project_id": "4132",
+      "raw_payload": {
+        "id": 41566,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "ChildFund Japan",
+        "organization_id": 518,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 1707720.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "ChildFund Japan",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-11-02",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4132",
+      "value": "4132"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education for Hope (Supplementary) Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4132",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4132",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1707720.0,
+  "total_disbursement": 1707720.4,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.900524Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4132",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

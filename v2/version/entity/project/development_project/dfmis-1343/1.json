@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.480753Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1343",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.480756Z",
+    "dates": [
+      {
+        "date": "2018-02-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-02-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Organize country level stakeholder consultation workshop to identifying potential solutions and collaborations needed at different levels, and prepare an action plan2. Perform situation assessment on risks and challenges for OH priority area in each country; identification of relevant stakeholders; compilation of relevant information on priority area reflecting different experiences of range of stakeholders (from local to central level)3. Prepare country specific case studies: One Health approach to food safety through policy and legislation in Nepal4. Organize regional workshop with stakeholders from different sectors involved in OH from Nepal, Papua New Guinea, Vietnam and selected countries in the Asia Pacific5. Share information on OH activities: evidence and case studies developed during TCP, and from  other relevant information sources (country and regional level)6. Raise awareness and obtain feedback as input to fine-tune OH strategies during country level stakeholder meetings to present case studies, lessons learned7. Implement mitigating strategies in the cases identified through co-operation across agencies, private sector and civil society8. Document and disseminate evidence and process around addressing problems and highlighting advantages and challenges using OH approach at different levels9. Develop guidance on using a broad-based methodology that also leads to sector-specific solutions10. Develop concept notes for projects and approach donors and IFis"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "1343",
+        "raw_payload": {
+          "id": 11524,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Food and Agriculture Organization, Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 112756.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-02-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1343",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1343",
+        "value": "1343"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening One Health approaches for countries in the Asia-Pacific Region",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1343",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1343",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 112756.0,
+    "total_disbursement": 109657.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.480753Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1343",
+      "id": "version:entity:project/development_project/dfmis-1343:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

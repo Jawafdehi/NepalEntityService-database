@@ -1,0 +1,146 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:06.984471Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-31",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.984474Z",
+    "dates": [
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "JUSTIFICATION\r\n\t1. Regular monitoring need for Nepal's WH properties is reflected in frequent requests for interventions/changes related to properties\r\n\t2. Need to monitor the implementation of the IMP for Kathmandu Valley and its possible review to tackle emerging challenges, including disaster risk reduction and tourism initiatives for sustainable heritage management;\r\n\t3. Need to increase the awareness/participation of communities in heritage protection to address challenges of living with and around WH properties, targeting members of communities who are unacquainted or not well-informed of the opportunities, processes and protection needs of the properties as community assets\r\n\t4. Need to assist the national authorities in the process of nominating new sites for inclusion in the World Heritage List\r\n\t5. Little understanding of the role of cultural heritage as a contributor to the sustainable development of local communities\r\n\t\r\n\tMODALITIES\r\n\t1. Technical assistance in monitoring and assessment study\r\n\t2. Capacity building and awareness raising workshops\r\n\t3. Exploring extra-budgetary funding for\r\n\t3.a Integrating disaster risk reduction strategies in management plans and its implementation\r\n\t3.b Up scaling self-sustaining initiatives with community\r\n\t3.b.1 Survey to review Manual for traditional home-owners for Kathmandu Valley and possible new edition\r\n\t3.b.2 Exploring the potential of heritage to contribute to sustainable development\r\n\t3.c Establishing coherent information /knowledge management system (for Lumbini in view of establishing documentation centre)\r\n\t4. Strengthening partnership with local municipal offices, among others for promoting the application of UNESCO Recommendation on Historic Urban Landscape (HUL), especially in Kathmandu Valley\r\n\t5. Strengthening inter-ministerial coordination to enhance understanding of and ensure support for WH protection at different levels\r\n\t6. Cluster and regional exchanges for learning from international experiences\r\n\t7. Leaflet Publication promoting World Heritage properties in Nepal and re-production of translated operational guidelines in Nepali\r\n\t8. Advocating for Nepal's possible accession to Hague Convention and its two protocols\r\n\t\r\n\tTARGET GROUPS\r\n\t• Policy makers\r\n\t• Site managers\r\n\t• Community at large/ civil society and community leaders\r\n\t\r\n\tRISK\r\n\t• Possible interventions impacting the OUV of the World Heritage properties\r\n\t• Loosening of credibility of UNESCO's action in the field"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_project_id": "31",
+        "raw_payload": {
+          "id": 3716,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+          "organization_id": 168,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "financing": [
+      {
+        "amount": 20000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-31",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/31",
+        "value": "31"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "64-11204012-KAT (Culture) Enhancing national capacities for the effective implementation of the World Heritage Convention 1-4",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/31",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-31",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 20000.0,
+    "total_disbursement": 14567.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:06.984471Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-31",
+      "id": "version:entity:project/development_project/dfmis-31:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

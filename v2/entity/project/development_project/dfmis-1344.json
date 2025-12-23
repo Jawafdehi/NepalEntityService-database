@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.484275Z",
+  "dates": [
+    {
+      "date": "2016-12-21",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-03-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Map existing policies, regulations and institutions that cover crop-related NUS from a food system perspective.1.2 Review policies, regulations and institutions affecting crop-related NUS, identifying critical policy issues and technical gaps that may exist in relation to supporting production and dietary diversity.1.3 Develop specific recommendations to address the policy and programmatic gaps which will foster the diversification of crops and diets that tap the potential of NUS (based on activities listed under item 2 below).1.4 Organize national multi-stakeholders policy dialogues on challenges and options promoting pathways out of malnutrition, with a focus on crop-related NUS, and assist Governments in adopting new/revised policy frameworks.2.1 Conduct targeted analysis on malnutrition, crop diversity and dietary/food consumption analyses in the selected geographic areas and populations according to the incidence and prevalence of malnutrition, identifying key features and main challenges.2.2 Identify 1-2 selected underutilized crop(s) with a known high nutritional value that are part of traditional diets, and with potential for expanding their role along food value chain.2.3 Conduct factor/policy analysis along supply/value chain to promote market development and commercialization, through field survey and interviewing relevant stakeholders including farmers, processors, traders, and urban/rural consumers for the selected crop-related NUS to identify policy, regulatory and institutional constraints and potential for production, consumption and market development. The study will also cover some cross-cutting issues: such as gender equality and decent rural employment.2.4 Conduct technical analysis on the productivity gaps and potential for selected underutilized crop(s) from field to market and requirements for policy intervention and knowledge transfer.3.1 Provide a synthesis report based on lessons learnt from the country studies.3.2 Capacity building and knowledge sharing of national studies at regional level."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "1344",
+      "raw_payload": {
+        "id": 10309,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development, Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 50000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1344",
+      "value": "1344"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Creating Enabling Environments for Nutrition-Sensitive Food and Agriculture to Address Malnutrition",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1344",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1344",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 50000.0,
+  "total_disbursement": 41181.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.484272Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1344",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

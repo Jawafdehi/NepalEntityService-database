@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.495355Z",
+  "dates": [
+    {
+      "date": "2025-06-23",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-09-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2030-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Implementation of MGML based ECEDimplementation of MGML (WISE ) methodologyGreening SchoolMGML in SMART deviceHealthy Habit ProjectRunning Christine's Dispensary at NAMS Bir HospitalRehabilitation of Spinal Injured Patients with wheel chair supportHome modification for Spinal Injured PatientsEmpowering dalit girls through schools educationTechnical, vocational skills and higher education for Dalit girls"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "German-Nepalese Help Association",
+      "donor_project_id": "6661",
+      "raw_payload": {
+        "id": 44434,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "German-Nepalese Help Association",
+        "organization_id": 695,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health, Ministry of Social Development, Ministry of Women, Children and Senior Citizens, Office of the Chief Minister and Council of Ministers, Ministry of Social Development",
+  "financing": [
+    {
+      "amount": 416138966.11,
+      "assistance_type": "other",
+      "budget_type": "off_budget",
+      "currency": "Euro",
+      "donor": "German-Nepalese Help Association",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-06-23",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6661",
+      "value": "6661"
+    }
+  ],
+  "implementing_agency": "German Corporation for International Cooperation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Development Support Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6661",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Housing and Community Amenities",
+      "donor_subsector": null,
+      "normalized_sector": "Housing and Community Amenities",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Public Health Services",
+      "donor_subsector": null,
+      "normalized_sector": "Public Health Services",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Pre-Primary and Primary Education",
+      "donor_subsector": null,
+      "normalized_sector": "Pre-Primary and Primary Education",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6661",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 416138966.11,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.495352Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6661",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

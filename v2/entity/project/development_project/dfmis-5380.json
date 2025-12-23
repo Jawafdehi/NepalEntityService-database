@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.045136Z",
+  "dates": [
+    {
+      "date": "2009-11-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2009-11-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Output 1 Private sector opportunities identified and suitable projects developed\r\n1.1 Enter into an administrative arrangement with UNDP's project on PPPUE (Q4 2009)\r\n1.2 Recruit focal points for enhancing private sector participation through UNDP (by Q4 to the end of 2009)\r\n1.3 Scope out suitable partnership opportunities and help in financing through UNDP (from Q4 2009)\r\n \r\nOutput 2 Corporate accounting system instituted in select municipalities\r\n2.1 Review scope for putting in place corporate accounting systems (from Q4 2009)\r\n2.2 Institute corporate accounting systems on a pilot basis (from Q1 2010)\r\n \r\nOutput 3 Environmental and social safeguards framework for LGCDP operationalized\r\n3.1 Assess existing capacities in the Environment Division of MLD, and in district offices (Q4 2009)\r\n3.2 Develop relevant operational and training plan (Q1 2010)\r\n3.3 Provide support to district technical offices (continuous from Q2 2010)\r\n3.4 Recommend any amendments to the existing framework, and redesign operational and training plans accordingly (from end of Q1 2010)\r\n \r\nOutput 4 Procurement guidelines for LGCDP and for local bodies developed and operationalized\r\n4.1 Ascertain capacity development needs in procurement for LGCDP implementation (Q4 2009)\r\n4.2 Develop procurement plans and guidelines (by end of Q1 2010)\r\n4.3 Provide relevant training (continuous from Q2 2010)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "5380",
+      "raw_payload": {
+        "id": 43497,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 550000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2009-11-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5380",
+      "value": "5380"
+    }
+  ],
+  "implementing_agency": "Asian Development Bank",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "TA 7352-NEP: Support to Local Governance and Community Development Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5380",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5380",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 550000.0,
+  "total_disbursement": 213855.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.045133Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5380",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

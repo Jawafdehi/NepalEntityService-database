@@ -1,0 +1,372 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.345265Z",
+  "dates": [
+    {
+      "date": "2031-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The proposed Nepal Clean Air for Prosperity (NCAP) Project aims to reduce PM2.5 and precursor emissions from priority sources, defined as industrial and commercial sources in this project. These objectives will be achieved through the following project activities: Component 1: Adopting Cleaner Production Technologies to Reduce PM2.5 Emissions. The objective of this component is to support enterprises (industrial and commercial) to adopt cleaner technologies, including boilers and furnaces operating on cleaner fuels, such as electricity and pellets, and emission control devices. The project will focus predominately on micro, small and medium enterprises (MSMEs) in the following categories of industries: food and beverage, textile, chemical, pharmaceutical, steel, hospitality, and hospitals. These industries have been identified as the main operators of boilers and furnaces using fossil fuels (coal, diesel, and oil), as well as inefficient boilers and furnaces using biomass. Component 2: Strengthening Air Quality Management and Monitoring. This component will strengthen the GoN’s air quality management systems by reinforcing regulatory foundations, enhancing institutional capacity for enforcement, improving monitoring of existing pollution sources and strengthening domestic and regional collaboration. Component 3: Project Management, Monitoring, and Capacity Building. This component will support the establishment of the Project Steering Committee (PSC) chaired by the Ministry of Industry, Commerce and Supplies and Project Implementation Units (PIUs) at Department of Industries and Department of Environment respectively. This component will support the costs associated with hiring key project staff and day-to-day functioning of the PIUs, office set up and equipment, and other incremental operating costs. In addition, this component will also finance service providers to support day-to-day implementation of the project activities, coordination, reporting and monitoring and evaluation requirements of the project.Component 4: Contingent Emergency Response Component (CERC). The CERC is one of the Bank’s contingent financing mechanisms available to governments to gain rapid access to Bank financing to respond to a crisis or emergency. Following an eligible crisis or emergency, the Borrower may request the Bank to re-allocate project funds to support emergency response and reconstruction. This component would draw from the uncommitted credit resources under the project from other project components to cover emergency response."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P506527",
+      "raw_payload": {
+        "boardapprovaldate": "2026-03-05T00:00:00Z",
+        "borrower": "Nepal",
+        "closingdate": "2031-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "esrc_ovrl_risk_rate": "Substantial",
+        "grantamt": "5000000",
+        "id": "P506527",
+        "impagency": "Department of Environment,Department of Industries,Rastriya Banijya Bank",
+        "major_sector_code": "BBX,FFX,HHX,LLX,YYX",
+        "major_sector_name": "Energy and Mineral Resources,Financial Sector,Health,Industry, Trade and Services,Public Administration",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BBX",
+              "major_sector_name": "Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BBC",
+                  "sector_name": "Central Government (Central Agencies)",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "BBH",
+                  "sector_name": "Sub-National Government",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "FFX",
+              "major_sector_name": "Financial Sector",
+              "sectors": [
+                {
+                  "sector_code": "FFA",
+                  "sector_name": "Banking Institutions",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "FFK",
+                  "sector_name": "Capital Markets",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "LLX",
+              "major_sector_name": "Energy and Mineral Resources",
+              "sectors": [
+                {
+                  "sector_code": "LLB",
+                  "sector_name": "Energy Generation - Bioenergy",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "LLT",
+                  "sector_name": "Energy Networks and Storage",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "YYX",
+              "major_sector_name": "Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YYM",
+                  "sector_name": "Manufacturing",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "YYZ",
+                  "sector_name": "Other - Industry, Trade, and Services ",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "HHX",
+              "major_sector_name": "Health",
+              "sectors": [
+                {
+                  "sector_code": "HHG",
+                  "sector_name": "Health",
+                  "sector_percent": "0"
+                },
+                {
+                  "sector_code": "HHF",
+                  "sector_name": "Public Administration - Health",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "Banking Institutions,Capital Markets,Central Government (Central Agencies),Energy Generation - Bioenergy,Energy Networks and Storage,Health,Manufacturing,Other - Industry, Trade, and Services ,Public Administration - Health,Sub-National Government",
+        "proj_id": "P506527",
+        "project_abstract": "The proposed Nepal Clean Air for Prosperity (NCAP) Project aims to reduce PM2.5 and precursor emissions from priority sources, defined as industrial and commercial sources in this project. These objectives will be achieved through the following project activities: Component 1: Adopting Cleaner Production Technologies to Reduce PM2.5 Emissions. The objective of this component is to support enterprises (industrial and commercial) to adopt cleaner technologies, including boilers and furnaces operating on cleaner fuels, such as electricity and pellets, and emission control devices. The project will focus predominately on micro, small and medium enterprises (MSMEs) in the following categories of industries: food and beverage, textile, chemical, pharmaceutical, steel, hospitality, and hospitals. These industries have been identified as the main operators of boilers and furnaces using fossil fuels (coal, diesel, and oil), as well as inefficient boilers and furnaces using biomass. Component 2: Strengthening Air Quality Management and Monitoring. This component will strengthen the GoN’s air quality management systems by reinforcing regulatory foundations, enhancing institutional capacity for enforcement, improving monitoring of existing pollution sources and strengthening domestic and regional collaboration. Component 3: Project Management, Monitoring, and Capacity Building. This component will support the establishment of the Project Steering Committee (PSC) chaired by the Ministry of Industry, Commerce and Supplies and Project Implementation Units (PIUs) at Department of Industries and Department of Environment respectively. This component will support the costs associated with hiring key project staff and day-to-day functioning of the PIUs, office set up and equipment, and other incremental operating costs. In addition, this component will also finance service providers to support day-to-day implementation of the project activities, coordination, reporting and monitoring and evaluation requirements of the project.Component 4: Contingent Emergency Response Component (CERC). The CERC is one of the Bank’s contingent financing mechanisms available to governments to gain rapid access to Bank financing to respond to a crisis or emergency. Following an eligible crisis or emergency, the Borrower may request the Bank to re-allocate project funds to support emergency response and reconstruction. This component would draw from the uncommitted credit resources under the project from other project components to cover emergency response. ",
+        "project_name": "Nepal Clean Air and Prosperity (NCAP) Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Pipeline",
+        "themev2_level1_exact": [
+          "Disaster Risk Management",
+          "Economic Policy",
+          "Economic Policy",
+          "Environment, Infrastructure, and Natural Resource Management",
+          "Finance",
+          "Governance and Public Sector Management",
+          "Governance and Public Sector Management",
+          "Human Development",
+          "Human Development",
+          "Private Sector Development",
+          "Private Sector Development",
+          "Social Sustainability",
+          "Urban Development and Land Administration / Management"
+        ],
+        "themev2_level2_exact": [
+          " Innovation, Technology, and Green Competitiveness",
+          "Develop Financial Markets",
+          "Disease Control",
+          "Economic Growth",
+          "Fiscal Policy",
+          "GovTech",
+          "GovTech",
+          "Nationally Determined Contributions (NDCs) and Long-Term Strategies (LTSs) for Low Emissions and Res",
+          "Public Private Partnerships",
+          "Social Protection",
+          "Urban Infrastructure and Service Delivery"
+        ],
+        "totalamt": "52000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 5000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2026-03-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506527",
+      "value": "p506527"
+    }
+  ],
+  "implementing_agency": "Department of Environment,Department of Industries,Rastriya Banijya Bank",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Clean Air and Prosperity (NCAP) Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506527",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Financial Sector",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Energy and Mineral Resources",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p506527",
+  "stage": "pipeline",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Disaster Risk Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Economic Policy",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Governance and Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Human Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Human Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Social Sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "Urban Development and Land Administration / Management",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 52000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.345260Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p506527",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

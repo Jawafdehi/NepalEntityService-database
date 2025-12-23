@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.298622Z",
+  "dates": [
+    {
+      "date": "2011-12-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-07-02",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Building new skills and competencies in HWs\r\n\t\r\n\t\tIncreasing numbers of HWs and strengthening existing skills\r\n\t\r\n\t\tStrengthen local health governance structures\r\n\t\r\n\t\tLeverage funds for facility upgrades and increased access to skilled care\r\n\t\r\n\t\tStrengthen systems for reaching the most vulnerable and marginalized women\r\n\t\r\n\t\tExpand participation of other community groups and stakeholders in support of MNCH\r\n\t\r\n\t\tConduct assessment to evaluate gaps in existing HW practices and make recommendations for improvements\r\n\t\r\n\t\tIdentify community-level barriers to effective service delivery by HWs and strategies for overcoming them\r\n\t\r\n\t\tEvaluate effectiveness of key strategies in enhancing HW effectiveness in reaching objectives (e.g. SATH, POSS, Community Score Board)\r\n\t\r\n\t\tConvene cross-country workshop to share learning across GSK Asia region\r\n\t\r\n\t\tConvene local, district and national level stakeholders and share recommendations for increasing effectiveness of HWs at community level (year 3)\r\n\t\r\n\t\tDocument results and disseminate in publications and presentations to leverage global impact"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CARE Nepal",
+      "donor_project_id": "483",
+      "raw_payload": {
+        "id": 3054,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CARE Nepal",
+        "organization_id": 304,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "CARE Nepal",
+  "financing": [
+    {
+      "amount": 1183332.167,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CARE Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/483",
+      "value": "483"
+    }
+  ],
+  "implementing_agency": "CARE Nepal",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening Approaches for Maximizing Maternal, Neonatal, and Reproductive Health (SAMMAN)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/483",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-483",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1183332.167,
+  "total_disbursement": 1277899.0446038,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.298619Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-483",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

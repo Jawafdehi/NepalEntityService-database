@@ -1,0 +1,216 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.658270Z",
+  "dates": [
+    {
+      "date": "2000-12-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The six year (FY1995 to FY2000) Population and Family Health Project has been designed within the framework of the Government's comprehensive Family Planning and Maternal and Child Health (FP/MCH) Program, and will supplement funds from domestic and foreign sources, ensuring resource availability and operation of the total Program. It will support the improvement of the quantity and quality of care in FP/MCH service delivery and finance activities designed to: (a) strengthen the effectiveness, access, and utilization of the outreach and clinical programs; (b) refurbish the health facilities and logistics infrastructure; (c) provide operational and management support; (d) develop a functioning management information system; (e) provide maintenance support; and (f) enhance institutional development and the absorptive capacity of the sector."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010460",
+      "raw_payload": {
+        "boardapprovaldate": "1994-04-12T00:00:00Z",
+        "closingdate": "2000-12-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "39000000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P010460",
+        "major_sector_code": "BX,HX",
+        "major_sector_name": "FY17 - Health,FY17 - Public Administration",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "FY17 - Central Government (Central Agencies)",
+                  "sector_percent": "8.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "HX",
+              "major_sector_name": "FY17 - Health",
+              "sectors": [
+                {
+                  "sector_code": "HG",
+                  "sector_name": "FY17 - Health",
+                  "sector_percent": "92.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Health",
+        "proj_id": "P010460",
+        "project_abstract": "The six year (FY1995 to FY2000) Population and Family Health Project has been designed within the framework of the Government's comprehensive Family Planning and Maternal and Child Health (FP/MCH) Program, and will supplement funds from domestic and foreign sources, ensuring resource availability and operation of the total Program. It will support the improvement of the quantity and quality of care in FP/MCH service delivery and finance activities designed to: (a) strengthen the effectiveness, access, and utilization of the outreach and clinical programs; (b) refurbish the health facilities and logistics infrastructure; (c) provide operational and management support; (d) develop a functioning management information system; (e) provide maintenance support; and (f) enhance institutional development and the absorptive capacity of the sector.",
+        "project_name": "POPULATION & HEALTH",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Gender",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies"
+        ],
+        "totalamt": "26700000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 26700000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "1994-04-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010460",
+      "value": "p010460"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "POPULATION & HEALTH",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010460",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010460",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 26700000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.658249Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010460",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

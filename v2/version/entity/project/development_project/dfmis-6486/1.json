@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.733296Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6486",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.733303Z",
+    "dates": [
+      {
+        "date": "2023-05-09",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-05-09",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-05-08",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1 Preparation of building sites-social aspect: construction and co-construction of the project with the Municipalities and users.1.2 Construction work for water supply/Reservoirs1.3 Household connection campaign.1.4 Setting up users committee and trainings.1.5 Community promotion sessions focusing on handwashing with soap, proper water use, irrigation and open defecation Preventation.2.1 Preparation of building sites-social aspect: construction and co-construction of the project with the Municipalities and users.2.2 Rehabilitate/construction of the plants.2.3 Technical training for the plant’s operations (for the users committee)2.4 Community promotion sessions focusing on river protection. Water quality, environmental river management, and grey water use for irrigation.-     Min. 1718 HHs will cover by the 6 repair/renovation WS system-     System will be built based on 1 house-1 tap model (with meter & low cost tap)-     Feasibility survey, tariff paying willingness survey, detail engineering survey-     Min. 50% female member on WSUCs with 33% female participation on key members (Fully female WSUC would be encouraged)-     1% cash upfront need to collect by the community as part of O&M fund at the starting.-     Community should contribute min. 20% contribution.-     Vulnerable HHs (Having children headed, elderly people, disable-people and single women HHs only) will be covered by the project.WQ test, shock chlorination and system calibration will be part of project work·         Conduct project base/end line survey using KOBO mobile base application.·         Conduct workshops/meetings (start up, closing, DLPAC, RLPAC, sharing etc.) joint monitoring visit of Schemes.·         IEC/Visibility materials·         Collaboration on Water supply scheme construction with cash contributionSupport on preparation of post construction mechanism and implementation of FEITS approach.·         Project Approval/consent and coordination with RM before start detail survey of Scheme.·         WSUC formation /Activation at every WSS area.·         Detail survey and measurement of water supply Scheme with presence of RM technical person.·         Pre and Post construction water quality testing.·         Estimations, symmetrical layout, flow diagram and BoQ’s preparation with cash and kind contribution of organisation/community.·         Tripartite construction work agreement between WSUC , RM and implementing partners·         Market survey and deliver construction materials at construction sites.·         Training to WSUC and VMW- Pre, Post construction and OJT Technical trainings.·         Support to WSUC to collect operation seeds money funds 1% of total project cost from every household.·         Implementation of construction and house connection campaign.·         Support to WSUC for monthly tariff collection mechanism (Start collection from mid of contract period)·         Strick on construction , quality control , Joint monitoring visit ,public auditing and final documentationHandover and project closing program"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Action Contre La Faim",
+        "donor_project_id": "6486",
+        "raw_payload": {
+          "id": 42736,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Action Contre La Faim",
+          "organization_id": 521,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 366173.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Action Contre La Faim",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-05-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6486",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6486",
+        "value": "6486"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Access to Improved Water Services in the Upper Trishuli River Basin, Nepal (Main)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6486",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6486",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 366173.0,
+    "total_disbursement": 267144.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.733296Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6486",
+      "id": "version:entity:project/development_project/dfmis-6486:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

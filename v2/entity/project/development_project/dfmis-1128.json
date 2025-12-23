@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:13.304136Z",
+  "dates": [
+    {
+      "date": "2015-12-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-05-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1 Facilitation of Community Disaster Risk Management Planning (CDRMP) Process\r\n\r\n1.1.2- Implementation of DRR Planning Campaigns\r\n\r\n1.2.1 Facilitation for preparation of LDRMPs\r\n\r\n1.2.2 Conduct sensitization events on risk-sensitive development planning.\r\n\r\n1.3.1 Promote NRM practices promoted at community level.\r\n\r\n1.3.2 Implement community-level infrastructure for disaster risk mitigation \r\n\r\n1.3.3 Community supported with proper winterization materials.\r\n\r\n2.1.1 Financial Services Mapping (VSLA/Co-op Mapping)\r\n\r\n2.1.2 VSLA identification\r\n\r\n2.1.3 Training Material Development\r\n\r\n2.1.4 Financial literacy training \r\n\r\n2.2.1 Orientation on formalization process\r\n\r\n2.2.2 Registration documentation provision\r\n\r\n2.3.1.Link cooperatives to financial institutions\r\n\r\n2.4.1 Cooperative management training\r\n\r\n2.4.2 Savings and credit policy training \r\n\r\n2.4.3 Accounts management training \r\n\r\n2.4.4 Leadership development training \r\n\r\n2.4.5 Good governance training \r\n\r\n2.4.6 Gender and social inclusion training\r\n\r\n2.4.7 Product development training \r\n\r\n2.4.8 Business planning training\r\n\r\n2.4.9 PEARLS rating system and financial management\r\n\r\n2.4.10 Capacity Assessment (Baseline & End Line)\r\n\r\n2.4.11 Review and planning workshop\r\n\r\n2.4.12 Logistic Support to cooperatives\r\n\r\n2.4.13 MIS development/installation\r\n\r\n2.4.14 Ongoing mentoring with cooperatives including travel\r\n\r\n2.5.1 Identify VSLAs for market-centered livelihood approaches\r\n\r\n2.5.2 Identify role of cooperative (product development, marketing, linkages)\r\n\r\n2.5.3 Establishment of Livelihood Recovery Challenge Fund\r\n\r\n2.5.4 Partnership with TVETs for skills training to be supported by Challenge Fund\r\n\r\n2.5.5 Input Support\r\n\r\n3.1.1 Market Assessment\r\n\r\n3.1.2 Workshop and Meeting\r\n\r\n3.2.1 Operation of SME Support Fund"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "1128",
+      "raw_payload": {
+        "id": 8474,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "MercyCorps",
+  "financing": [
+    {
+      "amount": 3738398.769,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-12-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1128",
+      "value": "1128"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Earthquake Recovery Program",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1128",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Executive and legislative organs, financial and fiscal affairs, external   affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1128",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3738398.769,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:13.304133Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1128",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

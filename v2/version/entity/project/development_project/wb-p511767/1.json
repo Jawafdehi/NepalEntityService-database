@@ -1,0 +1,229 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.349706Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p511767",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.349723Z",
+    "dates": [
+      {
+        "date": "2031-07-31",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Digital Nepal project will invest in digital public infrastructure (DPI)  in Nepal  to enable the digitalization of public services through shared digital platforms across prioritized sectors. To build trust and strengthen digital development and services in the country, the project will help bring government services directly to the people including marginalized and hard-to reach populations. This will enable individuals and businesses to transact via the Nagarik app, an integrated online- and mobile portal. To enable such seamless, online service delivery, the project will also invest in the necessary underlying Digital Public Infrastructure (DPI) including national identity and national data exchange. The project will also support the government to develop appropriate data hosting infrastructure and data classification policy to ensure insulation from any natural or manmade disasters. The project will support the GoN to design a new national identity (NID) system and also establish an integrated social protection system (ISPS), based on NID, to reduce inefficiency and duplications and promote transparency and inclusion of vulnerable groups in the country.  The design and implementation of digital platforms under this component will draw on good practice examples and lessons learned from countries like Moldova, Jordan, Singapore, South Korea, and Ukraine, with a robust track record of leveraging DPI for public service digitalization.The project will also support the GoN to create a legal and regulatory enabling environment to effectively develop their digital economy and create a trusted environment. This will include the drafting and amendment of a data protection law, cyber security law, electronic transactions law and national ID law. In addition, the project will support the GoN to develop data governance frameworks to effectively leverage data hosting and cloud computing. This will include data classification frameworks as well as data hosting guidance on use of hybrid or public cloud, outside of Nepal. Given Nepal’s fragilities it will be important to develop a cloud-first policy to enhance resilience and supporting business continuity. The project will also support digitalization of high impact services identified by the Government. This will include business process reengineering for the select services and full digitalization of select services including land administration."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P511767",
+        "raw_payload": {
+          "boardapprovaldate": "2026-02-02T00:00:00Z",
+          "borrower": "Ministry of Finance",
+          "closingdate": "2031-07-31",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "esrc_ovrl_risk_rate": "Moderate",
+          "grantamt": "40000000",
+          "id": "P511767",
+          "impagency": "Ministry of Communications and Information Technology ",
+          "major_sector_code": "DDX,EEX,NNX",
+          "major_sector_name": "Digital Development,Education,Social Sustainability and Inclusion",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "DDX",
+                "major_sector_name": "Digital Development",
+                "sectors": [
+                  {
+                    "sector_code": "DDI",
+                    "sector_name": "Digital Infrastructure",
+                    "sector_percent": "0"
+                  },
+                  {
+                    "sector_code": "DDG",
+                    "sector_name": "Digital Government - Public Administration",
+                    "sector_percent": "0"
+                  },
+                  {
+                    "sector_code": "DDE",
+                    "sector_name": "Digital Economy - Digital Industry",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "NNX",
+                "major_sector_name": "Social Sustainability and Inclusion",
+                "sectors": [
+                  {
+                    "sector_code": "NNI",
+                    "sector_name": "Social Inclusion",
+                    "sector_percent": "0"
+                  },
+                  {
+                    "sector_code": "NNF",
+                    "sector_name": "Public Administration - Social Risk Management",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "EEX",
+                "major_sector_name": "Education",
+                "sectors": [
+                  {
+                    "sector_code": "EEF",
+                    "sector_name": "Public Administration - Education",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Digital Economy - Digital Industry,Digital Government - Public Administration,Digital Infrastructure,Public Administration - Education,Public Administration - Social Risk Management,Social Inclusion",
+          "proj_id": "P511767",
+          "project_abstract": "The Digital Nepal project will invest in digital public infrastructure (DPI)  in Nepal  to enable the digitalization of public services through shared digital platforms across prioritized sectors. To build trust and strengthen digital development and services in the country, the project will help bring government services directly to the people including marginalized and hard-to reach populations. This will enable individuals and businesses to transact via the Nagarik app, an integrated online- and mobile portal. To enable such seamless, online service delivery, the project will also invest in the necessary underlying Digital Public Infrastructure (DPI) including national identity and national data exchange. The project will also support the government to develop appropriate data hosting infrastructure and data classification policy to ensure insulation from any natural or manmade disasters. The project will support the GoN to design a new national identity (NID) system and also establish an integrated social protection system (ISPS), based on NID, to reduce inefficiency and duplications and promote transparency and inclusion of vulnerable groups in the country.  The design and implementation of digital platforms under this component will draw on good practice examples and lessons learned from countries like Moldova, Jordan, Singapore, South Korea, and Ukraine, with a robust track record of leveraging DPI for public service digitalization.The project will also support the GoN to create a legal and regulatory enabling environment to effectively develop their digital economy and create a trusted environment. This will include the drafting and amendment of a data protection law, cyber security law, electronic transactions law and national ID law. In addition, the project will support the GoN to develop data governance frameworks to effectively leverage data hosting and cloud computing. This will include data classification frameworks as well as data hosting guidance on use of hybrid or public cloud, outside of Nepal. Given Nepal’s fragilities it will be important to develop a cloud-first policy to enhance resilience and supporting business continuity. The project will also support digitalization of high impact services identified by the Government. This will include business process reengineering for the select services and full digitalization of select services including land administration. ",
+          "project_name": "Nepal Digital Transformation",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Pipeline",
+          "totalamt": "50000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 40000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2026-02-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p511767",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P511767",
+        "value": "p511767"
+      }
+    ],
+    "implementing_agency": "Ministry of Communications and Information Technology ",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Digital Transformation",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P511767",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Digital Development",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Social Sustainability and Inclusion",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Education",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p511767",
+    "stage": "pipeline",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 50000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.349706Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p511767",
+      "id": "version:entity:project/development_project/wb-p511767:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

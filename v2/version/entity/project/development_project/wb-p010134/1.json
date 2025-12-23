@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.842629Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010134",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.842632Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The proposed project would help develop the three Hill districts of Dandeldhura, Baitadi, and Darchula and aims to raise agricultural production to levels whereby farmers could meet full family subsistence. The proposed project would provide for increased agricultural and livestock production through minor irrigation development, strengthening of agricultural extension and animal health services, training, and improved availability of farm inputs. These directly productive investments would be complemented by investments in erosion control, health care, village water supplies, lower and upper secondary education, postal services, panchayat facilities, and trails and foot-bridges. The project also provides for a study of cottage industry potential and prospects."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010134",
+        "raw_payload": {
+          "boardapprovaldate": "1979-06-21T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010134",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AA",
+                    "sector_name": "(Historic)Agriculture adjustment",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "(Historic)Agriculture adjustment",
+          "proj_id": "P010134",
+          "project_abstract": "The proposed project would help develop the three Hill districts of Dandeldhura, Baitadi, and Darchula and aims to raise agricultural production to levels whereby farmers could meet full family subsistence. The proposed project would provide for increased agricultural and livestock production through minor irrigation development, strengthening of agricultural extension and animal health services, training, and improved availability of farm inputs. These directly productive investments would be complemented by investments in erosion control, health care, village water supplies, lower and upper secondary education, postal services, panchayat facilities, and trails and foot-bridges. The project also provides for a study of cottage industry potential and prospects.",
+          "project_name": "RURAL DEV II",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010134",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010134",
+        "value": "p010134"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "RURAL DEV II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010134",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010134",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.842629Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010134",
+      "id": "version:entity:project/development_project/wb-p010134:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

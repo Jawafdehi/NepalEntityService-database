@@ -1,0 +1,324 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.375269Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p181344",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.375283Z",
+    "dates": [
+      {
+        "date": "2027-11-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The development objective of Disaster Resilience Development Policy Credit with Catastrophe Deferred Drawdown Option Project for Nepal is to strengthen the capacity of the government of Nepal to manage disaster and climate risks, including disease outbreaks. This operation is aligned with the goals of the Paris Agreement. First, the operation is fully aligned with the policy recommendations that have emerged from the Nepal’s Country Climate and Development Report (CCDR) and is consistent with the climate priorities outlined in its Second Nationally Determined Contributions (NDC), National Adaptation Plan (NAP), and Long-term Strategy (LTS). Second, on mitigation goals, the reforms under this operation do not significantly increase greenhouse gas (GHG) emissions and do not introduce or reinforce persistent barriers to the country’s transition to low-GHG emissions. Third, on adaptation and resilience goals, risks from climate hazards are not likely to have an adverse effect on the prior actions’ contribution to the PDO. Prior Action 1 (PA1) aids the NAP and NDC goals to enhance disaster response, while PA2 focuses on updating building designs for climate resilience, in line with NDC and NAP. PA3 targets the NDC goal of expanding multi-hazard early warning systems. PA4 supports the NAP's capacity building initiatives for climate-informed policies and water infrastructure design. PA5 is in sync with the Disaster Risk Reduction (DRR) National Strategic Plan of Action, NAP, and NDC objectives to improve climate-sensitive disease surveillance by 2025. Therefore, all prior actions of the program are aligned with the adaptation and resilience goals of the Paris Agreement."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P181344",
+        "raw_payload": {
+          "boardapprovaldate": "2024-10-08T00:00:00Z",
+          "borrower": "Nepal",
+          "closingdate": "2027-11-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "grantamt": "0",
+          "id": "P181344",
+          "impagency": " Ministry of Health and Population,Department of Hydrology and Meteorology,Department of Urban Development and Building Construction,Ministry of Energy, Water Resources and Irrigation,Ministry of Finance,Ministry of Home Affairs,Ministry of Urban Development,National Disaster Risk Reduction and Management Authority",
+          "major_sector_code": "AAX,BBX,HHX,WWX",
+          "major_sector_name": "Agriculture, Fishing and Forestry,Health,Public Administration,Water, Sanitation and Waste Management",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AAX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AAI",
+                    "sector_name": "Irrigation and Drainage",
+                    "sector_percent": "10.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "BBX",
+                "major_sector_name": "Public Administration",
+                "sectors": [
+                  {
+                    "sector_code": "BBC",
+                    "sector_name": "Central Government (Central Agencies)",
+                    "sector_percent": "20.0"
+                  },
+                  {
+                    "sector_code": "BBZ",
+                    "sector_name": "Other - Public Administration",
+                    "sector_percent": "40.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "HHX",
+                "major_sector_name": "Health",
+                "sectors": [
+                  {
+                    "sector_code": "HHG",
+                    "sector_name": "Health",
+                    "sector_percent": "20.0"
+                  }
+                ]
+              }
+            },
+            {
+              "major_sector": {
+                "major_sector_code": "WWX",
+                "major_sector_name": "Water, Sanitation and Waste Management",
+                "sectors": [
+                  {
+                    "sector_code": "WWW",
+                    "sector_name": "Water Resources",
+                    "sector_percent": "10.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Central Government (Central Agencies),Health,Irrigation and Drainage,Other - Public Administration,Water Resources",
+          "proj_id": "P181344",
+          "project_abstract": "The development objective of Disaster Resilience Development Policy Credit with Catastrophe Deferred Drawdown Option Project for Nepal is to strengthen the capacity of the government of Nepal to manage disaster and climate risks, including disease outbreaks. This operation is aligned with the goals of the Paris Agreement. First, the operation is fully aligned with the policy recommendations that have emerged from the Nepal’s Country Climate and Development Report (CCDR) and is consistent with the climate priorities outlined in its Second Nationally Determined Contributions (NDC), National Adaptation Plan (NAP), and Long-term Strategy (LTS). Second, on mitigation goals, the reforms under this operation do not significantly increase greenhouse gas (GHG) emissions and do not introduce or reinforce persistent barriers to the country’s transition to low-GHG emissions. Third, on adaptation and resilience goals, risks from climate hazards are not likely to have an adverse effect on the prior actions’ contribution to the PDO. Prior Action 1 (PA1) aids the NAP and NDC goals to enhance disaster response, while PA2 focuses on updating building designs for climate resilience, in line with NDC and NAP. PA3 targets the NDC goal of expanding multi-hazard early warning systems. PA4 supports the NAP's capacity building initiatives for climate-informed policies and water infrastructure design. PA5 is in sync with the Disaster Risk Reduction (DRR) National Strategic Plan of Action, NAP, and NDC objectives to improve climate-sensitive disease surveillance by 2025. Therefore, all prior actions of the program are aligned with the adaptation and resilience goals of the Paris Agreement.",
+          "project_name": "Nepal Disaster Resilience Development Policy Credit with Cat DDO (NDRC)",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Active",
+          "themev2_level1_exact": [
+            "Disaster Risk Management",
+            "Disaster Risk Management",
+            "Disaster Risk Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Environment, Infrastructure, and Natural Resource Management",
+            "Finance",
+            "Human Development",
+            "Private Sector Development",
+            "Urban Development and Land Administration / Management"
+          ],
+          "themev2_level2_exact": [
+            " Water Institutions, Policies and Reform",
+            "Climate Change",
+            "Disaster Preparedness and Response",
+            "Disaster Risk Management Governance",
+            "Disaster Risk Reduction",
+            "Disease Control",
+            "Ecosystem Management",
+            "Public Private Partnerships",
+            "Strengthen Financial Resiliency",
+            "Urban Planning"
+          ],
+          "totalamt": "150000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 150000000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2024-10-08",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p181344",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181344",
+        "value": "p181344"
+      }
+    ],
+    "implementing_agency": " Ministry of Health and Population,Department of Hydrology and Meteorology,Department of Urban Development and Building Construction,Ministry of Energy, Water Resources and Irrigation,Ministry of Finance,Ministry of Home Affairs,Ministry of Urban Development,National Disaster Risk Reduction and Management Authority",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Disaster Resilience Development Policy Credit with Cat DDO (NDRC)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181344",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Public Administration",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Health",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "World Bank",
+        "donor_sector": "Water, Sanitation and Waste Management",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p181344",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Disaster Risk Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Disaster Risk Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Disaster Risk Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Environment, Infrastructure, and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Human Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Private Sector Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "Urban Development and Land Administration / Management",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 150000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.375269Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p181344",
+      "id": "version:entity:project/development_project/wb-p181344:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

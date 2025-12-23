@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.187458Z",
+  "dates": [
+    {
+      "date": "2015-05-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-05-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Conflict Mediation in Post Earthquake Recovery supports Nepal's long term recovery following the devastating earthquake on 25 April 2015. The early recovery package of support will focus on three key themes: meeting the educational needs of vulnerable children, with a focus on girls and children with disabilities, as they transition back to school and “building back better” ; rebuilding livelihoods of women and other vulnerable populations; and rebuilding social cohesion, by ensuring there is access to alternative dispute resolution for addressing disaster-related conflict, violence and exploitation of women. Within the early recovery package, Australia provided funds to the Asia Foundation (TAF) in Nepal for a program to address conflicts and vulnerabilities related to earthquake recovery and assistance in Nepal. The program will address, in particular, disputes related to identity, resettlement, land and resource use, and gender-based violence (GBV). The program will support facilitated dialogue, and community mediation in order to create and sustain an enabling environment for effective earthquake recovery efforts. The total value of this investment is $3.0 million over 2 years, starting May 2015."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_project_id": "691",
+      "raw_payload": {
+        "id": 9164,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 3,
+        "organization__development_cooperation_group__name": "Australia",
+        "organization__logo": "",
+        "organization__name": "Department of Foreign Affairs and Trade",
+        "organization_id": 85,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Department of Foreign Affairs and Trade",
+  "financing": [
+    {
+      "amount": 2337945.792,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Department of Foreign Affairs and Trade",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-05-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/691",
+      "value": "691"
+    }
+  ],
+  "implementing_agency": "Asia Foundation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Mediating Local Conflict and Reducing Vulnerability Post Earthquake Recovery (Nepal)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/691",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-691",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2337945.792,
+  "total_disbursement": 2284755.224,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.187455Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-691",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

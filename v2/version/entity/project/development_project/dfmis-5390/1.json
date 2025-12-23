@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.066953Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5390",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.066957Z",
+    "dates": [
+      {
+        "date": "2008-01-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-01-11",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2009-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Start-up management support to KUKL including establishment of a functional PMU\r\n2. Preparation and setting up of the operational, accounting, quality control, and management systems within KUKL for day-to-say service delivery and procurement of equipment and works\r\n3. Procurement of consultancies and civil works for the identified demonstration scheme and immediate improvement works under the MWSP\r\n4. Preparation of various plans, strategies, operational procedures and guidelines, customer services and pro-poor services management strategies\r\n5. Assessment of organizational, capacity building, and tariff reforms required for the interim period for KUKL\r\n6. Implementation of immediate rehabilitation and improvement works\r\n7. Capacoty building for the 3 new entities through training, workshops, and benchmark studies"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "5390",
+        "raw_payload": {
+          "id": 43395,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Water Supply",
+    "financing": [
+      {
+        "amount": 2500000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2007-12-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5390",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5390",
+        "value": "5390"
+      }
+    ],
+    "implementing_agency": "Asian Development Bank",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Supporting Capacity Development of Water Services Operations and Public-Private Partnership in Kathmandu Valley",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5390",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5390",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2500000.0,
+    "total_disbursement": 1652818.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.066953Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5390",
+      "id": "version:entity:project/development_project/dfmis-5390:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

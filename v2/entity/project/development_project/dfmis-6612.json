@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.212221Z",
+  "dates": [
+    {
+      "date": "2022-03-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-03-18",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Collaborate with local governments and support target communities to plan and establishClimate Smart/Climate Adapted Village to upscale climate smart agriculture technologies andpractice.2. Training on climate smart agriculture technologies and practices for women, farmers, andlocal government staff3. Promote and support for climate resilient technologies and crop varieties in agriculture.4. Enhance livestock production (including support, animal health care, housing)5. Improved water management and irrigation systems6. Improve nutrition through establishment of home gardens and school biodiversity gardens.7. Training and support for small scale farm and enterprises8. Training and support for returnee migrants, persons with disability and women to engagein income generation activities.9. Provide skill development training on management, business and market management.10. Development of agricultural products11. Developing access to market via cooperatives, and enhancing capacity of small-scalefarmers and microenterprises12. Establishment of collection centers to support collection and processing of marketproducts produced by beneficiaries.13. Create connections and enable environment for microenterprises with officials.14. Develop training materials and build capacity of teachers via trainings and supervision onpsychosocial wellbeing and disability inclusive education.15. Develop and provide training material/ technical support for classroom based onpsychosocial wellbeing and for establishment of psychosocial counselling unit at schools.16. Develop comprehensive school counselling manual in collaboration with CEHRD andprovinces, and roll it out.17. Parenting education on child wellbeing, child protection and education of children18. Support children with disability and people with disability to attend and graduate fromhigher level education (grade 11 and 12, bachelor and master)19. On the job training, internship and job preparation support and vocationalOff BudgetIATI Identifier:Gender Marker: Directly SupportiveClimate ChangeBudget Head:Status Reason: On going.Highly relevantFelm Nepal Development Cooperation ProjectOutput: Output 1.1Increased food and nutrition security by enhancing agricultural productivity through skilldevelopment and agricultural input supportOutput 1.21.2: Increase employment opportunities of women, people with disabilities, migrants and othervulnerable groupsOutput 1.31.3: Developed market linkages and trade possibilities of small-scale farms and smallbusinessesOutput 2.12.1: Improved capacities of teachers and parents on psychosocial wellbeing, counselling, anddisability inclusive educationOutput 2.22.2: Increased access to education for children with disability and job access to PwDsOutput 3.13.1: Developed referral service of mental health and psychosocial support in health facilities inprogram areasOutput 3.23.2: Strengthened peer support and capacity of SHGs and their network with psychosocialproblems and disabilityOutput 3.33.3: Improved knowledge of children and parents on disability, psychosocial wellbeing, disabilityright and life skillstraining for persons with disabilities20. Improve schools’ infrastructure to promote disability-friendly learning environment.21. Increase access of children with disabilities to nutritious food, health and sanitary toimprove their education results.22. Provide mental health and psychosocial counselling training and supervision toparamedics, staff nurse/auxiliary nurse, with emphasis on children’s psychosocial issues.23. Provide advanced psychosocial counselling training/supervision to staff nurses of referralhospitals to provide psychosocial counselling services for the referred cases from schools.24. Training and supervision to health coordinator in planning, implementation andmonitoring of mental health program25. Support local and provincial government for preparing mental health strategy and plan ofaction.26. Formation of Peer Support Groups and SHGs of PWD and capacity strengthening27. Psychosocial counseling to peer support members of SHGs28. Develop and disseminate Information, Education and Communication (ICE) materials.29. Broadcast radio program on disability rights, vital registration, and child protection..30. Train child clubs on life skills and mental health31. Empower and train adolescence youth on life skills and leadership.32. Train and organize campaigns on disability and psychosocial wellbeing, social stigmaand against discrimination.33. Organize workshops/seminars with stakeholders on inclusion of psychosocial disability.34. Mobilization of CBOs, networks and other groups on disaster preparedness35. Training on disaster and climate disaster for community members and duty bearers ofmunicipalities36. Declaration of climate resilient municipalities37. Publication and dissemination of IEC materials covering climate change and DRRexperience and issues.38. Promotion of clean energy utilization tools (e.g. wood saving stoves)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Felm Nepal",
+      "donor_project_id": "6612",
+      "raw_payload": {
+        "id": 44172,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Felm Nepal",
+        "organization_id": 762,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 5570892.6,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "Felm Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-03-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6612",
+      "value": "6612"
+    }
+  ],
+  "implementing_agency": "Business Finland, Ministry for Foreign Affairs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Felm Nepal Development Cooperation Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6612",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6612",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5570892.6,
+  "total_disbursement": 4354657.6,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.212217Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6612",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

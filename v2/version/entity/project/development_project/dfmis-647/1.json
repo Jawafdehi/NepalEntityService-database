@@ -1,0 +1,186 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.974879Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-647",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.974882Z",
+    "dates": [
+      {
+        "date": "2011-05-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-12-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "National Policy Reform\r\n·         Supporting political decision making bodies in formulating/improving legal provisions for SNG\r\n·         Support the functional assignment process (sectoral) for different government tiers\r\n·         Support (through studies, reports, discussions) the fiscal decentralization process (transfers, OSR, borrowing, equalization)\r\n·         Develop mechanisms and processes for intra govt. cooperation\r\n·         Build capacities of constitutionally established bodies on how to improve intra govt. relations\r\nSub – National Institutional Reform\r\n·         Support provincial governments to prepare legal provisions\r\n·         Support institutional reform processes in selected Local Bodies\r\n·         Support improvement of Revenue generation and financial management system of Local Bodies\r\n·         Implementation of Accrual Accounting in selected municipalities\r\n·         Strengthening of institutionalized Capacity Development institutions\r\n·         Strengthen Local Bodies Associations\r\nCivil Society Participation\r\n·         Provide TA for social mobilization to Local Government and Community Development Programme (LGCDP)\r\n·         Intensive support on social mobilization in mid west development corridor (BANKE - SURKHET - DAILEKH)\r\n·         Intensive support on social mobilization in Urban Governance Development Programme (UGDP) municipalities\r\n·         Contribute to further review the LGCDP Social Mobilisation concept\r\n·         Support the capacity building of federations of civil society at dist. level especially  women and marginalized groups\r\n·         Support networking of Federations of Civil Society Organizations (FCSOs) (Mid west and UGDP cluster)\r\n·         Support advocacy/lobbying activities of FCSOs\r\nSub-National Service Delivery and Local Infrastructure\r\n·         Strengthen Town Development Fund (TDF) capacity as technical and financial institution\r\n·         Elaborate, test, document and disseminate innovative service delivery concepts  of Sub-national Governments\r\n\r\n    Improve conditions for local economic development"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "German Corporation for International Cooperation",
+        "donor_project_id": "647",
+        "raw_payload": {
+          "id": 2258,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "German Corporation for International Cooperation",
+          "organization_id": 24,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "German Corporation for International Cooperation",
+    "financing": [
+      {
+        "amount": 14810426.54,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-05-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2420981.843,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 939990.6,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "German Corporation for International Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-10-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-647",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/647",
+        "value": "647"
+      }
+    ],
+    "implementing_agency": "Banke District Development Committee, Kalikot District Development Committee, Bardiya District Development Committee, German Corporation for International Cooperation, Kailali District Development Committee, Dailekh District Development Committee",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sub-national Governance Programme, Nepal (SUNAG)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/647",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-647",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 18171398.983,
+    "total_disbursement": 12845554.1744,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.974879Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-647",
+      "id": "version:entity:project/development_project/dfmis-647:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

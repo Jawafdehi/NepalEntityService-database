@@ -1,0 +1,198 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.342304Z",
+  "dates": [
+    {
+      "date": "2019-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The inputs, outputs and outcomes of the individual themes can be listed in the table as below:(The outcomes are marked with yellow, outputs with green and inputs with grey color)Results FrameworkNORAD- Save the Children Norway framework agreement 2019-2023Sahayatra II(Issue 1: Education)GOAL L1: Children Learn and are Safe in a Quality Learning EnvironmentOutcome 2:1.1 Improved school readiness of ECCD-aged childrenOutput 3:1.1.1 ECCD centers equipped for school readinessOutput L3:1.1.2 Parents and SMC members oriented/ trained on the importance of school-based ECCD and home-based school readinessL4:1.1.1.1 Training to ECCD facilitators on ELM and Quality ECCD program   L4:1.1.1.2 Support aged appropriate inclusive playing and learning materials to ECCD centers focusing on ELM skillsL4:1.1.1.3 Support ECCD centers to establish disabled and child-friendly set up (carpet, p-foam, round table, etc.) L4:1.1.2.1 Orientation/training to parents and SMC members on importance of school-based ECCD and home-based school readinessOutcome 2:1.1 Increased access to basic education for children from the most deprived and marginalized communities Output L3:1.2.1 Children enrolled in educational institutions/ schools L4:1.2.1.1 Household survey to identify out of school children including children with disability   L4:1.2.1.2 Organize special enrollment campaign including home visit     L4:1.2.1.3 Income generation support to the selected parents of out of school’s children                L4:1.2.1.4 Enroll out of school children including children with disability (Referral support, each one teach one etc.) L4:1.2.1.5 Educational materials support to out of school children and children from the most deprived and marginalized communities L4:1.2.1.6 Support resource schools based on needs for enrolment and regularity of children with disability (assessment, need-based materials support, training to teachers, care-givers, SMC, CCs)L4:1.2.1.7 Develop/update profile of children with disability based on government categorizationL4:1.2.1.8 Organize disability screening camp and provide need-based assistive devices  L4:1.2.1.9 Develop policy brief on the CWD model, as linked to GoN policies, on the effectiveness and applicability of the model at the local level           Outcome L2:1.3 Improved learning outcomes for all girls and boys including children with disabilities Output L3:1.3.1 Teachers are trained on literacy, numeracy, inclusive education and other pedagogical skills Output L3:1.3.2 Equipped schools with grade appropriate inclusive teaching learning materials and child friendly classroom Output L3:1.3.3 Established attendance audit system at schools for students and teachers Output L3:1.3.4 Provided remedial support to underperforming children Output L3.1.3.5 Establish camps in the communitiesL4:1.3.1.1 Organize teachers' training on literacy and numeracy           L4:1.3.1.2 Organize teachers' training on pedagogical skills on English subject               L4:1.3.1.3 Organize teachers' training on inclusive education, identification of children with disability and support to develop Individual Education Plan (IEP)            L4:1.3.1.4 Organize workshop to teachers on formative assessment system                L4:1.3.1.5 Work with municipalities to provide on-the-job coaching/mentoring support to teachers such as mobile meeting, management of coach/mentor on co-funding basic with municipality,           provision of innovation fund to school, performance-based awards to teachers and schools etcL4:1.3.2.1 Organize workshop to teachers on developing grade appropriate & inclusive teaching and learning materials            L4:1.3.2.2 Support classrooms to establish child and disable friendly set up (carpet, p-foam, round table, etc.)               L4:1.3.2.3 Through action research, work with teachers to identify pedagogical, curriculum, and classroom management challenges. Based on findings, develop materials (including visual) for teacher         linking with curriculum                        and develop appropriate interventions to address knowledge gaps               L4:1.3.2.4 Support grade appropriate and inclusive teaching learning materials to schools including book corner and practice books   L4:1.3.3.1 Support for Attendance Audit of children at schools - PAT board, follow up card and rewardL4:1.3.3.2 Develop system of Attendance Audit of teacher and support bio-metric attendance machine to schools (cost sharing basis with school/municipality)               L4:1.3.3.3 Awareness raising activities with parents to reduce household chores of girls       L4:1.3.3.4 Support to promote the day-meal program in schools L4:1.3.3.5 Organize extra-curricular activities focusing to address the issues of girls and Children with Disability in education           L4:1.3.4.1 Organize orientation to teachers on remedial support                L4:1.3.4.2 Conduct remedial classes to the under-performer students including Individual "
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2208",
+      "raw_payload": {
+        "id": 12513,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Save the Children",
+  "financing": [
+    {
+      "amount": 2290248.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 100000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1935745.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-05",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3161655.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-12-22",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 148531.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2208",
+      "value": "2208"
+    }
+  ],
+  "implementing_agency": "Save the Children",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Norad Framework Agreement 2019-2023",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2208",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2208",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 7636179.0,
+  "total_disbursement": 8708323.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.342300Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2208",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

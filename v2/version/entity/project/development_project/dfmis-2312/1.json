@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.600943Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2312",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.600945Z",
+    "dates": [
+      {
+        "date": "2018-09-09",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-09-09",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1       Provide hardware Support in collaboration with local government and relevant GBV service providing CSOs/service providers to design and implement issue and need based programming to prevent gender-based violence and promote access to justice services. (The hardware support will be determined in later phase based on need such as GBV services including legal aid require to those come in Judicial Committee)1.2       Support local led GBV network, CSO and local government stakeholder at province and municipalities level to understand needs and priorities of communities and jointly address GBV.1.3       Capacity building training for women groups and community members in promoting community collaborations to address GBV.1.4       In coordination with local government, GBV network, provide immediate support to the GBV victims such as health check-up and treatment, psychosocial support and livelihood support.2.1 Develop need based, beneficiary led interactive training curricula on roles and responsibilities of Justice and security service providers (JSPs) (Judicial committee, GBV network members) under the new federal system on positive social norms.2.2 Provide hardware support to JSPs and community to make their service accessible to community people, especially women and marginalized communities.2.3.Collaborate with Ministry of Women, Children and Senior Citizen, Ministry for Social Development at province, National Human Rights Commission, National Women Commission and local municipalities to design joint pilot program to enhance access to justice services for women and marginalized people and prevent GBV.2.4 In close collaboration with Province Social Development Ministry, local government stakeholders, GBV networks, JSPs and community people, IEC materials will be developed to provide information on available JSP services and change harmful social norms for more integrated response to GBV. The project will collaborate with relevant ministries to use already developed materials.2.5 Strengthen referral pathways between JSPs, including one stop crisis management centers, judicial committee, women and children service center and shelter homes.3.1Support exiting loose networks comprising women community leaders, CSO members and rights defenders at local level to strengthen mutual accountability and improve services.3.2 Engage with elected/political representatives (women, Dalit and marginalized) and JSPs at provincial level and municipal level in collaborative dialogues.3.3 Support capacity of media resulting in interactive media programming (radio and TV) and awareness outreach programmes at local and provincial level.4.1       Development of evidence based knowledge resources on  social norms change and gender responsive justice services etc. for local and provincial CSO members, community people and other relevant stakeholders.4.2       Provide fellowships to trained local youth researchers and journalists to produce news reports and conduct research on GVB and local governance challenges with mentoring and guidance support.4.3       Documentation of the stories of women and marginalized voices for responsive justice services and socio-economic development issues"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "International Alert",
+        "donor_project_id": "2312",
+        "raw_payload": {
+          "id": 12212,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "International Alert",
+          "organization_id": 461,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "INGO",
+    "financing": [
+      {
+        "amount": 1435527.933,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "International Alert",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-09-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2312",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2312",
+        "value": "2312"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Prevent Gender based Violence and Access to Gender Responsive Justice for Sundar Shanta Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2312",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2312",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1435527.933,
+    "total_disbursement": 1358111.81529,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.600943Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2312",
+      "id": "version:entity:project/development_project/dfmis-2312:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.690442Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-35174-082-grnt0272",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.690445Z",
+    "dates": [
+      {
+        "date": "2011-12-31",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2012-02-13",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2014-12-31",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2015-01-15",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The program is a follow-on to the ongoing Education Sector Program, subprogram III,  which supports the Government of Nepal's 7-year (FY2010-FY2016) School Sector Reform Program (SSRP). The SSRP is supported by the Asian Development Bank (ADB) and eight other development partners  using the sector-wide approach (SWAp). Building on the achievements of the Education for All Program (2004-2009), the SSRP aims to (i) expand access and equity, (ii) improve quality and relevance, and (iii) strengthen the institutional capacity of the entire school education system. The Education Sector Program, subprogram III supported the first 3 years of SSRP implementation, and this program will support it for the next 3 years (FY2012-FY2014). It will contribute to Nepal's long-term economic and social development through an equitable, efficient, and relevant education system."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-35174-082-GRNT0272",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Smita Gyawali",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=35174-082 (Closed)&officer= sgyawali@adb.org&division= Nepal Resident Mission (NRM)&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-35174-082-GRNT0272",
+          "last_updated": "2025-11-24T08:36:28+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 28.0,
+              "location_id": "1282988",
+              "lon": 84.0,
+              "name": "Nepal",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-35174-082-grnt0272",
+    "identifiers": null,
+    "implementing_agency": "Ministry of Education, Science and Technology",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "School Sector Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:11110",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-35174-082-grnt0272",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      },
+      {
+        "category": "CLIMATE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Environmentally sustainable growth",
+        "normalized_tag": null
+      },
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Gender Equity and Mainstreaming",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.690442Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-35174-082-grnt0272",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-35174-082-grnt0272:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

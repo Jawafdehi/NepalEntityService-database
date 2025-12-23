@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.144938Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1266",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.144941Z",
+    "dates": [
+      {
+        "date": "2015-03-04",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-01-04",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "entrepreneurship development with a strong emphasis on enhancing the leadership and participation of the collective excluded groupsprovide networks of excluded women with voice, agency and an opportunity to influence decision makingdevelop methodology that can lead to transformative change with regard to women’s economic empowerment and will offer lessons for replication and up-scaling by national partners."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Finnish International Development Agency",
+        "donor_project_id": "1266",
+        "raw_payload": {
+          "id": 9131,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 10,
+          "organization__development_cooperation_group__name": "Finland",
+          "organization__logo": "",
+          "organization__name": "Finnish International Development Agency",
+          "organization_id": 23,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 4817200.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finnish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-03-04",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1266",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1266",
+        "value": "1266"
+      }
+    ],
+    "implementing_agency": "Finnish International Development Agency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Advancing Women’s Economic Empowerment – Ensuring Nepal’s Sustainable and Equitable Development",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1266",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1266",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4817200.0,
+    "total_disbursement": 4551100.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.144938Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1266",
+      "id": "version:entity:project/development_project/dfmis-1266:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

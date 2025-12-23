@@ -1,0 +1,175 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.044708Z",
+  "dates": [
+    {
+      "date": "2025-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2029-10-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1 Co-identify innovative risk transfer solution 1.1.2 Co-design workshop to identify nature-based solutions 1.1.3 NbS 1.1.4 Risk Transfer 1.1.5 Sub-grant on Early action relevant to resilience/adaptation + climate finance/community-led NbS 1.1.6 Pilot of risk transfer through private sector 1.1.7 Defining thresholds and triggers for drought & agroforecasting 1.1.8 Sub-grant on Adaptation/resilience (Biodykes, embankments, Nature-based solutions, elevated handpumps, recharge ponds, etc.) – through co-funding 1.1.9 Flood Resilient Housing 1.1.10 Demo Safe Shelters - co-funding with palika 1.1.11 Emergency fund for disaster response (Min 1% of total budget) 2.1.1 Support PG MOFE or other line ministries through RAIN TA at province level 2.1.2 Support PG MOFE or other line ministries through RAIN TA at federal level 2.1.3 Strengthening PG and LG understanding on loss and damage agenda with RAIN TA 2.1.4 Developing common understanding of PG and LG on resilience and adaptation focusing on the existing maladaptation practices and learnings from adaptation grants 1 2.1.5 Building the ownership of local palikas linking CCRTM with LISA 2.1.6 Nature Based Solution including - localising standards of Nature-based Solutions for Climate Change Adaptation and Disaster Risk Reduction 2.1.7 Evidence sharing from Pilot Risk Transfer 2.1.8 Engagement with MoFAGA and other relevant ministries for scaling out adaptation measures to other LG linking it with LISA and CCRTM 2.1.9 Resilience Metrics Framework design and Baseline survey in palikas (Year 2) and endline 2.1.10 Resilience metrics result documentation and advocacy with RAIN TA components"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Dan Church Aid",
+      "donor_project_id": "6581",
+      "raw_payload": {
+        "id": 44004,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Dan Church Aid",
+        "organization_id": 512,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Forest and Environment, Ministry of Forest, Tourism and Water Supply, Ministry of Industry, Tourism, Forests and Environment",
+  "financing": [
+    {
+      "amount": 2454091.5,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "British Pound Sterling",
+      "donor": "Dan Church Aid",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6581",
+      "value": "6581"
+    }
+  ],
+  "implementing_agency": "Local Initiatives for Biodiversity Research and Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SARATHI: Empowering Communities for Sustainable Change in Resilience, Adaptation, and Inclusion in Nepal.",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "SARATHI: Empowering Communities for Sustainable Change in Resilience, Adaptation, and Inclusion in Nepal.",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6581",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Protection of Biodiversity and Landscape",
+      "donor_subsector": null,
+      "normalized_sector": "Protection of Biodiversity and Landscape",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Research and Development Environmental Protection",
+      "donor_subsector": null,
+      "normalized_sector": "Research and Development Environmental Protection",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6581",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2454091.5,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.044706Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6581",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

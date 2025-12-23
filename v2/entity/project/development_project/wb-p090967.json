@@ -1,0 +1,265 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.535228Z",
+  "dates": [
+    {
+      "date": "2014-06-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The objectives of the Nepal Second Higher Education Project are (a) enhanced quality and relevance of higher education and research through a set of incentives for promoting effective management and financial sustainability of academic institutions; and (b) improved access for academically qualified under-privileged students, including girls, dalits and educationally disadvantaged janajati to higher education through financial assistance and enhanced capacity of higher secondary schools. The project components are: component 1 - reform grants; component 2 - student financial assistance; component 3 - higher secondary education; and component 4 - strengthening system capacity."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P090967",
+      "raw_payload": {
+        "boardapprovaldate": "2007-02-22T00:00:00Z",
+        "closingdate": "2014-06-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "77410000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P090967",
+        "major_sector_code": "BX,EX,SX",
+        "major_sector_name": "FY17 - Education,FY17 - Public Administration,FY17 - Social Protection",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "FY17 - Central Government (Central Agencies)",
+                  "sector_percent": "6.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "FY17 - Education",
+              "sectors": [
+                {
+                  "sector_code": "ES",
+                  "sector_name": "FY17 - Secondary Education",
+                  "sector_percent": "21.0"
+                },
+                {
+                  "sector_code": "ET",
+                  "sector_name": "FY17 - Tertiary Education",
+                  "sector_percent": "67.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "SX",
+              "major_sector_name": "FY17 - Social Protection",
+              "sectors": [
+                {
+                  "sector_code": "SA",
+                  "sector_name": "FY17 - Social Protection",
+                  "sector_percent": "6.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Secondary Education,FY17 - Social Protection,FY17 - Tertiary Education",
+        "proj_id": "P090967",
+        "project_abstract": "The objectives of the Nepal Second Higher Education Project are (a) enhanced quality and relevance of higher education and research through a set of incentives for promoting effective management and financial sustainability of academic institutions; and (b) improved access for academically qualified under-privileged students, including girls, dalits and educationally disadvantaged janajati to higher education through financial assistance and enhanced capacity of higher secondary schools. The project components are: component 1 - reform grants; component 2 - student financial assistance; component 3 - higher secondary education; and component 4 - strengthening system capacity.",
+        "project_name": "Second Higher Education Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Social Development and Protection",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Rural Development",
+          "FY17 - Social Protection"
+        ],
+        "totalamt": "60000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 60000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2007-02-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P090967",
+      "value": "p090967"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Second Higher Education Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P090967",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Social Protection",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p090967",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 60000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.535225Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p090967",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

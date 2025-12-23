@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.259732Z",
+  "dates": [
+    {
+      "date": "2021-09-29",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-12-10",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-12-09",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1.1: Support local government with medical equipment and preventive gears in coordination with DCCMCActivity 1.1.2: Risk messaging, awareness campaigns to raise awareness on COVID-19 and address the myths about COVID vaccination through different media platforms. (Govt approved messages)Activity 1.2.1: Support government with vaccination program and the vaccination centres allocated by the government with focus on improving health facilities.Activity 1.2.2: Rehabilitation/ establishment of handwashing stations, filtration units, waste management, Menstrual Health Management (MHM) at Schools, health facilities, isolation centres along with dissemination of relevant preventive messaging.Activity 2.1.1: Most vulnerable households (especially girls, women and children with disability and children at risk) provided with value vouchers (NPR 13500 per household for 2 months) to support with their livelihood.Activity 2.2.1: Disseminate protection related awareness messages through public service announcement and social behavioral change communication materials in various platforms.Activity 3.1.1: In coordination with schools, provide relevant trainings to teachers on alternative mode of education, remote teaching and learning, and support schools to be functional.Activity 3.2.1: Children provided with self-learning materials, alternative remedial classes and create an enabling learning environment at home and at school once it reopens, including minor school repairs."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Plan Nepal",
+      "donor_project_id": "2470",
+      "raw_payload": {
+        "id": 13703,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Plan Nepal",
+        "organization_id": 277,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Plan Nepal",
+  "financing": [
+    {
+      "amount": 1131488.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Plan Nepal",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-09-29",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2470",
+      "value": "2470"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "COVID-19 Response and Recovery Support Project in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2470",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2470",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1131488.0,
+  "total_disbursement": 1350133.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.259729Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2470",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

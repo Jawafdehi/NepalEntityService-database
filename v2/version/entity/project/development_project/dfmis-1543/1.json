@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.577629Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1543",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.577632Z",
+    "dates": [
+      {
+        "date": "2018-04-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2018-04-11",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2021-03-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "ExpertsTraining"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Japan International Cooperation Agency",
+        "donor_project_id": "1543",
+        "raw_payload": {
+          "id": 11417,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 17,
+          "organization__development_cooperation_group__name": "Japan",
+          "organization__logo": "",
+          "organization__name": "Japan International Cooperation Agency",
+          "organization_id": 3,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Department of Water Resources and Irrigation, Department of Roads",
+    "financing": [
+      {
+        "amount": 2803371.636,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-04-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1543",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1543",
+        "value": "1543"
+      }
+    ],
+    "implementing_agency": "Japan International Cooperation Agency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Operation and Maintenance of Sindhuli Road - Phase II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1543",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Transport",
+        "donor_subsector": null,
+        "normalized_sector": "Transport",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1543",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2803371.636,
+    "total_disbursement": 49747.27912,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.577629Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1543",
+      "id": "version:entity:project/development_project/dfmis-1543:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

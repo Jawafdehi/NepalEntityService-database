@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.535253Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-546",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.535255Z",
+    "dates": [
+      {
+        "date": "2014-05-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-03-04",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-04-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Partner with a research institute to develop a methodology to cost the implementation of the Domestic Violence Act and gauge the resource requirements for the implementation of multi-sectoral support services for women and girls subjected to violence.\r\n\r\nSupport the Ministry of Finance with a technical advisor on gender responsive budgeting to support capacity assessments and capacity development efforts and oversee the development and implementation of advocacy material and tools\r\n\r\nSupport the establishment of GRB units in select ministries and DDCs (institutional capacity development)\r\n\r\nSupport the Ministry of Women , Children and Social Welfare to prepare its sixth CEDAW periodic report which is due for submission in July 2015\r\n\r\nSupport civil society groups to draft a comprehensive CEDAW shadow report taking into account the Beijing + 20 process and the post 2015 discussions\r\n\r\nSupport travel for the Beijing + 20 process – South Asia, ESCAP processes and CSW 2015\r\n\r\nPartial support to the Ministry of Finance to commission an external evaluation of its GRB work\r\nThe purpose of this outcome evaluation is to assess the Ministry of Finance, Government of Nepal’s interventions on gender responsive budgeting (GRB) over the period 2001-2013."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "546",
+        "raw_payload": {
+          "id": 7802,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 402130.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Danish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-05-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-546",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/546",
+        "value": "546"
+      }
+    ],
+    "implementing_agency": "UN Women",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Country Office Strategic Note and Annual Work Plan 2014-2017, Outcome area 3  and Outcome 5 \r\n[Denmark Project - 00090401]",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/546",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-546",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 402130.0,
+    "total_disbursement": 402130.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.535253Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-546",
+      "id": "version:entity:project/development_project/dfmis-546:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

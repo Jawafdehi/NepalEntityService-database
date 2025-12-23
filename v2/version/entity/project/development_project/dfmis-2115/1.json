@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.139050Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2115",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.139052Z",
+    "dates": [
+      {
+        "date": "2021-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "23 SPNs clinics Staffs (Doctors, Nurses and Clinic aids)Program Officers: 2, Centre Cluster officers: 4, MS Ladies Supervisors: 16, MS Ladies: 58, Youth Mobilizers: 38FP materials and commodities (All FP methods and associated medical Supplies)Radio JingleIECs materialsQuality Assurance check listWorkplanList of FP drugs and commodities in stockWorking schedule of Doctors and Nurses.Recording and reporting registersClient Exit interview Questionnaires.Trainers of FP and SA.Training centersFP Supplies and Commodities.Health workers training"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Marie Stopes International",
+        "donor_project_id": "2115",
+        "raw_payload": {
+          "id": 12983,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/MSI_Logo-01.jpg",
+          "organization__name": "Marie Stopes International",
+          "organization_id": 540,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Marie Stopes International",
+    "financing": [
+      {
+        "amount": 2949838.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Marie Stopes International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2115",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2115",
+        "value": "2115"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Addressing Essential Sexual and Reproductive Health Needs in Nepal 2021 (AESRH)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2115",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2115",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 2949838.0,
+    "total_disbursement": 2949838.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.139050Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2115",
+      "id": "version:entity:project/development_project/dfmis-2115:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

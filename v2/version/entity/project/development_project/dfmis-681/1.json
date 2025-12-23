@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.144741Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-681",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.144744Z",
+    "dates": [
+      {
+        "date": "2012-05-15",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-06-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1.1 Support one 3-day training for  the MoWCSW gender unit and gender focal persons of DWC and WCOs, DCC members focusing on the upcoming national policy on women’s empowerment and gender equality, gender  mainstreaming, leadership development, and results based monitoring (Year 1), Activity 1.1.2 Knowledge generation on peacebuilding and women’s security issues through learning and exchange visits (such as global review of national implementation and others, Activity 1.1.3 Provide seconded staff to the MoWCSW gender unit (Year 1,2,3)  to enhance institution capacity to implement NAP and support in ongoing trainings,Activity ,1.1.4 Provide equipment and furniture to the MoWCSW gender unit of (Year 1),\r\nActivity 1.1.5 Provide technical assistance to develop relevant guidelines (Year 1, 2, 3) on institutional framework, monitoring, knowledge sharing, project design integrating NAP on UNSCRs 1325 and 1820,\r\nActivity 1.1.6 Support capacity development  training to district level responsible partners of the project to enhance their institutional capability for NAP implementation (training on leadership, programme development, implementation and monitoring, quality assurance, M&E, HRBA, operations, public audit and finance training)Activity 1.2.1 Facilitate 3 national level consultation meetings and sharing of best practices of the districts. (Year 1,2,3)\r\nActivity 1.2.2 Provide technical support in drafting annual NAP on UNSCRs 1325 and 1820 monitoring report (Year 1,2,3) \r\nActivity 1.2.3 Provide support in the organization of NAP Implementation Committee meetings (Year 1, 2, 3)\r\nActivity 1.2.4 Support on-going monitoring of NAP implementation by MoWCSW and DWCActivity 1.3.1 Facilitate one 3-day training for  DCC members on UNSCRs 1325 and 1820 and NAP (Year 1)\r\nActivity 1.3.2 Facilitate knowledge generation on peacebuilding and women’s security issues through learning and exchange visits of CDOs and WDOs of the project districts (Kyrgyzstan)\r\nActivity 1.3.3 Support on-going monitoring of NAP at the district level from WCOs and DCCs\r\nActivity 1.3.4 Provide Project Field Officers  to WCOs to support in institutional capacity building and providing trainings to DCCsActivity 1.4.1 Support bi-monthly meetings of DCCs (Year 1,2,3)\r\nActivity 1.4.2 Support one workshop to finalize the annual work plan\r\nActivity 1.4.3 Support publication of annual monitoring reports by DCCs (Year 1,2,3)\r\nActivity 1.4.4 Organize three workshops with DCC and government stakeholders (on CEDAW, UPR, MDGs, other international instruments, district level planning, gender budgeting, pro-poor economic enhancement planning, zero tolerance against sexual violence, women’s leadership, empowerment)Activity 1.5.1 Quarterly interaction programmes between DCCs and civil society (Year 1,2,3) - MoWCSWActivity 1.6.1 Support  the production of  video documentary reflecting positive improvements in the lives of conflict affected women and former women combatants; develop a dissemination strategy and track evidence of use\r\nActivity 1.6.2 Develop case study on the best practices for implementing WPS agenda in Nepal as an important source of information to be possibly included in the CEDAW Committee’s General Recommendations on UNSCR 1325 currently being developedActivity 2.1.1 Data collection to identify the updated status of conflict-affected women, ex-combatant and women victims of SGBV.Activity 2.2.1 Support publication and wide circulation of the IEC materials on 1325 and 1820, district level plans (NAP plans, security plans, publish quarterly human interest stories, best practices)\r\nActivity 2.2.2 Partner with media organization to disseminate information and social messages at the district level\r\nActivity 2.2.3 Organize VDCs level awareness campaignsActivity 2.3.1 Support the formation and strengthening of VDC level network/group of conflict affected women and former women combatants to document, monitor and respond to the incidences of SGBV from conflict and post conflict periods (Year 1)\r\nActivity 2.3.2 Support VDC level training to conflict affected women’s groups and networks on developing community peace and security plan to strengthen women’s sense of security and peace building needs in line with UNSCRs 1325 and 1820, gender equality and women empowerment. (Year 1,2,3)Activity 2.4.1 Support training institutes to provide skills based training, through comprehensive training packages, to conflict affected women and former women combatants to develop their vocational and entrepreneurship skills for improved economic opportunities   (Year 1,2,3)\r\nActivity 2.4.2 Facilitate exchange visits for poor conflict affected women and other vulnerable groups of three districtsActivity 2.5.1 Organize peace memorials (community festivals, community dialogues, peace circles, meetings at community halls) to promote social harmony and reconciliation\r\nActivity 2.5.2 Support a survey with conflict affected women and former combatants\r\nActivity 2.5.3 Suppo"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Finnish International Development Agency",
+        "donor_project_id": "681",
+        "raw_payload": {
+          "id": 3609,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 10,
+          "organization__development_cooperation_group__name": "Finland",
+          "organization__logo": "",
+          "organization__name": "Finnish International Development Agency",
+          "organization_id": 23,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 1652574.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Finnish International Development Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-05-15",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-681",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/681",
+        "value": "681"
+      }
+    ],
+    "implementing_agency": "UN Women",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening Implementation of the Women, Peace and Security Agenda in Nepal: Towards Implementation of the National Action Plan on UNSCRs 1325 and 1820 - [Finland/SWIPSAN - 00085979]",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/681",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-681",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1652574.0,
+    "total_disbursement": 1652574.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.144741Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-681",
+      "id": "version:entity:project/development_project/dfmis-681:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

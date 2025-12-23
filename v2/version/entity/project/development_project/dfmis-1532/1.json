@@ -1,0 +1,261 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.463752Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1532",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.463765Z",
+    "dates": [
+      {
+        "date": "2015-04-22",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Provide trainings on appropriate agriculture ( horticulture,herbal, vegetable farming, land management, soil test, irrigation, appropriate technologies.2. Provide training on vocational skill development and micro enterprises (small business).3. Provide training and awareness to community groups for their capacity building.4. Conduct awareness on Sexual Reproductive Health and Rights, HIV AIDS, Disaster Risk Reduction, Environment.5. Support for tree plantation in communities through groups.6. Provide consultation to community farmers for making agricultural and business plans for effective productivity and progress.7. Prodive career counselling to youths of community and schools for better future employment.8. Provide revolving funds for starting small enterpreneurship and farm.9. Assisting groups and cooperatives to strengthen them.10. Co-organize school enrollment and child rights Campaigns.11. Conduct Teacher's Training on Child Rights, Child friendly school and teaching learning methods and materials.12.Conduct SMC and PTA members' training on Child Rights, Child friendly Education System and SIP formation.13. Conduct training on skill development for income generation to empower women.14. Organize awareness program for parents on Child Rights and education.15. Form and empower Child Clubs for awareness raising and Child Rights advocacy.16. Conduct computer classes in selected schools.17.  Organize Health Camps for Children in Schools.18. Provide technical, physical infrastructure and educational material supports.19. Provide Educational material to the PG to guide their children at home.20. Condut trainings on Nutrition and balance diet and infant health.21. Organize awareness on parental Check up and Post neonatal check up, safe drinking water and contaminating components in water.22. Organize health camps for the children in the communities.23.Installation of handpumps and deep borings.24. Conduct water test to assure safe drinking water.25. Conduct coordination meetings with local government agencies, PAC meetings and social audit."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Fida International",
+        "donor_project_id": "1532",
+        "raw_payload": {
+          "id": 9302,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Fida International",
+          "organization_id": 515,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Fida International",
+    "financing": [
+      {
+        "amount": 2369448.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 444229.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 451562.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 491790.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 487505.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-12-31",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 494362.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Fida International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2019-12-31",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1532",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1532",
+        "value": "1532"
+      }
+    ],
+    "implementing_agency": "Fida International",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Transformed People – Transformed Communities (2015 to 2019)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1532",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1532",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4738896.0,
+    "total_disbursement": 2100727.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.463752Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1532",
+      "id": "version:entity:project/development_project/dfmis-1532:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,172 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.283843Z",
+  "dates": [
+    {
+      "date": "2016-11-09",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-11-09",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Nutrition programme will provide or ensure the provision of therapeutic food, micronutrient, deworming tablets, cookery and hygiene kits, etc., but also capacity building through training, supportive supervision, joint review meetings, workshops, encouraging ownership and leadership of DHOs in nutrition recovery programme.\r\n\tInterventions in Food security, livelihood and shelter are also input based: ACF and partners will distribute conditional cash transfers, assets for agriculture and livestock, winterization items (clothes, blankets) but in order to support people to regain autonomy and protect themselves from other disaster, it will contribute to train in Build Back Better, support the District Line Agencies to take the lead for farming recovery. Implementation through local partners is also part of the capacity building exercise.\r\n\tIn Water and Sanitation,provision of necessary support through water network repairs in communities and institutions, providing most of material and supply, subsidies in line with governmental standards for sanitation, hygiene kits distribution, but always and increasingly over time involving and empowering HFOMCs, School Management Committees, V-WCCs, Water Users committees, potential partners.\r\n\tIn Mental Health and Care Practices, the support provided includes provision of training for DHOs and DEOs"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "937",
+      "raw_payload": {
+        "id": 9737,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 13
+      }
+    },
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "937",
+      "raw_payload": {
+        "id": 9740,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 26
+      }
+    },
+    {
+      "donor": "Action Contre La Faim",
+      "donor_project_id": "937",
+      "raw_payload": {
+        "id": 9741,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Action Contre La Faim",
+        "organization_id": 521,
+        "percentage": 61
+      }
+    }
+  ],
+  "executing_agency": "Action Contre La Faim",
+  "financing": [
+    {
+      "amount": 3594549.377,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Action Contre La Faim",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-11-09",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/937",
+      "value": "937"
+    }
+  ],
+  "implementing_agency": "Action Contre La Faim",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Integrated Shelter, Food Security and Livelihood, WASH, Psychosocial and Nutrition recovery assistance to earthquake affected communities",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/937",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-937",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3594549.377,
+  "total_disbursement": 3053407.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.283840Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-937",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

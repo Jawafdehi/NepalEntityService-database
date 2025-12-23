@@ -1,0 +1,210 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.584112Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p048026",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.584114Z",
+    "dates": [
+      {
+        "date": "2002-09-30",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project's objective is to assist the government in improving management and capacity in agricultural research and extension services by (a) developing location-specific agricultural technology resulting from close consultation with farmers; and (b) improving the technology delivery system. The project consists of two components: agricultural research and extension service. The first component will: 1) strengthen the agricultural research institutions by improving the management information system, priority setting of research programs, and monitoring implementation and evaluating impact; 2) support human resource development by training research scientists, and introduce a results-oriented and performance-based reward system; 3) expand on-farm adaptive research responsive to farmers needs; and 4) provide facilities, infrastructure, and working capital for research institutions. The second component will: 1) strengthen the extension service by decentralizing to the grass roots level and strengthening farmer self-help groups; 2) develop human capital by training extension staff, and implement a reward system based on results and performance; and 3) provide facilities, infrastructure, and working capital for individual participants."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P048026",
+        "raw_payload": {
+          "boardapprovaldate": "1997-08-26T00:00:00Z",
+          "closingdate": "2002-09-30",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "30500000",
+          "envassesmentcategorycode": "C",
+          "grantamt": "0",
+          "id": "P048026",
+          "major_sector_code": "AX",
+          "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AB",
+                    "sector_name": "FY17 - Agricultural Extension, Research, and Other Support Activities",
+                    "sector_percent": "100.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Agricultural Extension, Research, and Other Support Activities",
+          "proj_id": "P048026",
+          "project_abstract": "The project's objective is to assist the government in improving management and capacity in agricultural research and extension services by (a) developing location-specific agricultural technology resulting from close consultation with farmers; and (b) improving the technology delivery system. The project consists of two components: agricultural research and extension service. The first component will: 1) strengthen the agricultural research institutions by improving the management information system, priority setting of research programs, and monitoring implementation and evaluating impact; 2) support human resource development by training research scientists, and introduce a results-oriented and performance-based reward system; 3) expand on-farm adaptive research responsive to farmers needs; and 4) provide facilities, infrastructure, and working capital for research institutions. The second component will: 1) strengthen the extension service by decentralizing to the grass roots level and strengthening farmer self-help groups; 2) develop human capital by training extension staff, and implement a reward system based on results and performance; and 3) provide facilities, infrastructure, and working capital for individual participants.",
+          "project_name": "AGRI RES & EXTENSION",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Human Development and Gender",
+            "FY17 - Social Development and Protection",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Gender",
+            "FY17 - Rural Development",
+            "FY17 - Rural Development",
+            "FY17 - Social Inclusion"
+          ],
+          "totalamt": "24300000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 24300000.0,
+        "assistance_type": "other",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "Investment Project Financing",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "1997-08-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p048026",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P048026",
+        "value": "p048026"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "AGRI RES & EXTENSION",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P048026",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p048026",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Social Development and Protection",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 24300000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.584112Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p048026",
+      "id": "version:entity:project/development_project/wb-p048026:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

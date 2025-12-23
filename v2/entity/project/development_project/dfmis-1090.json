@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.968464Z",
+  "dates": [
+    {
+      "date": "2015-10-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-06-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Mobilization of the Health Facility Operation and Management Committee\r\n\tGeological assessment of health posts; newly constructed and existing health posts at critical locations\r\n\tDetailed assessment of health posts which are repaired or retrofitted including BOQ\r\n\tSupervision of construction process in cooperation with Health Facility Operation and Management Committee\r\n\tRehabilitation or construction of water supply systems for health posts\r\n\tConduct one joint infrastructural audit of all rebuilt health posts with government and stakeholders\r\n\tHanding over of health posts to the community, health workers and district health office\r\n\tMass media campaign on safe motherhood designed and implemented through community radio\r\n\tFormation/reformation of VCPC in the targeted VDCs\r\n\tStructural support to establish equipment for office set up\r\n\tDirect support by the project to victims of very severe Child Protection violations or children at very high risk, which cannot (yet) be managed by the local structures\r\n\tProvide emergency fund support to VCPCs\r\n\tPromote women's groups and mothers groups as a source for identifying vulnerable children\r\n\tMeeting with community stakeholders and local authorities to prevent and respond to abuse, neglect, violence and exploitation of children\r\n\tMobilize child club on awareness raising on child protection to prevent and minimize the child protection risks in the areas\r\n\tConduct awareness campaign on child protection in the district through child club networks, CBOs and DCWB\r\n\tFacilitate to develop strategic plan of DCWB\r\n\tTV documentary production and broadcast"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Terre des hommes, Lausanne",
+      "donor_project_id": "1090",
+      "raw_payload": {
+        "id": 8970,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Terre des hommes, Lausanne",
+        "organization_id": 492,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Terre des hommes, Lausanne",
+  "financing": [
+    {
+      "amount": 2084617.656,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Terre des hommes, Lausanne",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-10-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1090",
+      "value": "1090"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rehabilitating Community Health and Protection Services following the 2015 Earthquake",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1090",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1090",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2084617.656,
+  "total_disbursement": 2084617.9172,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.968462Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1090",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

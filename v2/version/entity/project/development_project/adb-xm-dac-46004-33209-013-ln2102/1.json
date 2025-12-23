@@ -1,0 +1,470 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.698749Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-33209-013-ln2102",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.698752Z",
+    "dates": [
+      {
+        "date": "2005-01-01",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2005-12-23",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2012-09-30",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2015-09-22",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Project aims to improve the agriculture productivity and sustainability of existing small and medium farmer-managed irrigation systems suffering from low productivity and poverty in Central and Eastern Development Regions thereby enhancing the livelihoods of the poor. This is achieved through (i) providing improved means for WUA empowerment, irrigation infrastructure, agriculture extension, and targeted livelihood enhancement to build the human capital of the poor; and (ii) strengthening policies, plans institutions and their operations for more responsive service delivery and sustainable impacts."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-33209-013-LN2102",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Deepak Singh",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=33209-013 (Closed)&officer= dbsingh@adb.org&division= Agriculture, Food, Nature, and Rural Development Sector Office (SG-AFNR)&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-33209-013-LN2102",
+          "last_updated": "2025-11-24T08:41:17+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 26.91667,
+              "location_id": "1283094",
+              "lon": 85.83333,
+              "name": "Mahottari",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.41667,
+              "location_id": "1283085",
+              "lon": 85.25,
+              "name": "Makwanpur",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.25,
+              "location_id": "1283202",
+              "lon": 86.83333,
+              "name": "Khotang",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.70704,
+              "location_id": "1283241",
+              "lon": 85.33218,
+              "name": "Kathmandu District",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.58333,
+              "location_id": "1283282",
+              "lon": 85.66667,
+              "name": "Kabhre Palanchok",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.58333,
+              "location_id": "1283307",
+              "lon": 87.91667,
+              "name": "Jhapa",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.91667,
+              "location_id": "1283334",
+              "lon": 87.91667,
+              "name": "Ilam",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.83333,
+              "location_id": "1283431",
+              "lon": 86.25,
+              "name": "Dolakha",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.0,
+              "location_id": "1283466",
+              "lon": 87.33333,
+              "name": "Dhankuta",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 28.0,
+              "location_id": "1283472",
+              "lon": 84.91667,
+              "name": "Dhading",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.58333,
+              "location_id": "1283517",
+              "lon": 84.5,
+              "name": "Chitawan",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.25,
+              "location_id": "1283601",
+              "lon": 87.08333,
+              "name": "Bhojpur",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.66734,
+              "location_id": "1283618",
+              "lon": 85.41673,
+              "name": "Bhaktapur",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.08333,
+              "location_id": "1283670",
+              "lon": 85.08333,
+              "name": "Bara",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.45436,
+              "location_id": "7289707",
+              "lon": 85.22301,
+              "name": "Central Region",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.23998,
+              "location_id": "7289708",
+              "lon": 87.14802,
+              "name": "Eastern Region",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.82936,
+              "location_id": "7647006",
+              "lon": 85.54504,
+              "name": "Sindhupalchok",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.83,
+              "location_id": "7648379",
+              "lon": 86.01,
+              "name": "Dhanusa",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.15,
+              "location_id": "7732361",
+              "lon": 87.55,
+              "name": "Terhathum",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.95846,
+              "location_id": "7952427",
+              "lon": 87.69908,
+              "name": "Talkharka",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.8179,
+              "location_id": "7967367",
+              "lon": 85.90903,
+              "name": "Harinmari",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.91667,
+              "location_id": "1282630",
+              "lon": 86.66667,
+              "name": "Udayapur",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.66667,
+              "location_id": "1282713",
+              "lon": 87.83333,
+              "name": "Taplejung",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.66667,
+              "location_id": "1282744",
+              "lon": 87.16667,
+              "name": "Sunsari",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.75,
+              "location_id": "1282758",
+              "lon": 86.75,
+              "name": "Solukhumbu",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.75,
+              "location_id": "1282771",
+              "lon": 86.33333,
+              "name": "Siraha",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.25,
+              "location_id": "1282776",
+              "lon": 86.0,
+              "name": "Sindhuli",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.0,
+              "location_id": "1282806",
+              "lon": 85.58333,
+              "name": "Sarlahi",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.58333,
+              "location_id": "1282810",
+              "lon": 86.75,
+              "name": "Saptari",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.58333,
+              "location_id": "1282812",
+              "lon": 87.33333,
+              "name": "Sankhuwasabha",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.0,
+              "location_id": "1282856",
+              "lon": 85.33333,
+              "name": "Rautahat",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 28.16667,
+              "location_id": "1282859",
+              "lon": 85.33333,
+              "name": "Rasuwa",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.41667,
+              "location_id": "1282879",
+              "lon": 86.08333,
+              "name": "Ramechhap",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.33333,
+              "location_id": "1282938",
+              "lon": 84.83333,
+              "name": "Parsa",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.16667,
+              "location_id": "1282947",
+              "lon": 87.83333,
+              "name": "Panchthar",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.33333,
+              "location_id": "1282969",
+              "lon": 86.41667,
+              "name": "Okhaldhunga",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.91667,
+              "location_id": "1282973",
+              "lon": 85.25,
+              "name": "Nuwakot",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.66667,
+              "location_id": "1283040",
+              "lon": 87.5,
+              "name": "Morang",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.58333,
+              "location_id": "1283154",
+              "lon": 85.33333,
+              "name": "Lalitpur",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-33209-013-ln2102",
+    "identifiers": null,
+    "implementing_agency": "Department of Water Resources and Irrigation formerly known as Department of Irrigation, Jawalakhel",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Managed Irrigated Agriculture Sector Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:31161",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      },
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:31140",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-33209-013-ln2102",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      },
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Effective gender mainstreaming (EGM)",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.698749Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-33209-013-ln2102",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-33209-013-ln2102:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.686949Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-40054-013-grnt0099",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.686955Z",
+    "dates": [
+      {
+        "date": "2009-02-09",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2009-02-09",
+        "source": "ADB",
+        "type": "START"
+      },
+      {
+        "date": "2010-06-30",
+        "source": "ADB",
+        "type": "CLOSING"
+      },
+      {
+        "date": "2017-10-05",
+        "source": "ADB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and local content and e-applications, with a special focus on the needs of the poor. It is also expected to help SASEC countries improve their productivity and efficiency and participate more fully in the global information economy. To this end, the Project will establish (i) a SASEC regional network with fiber-optic and data interchange capacity, directly connecting the four SASEC countries; (ii) a SASEC village network expanding broadband ICT access to 110 rural communities in the SASEC countries and providing direct connections among the communities for local networking and local information sourcing; and (iii) a SASEC research and training network to build technical and business skills in developing local ICT content and e-applications (e-government, e-learning, tele-medicine, e-remittance, e-commerce, etc.) that serve the needs of the poor in particular."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-40054-013-GRNT0099",
+        "raw_payload": {
+          "activity_status": "3",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Md. Kabir",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=40054-013 (Closed)&officer= mkabir@adb.org&division= Bangladesh Resident Mission (BRM)&projectcountry= Regional"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-40054-013-GRNT0099",
+          "last_updated": "2025-11-24T08:36:22+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 27.6,
+              "location_id": "1337293",
+              "lon": 89.58333,
+              "name": "Thimphu Dzongkhag",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.85892,
+              "location_id": "7701327",
+              "lon": 89.39048,
+              "name": "Phuentsholing",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 27.46609,
+              "location_id": "1252416",
+              "lon": 89.64191,
+              "name": "Thimphu",
+              "reach": "1"
+            },
+            {
+              "exactness": "2",
+              "lat": 26.91389,
+              "location_id": "7647113",
+              "lon": 89.42317,
+              "name": "Phuentsholing",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-40054-013-grnt0099",
+    "identifiers": null,
+    "implementing_agency": "Ministry of Information and Communications",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "South Asia Subregional Economic Cooperation (SASEC) Information Highway Project (Bangladesh, Bhutan, India, Nepal) - Loan for Bangladesh",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:22020",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-40054-013-grnt0099",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GOVERNANCE",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Governance and capacity development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.686949Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-40054-013-grnt0099",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-40054-013-grnt0099:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

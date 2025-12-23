@@ -1,0 +1,184 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.431302Z",
+  "dates": [
+    {
+      "date": "2018-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2018-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Provide technical support to the relevant Government of Nepal (GoN) line ministries to draft a) gender-responsive bills [harmful practices and sexual harassment in public spaces with a focus on data on EVAW and administrative statistics], b) gender responsive plans on DRR and NAP 1325 in-line with international instruments including CEDAW, c)  support an annual monitoring report on implementation of the Domestic Violence Law Act Support the GoN and women's groups for the upcoming CEDAW reporting and carry out a national assessment reviewing the integration of CEDAW in existing government and university curriculaSupport a series of trainings to strengthen the capacity of key duty bearers to further enhance their leadership skills, understanding of laws and policies and ability to influence decision making on GESE issues at the local level [training package, IEC material, peer learning]Government mechanisms on inclusion  Support the capacity strengthening of government officials in select commissions [National Women Commission, National Dalit Commission and National Information Commission] on substantive equality and women's rights so as to monitor and promote the implementation of national and international commitments to GESI"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "UN Women",
+      "donor_project_id": "1324",
+      "raw_payload": {
+        "id": 11711,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "UN Women",
+        "organization_id": 174,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "UN Women",
+  "financing": [
+    {
+      "amount": 544323.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "UN Women",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-01-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 95000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "UN Women",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-01-23",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 45886.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "UN Women",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-04-10",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 120466.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "UN Women",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1324",
+      "value": "1324"
+    }
+  ],
+  "implementing_agency": "UN Women",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Outcome1.1._SN 2018-2022-CORE/00108723",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1324",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1324",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 805675.0,
+  "total_disbursement": 805675.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.431300Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1324",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

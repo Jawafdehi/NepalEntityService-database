@@ -1,0 +1,144 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.971139Z",
+  "dates": [
+    {
+      "date": "2018-11-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Baseline SurveyFocus Group DiscussionsFormation of farmers GroupsSocial mobilization activitiesTrain group member on village saving & creditTrain on men and women groups on Saving and creditSaving & credit toolkit support:Agriculture ActivitiesKitchen garden trainingImproved maize seed distributionImproved Wheat seed distributionImproved rice seed distributionSeed production trainingHorticulture ActivitiesDemonstration of seasonal and off seasonal vegetable cultivation practiceEstablished green house for fruit and vegetable sampling productionProvide seasonal and off seasonal vegetable cultivation TrainingProvide farmers field school (FFS) on TomatoCucurbitaceous family vegetable cultivation trainingFruit sampling distributionLivestock ActivitiesImproved livestock management training ( Goat and Cow)Improved goat shed establishment supportImproved livestock (Chicken) management trainingFodder tree sampling distributionLivestock waste management SupportSupport to  chicken farmingSupport to broiler poultry farmingSupport to dairy (2) and market collection center (1)Enterprises trainingBakery trainingSIYB trainingCross cuttingSupport to improve smoke free stove materialsConstruction of 3 community building in NuwakotIrrigation"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Renew Nepal",
+      "donor_project_id": "1463",
+      "raw_payload": {
+        "id": 11974,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "World Renew Nepal",
+        "organization_id": 692,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "World Renew Nepal",
+  "financing": [
+    {
+      "amount": 446844.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Renew Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-11-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1463",
+      "value": "1463"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "LIVELIHOOD RECOVERY FOR THE EARTHQUAKE AFFECTED COMMUNITIES IN NUWAKOT",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1463",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1463",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 446844.0,
+  "total_disbursement": 418384.687502,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.971137Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1463",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

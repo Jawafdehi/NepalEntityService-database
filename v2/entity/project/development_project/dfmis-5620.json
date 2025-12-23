@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.288557Z",
+  "dates": [
+    {
+      "date": "2010-10-11",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-10-11",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Training on production and marketing management through cooperatives and/or producers' groups;\r\nEstablishing marketing infrastructures such as gender friendly loading-unloading platform, transit storage etc.\r\nEstablishing micro-irrigation schemes and support to post harvest losses.\r\nSupport to create marketing entrepreneurs and creation and development of micro-enterprises."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Global Affairs Canada",
+      "donor_project_id": "5620",
+      "raw_payload": {
+        "id": 35796,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 6,
+        "organization__development_cooperation_group__name": "Canada",
+        "organization__logo": "",
+        "organization__name": "Global Affairs Canada",
+        "organization_id": 184,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Global Affairs Canada",
+  "financing": [
+    {
+      "amount": 823287.3,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Affairs Canada",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-11-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/5620",
+      "value": "5620"
+    }
+  ],
+  "implementing_agency": "Ministry of Agriculture and Livestock Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SAHAKARYA - agriculture",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/5620",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-5620",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 823287.3,
+  "total_disbursement": 823287.3,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.288554Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-5620",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

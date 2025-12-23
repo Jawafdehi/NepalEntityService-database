@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:20.301435Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-3783",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:20.301437Z",
+    "dates": [
+      {
+        "date": "2020-09-30",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2020-10-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2023-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Bhakari seeks to reach 22,350 households (117,750  people) in the six districts of Karnlai and Sudurpaschim province directly. This will be accomplished through three purposes: increase household level food  access and availability.                     Key activities include; Forging partnerships with government and private actors to  improve access to input and output markets including linkages to agrovets, collection centers,  traders and information exchange platforms,Vouchers for agricultural inputs and/ or small  livestock, andTraining and support for climate-smart perma-gardens.2. improve access to sustainable water sources for productive purposes. Key activities inlcude;Sustainable water infrastructure interventions focusing on  installation, management and maintenance of productive water projects, including multiple use water  systems, rainwater harvesting, irrigation storage and delivery systems,Strengthening capacity for  functional, equitable and sustainable water management practices, and220+ Hardware Water  Projects. Productive Use Water Projects are a complementary activity designed to improve the food  security of communities.3. reduce the impacts of natural disasters, with a cross-cutting purpose on increasing inclusion and  empowerment for marginalized groups. Key interventions will include Formation and mobilization of community first responder/  task force membersRisk assessment and planning, watershed level assessment and planning,  etc.,Disaster risk mitigating structure, bio-engineering and fodder plantation, and (4)  Partnership with the Department of Hydrology and Meteorology (DHM) to strengthen early  warning and weather information systems.Other activities include;Value-based food assistance, meeting 100% of macronutrient  requirements for one month plus other basic needsCash for workValue-based  vouchers (for labor-poor households only), and Government Capacity Building in order to  better manage local emergency response and disaster funds.Program activities will adhere to a Gender and Social  Inclusion (GESI) First approach."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "MercyCorps",
+        "donor_project_id": "3783",
+        "raw_payload": {
+          "id": 41645,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "MercyCorps",
+          "organization_id": 284,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "MercyCorps",
+    "financing": [
+      {
+        "amount": 15000000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "MercyCorps",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-09-30",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-3783",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/3783",
+        "value": "3783"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Building Hope Along the Karnali River Basin (BHAKARI)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/3783",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-3783",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 15000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:20.301435Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-3783",
+      "id": "version:entity:project/development_project/dfmis-3783:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

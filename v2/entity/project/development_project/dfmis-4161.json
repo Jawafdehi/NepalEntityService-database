@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.976595Z",
+  "dates": [
+    {
+      "date": "2023-06-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2024-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Project inception meetings and interaction workshops with POs and stakeholdersCapacity building of W/HRDs, on female leadership, facilitation and training skills, legal aid, monitoring & documentationTrainers Practice Sessions for skill enhancement of newly acquired training skillsOne-on-one psychosocial counsellingStory Telling Workshop and collection of case storiesMentorship to the young and emerging W/HRDsCapacity enhancement of W/HRDs and human rights champions (training on documentation of human rights violations, safety and security measures for the protection of HRDs, human rights instruments and legal issues)Guideline of Protection Mechanism for W/HRDsResidential training for newly elected local representatives from minority groups on ESC rightsMobilisation of human rights champions at the palika levelDistrict (quarterly) and Province level (bi-annual) network meetings as well as one annual meeting for all network members of the for reflection, learning and strategic outlookCross-regional learning exchange (exposure visit)Outreach activities on the occasion of International Women’s Day, 16 Days of Activism against Gender-Based Violence and International Human Rights DayCoordination & sharing spaces for cross-learning and exchange of experiences among CSOs and relevant constitutional bodies (e.g. NHRC) regarding human rights issues, marginalized and minority groupsBuilding synergy among W/HRDs through a regular forumProtection Committee for case support of W/HRDsFormation of district and palika level Human Rights Committees and support in formulating appropriate tools to carry out their work including media outreachMinority Rights Protection Forum (MRPF) developed and mobilized in 3 districtsPromoting dialogues with the local governments for the recognition and protection of W/HRDsDocumentation of threats and intimidation to the W/HRDs including necessary responsesBriefing papers/ situation updates/ memorandum submissionInteraction Program with district and provincial level stakeholders including government bodies on W/HRD issuesAnalysis of the existing protection mechanisms and proposed Human Rights Protection ActConsultation and Advocacy at the national level and with other relevant protection stakeholders for the safety and security of W/HRDsInteraction at district and provincial level with relevant government stakeholders on issues of minority groups; documentation of outcomesWorkshops with relevant local government stakeholders and elected representatives from minority groups for the formulation and implementation of GESI policies"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Peace Brigades International",
+      "donor_project_id": "4161",
+      "raw_payload": {
+        "id": 42848,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Peace Brigades International",
+        "organization_id": 834,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 274195.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Peace Brigades International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-06-27",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4161",
+      "value": "4161"
+    }
+  ],
+  "implementing_agency": "Advocacy Forum Association",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Enhancing Capacities, Learning and Advocacy for Peace (ECLAP) - support to local Human Rights Defenders and Minority Groups",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4161",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Mining, Manufacturing and Construction",
+      "donor_subsector": null,
+      "normalized_sector": "Mining, Manufacturing and Construction",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4161",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 274195.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.976593Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4161",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

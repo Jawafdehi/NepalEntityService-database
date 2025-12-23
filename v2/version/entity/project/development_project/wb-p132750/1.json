@@ -1,0 +1,209 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.470701Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p132750",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.470704Z",
+    "dates": [
+      {
+        "date": "2020-01-15",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The objective of the Project for Strengthening the National Rural Transport Program (SNRTP) for Nepal is to enhance the availability and reliability of transport connectivity for rural communities in participating districts. There are two components to the project, the first component being institutional strengthening and technical assistance. Component A of SNRTP will fund three categories of activities, including: (i) institutional strengthening and technical assistance; (ii) beneficiary monitoring of physical works under component B of the project; and (iii) an impact study of selected project interventions. The second component is the civil works.  This component will support districts to implement physical works needed for: (i) upgrading or rehabilitating rural transport infrastructure; and (ii) maintaining rural transport infrastructure. There will be two funding windows within component B as follows: window one will support routine and periodic maintenance of roads and crossing structures using a simplified output-based disbursement approach that ties release of International Development Association (IDA) and donor funds to the completion of works. Window two will support road upgrading (or rehabilitation) and new crossing structure construction as needed to provide all-weather connectivity."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P132750",
+        "raw_payload": {
+          "boardapprovaldate": "2013-12-23T00:00:00Z",
+          "borrower": "Nepal",
+          "closingdate": "2020-01-15",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "175400000",
+          "envassesmentcategorycode": "B",
+          "grantamt": "11500000",
+          "id": "P132750",
+          "impagency": "Department of Local Infrastructure",
+          "major_sector_code": "TX",
+          "major_sector_name": "FY17 - Transportation",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "TX",
+                "major_sector_name": "FY17 - Transportation",
+                "sectors": [
+                  {
+                    "sector_code": "TF",
+                    "sector_name": "FY17 - Public Administration - Transportation",
+                    "sector_percent": "20.0"
+                  },
+                  {
+                    "sector_code": "TI",
+                    "sector_name": "FY17 - Rural and Inter-Urban Roads",
+                    "sector_percent": "80.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Public Administration - Transportation,FY17 - Rural and Inter-Urban Roads",
+          "proj_id": "P132750",
+          "project_abstract": "The objective of the Project for Strengthening the National Rural Transport Program (SNRTP) for Nepal is to enhance the availability and reliability of transport connectivity for rural communities in participating districts. There are two components to the project, the first component being institutional strengthening and technical assistance. Component A of SNRTP will fund three categories of activities, including: (i) institutional strengthening and technical assistance; (ii) beneficiary monitoring of physical works under component B of the project; and (iii) an impact study of selected project interventions. The second component is the civil works.  This component will support districts to implement physical works needed for: (i) upgrading or rehabilitating rural transport infrastructure; and (ii) maintaining rural transport infrastructure. There will be two funding windows within component B as follows: window one will support routine and periodic maintenance of roads and crossing structures using a simplified output-based disbursement approach that ties release of International Development Association (IDA) and donor funds to the completion of works. Window two will support road upgrading (or rehabilitation) and new crossing structure construction as needed to provide all-weather connectivity.",
+          "project_name": "Project for Strengthening the National Rural Transport Program",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Finance",
+            "FY17 - Urban and Rural Development",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Finance for Development",
+            "FY17 - Rural Development",
+            "FY17 - Rural Development"
+          ],
+          "totalamt": "100000000"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 11500000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2013-12-23",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p132750",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P132750",
+        "value": "p132750"
+      }
+    ],
+    "implementing_agency": "Department of Local Infrastructure",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Project for Strengthening the National Rural Transport Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P132750",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Transportation",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p132750",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Finance",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": 100000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.470701Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p132750",
+      "id": "version:entity:project/development_project/wb-p132750:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

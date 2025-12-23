@@ -1,0 +1,198 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.607110Z",
+  "dates": [
+    {
+      "date": "2012-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-06-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Technical support (Develop, Plan, Implement and Monitor)\r\n\t\r\n\t\tFinancial support (Grants, Logistics and Equipment)\r\n\t\r\n\t\tInstitutional Development (Networking)\r\n\t\r\n\t\tCapacity building (Trainings, Workshops, Learning visits)\r\n\t\r\n\t\tFacilitate trans boundary, regional cooperation and collaboration\r\n\t\r\n\t\tFacilitate the policy formulation\r\n\t\r\n\t\tAction research and small grants  \r\n\t\r\n\t\tMobilize stakeholders in international negotiations"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_project_id": "1019",
+      "raw_payload": {
+        "id": 3705,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "World Wildlife Fund, Inc., Nepal Program",
+        "organization_id": 179,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Forests and Environment",
+  "financing": [
+    {
+      "amount": 289400.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-06-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 331400.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-06-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 380300.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-06-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 438900.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 510000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "World Wildlife Fund, Inc., Nepal Program",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1019",
+      "value": "1019"
+    }
+  ],
+  "implementing_agency": "Ministry of Forests and Environment",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "National Conservation Priority Areas (NCPA)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1019",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1019",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1950000.0,
+  "total_disbursement": 1827764.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.607108Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1019",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from JICA Yen Loan Database",
+  "created_at": "2025-12-23T19:12:09.983819Z",
+  "entity_or_relationship_id": "entity:project/development_project/jica-udaipur-cement-project-19871014",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from JICA on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "JICA"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:09.983823Z",
+    "dates": [
+      {
+        "date": "1987-10-14",
+        "source": "JICA",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "JICA Yen Loan project: Udaipur Cement Project. Sector: Mining And Manufacturing. Subsector: Manufacturing"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "JICA",
+        "donor_project_id": "JICA-19871014-udaipur-cement-project",
+        "raw_payload": {
+          "country": "Nepal",
+          "ex_ante_evaluation": "",
+          "ex_post_evaluation": "",
+          "memo": "",
+          "no": "11",
+          "other_url": "",
+          "region": "South Asia",
+          "special_loan_type": ""
+        }
+      }
+    ],
+    "executing_agency": "Udaipur Cement Industries Ltd.",
+    "financing": [
+      {
+        "amount": 18770000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "JPY",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "JICA Yen Loan",
+        "is_actual": true,
+        "source": "JICA",
+        "terms": {
+          "grace_period_years": 10,
+          "interest_rate": 1.25,
+          "repayment_period_years": 30,
+          "tying_status": "Partially Untied"
+        },
+        "transaction_date": "1987-10-14",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": null,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "JPY",
+        "donor": "Japan International Cooperation Agency",
+        "donor_id": null,
+        "financing_instrument": "JICA Consulting Portion",
+        "is_actual": true,
+        "source": "JICA",
+        "terms": {
+          "grace_period_years": 10,
+          "interest_rate": 1.25,
+          "repayment_period_years": 30,
+          "tying_status": "Partially Untied"
+        },
+        "transaction_date": "1987-10-14",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/jica-udaipur-cement-project-19871014",
+    "identifiers": null,
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Udaipur Cement Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Japan International Cooperation Agency",
+        "donor_sector": "Mining And Manufacturing",
+        "donor_subsector": "Manufacturing",
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "jica-udaipur-cement-project-19871014",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 18770000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from JICA Yen Loan Database",
+      "created_at": "2025-12-23T19:12:09.983819Z",
+      "entity_or_relationship_id": "entity:project/development_project/jica-udaipur-cement-project-19871014",
+      "id": "version:entity:project/development_project/jica-udaipur-cement-project-19871014:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

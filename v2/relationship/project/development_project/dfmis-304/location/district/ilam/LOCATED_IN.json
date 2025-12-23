@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:08.661300Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-304",
+  "start_date": null,
+  "target_entity_id": "entity:location/district/ilam",
+  "type": "LOCATED_IN",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project located in Ilam",
+    "created_at": "2025-12-23T19:11:08.661309Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-304:location/district/ilam:LOCATED_IN",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

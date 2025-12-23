@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.464918Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6433",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.464923Z",
+    "dates": [
+      {
+        "date": "2024-05-09",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-05-09",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2028-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project aims at increasing income of Nepalese people through the promotion of trail based tourism. By attracting national and regional visitors along safe and scenic trails, it will contribute to preserve social and cultural heritage while generating local revenues. Switzerland’s convening power to bring together federal, provincial and local governments will be catalytic in promoting intergovernmental cooperation in view of strengthening local economic development."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_project_id": "6433",
+        "raw_payload": {
+          "id": 42202,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 28,
+          "organization__development_cooperation_group__name": "Switzerland",
+          "organization__logo": "",
+          "organization__name": "Swiss Agency for Development and Cooperation",
+          "organization_id": 33,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Culture, Tourism and Civil Aviation",
+    "financing": [
+      {
+        "amount": 9912756.86,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "Swiss Franc",
+        "donor": "Swiss Agency for Development and Cooperation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-05-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6433",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6433",
+        "value": "6433"
+      }
+    ],
+    "implementing_agency": "Ministry of Culture, Tourism and Civil Aviation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Trail Based Tourism Development Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6433",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Other Industries",
+        "donor_subsector": null,
+        "normalized_sector": "Other Industries",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6433",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 9912756.86,
+    "total_disbursement": 2287361.11696015,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.464918Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6433",
+      "id": "version:entity:project/development_project/dfmis-6433:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,161 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.606910Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-560",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.606913Z",
+    "dates": [
+      {
+        "date": "2015-02-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-08-23",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-02-23",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Saudi Fund has agreeed to provide 93.75 Saudi Riyal for the Rehabilitation and Extension of Dunduwa Irrigation Project in Banke. The project has following Components:\r\n\r\n1. Civil Works :\r\n\r\na. Construction of main and link canal with length of about 25 km.\r\n\r\nb. Construction of six branch canals of about 38 km.\r\n\r\nc. Command area development for 16,000 ha including tertiary canals of about 250 km.\r\n\r\n2. Supply and installation of equipment : Vehicles and electromechannical equipment for the irrigation system.\r\n\r\n3. Land acquisition: The acquisition of land in some parts of the project area, which is estimated at about 70 ha. and\r\n\r\n4. Consultancy services : The preparation of design, project documents, and supervision of the project implementation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Saudi Development Fund",
+        "donor_project_id": "560",
+        "raw_payload": {
+          "id": 8593,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 24,
+          "organization__development_cooperation_group__name": "Saudi Arabia",
+          "organization__logo": "",
+          "organization__name": "Saudi Development Fund",
+          "organization_id": 30,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Energy, Water Resources and Irrigation",
+    "financing": [
+      {
+        "amount": 25000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Saudi Development Fund",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Tied"
+        },
+        "transaction_date": "2015-02-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-560",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/560",
+        "value": "560"
+      }
+    ],
+    "implementing_agency": "Ministry of Energy, Water Resources and Irrigation",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Dunduwa Irrigation Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/560",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-560",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 25000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.606910Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-560",
+      "id": "version:entity:project/development_project/dfmis-560:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

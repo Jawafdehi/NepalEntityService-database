@@ -1,0 +1,151 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.460772Z",
+  "dates": [
+    {
+      "date": "2022-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Conduct the following key activities as inputs in the program:·         Essential equipment supports to health facilities/ BC/BEMmONC·         Renovation support to health facilities/ birthing centers·         Establish Kangaroo Mother Care (KMC) corner in birthing centers·         SBA training for nursing staffs·         CBIMNCI training to health workers·         Formation/reformation of HFOMC as per guideline·         Basic / Refresher training to HFOMC members including orientation on MSS·         Orientation to FCHVs to conduct the HMG meeting effectively in selected areas·         Orientation to influencing male members to make them champions and engage them on MNH issues and gender empowerment·         Day celebration related to health and nutrition (Breast feeding week, FCHV day, MHM day)·         Positive deviance approach·         Financial and technical support to palikas to develop/adopt health and nutrition related policy·         Support to local government for children Enrollment initiatives at school·         Child friendly ECCD building construction.·         Community Dialogue (ECCD Importance/ Children Attendance)·         Parental workshop for learning materials development·         Conduct Transitional ECCD center·         Classroom management support to ECCD center (Including print Rich and six learning corners)·         Early Literacy and Math (ELM) related materials support to ECCD centers·         ECCD teachers training on ELM at center/ thematic workshop·         ECCD facilitators training on ELM at Home Package·         Support to conduct Parenting Education session (ELM at home)·         FCHV/Facilitators training on Building Brain (BB) session facilitation·         Support school to organize enrollment campaign·         Support to implement Participatory Attendance Tracking (PAT) system.·         Bursary support to children most impacted by inequalities and discrimination.·         Assistive devices support to children with disability·         Classroom renovation support.·         Teachers capacity building on Literacy and Numeracy Boost·         Refresher Training on Literacy and Numeracy Boost (LB/ NB)·         Support teaching-learning materials to school to implement LB & NB·         Support to run Reading and Math Club·         Community Action Initiatives-Reading Fair/festival/Day, mBoost, thons, buddy·         Session conduction on PWV·         Support and capacity building for safe and green school package implementation·         Individual children assessment for Student Need Action Pack (SNAP)·         Teacher capacity building on Individual Education Plan (IEP)·         Formation/reformation of child·         Material support to Child Clubs (playing & stationary)·         Support to conduct child led promotional activities·         Training/orientation to SMCs members on role and responsibility.·         Support school on School Improvement Plan (SIP) (integrated SHN and DRR)·         Construct/renovate gender friendly toilets with sanitary pad disposal system·         Support schools for functional safe drinking water supply·         Construct/renovate hand washing facilities at schools with soap and water available·         First aid box support to schools·         Height and weight measuring tools support in Schools·         Water source tested in Schools·         Water filter support in schools·         Training to focal teachers on SHN basic package·         SHN week celebration·         Menstrual Hygiene Management (MHM) training to adolescent girls and Female teachers·         Essential equipment, furniture support to HF for Adolescent received ASRH services from AFS·         Construction/renovation support to HF·         Essential materials/IEC materials support to Schools for AFIC·         Orientation to school teachers on AFIC establishment and operation of IEC corner·         2 days orientation to health workers on ASRH/AFS·         5 days training to service providers on ASRH/AFS·         Conduction of financial literacy sessions to youth/adolescents·         Conduction of Life Skill for Success sessions to youth/adolescents·         Vocational training to adolescents most impacted by inequality and discrimination.·         Conduct training on CFLG and work plan development·         Budget for Children (BfC) analysis workshop at palika level·         Support Child Endowment Fund/ Revolving Fund (CEF/RF) to cooperatives·         Training to WCRC on Case management, roles and responsibilities and DRR·         Support for WCRC lead promotional activities (establishment of emergency fund/CR fund at MCRC/Municipality·         Organize training to farmers groups on the basics of savings and credits·         Training to LRPs on agriculture technologies·         Formation and registration of farmer groups·         Support farmers with seeds, fertilizers and IPM kits·         Support farmers with agriculture tools and climate smart agriculture technologies·       "
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2251",
+      "raw_payload": {
+        "id": 14400,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology, Ministry of Federal Affairs & General Administration",
+  "financing": [
+    {
+      "amount": 8903682.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-12-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 5452464.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2251",
+      "value": "2251"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sponsorship SCI Award 2022-24",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2251",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2251",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 14356146.0,
+  "total_disbursement": 9882586.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.460769Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2251",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

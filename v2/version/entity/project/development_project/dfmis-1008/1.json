@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.552017Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1008",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.552019Z",
+    "dates": [
+      {
+        "date": "2013-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2015-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Support DCCs in 3 districts to strengthen coordination efforts to  implement the NAP on UNSCRs 1325 and 1820 \r\n\r\nProvide technical and financial support to  MoWCSW to develop 4 different guidelines and monitoring evaluation framework of gender unit to implement NAP commitments\r\n\r\nProvide technical support to MoPR and MoWCSW  to functionalize gender unit\r\n\r\nSupport MoFALD to form  District Gender Responsive Budget Committees (DGRBC) and strengthen the implementation of NAP on UNSCRs 1325 and 1820  in 11 districts \r\n\r\nDevelop and submit SG's report on conflict related sexual violence\r\n\r\n Provide capacity development training to enhance leadership and participation of women in peacebuilding efforts and decision-making processes in 3 districts\r\n\r\nDevelop a range of knowledge products on women, peace and security\r\n\r\nDevelop documentary film reflecting positive improvements in the lives of conflict affected women and former combatants \r\n\r\nConduct series of workshops with Ministries and other Government bodies to strengthen the quality of NAP on UNSCRs 1325 and 1820 implementation\r\n\r\nSupport training workshops for  district level stakeholders on gender equality commitments, including UNSCRs 1325 and 1820\r\n\r\nStrengthen VDC level  inter-party women networks and conflict affected women group/network in 3 districts (Kailali, Doti and Bajhang  districts ) to enhance their representation in decision making structures"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "UN Women",
+        "donor_project_id": "1008",
+        "raw_payload": {
+          "id": 6776,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "UN Women",
+          "organization_id": 174,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "UN Women",
+    "financing": [
+      {
+        "amount": 60273.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 4000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2014-01-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 10000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "UN Women",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1008",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1008",
+        "value": "1008"
+      }
+    ],
+    "implementing_agency": "UN Women",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Peace and Security - (Core - 82099)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1008",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Mining, Manufacturing and Construction",
+        "donor_subsector": null,
+        "normalized_sector": "Mining, Manufacturing and Construction",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1008",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 74273.0,
+    "total_disbursement": 74273.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.552017Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1008",
+      "id": "version:entity:project/development_project/dfmis-1008:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

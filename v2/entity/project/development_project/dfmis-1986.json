@@ -1,0 +1,268 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.935514Z",
+  "dates": [
+    {
+      "date": "2001-01-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2001-01-28",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2007-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Has two sub projects : (1) Melamchi Water Diversion Subprojects :Components: 26.5Km long diversion tunnel and water treatment Plant(2)  Kathmandu Valley Water Supply and Sanitaion subprojectsComponents: Bulk distribution system and distribution Network improvement Works and Waste water Improvement Works and Institutional Reforms and Capacity Building of KUKL."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "1986",
+      "raw_payload": {
+        "id": 1845,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Nordic Development Fund",
+      "donor_project_id": "1986",
+      "raw_payload": {
+        "id": 1847,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 37,
+        "organization__development_cooperation_group__name": "Nordic Development Fund",
+        "organization__logo": "",
+        "organization__name": "Nordic Development Fund",
+        "organization_id": 29,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "OPEC Fund for Inernational Development",
+      "donor_project_id": "1986",
+      "raw_payload": {
+        "id": 1844,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 45,
+        "organization__development_cooperation_group__name": "OPEC Fund for International Development",
+        "organization__logo": "",
+        "organization__name": "OPEC Fund for Inernational Development",
+        "organization_id": 161,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Japan International Cooperation Agency",
+      "donor_project_id": "1986",
+      "raw_payload": {
+        "id": 1846,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Japan International Cooperation Agency",
+        "organization_id": 3,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Water Supply",
+  "financing": [
+    {
+      "amount": 22590000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2014-04-07",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 10000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Nordic Development Fund",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2015-10-07",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 136160000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2001-01-24",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 47000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Japan International Cooperation Agency",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2001-01-24",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 14000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "OPEC Fund for Inernational Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2001-01-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1986",
+      "value": "1986"
+    }
+  ],
+  "implementing_agency": "Melamchi Water Supply Development Board",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Melamchi Water Supply Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1986",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1986",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 229750000.0,
+  "total_disbursement": 193271750.85903,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.935512Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1986",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

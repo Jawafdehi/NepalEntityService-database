@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.298600Z",
+  "dates": [
+    {
+      "date": "2008-12-22",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-12-22",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Immigration and Citizenship, Canada (CIC) identified a group of approximately 5000 Bhutanese refugees located in seven camps around Damak, Nepal, for resettlement in Canada in 2008-2013. One of the steps in the resettlent process is related to ensuring that appropriate measures are in place to address the health needs of these refugees prior to their departure from Nepal, during travel and after arrival in Canada. CIC requested IOM Nepal to conduct Immigration Medical Examination (IME) and Pre-departure Medical Screening (PDMS). Besides, IOM is requested to provide diagnosis treatment for tuberculosis to these refugees."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Organization for Migration",
+      "donor_project_id": "1512",
+      "raw_payload": {
+        "id": 3342,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "International Organization for Migration",
+        "organization_id": 360,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Foreign Affairs",
+  "financing": [
+    {
+      "amount": 1388368.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "International Organization for Migration",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-12-22",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1512",
+      "value": "1512"
+    }
+  ],
+  "implementing_agency": "International Organization for Migration",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Canadian Immigration Medical Examination and Pre-departure Medical Screening of Bhutanese Refugees in Nepal (CIMEP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1512",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1512",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1388368.0,
+  "total_disbursement": 1274803.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.298597Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1512",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

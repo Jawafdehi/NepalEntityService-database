@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.793058Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1059",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.793060Z",
+    "dates": [
+      {
+        "date": "2018-10-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "A) Promotion on Safe Migration & Prevention of Human Trafficking in Makwanpur District\r\n\r\n1) Men, women and youth of Human trafficking and unsafe migration prone areas have access to knowledge skill and tools to combat human trafficking and safe migration\r\n\r\n\r\n\tFormation and strengthening of CDC-SM(10 CDC-SM)\r\n\tSupporting and strengthening CAHTC on SM(5 CAHTC)\r\n\tExtension of help desk to male migrants(one desk)\r\n\tDevelopment of IEC materials( Poster, handbook, wall painting, hoarding board, diary, t-shirts, bags)\r\n\tStreet drama- 10 events\r\n\tProduction and broadcasting radio program  by local radio/ FM for safe migration\r\n\tDebate competition on Safe migration in school level students on various national and international marking days\r\n\tJournalist field visit (quarterly basis)\r\n\tOne day orientation to media person (one event)\r\n\tOrientation to school teachers and students\r\n\tVarious day celebration(16 days campaign against women violence, international women day, international labor day, national anti human trafficking day, international migrant day, HIV AIDs day)\r\n\tDoor to Door visit of targeted communities(12 events)\r\n\tTOT for peer facilitator of CDC-SM(15)\r\n\tCoordination and consultative meeting with local government and relevant stakholders( 4 times)\r\n\tUpadating woscc website integrating HT and SM issues\r\n\tBase line survey and end line survey\r\n\r\n\r\n2) Potential vulnerable  migrants,  victims, survivors of human trafficking and unsafe migration have increased access to income generating tools , skill, and knowledge\r\n\r\n\r\n\tTraining on  sustainable seasonal and off seasonal vegetable farming in coordination with PAMP ( 4 events 120 participants) (PAMP: Prime Ministerial Agricultural Modernazation Project)\r\n\tAgriculture input supports ( Seed, fertilizers, plastic tunnel, solar irrigation pump, plastic mulches) ( 30 beneficiaries)\r\n\tTraining on  livestock farming in coordination with rural municipality livestock office (4 events 120 participants)\r\n\tTraining on poultry farming and  local Poultry breeds support to targeted beneficiaries (200 poultry breed to 20 beneficiaries) - Insurance of poultry breed\r\n\tTraining and input support in bee farming and formation of production group (2 events , 60 participants, 4 groups)- including agriculture insurance where possible of bee hives\r\n\tEntrepreneur development program for targeted beneficiaries (75 beneficiaries)\r\n\tTraining and input support in off farm income generating activities-TVET (10 beneficiaries )\r\n\tCoordination and Networking  meeting with concerned traders and Agriculture cooperatives (one events) like DPAC, MPAC,\r\n\tOne day orientation on market information and networking ( 5 events)\r\n\tPsycho-social counseling to returnees and survivors (150 beneficiaries)\r\n\r\n\r\n \r\n\r\n \r\n\r\nB) Youth For Social Change (Mobilizing youth groups for promoting safe migration and prevent human trafficking)\r\n\r\n1) Target beneficiaries started to adopt informed  migration and enjoying migrant rights though better services from stakeholders.\r\n\r\n\r\n\tIEC material  developing ,reprinting & distribution (Training manuals, booklets, handbook, self help book, reference materials)\r\n\tDevelopment and broadcasting of radio programs\r\n\tCounselling services migrant/potential women migrant workers through YEG's Support Desk in municipality.\r\n\tInteraction and coordination meeting with Local government, province government and stakeholders in district level, political party representatives and other stakeholders.\r\n\tAwareness raising campaign on SM & HT by Youth Empowerment Groups\r\n\tPress meet (interaction, and issues exploring), journalist visits\r\n\tForum theatre play in community level\r\n\r\n\r\n2) Youth Empowerment Groups are capacitated to   work actively with different local stakeholders and local government to promote safe migration and against human trafficking.\r\n\r\n\r\n\tFormation of 16 YEGs  in ward level\r\n\t Training to YEGs on Safe migration, human trafficking, leadership, coordination and  Teambuilding/team mobilization.   \r\n\tTraining to Counselors on Non violent Communication and counselling \r\n\t Technical, financial & Motivational Support to the YEGs and YEG Network\r\n\tEstablishment of Safe Migration Support Desk at municipality, DAO and HURF\r\n\tBi-Monthly meeting of YEGs\r\n\tQuarterly meeting of  Network\r\n\tInteraction & dialogues in community level, ward level and municipality level organized by YEGs & Networks\r\n\r\n\r\n3) Families and victims of unsafe migration & potential migrants enjoy better livelihood options.\r\n\r\n\r\n\tCoordination and linkage with different stakeholders for need identification, rapport building and market management\r\n\tEntrepreneurship & business planning training\r\n\tVocational training for 4 selected demands per ward\r\n\tRegistration support for the entrepreneurs\r\n\tInitial materials support for business stater\r\n\tCoordination and linkage for vocational training and local resource mobilization with local government\r\n\tAwareness events in ward level by YEGs"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "AWO International",
+        "donor_project_id": "1059",
+        "raw_payload": {
+          "id": 11543,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "AWO International",
+          "organization_id": 516,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "AWO International",
+    "financing": [
+      {
+        "amount": 276865.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "AWO International",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2018-10-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1059",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1059",
+        "value": "1059"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Promoting safe migration and preventing human trafficking in Nepal.(2018-19)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1059",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1059",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 276865.0,
+    "total_disbursement": 213150.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.793058Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1059",
+      "id": "version:entity:project/development_project/dfmis-1059:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

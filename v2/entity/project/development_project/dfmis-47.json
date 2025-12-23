@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.048477Z",
+  "dates": [
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-05-05",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "·         Conduct rapid situation assessments needs analysis of female injecting drug users& female prisoners in specific locations, using existing secondary data, supplemented by second generation surveillance surveys.\r\n·         Conduct operational research on drug use &sexual networks, & HIV risk behaviours.\r\n·         Carry-out studies on lessons learned & best practices.\r\n·         Conduct Epidemiological assessment in Prison Settings\r\n·         Develop gender and culture sensitive advocacy and communication materials.\r\n·         Promote gender & culture sensitive & rights-based programme approaches among govt. and civil society service providers.\r\n·         Advocate with policy makersfor recognition of the need to establish female-specific interventions for injecting drug users and in prison settings.\r\n·         Form self-help groups among female injecting drug users, prisoners and other HIV positive women.\r\n·         Establish new drop-in-centre/s for PHC, sexual & reproductive health etc & continuation of the existing sites\r\n·         Modify and continuation of the existing centres for the provision of HIV services\r\n·         Conduct training and skills-needs assessment among existing and potential service providers\r\n·         Develop gender sensitive training materials and manuals, locally adapted to specific social and cultural contexts.\r\n·         Develop skills, including for peer educators, in specific technical areas (e.g., needle and syringe prog., condom promotion, HIV counselling, referral to other services).\r\n·         Conduct training of peer educators on HIV and STI prevention, early detection and treatment measures.\r\n·         Develop & distribute gender and culture sensitive training &other informa.materials/manuals.\r\n·         Establish drop-in-centres \r\n·         Develop and maintain referral mechanism\r\n·         Support existing VCT centres or establish new centre. \r\n·         Organise sensitisation programme for the national-level decision makers. \r\n·         Develop &deliver gender sensitive training & other information materials/manuals as well as adapt in local context. \r\n·         Conduct training of prison-based peer educators. \r\n·         Provide comprehensive HIV prevention, treatment and care services. \r\n·         Organise public events to increase public exposure of the forum &communicate effectively on the stated goals of the forum. \r\n·         Provide strategic support to network as and when required, in its dealings with Govt.departments and other stakeholders. \r\n·         Establish treatment and care centers for women living with HIV and AIDS \r\n·         Support for participation at the national and international conferences \r\n·         Document the impact of project on ground."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Office of Drugs and Crime",
+      "donor_project_id": "47",
+      "raw_payload": {
+        "id": 2266,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Office of Drugs and Crime",
+        "organization_id": 361,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Office of Drugs and Crime",
+  "financing": [
+    {
+      "amount": 6104541.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Office of Drugs and Crime",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/47",
+      "value": "47"
+    }
+  ],
+  "implementing_agency": "United Nations Office of Drugs and Crime",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "NPLJ80: HIV Prevention, Care and Treatment for Female Injecting Drug Users, Female Prisoners and Women living with HIV and AIDS in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/47",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-47",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 6104541.0,
+  "total_disbursement": 4353879.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.048475Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-47",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

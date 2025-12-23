@@ -1,0 +1,216 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.568892Z",
+  "dates": [
+    {
+      "date": "2003-07-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Rural Infrastructure Project for Nepal aims to strengthen the institutional capacity of a decentralized local governance system in its planning and managing capabilities to improve the quality, efficiency, and sustainability of rural roads in selected districts with active participation of project beneficiaries. There are four project components. The first component supports routine maintenance, periodic maintenance, rehabilitation and spot improvement of existing district roads/trails and other rural infrastructure in eight selected districts. The second component provides supervision and design of civil works. The third component procures basic equipment for logistical support including four-wheel drive pickups, motorcycles, and computers and photocopiers. The fourth component funds consultancy services to help the institutional capacity of development departments and entities at the local and national levels, trains staff and contractors, funds project monitoring and evaluation, including a community-based performance monitoring system."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P045053",
+      "raw_payload": {
+        "boardapprovaldate": "1999-05-14T00:00:00Z",
+        "closingdate": "2003-07-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "5800000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P045053",
+        "major_sector_code": "BX,TX",
+        "major_sector_name": "FY17 - Public Administration,Transportation",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BH",
+                  "sector_name": "FY17 - Sub-National Government",
+                  "sector_percent": "26.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "TX",
+              "major_sector_name": "Transportation",
+              "sectors": [
+                {
+                  "sector_code": "TA",
+                  "sector_name": "Roads and highways",
+                  "sector_percent": "74.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Sub-National Government,Roads and highways",
+        "proj_id": "P045053",
+        "project_abstract": "The Rural Infrastructure Project for Nepal aims to strengthen the institutional capacity of a decentralized local governance system in its planning and managing capabilities to improve the quality, efficiency, and sustainability of rural roads in selected districts with active participation of project beneficiaries. There are four project components. The first component supports routine maintenance, periodic maintenance, rehabilitation and spot improvement of existing district roads/trails and other rural infrastructure in eight selected districts. The second component provides supervision and design of civil works. The third component procures basic equipment for logistical support including four-wheel drive pickups, motorcycles, and computers and photocopiers. The fourth component funds consultancy services to help the institutional capacity of development departments and entities at the local and national levels, trains staff and contractors, funds project monitoring and evaluation, including a community-based performance monitoring system.",
+        "project_name": "Rural Infrastructure Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Finance",
+          "FY17 - Social Development and Protection",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Finance for Development",
+          "FY17 - Rural Development",
+          "FY17 - Rural Development",
+          "FY17 - Social Inclusion"
+        ],
+        "totalamt": "5000000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 5000000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "1999-05-14",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P045053",
+      "value": "p045053"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rural Infrastructure Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P045053",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "Transportation",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p045053",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 5000000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.568890Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p045053",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

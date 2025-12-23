@@ -1,0 +1,157 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.616861Z",
+  "dates": [
+    {
+      "date": "2023-03-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-03-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-02-28",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.     Planning and annual review workshop for integrated nutrition and WASH program in municipalities2.     Orientation to NCC (health facility) management committees on childhood nutrition program including WASH3.     Health Mothers' Group (HMG) reactivation initiative in 836 HMGs4.     Development and installation of Flex boards related with maternal, newborn and child health care5.     Development and distribution of IEC materials in health facilities and communities (Acrylic Message Boards, pamphlets, posters, job aid and mount boards)6.     Publication and distribution of Manzari magazine7.     Development and broadcasting of radio messages in local language throughout the project period8.     Commemoration of WASH & health campaigns9.     NCC infrastructure development10.  Installation of nutrition corner in NCC11.  Provision of equipment and instruments to NCC/ORC (health facilities and outreach clinics)12.  Planning workshops for Nutrition-Friendly NCC13.  Accreditation and Declaration workshops for Nutrition-Friendly NCC14.  Training on Growth Monitoring and Promotion to NCC/ORC staff (nutrition care provider)15.  Integrated Management of Acute Malnutrition (IMAM) training for NCC staff (nutrition care provider)16.  Maternal, Infant and Young Child Nutrition (MIYCN) refresher training for FCHV17.  Onsite coaching / clinical mentoring to NCC staff (nutrition care provider)18.  Installation of YCWSS (Yamaha Clean Water Supply System)19.  Installation of Rural Clean Water Supply System20.  Conduct operation and management training to WSCs21.  Warehouse and account management training to WSCs22.  Pre-installation (introduction) training to WSCs23.  Conduct training on Water quality testing and monitoring for local government staff24.  Trainings to local government staff on CHAST approach and Care Group Approach for hygiene promotion and childhood nutrition at government schools and communities25.  CHAST approach implementation in school26.  Care Group approach implemented in YCWSS and RCWSS installed communities"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "3950",
+      "raw_payload": {
+        "id": 41413,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 2,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Adventist Development and Relief Agency",
+      "donor_project_id": "3950",
+      "raw_payload": {
+        "id": 41414,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Adventist Development and Relief Agency",
+        "organization_id": 340,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Health",
+  "financing": [
+    {
+      "amount": 1147086.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-03-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3950",
+      "value": "3950"
+    }
+  ],
+  "implementing_agency": "Adventist Development and Relief Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Health reform project through improved nutrition and water sanitation status in Bardiya District",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3950",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3950",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1147086.0,
+  "total_disbursement": 106019.02,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.616858Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3950",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

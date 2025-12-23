@@ -1,0 +1,159 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.444254Z",
+  "dates": [
+    {
+      "date": "2025-02-04",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2025-03-17",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-12-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Green, Resilient, and Inclusive Development (GRID) programmatic Development Policy Credit (DPC) series is a catalyst for Nepal’s ongoing transition to a GRID path. The series of three operations is a key instrument for Nepal to operationalize its homegrown GRID Platform across the economy. This ambition is articulated in the 2021 Kathmandu Declaration on GRID, 2023 Joint Communiqué on GRID, Nepal’s 16th Five-Year Development Plan, and Nepal’s GRID Strategic Action Plan 2024-2034 (SAP) which is now being finalized after a series of provincial consultations. The GRID SAP includes over US10 billion dollars of ongoing and pipeline investments for ten key transitions. The World Bank and 15 other Development Partners (DPs) back this effort, including the International Monetary Fund (IMF), International Finance Corporation (IFC), Asian Development Bank (ADB), the United Nations, and other multilateral, bilateral, and nongovernmental organizations that coordinate on policy, knowledge, and investment via Nepal’s GRID Platform. Nepal’s political situation remains fluid, yet commitment to GRID and this DPC series has been maintained by four successive coalition governments that have taken office since the November 2022 federal and provincial elections. The current coalition took over on July 14, 2024, led by the two largest parties in Parliament. This change has impacted the provincial government set up. At the sub-national level, funds, functions, and staff are managed by the seven provinces and 753 local governments for which legislation, institutions, and administrative procedures have been formalized as constitutionally prescribed. The federalization process is supported by this DPC series."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Development Association",
+      "donor_project_id": "6645",
+      "raw_payload": {
+        "id": 44341,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "International Development Association",
+        "organization_id": 17,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Finance",
+  "financing": [
+    {
+      "amount": 100000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Budgetary Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Untied"
+      },
+      "transaction_date": "2025-02-04",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6645",
+      "value": "6645"
+    }
+  ],
+  "implementing_agency": "Ministry of Finance",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Second Green, Resilient and Inclusive Programmatic DPC",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "विश्व बैंकबाट हरित, उत्थानशील र समावेशी विकास",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6645",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Foreign Economic Aid",
+      "donor_subsector": null,
+      "normalized_sector": "Foreign Economic Aid",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6645",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 100000000.0,
+  "total_disbursement": 99996786.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.444252Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6645",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

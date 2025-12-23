@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:22.074934Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-5397",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:22.074937Z",
+    "dates": [
+      {
+        "date": "2008-03-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-03-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2008-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Finalize needs assessment for NVC, PAC, OAG, CIAA, and Special Court \r\n \r\n1.1. Review mandates of each agency\r\n1.2. Assess capacity in institution to carry out mandates\r\n1.3. Assess gaps in capacity (including any enabling mechanisms, such as legal framework, as well as internal processes)\r\n1.4. Specify the needs to be filled in each institution to strengthen them to fulfill their mandates better\r\n1.5. Collect benchmark data on the work of all five institutions\r\n \r\n \r\n2. Finalize capacity development plans for each of the five institutions \r\n \r\n2.1. Evaluate the overall context of capacity development options\r\n2.2. Evaluate any human resources, technical, and technological development options\r\n2.3. Complete plans for overall capacity development, including recommending changes to enabling mechanisms\r\n2.4. Complete the human resource, technical, and technological capacity development plans\r\n \r\n \r\n3. Train technical auditors for the NVC at the district level \r\n \r\n3.1. Complete selection of first batch of trainers\r\n3.2. Identify districts to be covered\r\n3.3. Complete selection of trainees\r\n3.4. Prepare training materials\r\n3.5. Conduct training sessions in selected districts, with post-training follow-up after each \r\n3.6. Revise training materials and modalities, if necessary, based on information from the post-training follow-up\r\n \r\n \r\n4. Train PAC personnel on auditing, auditing review, financial analysis, and general committee affairs\r\n \r\n4.1. Prepare relevant training materials based on needs analysis and capacity development plans\r\n4.2. Conduct training (including on-the-job training and briefing sessions)\r\n4.3. Organize a study visit to a neighboring country on how a PAC operates\r\n4.4. Conduct post-training follow-up and evaluation, including ascertaining specifically how positive experiences elsewhere can be replicated\r\n4.5. Revise training materials and modalities based on information from the post-training follow-up\r\n \r\n \r\n5. Develop internal capability of NVC, Special Court, CIAA, and OAG by providing operational support as determined by the needs assessment and capability building plans\r\n \r\n5.1. Prepare relevant training materials based on needs analysis and capacity development plans\r\n5.2. Conduct training (including on-the-job training, as needed)\r\n5.3. Organize a study visit to a neighboring country on how relevant institutions operate\r\n5.4. Conduct post-training follow-up and evaluation\r\n5.5. Provide operational support, as needed\r\n \r\n \r\n6. Conduct public awareness campaigns \r\n \r\n6.1. Complete publications, including brochures, pamphlets, and other materials\r\n6.2. Complete workshop and seminar materials, including PowerPoint presentation overheads, handouts, and other materials\r\n6.3. Complete video clips for broadcast\r\n6.4. Carry out public awareness campaigns\r\n6.5. Complete post-public awareness campaign evaluation and follow-up\r\n6.6. Revise public awareness campaign materials, strategies, and modus operandi based on the evaluations"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "5397",
+        "raw_payload": {
+          "id": 35791,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Prime Minister and Council of Minister's Office",
+    "financing": [
+      {
+        "amount": 400000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-03-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-5397",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/5397",
+        "value": "5397"
+      }
+    ],
+    "implementing_agency": "Prime Minister and Council of Minister's Office",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 4962-NEP: Support to Anticorruption Institutions",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/5397",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "General Services",
+        "donor_subsector": null,
+        "normalized_sector": "General Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-5397",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 400000.0,
+    "total_disbursement": 331511.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:22.074934Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-5397",
+      "id": "version:entity:project/development_project/dfmis-5397:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

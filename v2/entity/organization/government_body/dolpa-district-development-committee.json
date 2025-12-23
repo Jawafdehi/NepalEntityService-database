@@ -1,0 +1,62 @@
+{
+  "attributes": {
+    "architecture": "Government of Nepal",
+    "group": "District Development Committee"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Government of Nepal"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.604382Z",
+  "description": null,
+  "government_type": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dolpa District Development Committee",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "dolpa-district-development-committee",
+  "sub_type": "government_body",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Dolpa District Development Committee",
+    "created_at": "2025-12-23T19:11:06.604380Z",
+    "entity_or_relationship_id": "entity:organization/government_body/dolpa-district-development-committee",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

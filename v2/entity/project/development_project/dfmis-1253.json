@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.098445Z",
+  "dates": [
+    {
+      "date": "2016-07-17",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-01-17",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-01-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "AWASAR project:1. Upgrade school facilities with basic furniture, toilets (basic water equipment tank, pipes, taps), solar lamps, solar cookers, local sports, teaching materials and library materials based on actual needs.2. Formulate accelerated learning model targeting the migrating children3. Training of teachers of the selected schools in the project VDCs in the developed accelerated learning model4. Training to peer educators as part of awareness and promotion of the education component of the project5. Awareness campaigns to parents on project components such as health, education, food security and nutrition6. Radio spots on project messages7. Distribution of IEC/BCC materials in the communities8. Orientation to child clubs regarding child rights and education9. Upgrade school facilities with basic furniture, toilets (basic water equipment tank, pipes, taps), solar lamps, solar cookers, local sports, teaching materials and library materials based on actual needs10. Formulate accelerated learning model targeting the migrating children11. Training of teachers of the selected schools in the project VDCs in the developed accelerated learning model12. Training to peer educators as part of awareness and promotion of the education component of the project13. Awareness campaigns to parents on project components such as health, education, food security and nutrition14. Radio spots on project messages15. Distribution of IEC/BCC materials in the communities16. Orientation to child clubs regarding child rights and education17. Upgrade school facilities with basic furniture, toilets (basic water equipment tank, pipes, taps), solar lamps, solar cookers, local sports, teaching materials and library materials based on actual needs18. Formulate accelerated learning model targeting the migrating children19. Training of teachers of the selected schools in the project VDCs in the developed accelerated learning model20. Training to peer educators as part of awareness and promotion of the education component of the project21. Awareness campaigns to parents on project components such as health, education, food security and nutrition22. Radio spots on project messages23. Distribution of IEC/BCC materials in the communities24. Orientation to child clubs regarding child rights and education25. Training to extension agents regarding food security and nutrition26. Training to lead farmers (50% women) from farmers groups regarding food security and nutrition27. Prepare demonstration plots with improved agriculture technologies and food varieties each year28. Linking farmers and extension agents to agriculture research stations for increased food security and nutrition29. Training to mothers group and FCVHs regarding health, food security and nutrition30. Celebration of biannual “Food day” and “Nutrition Week” in schools as part of the food security and nutritional promotional activities of the project31. Orientation to parents on personal hygiene, sanitation and nutritious food preparation and consumption32. Development of capacity assessment and development plan to assess the capacity of community service providers33. Training to CSO members in advocacy and VDC/DDC planning process34. Training to VDC secretaries in participatory planning regarding the project components such as health, education, food security and nutrition25.Training to representatives from mother groups, school management committee and farmers group in community scoreboard and VDC planning processes36. Dialogue meetings between service providers and communities using community score boards"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "CARE Nepal",
+      "donor_project_id": "1253",
+      "raw_payload": {
+        "id": 8189,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "CARE Nepal",
+        "organization_id": 304,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "CARE Nepal",
+  "financing": [
+    {
+      "amount": 1264448.689,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "CARE Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-07-17",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1253",
+      "value": "1253"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "AWASAR",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1253",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1253",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1264448.689,
+  "total_disbursement": 1536845.94124,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.098442Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1253",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

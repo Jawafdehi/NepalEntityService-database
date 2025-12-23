@@ -1,0 +1,166 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from ADB on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "ADB"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:12:08.706697Z",
+  "dates": [
+    {
+      "date": "2024-12-26",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2024-12-20",
+      "source": "ADB",
+      "type": "START"
+    },
+    {
+      "date": "2031-06-30",
+      "source": "ADB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project is closely aligned with (i) ADB's Strategy 2030's operational priorities on gender equality, environment, climate resilience and disaster risk management, rural development and food security, and institutional strengthening; (ii) Sustainable Development Goals on economic growth, social inclusion and environmental protection; and (iii) ADB's Water Sector Directional Guide that aims for poverty reduction, gender equality, climate resilience, food security, and capacity building. The project also aims to: (i) empower women farmers, (ii) ensure water security and build climate resilience, and (iii) increase food security and reduce rural poverty."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "ADB",
+      "donor_project_id": "XM-DAC-46004-56218-001-LN4519",
+      "raw_payload": {
+        "activity_status": "2",
+        "contact": {
+          "organisation": "Asian Development Bank",
+          "person_name": "Singh, Deepak Bahadur",
+          "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=56218-001 (Approved)&officer= dbsingh@adb.org&division= Agriculture, Food, Nature, and Rural Development Sector Office (SG-AFNR)&projectcountry= Nepal"
+        },
+        "default_currency": "USD",
+        "hierarchy": "1",
+        "iati_identifier": "XM-DAC-46004-56218-001-LN4519",
+        "last_updated": "2025-11-24T08:41:44+08:00",
+        "locations": [
+          {
+            "exactness": "2",
+            "lat": 28.25855,
+            "location_id": "9036855",
+            "lon": 83.94523,
+            "name": "Nepal",
+            "reach": "1"
+          }
+        ],
+        "recipient_country": "NP",
+        "reporting_org_ref": "XM-DAC-46004"
+      }
+    }
+  ],
+  "executing_agency": "Asian Development Bank",
+  "financing": null,
+  "identifiers": null,
+  "implementing_agency": "Ministry of Energy, Water Resources and Irrigation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Irrigation Modernization Enhancement Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": null,
+  "sectors": [
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:31110",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:31161",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_sector": "1:31140",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "adb-xm-dac-46004-56218-001-ln4519",
+  "stage": "ongoing",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Effective gender mainstreaming (EGM)",
+      "normalized_tag": null
+    },
+    {
+      "category": "GENDER",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Accelerating progress in gender equality",
+      "normalized_tag": null
+    },
+    {
+      "category": "CLIMATE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability",
+      "normalized_tag": null
+    },
+    {
+      "category": "GOVERNANCE",
+      "donor": "Asian Development Bank",
+      "donor_tag": "Strengthening governance and institutional capacity",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from ADB IATI XML Feed",
+    "created_at": "2025-12-23T19:12:08.706694Z",
+    "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-56218-001-ln4519",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

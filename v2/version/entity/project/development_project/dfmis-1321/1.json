@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.411871Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1321",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.411874Z",
+    "dates": [
+      {
+        "date": "2017-07-10",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-01-10",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-01-09",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Demand generation to improve knowledge of SA legality.IPC programme will continue their successful work raising awareness.Strengthening our providers to deliver client-centered counselingPromote PAFPThe contact centre will remain a critical link for advice and referrals to services as it is the only one in the country focused solely on SRH.Measure qualtiy and cliend experience for SA/PACTen MS Ladies target remote, rural areas to raise awareness for SA and PAFP services.Increase affordability at centres. Improve youth service delivery.Strengthening the MSI-N TeamStrengthening and institutionalizing systems and processes"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Marie Stopes International",
+        "donor_project_id": "1321",
+        "raw_payload": {
+          "id": 11113,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/MSI_Logo-01.jpg",
+          "organization__name": "Marie Stopes International",
+          "organization_id": 540,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Marie Stopes International",
+    "financing": [
+      {
+        "amount": 5312213.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Marie Stopes International",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-07-10",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1321",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1321",
+        "value": "1321"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Delivering Abortion and Comprehensive Contraception through Exceptional Service Standards (ACCESS)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1321",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1321",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 5312213.0,
+    "total_disbursement": 5312213.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.411871Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1321",
+      "id": "version:entity:project/development_project/dfmis-1321:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.815510Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-402",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.815513Z",
+    "dates": [
+      {
+        "date": "2008-11-26",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-11-26",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2010-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Component A:1.1 Enact the new Statistical Act by July 20091.2 Restructure CBS and NSC by December 20101.3 Review administrative records from different ministries and departments according tothe concept of designated statistics for compiling QNA by July 20091.4 Conduct surveys, studies, and research for preparing QNA indicators and databaseby mid-20101.5 Produce quarterly GDP estimates for FY2007–FY2009 and preliminary estimates forFY2010 by October 20101.6 Provide on-the-job training to CBS staff and other relevant agencies, mostly during20091.7 Conduct seminars and workshops on CNSP and compilation of QNA throughout theTA period1.8 Apprenticeship program for the national accounts staff of CBS (early 2010)Component B:2.1 Review the NMEM and identify deficiencies and their causes by February 20092.2 Conduct research and explore sources of data to upgrade the NMEM by March 20092.3 Finalize the upgraded NMEM by May 20092.4 Undertake research on developing a DSGE-type model for Nepal by June 20092.5. Develop the DSGE-type model and the ensuing software by September 20092.6 Develop a user manual, including calibration methodology, to undertake quantitativemacroeconomic analysis using the DSGE model by December 20092.7 Conduct seminars and workshops on the features of the two models and incorporatethe feedback and finalize the model by February 20102.8 Provide on-the-job training to three staff from each of the agencies— Nepal RastraBank, CBS, National Planning Commission, Ministry of Finance, and the Department of Economics, Tribhuvan University, and other relevant agencies—by March 2010. Thestaff will be selected in close coordination with the executing agency, steeringcommittee, and the technical committee."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "402",
+        "raw_payload": {
+          "id": 3129,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "National Planning Commission",
+    "financing": [
+      {
+        "amount": 675000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-11-26",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-402",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/402",
+        "value": "402"
+      }
+    ],
+    "implementing_agency": "National Planning Commission",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA7165-NEP: Strengthening Capacity for Macroeconomic Analysis",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/402",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Research and Development – Economic Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "Research and Development – Economic Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-402",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 675000.0,
+    "total_disbursement": 520132.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.815510Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-402",
+      "id": "version:entity:project/development_project/dfmis-402:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

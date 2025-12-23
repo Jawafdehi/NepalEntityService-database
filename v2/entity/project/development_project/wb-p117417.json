@@ -1,0 +1,219 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.498139Z",
+  "dates": [
+    {
+      "date": "2016-01-15",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The objective of the Second Health Nutrition and Population (HNP) and HIV/AIDS Project is to enable the Government of Nepal to increase access to essential health care services and their utilization by the underserved and the poor. There are two components to the project. The first component of the project is health service delivery. The component will focus on the following activities: (i) increasing access to, and utilization of, an affordable package of essential health services by the underserved and poor in line with Ministry of Health and Population (MOHP) gender and social inclusion strategy; (ii) improving the nutritional status of children and pregnant women; (iii) expanding coverage and improving the effectiveness in the response to HIV and AIDS; and (iv) further reducing the mortality and morbidity associated with pregnancy and child birth. The second component of the project is health systems strengthening. The component will focus on the following activities: (i) improving the availability of human resources for health, especially in under-served areas; (ii) improving the sustainability of financing the sector and designing mechanisms to provide protection against impoverishment due to ill health; (iii) strengthening and expanding the scope of monitoring and evaluation; and (iv) improving governance and accountability in the health sector."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P117417",
+      "raw_payload": {
+        "boardapprovaldate": "2010-04-20T00:00:00Z",
+        "borrower": "Ministry of Finance",
+        "closingdate": "2016-01-15",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "1527331970",
+        "envassesmentcategorycode": "B",
+        "grantamt": "908380030",
+        "id": "P117417",
+        "impagency": "Ministry of Health",
+        "major_sector_code": "HX",
+        "major_sector_name": "FY17 - Health",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "HX",
+              "major_sector_name": "FY17 - Health",
+              "sectors": [
+                {
+                  "sector_code": "HF",
+                  "sector_name": "FY17 - Public Administration - Health",
+                  "sector_percent": "18.0"
+                },
+                {
+                  "sector_code": "HG",
+                  "sector_name": "FY17 - Health",
+                  "sector_percent": "82.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Health,FY17 - Public Administration - Health",
+        "proj_id": "P117417",
+        "project_abstract": "The objective of the Second Health Nutrition and Population (HNP) and HIV/AIDS Project is to enable the Government of Nepal to increase access to essential health care services and their utilization by the underserved and the poor. There are two components to the project. The first component of the project is health service delivery. The component will focus on the following activities: (i) increasing access to, and utilization of, an affordable package of essential health services by the underserved and poor in line with Ministry of Health and Population (MOHP) gender and social inclusion strategy; (ii) improving the nutritional status of children and pregnant women; (iii) expanding coverage and improving the effectiveness in the response to HIV and AIDS; and (iv) further reducing the mortality and morbidity associated with pregnancy and child birth. The second component of the project is health systems strengthening. The component will focus on the following activities: (i) improving the availability of human resources for health, especially in under-served areas; (ii) improving the sustainability of financing the sector and designing mechanisms to provide protection against impoverishment due to ill health; (iii) strengthening and expanding the scope of monitoring and evaluation; and (iv) improving governance and accountability in the health sector.",
+        "project_name": "Nepal: Second HNP and HIV/AIDS Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Disease Control",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Health Systems and Policies",
+          "FY17 - Nutrition and Food Security",
+          "FY17 - Nutrition and Food Security"
+        ],
+        "totalamt": "129152000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 908380030.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2010-04-20",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P117417",
+      "value": "p117417"
+    }
+  ],
+  "implementing_agency": "Ministry of Health",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal: Second HNP and HIV/AIDS Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P117417",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Health",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p117417",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 129152000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.498136Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p117417",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

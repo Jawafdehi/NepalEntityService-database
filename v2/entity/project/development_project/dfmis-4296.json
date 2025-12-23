@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.390028Z",
+  "dates": [
+    {
+      "date": "2023-09-08",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-09-08",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-05-08",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Review and propose improvements in national legislation and regulations in view of effective management of pesticides and risk reduction focusing NBSs1.2 Development of a guideline for the registration of microbial pest control products for use1.3 Design curricula and conduct country training on registration and regulation of biopesticides tailored to context of target countries2.1 Strengthening national capacities for invasive pests prevention, preparedness and response using nature-friendly crop protection technology and measures.2.2 Organization of regional training on climate-smart crop protection focusing on NBS2.3 Mitigating risk of climate change in agriculture sector through Climate-Smart Agriculture (CSA)3.1Strengthening provincial/regional plant protection laboratory facilities and capacity for information repository, diagnostic services, production of foundation materials for mass multiplication of bio-pesticides3.2 Mass production technology of bio- pesticides, storage, transport and application of use3.3 Preparation of field guide on production, storage, transport and application of bio- pesticides4.1 Document success stories and good practices on NBSs and disseminate to entire society4.2 Develop ICT materials (printed materials, newspaper articles, video/audio jingles etc.) for launching mass media campaign on pesticide problems and NBSs in collaboration with Civil Society, Farmers' union, NGOs and Academic institutions4.3 Launch mass media campaign to create awareness on pesticide-related adverse health effects and environmental risks and withdrawal notices (phased-out pesticides in the market)4.4 Development of awareness materials for climate-resilient agriculture (CRA)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "4296",
+      "raw_payload": {
+        "id": 41925,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 94374.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-09-08",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4296",
+      "value": "4296"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening the capacities of Government counterparts and relevant stakeholders for increasing productivity and building climate resilient agriculture through nature-based solutions in Asia",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4296",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4296",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 94374.0,
+  "total_disbursement": 12678.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.390026Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4296",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.925164Z",
+  "dates": [
+    {
+      "date": "2022-08-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-08-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Major activities (per output) Activities of Output 1.1 -         Activity 1.1.1 Organisational development and capacity building of farmer groups -         Activity 1.1.2 Capacity strengthening of farmers groups on savings and credit, business development, and linkages to financial and government organisations Activities of Output 1.2 -         Activity 1.2.1 Skill enhancement of farmers on improved dairy cow and buffalo husbandry using Farmer Field School approach          Activity 1.2.2 Support for private farms to develop as model farms for demonstration of improved technologies and practices in animal husbandry        Activity 1.2.3 Social and technical support mobilisation Activities of Output 1.3 -         Activity 1.3.1 Capacity building and support to farmers for animal health and AI services          Activity 1.3.2 Support to the most vulnerable/poorest households with cows in a revolving concept Activities of Output 1.4 -        Activity 1.4.1 Training and support to farmers on safe and hygienic milk collection, storage, and processing Activities of Output 2.1 -         Activity 2.1.1 Provide training and support to youth and women, VAHW/AI, and para-vet technician and government staff -         Activity 2.1.2 Identification, development, and mobilisation of lead farmers for farmer to farmer (FtF) extension services Activities of Output 2.2 -         Activity 2.2.1 Dairy market assessment and cost of production analysis -         Activity 2.2.2 Existing/new cooperatives capacity strengthening on cooperative and business management -         Activity 2.2.3 Support cooperatives and private firms for proper management of milk collection, processing, and input supply Activities of Output 2.3 -         Activity 2.3.1 Assist farmer on marketing using Farmers Market School (FMS) approach, market linkage and business plan preparation -         Activity 2.3.2 Capacity development of farmers groups for resource"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Adventist Development and Relief Agency",
+      "donor_project_id": "4144",
+      "raw_payload": {
+        "id": 41896,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Adventist Development and Relief Agency",
+        "organization_id": 340,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 1205211.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Adventist Development and Relief Agency",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-08-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4144",
+      "value": "4144"
+    }
+  ],
+  "implementing_agency": "Adventist Development and Relief Agency",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "The Enhanced Rural AI (TERAI) project for Smallholder Dairy Farmers in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4144",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4144",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1205211.0,
+  "total_disbursement": 1120117.60006446,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.925161Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4144",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.412690Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p167047",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.412693Z",
+    "dates": [
+      {
+        "date": "2022-07-16",
+        "source": "WB",
+        "type": "CLOSING"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The development objective of the School Sector Development Program (SSDP) Project for Nepal is to improve the quality, equitable access, and efficiency of basic and secondary education in Nepal by supporting the government's SSDP. The additional financing (AF) will comprise of two parts: (a) intermediate disbursement-linked results (DLRs) amounting to 60 percent of the total grant and (b) output and outcome-linked DLRs related to equity, quality, and efficiency amounting to 40 percent of the total grant. SSDP disbursement-linked indicator (DLIs) can be grouped under three results areas: results area 1: improved teaching-learning and student learning outcomes; results area 2: improved equitable access to basic and secondary education; and results area 3: strengthened education system, sector planning, management, and governance."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P167047",
+        "raw_payload": {
+          "boardapprovaldate": "2019-08-05T00:00:00Z",
+          "borrower": "Ministry fo Finance",
+          "closingdate": "2022-07-16",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "23958000",
+          "grantamt": "23958000",
+          "id": "P167047",
+          "impagency": "Ministry of Education, Science and Technology",
+          "major_sector_code": "EX",
+          "major_sector_name": "FY17 - Education",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "EX",
+                "major_sector_name": "FY17 - Education",
+                "sectors": [
+                  {
+                    "sector_code": "EC",
+                    "sector_name": "FY17 - Early Childhood Education",
+                    "sector_percent": "44.0"
+                  },
+                  {
+                    "sector_code": "EF",
+                    "sector_name": "FY17 - Public Administration - Education",
+                    "sector_percent": "23.0"
+                  },
+                  {
+                    "sector_code": "ES",
+                    "sector_name": "FY17 - Secondary Education",
+                    "sector_percent": "33.0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "FY17 - Early Childhood Education,FY17 - Public Administration - Education,FY17 - Secondary Education",
+          "proj_id": "P167047",
+          "project_abstract": "The development objective of the School Sector Development Program (SSDP) Project for Nepal is to improve the quality, equitable access, and efficiency of basic and secondary education in Nepal by supporting the government's SSDP. The additional financing (AF) will comprise of two parts: (a) intermediate disbursement-linked results (DLRs) amounting to 60 percent of the total grant and (b) output and outcome-linked DLRs related to equity, quality, and efficiency amounting to 40 percent of the total grant. SSDP disbursement-linked indicator (DLIs) can be grouped under three results areas: results area 1: improved teaching-learning and student learning outcomes; results area 2: improved equitable access to basic and secondary education; and results area 3: strengthened education system, sector planning, management, and governance.",
+          "project_name": "Nepal: Additional Financing for School Sector Development Program",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed",
+          "themev2_level1_exact": [
+            "FY17 - Environment and Natural Resource Management",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Human Development and Gender",
+            "FY17 - Urban and Rural Development"
+          ],
+          "themev2_level2_exact": [
+            "FY17 - Climate change",
+            "FY17 - Disaster Risk Management",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Education",
+            "FY17 - Gender"
+          ]
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": [
+      {
+        "amount": 23958000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "USD",
+        "donor": "World Bank",
+        "donor_id": null,
+        "financing_instrument": "IDA Grant",
+        "is_actual": true,
+        "source": "WB",
+        "terms": null,
+        "transaction_date": "2019-08-05",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/wb-p167047",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167047",
+        "value": "p167047"
+      }
+    ],
+    "implementing_agency": "Ministry of Education, Science and Technology",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal: Additional Financing for School Sector Development Program",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P167047",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "FY17 - Education",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p167047",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Environment and Natural Resource Management",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Human Development and Gender",
+        "normalized_tag": null
+      },
+      {
+        "category": "THEME",
+        "donor": "World Bank",
+        "donor_tag": "FY17 - Urban and Rural Development",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.412690Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p167047",
+      "id": "version:entity:project/development_project/wb-p167047:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

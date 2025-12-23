@@ -1,0 +1,218 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.872836Z",
+  "dates": [
+    {
+      "date": "2027-09-30",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The proposed Grant will support approximately 4,000 rural, poor women, including home-based workers, small scale unorganized producers and community-based entrepreneurs, to work as a collective in the non-farm sector. The grant will provide basic skills and organization to create the ecosystem for business in the rural economy. Multiple innovative women’s economic empowerment models will be pilot-tested through value chain development (e.g. spices and natural fiber crafts, etc.). This will be implemented through the formation of producer groups that will be provided with skill upgrading, marketing, prototype development, basic financial literacy and accounting. The project will support the establishment/strengthening of community facilitation centers (CFCs) at community level, which will train community professionals to manage the CFCs and support producer groups beyond pilot implementation. It will also support capable group members demonstrating business growth, consistently increased profitability and product diversification based on market demands to further improve their individual businesses."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P174496",
+      "raw_payload": {
+        "borrower": "Chaudhary Foundation",
+        "closingdate": "2027-09-30",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "2752304",
+        "esrc_ovrl_risk_rate": "Low",
+        "grantamt": "2752108",
+        "id": "P174496",
+        "impagency": "Chaudhary Foundation",
+        "major_sector_code": "AX,YX",
+        "major_sector_name": "FY17 - Agriculture, Fishing and Forestry,FY17 - Industry, Trade and Services",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "FY17 - Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AK",
+                  "sector_name": "FY17 - Public Administration - Agriculture, Fishing & Forestry",
+                  "sector_percent": "0.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "YX",
+              "major_sector_name": "FY17 - Industry, Trade and Services",
+              "sectors": [
+                {
+                  "sector_code": "YA",
+                  "sector_name": "FY17 - Agricultural markets, commercialization and agri-business",
+                  "sector_percent": "0.0"
+                },
+                {
+                  "sector_code": "YF",
+                  "sector_name": "FY17 - Public Administration - Industry, Trade and Services",
+                  "sector_percent": "0.0"
+                },
+                {
+                  "sector_code": "YZ",
+                  "sector_name": "FY17 - Other Industry, Trade and Services",
+                  "sector_percent": "0.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Industry, Trade and Services,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Public Administration - Industry, Trade and Services",
+        "proj_id": "P174496",
+        "project_abstract": "The proposed Grant will support approximately 4,000 rural, poor women, including home-based workers, small scale unorganized producers and community-based entrepreneurs, to work as a collective in the non-farm sector. The grant will provide basic skills and organization to create the ecosystem for business in the rural economy. Multiple innovative women’s economic empowerment models will be pilot-tested through value chain development (e.g. spices and natural fiber crafts, etc.). This will be implemented through the formation of producer groups that will be provided with skill upgrading, marketing, prototype development, basic financial literacy and accounting. The project will support the establishment/strengthening of community facilitation centers (CFCs) at community level, which will train community professionals to manage the CFCs and support producer groups beyond pilot implementation. It will also support capable group members demonstrating business growth, consistently increased profitability and product diversification based on market demands to further improve their individual businesses.",
+        "project_name": "Women’s Economic Advancement in Value Chain and Entrepreneurship",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Dropped",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Private Sector Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Gender",
+          "FY17 - Jobs",
+          "FY17 - Rural Development"
+        ]
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 2752108.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": null,
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174496",
+      "value": "p174496"
+    }
+  ],
+  "implementing_agency": "Chaudhary Foundation",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Women’s Economic Advancement in Value Chain and Entrepreneurship",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P174496",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Industry, Trade and Services",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p174496",
+  "stage": "terminated",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.872833Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p174496",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

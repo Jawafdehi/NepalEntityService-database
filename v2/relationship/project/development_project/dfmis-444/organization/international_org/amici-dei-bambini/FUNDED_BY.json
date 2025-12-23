@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:10.088717Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-444",
+  "start_date": null,
+  "target_entity_id": "entity:organization/international_org/amici-dei-bambini",
+  "type": "FUNDED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project funded by Amici dei Bambini",
+    "created_at": "2025-12-23T19:11:10.088729Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-444:organization/international_org/amici-dei-bambini:FUNDED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

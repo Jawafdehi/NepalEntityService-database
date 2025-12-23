@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.110753Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1695",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.110755Z",
+    "dates": [
+      {
+        "date": "2017-06-19",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2017-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Conduct assessment/baseline of all possible sites in new districts, district level orientation meetings with DHO team/stakeholders and formation and orientation to Provider Support Team (PST).Provide basic (equipment’s and infrastructures) supports  to ensure quality services (major supports includes equipment, instruments, furniture, drugs, minor repair of facilities) in new sitesProvide follow up/maintance support to provide quality services to all HFs (major supports includes equipment, instruments, furniture, drugs, minor repair of facilities)Conduct orientation of Clinical Mentors and Public health nurses to develop their capacity to perform effective clinical support to all service providers of MA and 2nd trim servicesSupport training centers with equipment and supplies and conduct quality training for service providersConduct post training follow up visits to ensure quality of services by the experts on this area like Staff Nurses, Medical Doctors, Obstetricians and Gynecologists as per the level of service providersBuilding skills of service providers on how deal and counsel with youths when they visit in health facility for services and youth members on how to actively participate in the meeting and disseminate message with their peers. This will help to strengthen health facility as youth friendly services.Implement Client Oriented: Providers Efficient (COPE) and Partnership Define Quality for Youth (PDQY) quality improvement approach in all health facilities to improve quality of servicesConduct Annual review/networking meeting of service providers and PST members of MA and 2nd trim servicesProvide skills and knowledge of Female Community Health Volunteers (FCHVs) on SAS and using Urine Pregnancy Test- Provide Bag, Umbrella, Urine Pregnancy Test kits, flipcharts, IEC/BCC etc.Implement Social Behavior Change Communication activities to increase awareness and reduce abortion stigma at community level by collaborating with DHO/DPHOs and trained HF staff. They will use the Behavior Change Communication approaches like community dialogue meetings with local leaders and community members.Develop capacity of national NGOs and local CSOs/CBOs on safe abortion and behavior change communications. Help national NGO to implement round table dialogue with key stakeholders on various issues and local CSOs/SBOs to implement community level activities to increase awareness and reduce stigma  on safe abortionCoordination and joint advocacy meeting with local government bodiesCollect project related data from the intervention health facility once a month. Prepare report and use data for program improvement and submit to concerned agencies and conduct review meeting.Conduct Client exit interview to assess the satisfaction level of women and girls who received safe abortion service. Prepare report and improve the quality of service based on the findings of the reportConduct safe abortion related studies including dissemination of results in larger group.Conduct assessment on the current status of sustainability of safe abortion program. After this report, develop action plan to improve furtherDevelop Costed National Plan for SAS together with GON relevant agenciesPiloting of facility graduation and conduct midterm evaluation.Conduct pre-service training to Obstetrician/Gynecology Course. This will help to reduce time and cost to do further training after they pass from the UniversityConduct advocacy meeting with central and local level stakeholders including TCIC and RHWG and other forums like annual review meetingConduct Social Audit (Yearly) to disseminate the progresses, challenges, lesson learnt, budget expenses and human resources of the organization.Conduct Central Project Advisory Committee (CPAC) meetings, District Project Advisory Committee (DPAC) meetings and Reproductive Health Coordination Committee (RHCC) meetingsConduct Project Dissemination Workshop at the end of the project to disseminate about the progresses, challenges and lessor learnt. Participants includes government and non-government stakeholders, media persons, representative from the district, CSO/CBOs, community and service users."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "IPAS Nepal",
+        "donor_project_id": "1695",
+        "raw_payload": {
+          "id": 11373,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "IPAS Nepal",
+          "organization_id": 545,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "IPAS Nepal",
+    "financing": [
+      {
+        "amount": 4983323.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "IPAS Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2017-06-19",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1695",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1695",
+        "value": "1695"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing the Ability of Women to Obtain Comprehensive Abortion Care and Prevent Unwanted Pregnancy- II",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1695",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1695",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 4983323.0,
+    "total_disbursement": 4983323.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.110753Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1695",
+      "id": "version:entity:project/development_project/dfmis-1695:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.141495Z",
+  "dates": [
+    {
+      "date": "2020-07-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-07-02",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Overall Goal:To enhance opportunities for adolescent girls and vulnerable communities to exercise their basic health rights.Specific objectives:i. To prepare local health facilities and communities to respond COVID-19 pandemicii. To improve accessibility of MHM services and facilitiesiii. To enhance knowledge and practice (KAP) of menstrual hygiene management among adolescent girlsiv. To decrease menstruation related stigma at community level Project Activities1. Water purifier provision for quarantine2. Hygiene and Dignity Kit provision for quarantines3. Hygiene kit and PPE support for health posts4. PPE support for Bajura District Hospital5. Dignity Kit provision for Health Mothers' Group (HMG)6. IEC materials adaptation on COVID Prevention7. Health workers’ capacity building workshop on COVID8. Protective materials provision for FCHVs9. Teacher capacity building workshop on COVID10. FCHV education on COVID11. Health Mother Groups (HMG) education on COVID12. Management of Menstrual Hygiene materials to female adolescents13. Handwashing facility installation14. Toilet renovation15. Water Facility establishment16. MHM friendly toilet construction17. Management of MHM materials in Schools and health facilities18. MHM corner establishment19. Organizing S-WASH-CC meeting20. S-WASH-CC capacity building21. Management of WASH tool box22. MHM IEC material development23. MHM workshop with Health workers24. Capacity Development workshop for Teachers on MHM25. Management of materials for FCHVs26. Training to FCHV on MHM27. Training to Health Mother Groups (HMG) on MHM28. Orientation to Mother Groups on MHM29. Community mobilization and technical support30. MHM education to female adolescents31. Sanitary Pad making training to female adolescents32. MHM education: supportive teaching materials33. Management of MHM materials to female adolescents34. Training to traditional healers on MHM35. MHM education to male adolescents36. MHM campaign37. Radio broadcast to raise awareness for MHM38. Ward level meeting on MHM39. Coordination meeting in Municipalities for MHM policies"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Good Neighbors International Nepal",
+      "donor_project_id": "2415",
+      "raw_payload": {
+        "id": 12413,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Good Neighbors International Nepal",
+        "organization_id": 511,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Good Neighbors International Nepal",
+  "financing": [
+    {
+      "amount": 1352834.728,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Good Neighbors International Nepal",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-07-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2415",
+      "value": "2415"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Health Rights Improvement Project for Adolescent Girls and Vulnerable Communities",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2415",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2415",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1352834.728,
+  "total_disbursement": 1367070.3463,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.141492Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2415",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

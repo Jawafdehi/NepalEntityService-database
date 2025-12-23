@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.816613Z",
+  "dates": [
+    {
+      "date": "2019-04-09",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-04-09",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2020-04-08",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Football ground/ Play Space Repair and Maintenance (ground leveling, construction or maintenance of fence and wall, provision of water for irrigation)2. Training of Trainers in Football3 ( It is a unique way of playing football that is based on the principle that fair play, gender equality, teamwork and respect are just as important as football skills)3,Training for Community Coaches in Kailali, Kaski,Makwanpur and Thimi4.Coach Mobilization for Football3-session5.Training of youth leaders in Community LevelWorkshop with Youth Leaders for Learning and SharingWorkshop with GAYASupport for engagement of GAYA including capacity building and English language class"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "2344",
+      "raw_payload": {
+        "id": 13792,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "MercyCorps",
+  "financing": [
+    {
+      "amount": 370259.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-04-09",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2344",
+      "value": "2344"
+    }
+  ],
+  "implementing_agency": "MercyCorps",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Generation Amazing Phase II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2344",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2344",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 370259.0,
+  "total_disbursement": 370259.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.816610Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2344",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:17.027167Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1824",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:17.027170Z",
+    "dates": [
+      {
+        "date": "2015-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Result 1: CBOs are strengthened to ensure right to adequate food by promoting good governance1.1 Project inception and regular meetings at district and VDC level  1.2. Capacity assessment and strengthening of CBOs1.3. Sensitization and mobilization of CBOs/Cooperatives on right to food issues1.4. Advocacy, awareness raising and promotion of good governanceResult 2: Increased productivity by adapting sustainable integrated farming systems (SIFS)2.1. Introduction of sustainable integrated farming system to lead farmers2.2. Provision of small irrigation facilities2.3. Participatory seed multiplication2.4. Promotion of organic farming2.5. Introduction of post-harvest technologiesResult 3: Value chains of three commodities are developed and financing models for those three chains are established3.1. Select three commodities based on participatory assessment exercise3.2 Value chain / stakeholder analysis and development of intervention strategy 3.3 Identify financial institutions and establish financing models engaging the private sectorResult 4 The nutrition status on household level has been substantially improved4.1. Introduction of LANN (Linking agriculture, resource management and nutrition)4.2. Conduct community-based interventions for acute malnourished children below five4.3. Develop IEC material and organize awareness raising events"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_project_id": "1824",
+        "raw_payload": {
+          "id": 8884,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Deutsche Welthungerhilfe e.V",
+          "organization_id": 529,
+          "percentage": 0
+        }
+      },
+      {
+        "donor": "Federal Ministry for Economic Cooperation and Development",
+        "donor_project_id": "1824",
+        "raw_payload": {
+          "id": 8883,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 35,
+          "organization__development_cooperation_group__name": "Germany",
+          "organization__logo": "",
+          "organization__name": "Federal Ministry for Economic Cooperation and Development",
+          "organization_id": 173,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Deutsche Welthungerhilfe e.V",
+    "financing": [
+      {
+        "amount": 1443080.302,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1824",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1824",
+        "value": "1824"
+      }
+    ],
+    "implementing_agency": "Local Initiatives for Biodiversity Research and Development, Non Governmental Organisations, NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Improving the Livelihoods of Marginalized groups in Salyan District Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1824",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1824",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1443080.302,
+    "total_disbursement": 1608043.8895,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:17.027167Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1824",
+      "id": "version:entity:project/development_project/dfmis-1824:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

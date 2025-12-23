@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.521475Z",
+  "dates": [
+    {
+      "date": "2012-09-30",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-09-30",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-09-19",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1. Recruitment of national and TCDC consultants\r\n\r\n1.2. Conduct National stakeholders’ workshop / meetings\r\n\r\n1.3 Review the current situation of level of bio-security in the agro-food supply chain and identify policy and institutional constraints to transform the agro-food supply chain into bio-secure\r\n\r\n1.4 Develop a draft on national policy framework and institutional reform        necessary  for  bio-security based on the analysis of economic benefits\r\n\r\n1.5. Draft a national food safety and quality policy (to fit within the national policy framework) and develop the action plan for implementation of the same\r\n\r\n1.6. Analyze and prepare risk analysis and management frameworks\r\n\r\n2.1. Assess the existing situation on the role of public and private sectors on agro-food supply chain and of level of bio-security in the agro-food supply chain covering role of various stakeholders including farmers, producers, processors, transporters, other service providers, retailers, consumers, etc\r\n\r\n2.2. Review the cost of compliance with bio-secure requirements (Prepare/design an analytical framework and assist in its implementation in a selected area, in collaboration with the National Consultants, to estimate the cost of adopting bio-secure practices (i.e GAP) by small farmers)\r\n\r\n3.1. Conduct a National stakeholders’ workshop / meetings and develop training modules for ToT and subject specific trainings, and their curricula and materials\r\n\r\n3.2. Organize a ToT (12- 15 days) and develop Master Trainers (15-20 Participants)\r\n\r\n3.3. Carry out various level in-country trainings to the participants of the   public and private sectors on the subject of bio-secure agriculture\r\n\r\n3.4. Carry out on the job training for the operation and troubleshooting of HPLC and LCMS to analyze contaminants, residues, additives, etc. in food and feeds in abroad country\r\n\r\n3.5. In-country/onsite training on LCMS, GCMS for operation and troubleshooting   on  analysis of contaminants, residues, additives, etc. in food and feed materials by TCDC experts\r\n\r\n4.1. Develop standards of the NTIS identified exportable commodities including coffee and dairy products that are in harmony with Codex\r\n\r\n4.2. Strengthen laboratory-testing facility for the analysis of contaminants especially heavy metals, pesticides and veterinary drug residues.\r\n\r\n4.3. Operationalize CODEX national secretariat for continual standard development as well as establishment and strengthening of National Codex Committees"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "281",
+      "raw_payload": {
+        "id": 3734,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 327000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-09-20",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 327000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-09-20",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/281",
+      "value": "281"
+    }
+  ],
+  "implementing_agency": "Department of Food Technology and Quality Control",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Policy assistance for bio-secure agro-food supply chain enhanced market access and food security for the small holding rural sector",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/281",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-281",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 654000.0,
+  "total_disbursement": 324950.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.521472Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-281",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

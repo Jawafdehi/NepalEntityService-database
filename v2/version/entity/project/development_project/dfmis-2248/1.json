@@ -1,0 +1,184 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.423036Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2248",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.423039Z",
+    "dates": [
+      {
+        "date": "2022-05-19",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-05-19",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-05-18",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activities _Under Output 1.1:  Vulnerable families have increased access to the farm and off-farm production technology, skill, marketing, productive assets and diversified income sources.. Research/ assessment (livelihood approach,  Identify potential new market opportunities along the value chain )· Training and sensitization support to strengthen the capacity of   livelihood groups ( life skills coaching, group management, financial literacy)· Community training session on  sustainable  agricultural practice, technologies  and livestock management· Facilitating  farmer to farmer exchange visits, experience sharing to mutually learn from experiences· Provision of improved  agriculture tools, seeds, greenhouses tunnel facilities and  machinery support  to the farmers·  Construction/ rehabilitation of community productive assets ( irrigation, collection point, post-harvest management )· Creation of short employment opportunities through cash for work· Provision of financial, technical capacity building and business development support for the various types of small businesses enterprises· Support  farmers for market linkage ( trade fairs & exhibition, Dialogue with service providers, market channel )· Piloting  of innovative models, ICT4D,  for building climate resilience and improving livelihoods of small-scale women  farmers· Enhance sharing, learning and reflection at the local and regional level on practical experience and good models of climate change adaptation,·Support collaborations with key stakeholders including local authorities and target communitiesActivities _Under Output 1.2:  Food insecure households have increased access to nutritious food preference to meet their dietary needs·Needs assessment conducted to identify vulnerable households/communities and nutritional needs· Nutritional food support to food insure families      Activities _Under Output 2.1:  Vulnerable communities supported with improved WASH facilities and their Hygiene related Knowledge, Attitudes and Practices are improved.  ·    Feasibility study/survey of WASH·   Support for the development of positive hygiene practices at schools and in the communities (CLTS, mass awareness)·    Development of IEC/ BCC materials on WASH·    Construction/rehabilitation of appropriate drinking Water and sanitation  facilities·  Capacity building of water user committee /artesianActivities _Under Output 3.1:  Strengthened protection systems to prevent and protect right and improved response services in targeted communities.· Capacity building of protection groups/ network, faith leader and relevant stakeholders· Conduct community dialogue, meetings, community outreach campaign with the youth, women, cultural, religious, and local leaders to eliminate harmful practice· Provision of Need based  protection  service to the affected or at risk individual, ·  Organize media awareness  on child marriage, gender based violence, child labor·       Facilitate to  update/revise   policy strategy, framework and guideline on protection·       Support to orphan or other vulnerable children ( education material, learning facility, skill training, leadership development, health services etc)·       Produce Information Education and Communication materials Activities _Under Output 4.1: Capacity of target communities for DRR, CCA, and disaster management enhanced·       Conduct  vulnerability capacity assessments including climate change vulnerabilities in hazard-prone communities·       Support to implement  community prioritized DRR/CCA actions or ecosystem restoration activities under LDCRP·       Provision of Training and sensitization to CSO, duty bearer on DRR/CCA mainstreaming in development planning·       Awareness raising on DRR/CCA in the communities and schools including hazard mapping·       Support workshop to  update/revise   policy strategy, framework and guideline on DRR/CCA·       Provision of necessary logistic and equipment /technology promotion to enhance community resilience Activities _Under Output 4.2: Disaster affected families are able to meet their immediate needs in a dignified way.·       Provide emergency relief as per need to survivors of natural and man-made disasters (food/non-food/WASH/protection etc)Winterization support to the cold affected families"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Islamic Relief Worldwide",
+        "donor_project_id": "2248",
+        "raw_payload": {
+          "id": 13109,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Islamic Relief Worldwide",
+          "organization_id": 755,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Women, Children and Senior Citizens",
+    "financing": [
+      {
+        "amount": 8000000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Islamic Relief Worldwide",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2022-05-19",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2248",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2248",
+        "value": "2248"
+      }
+    ],
+    "implementing_agency": "Lumbini Integrated Development Organization, Centre for Development and Disaster Management Nepal, Bagmati Welfare Society Nepal, Jan Jagaran Youth Club, Rural Development Centre Nepal, Dalit Society Welfare Committee Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Community Resilience Development Project In Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2248",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2248",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 8000000.0,
+    "total_disbursement": 800863.5125,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.423036Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2248",
+      "id": "version:entity:project/development_project/dfmis-2248:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.467995Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-979",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.467998Z",
+    "dates": [
+      {
+        "date": "2015-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-03-14",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-03-13",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Provide Basic and Advance Training to farmers in cultivation of selected species of MAPs.\r\n\tEstablish nurseries for MAPs and other fodder and tree species in project area.\r\n\tNew MAPs/Multi-purpose Cooperative is formed\r\n\tBusiness development and networking linkage training for cooperative groups is provided\r\n\tThe capacity of cooperatives is built through exposure visit\r\n\tProvide support to farmers to obtain “Product Origin Certificates” in cooperation with the District Forest Office.\r\n\tProvide support on value addition of MAPs Product.\r\n\tProvide training on Legal provision, Sustainable harvesting techniques, market management and network.\r\n\tProject inception, endorsement and review workshop in district level\r\n\tProject inception, endorsement and review workshop in VDCs level\r\n\tProject monitoring CPAC and DPAC\r\n\tProvide support for short-term skill development training for women and youth from socially and economically marginalized households.\r\n\tProvide support for Women’s Group for livestock based income-generating activities such as poultry, goat or pig farming.\r\n\tProvide training in community-based eco-tourism activities (such as home stay and lodge management, etc.)\r\n\tProvide support to Women's Groups for procuring seedlings of large cardamom\r\n\tSupport the construction of multi-purpose cooperatives buildings.\r\n\tSupport the construction of check dams to stabilize the landslide prone area.\r\n\tSupport the construction of small scale Drinking Water System\r\n\tBuild capacity of ‘community user groups’ in the entire cycle of planning, construction and maintenance of rural infrastructure.\r\n\tIdentify vulnerable areas in the community and prioritize areas needing interventions\r\n\tSupport reforestation of private and barren land with native and fast growing species.\r\n\tTrain MAPs farmers, cooperative members and local NGOs in plant diversity monitoring techniques.\r\n\tEstablish monitoring protocols for MAPs and appropriate number of monitoring blocks within Community Forests and degraded land.\r\n\tRaise awareness of importance of biodiversity protection through posters and pamphlets.\r\n\tConduct NGO Capacity Assessment of local NGO partners.\r\n\tSupport the capacity, knowledge and skills of NGO partner staff in management, program implementation, and monitoring and evaluation tools and techniques.\r\n\tSupport the access to information and enhance knowledge of NGO partner staff in government and non-governmental support for earthquake-affected communities.\r\n\tCollect information at HH level about the status of legal documents (citizenship papers, land revenue document, bank documents, etc.) lost or destroyed during the earthquake in coordination with local level institutions (DDRC, VDC Secretary, Ward Citizen Forum, etc.).\r\n\tOrganize orientations to NGO partners and local community groups on access to information about technical and financial support available for re-building.\r\n\tProvide support to vulnerable groups (female headed households, elderly population, people living with disabilities, etc.) in accessing support for re-building.\r\n\tSupport the documentation of destruction of culturally valuable sites and infrastructure in earthquake affected areas in consultation with local communities.\r\n\tDevelop a plan for the restoration of significant heritage sites that are important for the community that includes a cost plan.\r\n\tBased on the restoration plan seek funding for supporting the cultural restoration."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Mountain Institute",
+        "donor_project_id": "979",
+        "raw_payload": {
+          "id": 8415,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Mountain Institute",
+          "organization_id": 286,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Mountain Institute",
+    "financing": [
+      {
+        "amount": 360000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Mountain Institute",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-979",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/979",
+        "value": "979"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Building Resilient Livelihoods and Ecosystems in Remote Mountain Communities in Nepal (Pragatishil Pahad Project)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/979",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-979",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 360000.0,
+    "total_disbursement": 470975.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.467995Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-979",
+      "id": "version:entity:project/development_project/dfmis-979:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

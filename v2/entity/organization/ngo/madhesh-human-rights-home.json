@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Non-Government Organisation",
+    "group": "NGO"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Non-Government Organisation"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.580057Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Madhesh Human Rights Home",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "madhesh-human-rights-home",
+  "sub_type": "ngo",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Madhesh Human Rights Home",
+    "created_at": "2025-12-23T19:11:06.580055Z",
+    "entity_or_relationship_id": "entity:organization/ngo/madhesh-human-rights-home",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

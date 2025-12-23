@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.054705Z",
+  "dates": [
+    {
+      "date": "2012-05-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-05-24",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-05-01",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Environment Conservation\r\n\r\n\tA. Establishment/renovation of tree nurseries- 4 nurseries\r\n\r\n\t \r\n\r\n\tB. Production/collection of tree seedlings - 60,000 seedlings\r\n\r\n\t \r\n\r\n\tC. Pre-plantation training- 8 training, 400 farmers\r\n\r\n\t \r\n\r\n\tD. Tree plantation program-  60,000 seedlings\r\n\r\n\t \r\n\r\n\t \r\n\r\n\t2. Alternative Energy:                                                \r\n\r\n\tA. Bio-gas plant construction 500 plants\r\n\r\n\t \r\n\r\n\tB. Toilet construction- 500 toilets\r\n\r\n\t \r\n\r\n\tC. Biogas operation & slurry mgnt. training- 10 training, 500 HHs\r\n\r\n\t \r\n\r\n\t3. Sustainable Agriculture\r\n\r\n\t \r\n\r\n\tA.  IPM training on vegetable cultivation- 18 trainings, 540 farmers\r\n\r\n\t \r\n\r\n\tB.  Basic organic vegetable cultivation training- 8 training, 300 farmers\r\n\r\n\t \r\n\r\n\tC.  Organic compost & pesticide making training- 12 training, 600 farmers\r\n\r\n\t \r\n\r\n\tD.  Organic farming study tour- 10 tours, 500 farmers           \r\n\r\n\t \r\n\r\n\tE.  Improvement of irrigation facilities - 4 facilities\r\n\r\n\t \r\n\r\n\tF. Introducing improved vegetable seeds- 400 farmers\r\n\r\n\t \r\n\r\n\tG. IPM Demonstration Plot establishment-  4 plots\r\n\r\n\t \r\n\r\n\tH.   Pheromene trap distribution- 1000 traps, 500 farmers\r\n\r\n\tI.  Provision of extension service- 4 staffs\r\n\r\n\t \r\n\r\n\t4. Sustainable Livestock:\r\n\r\n\t \r\n\r\n\tA. Breed improvement through AI-  2000 cattle\r\n\r\n\t \r\n\r\n\tB. Cattle shed improvement- 300 sheds\r\n\r\n\t \r\n\r\n\tC. Urine collection bucket distribution- 3000 buckets\r\n\r\n\t \r\n\r\n\tD. Fodder grass slip distribution- 200000 slips\r\n\r\n\t \r\n\r\n\tE. Livestock management training- 12 trainings, 600 farmers\r\n\r\n\t \r\n\r\n\tF. Livestock vaccination campaign- 20 campaigns\r\n\r\n\t \r\n\r\n\tG. Cattle manure improvement- 300 farmers\r\n\r\n\t \r\n\r\n\tH. Support to enhance goat raising- 100 farmers\r\n\r\n\t \r\n\r\n\tI. Provision of extension service- 1 staff          \r\n\r\n\t \r\n\r\n\t5. Appropriate Technology:\r\n\r\n\t \r\n\r\n\tA. Chaff cutter distribution- 300 pieces\r\n\r\n\t \r\n\r\n\tB. Plastic tunnel erection- 300 tunnels\r\n\r\n\t \r\n\r\n\tC. Plastic pond construction- 300 ponds\r\n\r\n\t \r\n\r\n\tD. Introducing drip irrigation system- 300 sets\r\n\r\n\t \r\n\r\n\t6. Market Promotion:\r\n\r\n\t \r\n\r\n\tA. Post-harvest training-  6 training, 300 farmers\r\n\r\n\t \r\n\r\n\tB. IPM/Organic products' marketing study Throughout 5 years\r\n\r\n\t \r\n\r\n\t7. Health & Sanitation:\r\n\r\n\t \r\n\r\n\tA. Basic Health & Sanitation Training- 8 training 400 farmers\r\n\r\n\t \r\n\r\n\tB. Low-cost toilet construction-  300 toilets\r\n\r\n\t \r\n\r\n\t8. Capacity Development:\r\n\r\n\t \r\n\r\n\tA. Regular Users' Group meeting-  576 meetings\r\n\r\n\t \r\n\r\n\tB. Capa. Dev. training for local users' group- 15 training\r\n\r\n\tC. Printing booklet on sus. agriculture- 1000 copies           \r\n\r\n\tD. Printing booklet on sustainable livestock-1000 copies\r\n\r\n\t \r\n\r\n\tE. Booklet on tree plantation- 1000 copies\r\n\r\n\t \r\n\r\n\tF. Capacity development training for staffs- 5 training, 10 staff\r\n\r\n\t \r\n\r\n\t9. Follow up, monitoring and reporting:\r\n\r\n\tA. Participatory monitoring & evaluation by SWC      2 times\r\n\r\n\t \r\n\r\n\tB. Reporting and documentation- 10 times"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Love Green Japan",
+      "donor_project_id": "664",
+      "raw_payload": {
+        "id": 3517,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Love Green Japan",
+        "organization_id": 620,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Non Governmental Organisations",
+  "financing": [
+    {
+      "amount": 576000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Love Green Japan",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-05-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/664",
+      "value": "664"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Integrated Rural Development Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/664",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-664",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 576000.0,
+  "total_disbursement": 495019.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.054703Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-664",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

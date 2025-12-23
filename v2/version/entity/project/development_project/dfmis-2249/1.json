@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.447096Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2249",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.447101Z",
+    "dates": [
+      {
+        "date": "2021-07-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2021-07-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2021-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1: Conduct needs assessment of selected health facilities to assess the needs and gapsActivity 1.2: Conduct market analysis/selection of suppliersActivity 1.3 Procurement of health supplies, vaccine storage equipment and hand washing stationsActivity 1.4 Conduct quality check - ensuring that the health supplies meet technical standardsActivity 1.5: Organize 8 handover events to provide COVID-19-related medical equipment and supplies, vaccine storage to the targeted public healthcare facilities/isolation centres.Activity 1.6: Design finalization and site selection for hand washing stationsActivity 1.7: Install 35 contactless hand washing stations in the 33 target public healthcare facilities.Activity 2.1: Design finalization and site selection for hand washing stationsActivity 2.2: Market Assessment and selection of suppliersActivity 2.3: Procurement of hand washing stations (this will be undertaking in conjunction with Activity 1.2)Activity 2.4: Transportation of hand washing stationsActivity 2.5: Install 28 contactless hand washing stations in identified strategic locations (market places, public transport hubs, and other public spaces).Activity 2.6: Identification of 2,000 individuals under home isolation or admitted in the isolation centreActivity 2.7: Distribute isolation kits to 2,000 covid-19 infected individuals receiving home based treatment or in Isolation Centre.Activity 2.8: Awareness-raising activities on Covid-19 prevention (radio broadcasting & IECS)Activity 3.1: Meeting with local authorities/community leaders to identify the most vulnerable HHs based on pre-defined criteriaActivity3.2: Provide orientation to volunteer/staff on beneficiary registration, revalidation process and distribution protocolsActivity 3.3: Mobilize staff/volunteers for Validation survey and Identify, and beneficiaries for distributionsActivity 3.4: Conduct market analysis/selection of suppliersActivity 3.5: Identifying and Setting up of distribution centresActivity 3.6: Transportation of relief material to distribution sitesActivity 3.7: Conduct 15 distributions to provide food packages to 3000 families (for 30 days as per government/sphere standard)Activity 3.8: Exit InterviewDetails physical targets has been mentioned below"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Islamic Relief Worldwide",
+        "donor_project_id": "2249",
+        "raw_payload": {
+          "id": 13134,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Islamic Relief Worldwide",
+          "organization_id": 755,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Islamic Relief Worldwide",
+    "financing": [
+      {
+        "amount": 396713.5142,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Islamic Relief Worldwide",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-07-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2249",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2249",
+        "value": "2249"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "COVID-19 Emergency Response Project in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2249",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2249",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 396713.5142,
+    "total_disbursement": 392186.3254,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.447096Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2249",
+      "id": "version:entity:project/development_project/dfmis-2249:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

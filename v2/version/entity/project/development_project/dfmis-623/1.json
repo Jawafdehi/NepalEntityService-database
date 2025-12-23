@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.872519Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-623",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.872521Z",
+    "dates": [
+      {
+        "date": "2016-08-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-08-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Component 1: \"Learn, understand, act\"\r\n\r\n\r\nUnder Expected Result 1: The concept of WPC is disseminated / started being institutionalized\r\n\r\nActivity 1.1:  Institutionalization of Nigarani Samuha/WPC at district level\r\n\r\n\r\n\tMeeting with concerned agencies (at district level) for promotion on the Nigarani Samuha/WPC concept.\r\n\tUsage of local media for advocacy of Nigarani Samuha/WPC\r\n\tCoordination meeting with District anti-trafficking network for promotion of Nigarani Samuha/WPC\r\n\tInteraction with local community leaders, key personnel's in the community for the advocacy of Nigarani Samuha/WPC.\r\n\tDevelopment of a toolkit / guideline regarding the WPC concept (and translation of the toolkit)\r\n\tPre test of the toolkit\r\n\tDissemination of the toolkit at district and national level\r\n\r\n\r\nActivity 1.2:  Institutionalization at national level\r\n\r\n\r\n\tAvailibility of the toolkit will help in increasing the State responsibility and accountability showing them that community based non-costly mechanisms can be set up to address TIP and GBV issues.\r\n\r\n\r\n\r\n\tFollow up with DWC and ministry to replicate the concept in all district of the country.\r\n\tOrganisation of training/workshop by PE to disseminate the concept to other NGOs & district authorities.\r\n\r\n\r\nUnder Result 2: 45 Nigarani Samuha and 5 WPCs are created under the Women Cooperative of Makwanpur district and are capacitated to support victims and refer cases\r\n\r\nActivity 2.1: Support to WCO to form functional and sustainable Nigarani Samuha/WPC who assist victims and refer cases to existing assistance mechanisms\r\n\r\n\r\n\tOrientation to WCO staff on the toolkit\r\n\tCo-facilitation with WCO staff to Women Cooperatives Board Members on Psychosocial counseling,    TIP, GBV, legal processes, Referral mechanisms - 5 days training\r\n\tCo-facilitation with WCO staff to Women Cooperatives Board Members on Psychosocial counseling, TIP, GBV, legal processes, Referral mechanisms - 2 days Follow up training\r\n\tMonitoring and supervision of assistance mechanism, cases identification, individual counseling, legal actions and referral done by Nigarani samuha/WPC\r\n\tTraining on Men Engage for Men & GBV for mix groups (men and women) in each VDC\r\n\tParental Education to members of Nigarani Samuha and WCs groups\r\n\tAwareness-raising at VDC-level\r\n\tExchange/exposure visit of Nigarani Samuha/WPCs (between new Nigarani Samuha/WPC and the existing Nigarani Samuha/WPCs)\r\n\tVDC-level quarterly coordination meetings between existing WPC, sub-group, WCs, and VDC anti trafficking groups\r\n\r\n\r\n \r\n\r\n \r\n\r\nActivity 2.2:   Formation (setup) of new adolescents groups\r\n\r\n\r\n\tMeetings with existing WC's adolescents groups for activation and mobilization\r\n\tMobilization of 5 Adolescents groups for better linkage with WCs and Nigarani Samuha/WPCs\r\n\tOrientation will conduct life skills, SRH, HIV/AIDS, TIP/GBV (1 day per VDC)\r\n\r\n\r\nActivity 2.3:   Access psychosocial counseling services for victims of GBV/TIP and referral assistance through counseling centre\r\n\r\n\r\n\tSet up Psychosocial counseling Desk under WC office in each VDC\r\n\tDelivery counseling (operating)\r\n\r\n\r\nUnder Expected Result 3: Vulnerable families have increased access to financial and in-kind support to ensure sustainability and reduce risks of trafficking\r\n\r\nActivity 3.1:  Promotion of inclusive and quality economic services of the WCs\r\n\r\n\r\n\tTraining to newly selected WCs on inclusive and efficient saving and credit mechanism\r\n\tFacilitate to develop inclusive policy and bylaws (printing, travel, stationery etc)\r\n\tOrientation on entrepreneurship to beneficiaries\r\n\r\n\r\nFollow up & attend WCs' meetings\r\n\r\n\r\n\tComponent 2: \"Not for sale\"\r\n\r\n\r\nUnder Result 1: Girls and women working in the entertainment sector in KTM or at risk of exploitation have an increased access to services and alternatives available to them\r\n\r\nActivity 1.1: Outreach Activities \r\n\r\n\r\n\tField work (visits of establishments, follow up)\r\n\tMobile counseling camps\r\n\tWeekly psychological counseling\r\n\tAwareness-raising\r\n\r\n\r\nActivity 1.2: Coordination and networking \r\n\r\n\r\n\tListing potential and relevant companies to collaborate with, coordination and contacts for the vocational trainings and job placement\r\n\tCoordination meetings\r\n\r\n\r\nActivity 1.3: Empowerment Session \r\n\r\n\r\n\tGroups set-up, knowledge based training/ life skills training\r\n\tFollow up and individual support for alternative professional opportunities\r\n\r\n\r\n \r\n\r\nUnder Result 2: Girls and women are reintegrated after having received holistic support within a shelter\r\n\r\nActivity 2.1 Institutionalized through the shelter activities \r\n\r\n\r\n\tIntake activities\r\n\tMedical support\r\n\tPsychological services\r\n\tNFE class with issue based information\r\n\tRecreational Activities\r\n\r\n\r\n \r\n\r\nActivity 2.2: Social and economical rehabilitation activities\r\n\r\n\r\n\tCareer plan and developed for each resident/ case management\r\n\tFormal education support\r\n\tVocational training\r\n\tJob placement and IGA support\r\n\r\n\r\n \r\n\r\nActivity 2.3: Pre reintegration and Post reintegration act"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Planete Enfants",
+        "donor_project_id": "623",
+        "raw_payload": {
+          "id": 9636,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Planete Enfants",
+          "organization_id": 574,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Planete Enfants",
+    "financing": [
+      {
+        "amount": 442252.0263,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Planete Enfants",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-08-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-623",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/623",
+        "value": "623"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "II Phase of Promoting Human Rights: combating trafficking, sexual exploitation and violence against women and children",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/623",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-623",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 442252.0263,
+    "total_disbursement": 295586.7207,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.872519Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-623",
+      "id": "version:entity:project/development_project/dfmis-623:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

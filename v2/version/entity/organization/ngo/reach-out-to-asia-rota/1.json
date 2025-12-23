@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Reach Out To Asia (ROTA)",
+  "created_at": "2025-12-23T19:11:06.629726Z",
+  "entity_or_relationship_id": "entity:organization/ngo/reach-out-to-asia-rota",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Non-Government Organisation",
+      "group": "NGO"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Non-Government Organisation"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.629742Z",
+    "description": null,
+    "id": "entity:organization/ngo/reach-out-to-asia-rota",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Reach Out To Asia (ROTA)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "reach-out-to-asia-rota",
+    "sub_type": "ngo",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Reach Out To Asia (ROTA)",
+      "created_at": "2025-12-23T19:11:06.629726Z",
+      "entity_or_relationship_id": "entity:organization/ngo/reach-out-to-asia-rota",
+      "id": "version:entity:organization/ngo/reach-out-to-asia-rota:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

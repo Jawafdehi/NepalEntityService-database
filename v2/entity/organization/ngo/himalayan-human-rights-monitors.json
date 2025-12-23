@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Non-Government Organisation",
+    "group": "NGO"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Non-Government Organisation"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.661490Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Himalayan Human Rights Monitors",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "himalayan-human-rights-monitors",
+  "sub_type": "ngo",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Himalayan Human Rights Monitors",
+    "created_at": "2025-12-23T19:11:06.661488Z",
+    "entity_or_relationship_id": "entity:organization/ngo/himalayan-human-rights-monitors",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

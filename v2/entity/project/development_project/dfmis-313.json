@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.894922Z",
+  "dates": [
+    {
+      "date": "2011-01-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2008-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2012-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "A description of the main activities of the project \r\n \r\n4.1 Rehabilitation services for children affected by armed conflict (CAAC, CAAFAG, VMLR) in 33/59 districts.\r\n4.2 Monitoring, reporting and response to core violations of children´s rights in armed conflict (UNSCR 1612) in 46 districts.\r\n4.3 Documentation and response to sexual violence during conflict in 14 districts\r\n4.4 Access to transitional justice (TJ) for children whose rights were violated during the armed conflict, in the framework of the Truth and Reconciliation Commission (TRC)\r\n4.5 Prevention of explosive device (ED)/small arm incidents and assistance to survivors in 75 districts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Children's Fund",
+      "donor_project_id": "313",
+      "raw_payload": {
+        "id": 2446,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Children's Fund",
+        "organization_id": 11,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "United Nations Children's Fund",
+  "financing": [
+    {
+      "amount": 4973000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Children's Fund",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-01-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/313",
+      "value": "313"
+    }
+  ],
+  "implementing_agency": "Forum for Women, Law & Development, Centre for Victims of Torture Nepal, Central Child Welfare Committee, Community Development Programme, Children Women in Social Service and Human Rights, Terre Des Hommes, Child Welfare Society, Save the Children, JSI Research & Training Institute Inc/World Education, Beautiful Nepal Association, Search for Common Ground, Advocary Forum, Central Child Welfare Board, Human Rights Network and Peace Action Group, Diyalo Pariwar, Society of Local Volunteers Effort, Indreni Rural Development Centre, Informal Sector Service Centre, Siddhartha Social Development Center, Rural Development Center, Panch Tara Yuva Samrakshyak Manch, Himalayan Human Rights Monitors, Transcultural Psychosocial Organization, Ecology, Agriculture and Rural Development Society, Integrated Community Development Campaign, Rural Community Development Service Council",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PCR 4, IR 4: Child Protection - Armed Conflict",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/313",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-313",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 4973000.0,
+  "total_disbursement": 2837419.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.894920Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-313",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

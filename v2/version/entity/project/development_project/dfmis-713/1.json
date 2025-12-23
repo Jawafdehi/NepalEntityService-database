@@ -1,0 +1,146 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.309602Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-713",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.309605Z",
+    "dates": [
+      {
+        "date": "2016-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The media institutions have been flourishing after the restoration of the democracy in 1991 in Nepal. Despite impressive quantitative figures, the quality of the contents is often poor. A general acceptance in the Nepali media is that the professional values and codes of conduct are not implemented, due to lack of awareness and proper understanding. The activity 'Promotion of Self-Regulation for Strengthening Media Independence\" will assess the status of self-regulation in the media institutions and provide necessary recommendations to them and media regulatory bodies and stakeholders. The findings of the assessment will be shared among the journalists, editors and media regulatory bodies organizing a seminar."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_project_id": "713",
+        "raw_payload": {
+          "id": 10124,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+          "organization_id": 168,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "financing": [
+      {
+        "amount": 17000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-713",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/713",
+        "value": "713"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "8250111341KAT (ED) Promotion of Self-Regulation for Strengthening Media Independence in Nepal 2.) Gender Sensitivity in Nepali Media: An analysis from the perspective of UNESCO's 'Gender Sensitive Indicators for Media'",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/713",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-713",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 17000.0,
+    "total_disbursement": 15310.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.309602Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-713",
+      "id": "version:entity:project/development_project/dfmis-713:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

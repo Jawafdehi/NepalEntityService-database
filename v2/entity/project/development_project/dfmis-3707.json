@@ -1,0 +1,177 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.180413Z",
+  "dates": [
+    {
+      "date": "2020-05-27",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-05-27",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2023-05-26",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "S.NActivitiesInputsActivity 1.1.1Organize meeting (project sharing /review and reflection) for establishing coordination and partnership among stakeholders at Municipal level ( Municipality, Wards, Agricultural groups, forest user committees CSOs, including political parties)Technical support, notebook, pen, travel allowance,Activity 1.1.2Provide seed/seedlings for kitchen gardening in selected clusters level (2 days).Especially focus to those household who have pregnant and lactating mother.Seeds, saplings, watering can, technical person, travel allowanceActivity 1.1.3Materials support for Sloping Agricultural Land Technology (SALT) to selected farmers from poorest family.A frame, rope, stick, grass seed/planting material/ Seed/deedlings, resource person, travel allowance, notebook, penActivity 1.1.4Materials support for integrated pest management (IPM) to farmersBio-pesticides, pheromone, plastic bucket, local materials/botanicals, sprayer, resource person, travel allowance, notebook, penActivity 1.1.5Material support to construct, repair and maintenance the recommended irrigation cannel/drip/sprinkler/plastic ponds in cost share basisCement, sand, stone, pipe, sprinkler, water collection tank, resource person, travel allowance, notebook, penActivity 1.1.6Organize inter district learning visit of farmers to have opportunity for best practices.Travel cost, logistic supportActivity 1.2.1Provide initial goat support to selected poorest household in cost sharing basis. (Activity will consider livestock and environmental risk management during implementation)Breeding male Goat, Vaccination, Goat shed improvement materials (construction materials), technical person, notebook, penActivity 1.2.2Initial chicken support to poorest household, who can not involve in goat farming.chicken, chicken shed construction support, technical person, notebook, penActivity 1.2.3Provide Seed/Sapling to farmers for livestock feed and fodder management (including forage and pasture management to conserve forest)seeds, saplings, technical person, notebook, penActivity 1.2.4Support to organize sharing and learning event among selected farmersBreeding male Goat, Vaccination, Goat shed improvement materials (construction materials), technical person, notebook, penActivity 1.3.1Conduct feasibility study on climate change appropriate high value commodities (ginger, vegetable, walnut, turmeric, Apple etc.) to identify the potential commodities for income generation.Study/research, technical personActivity 1.3.2Material support to participants for cultivation of high value commodities (including inter cropping). (Training will focus on environmental friendly cultivation practices and include message about climate change)Seed/sapling, tools,secateurs, sprayer, plastic, bucket, Bordeaux paste, tehnical person, travel allowance, notbook, penActivity 1.3.3Provide material for Nursery Management of high value commodities.Secateurs, bucket, grafting knife, sprayer, watering cane, poly bags, rooting medium, tehnical person, travel allowance, notbook, penActivity 1.4.1Vocational skills provided to women and youth including marginalized groups on different appropriate trades as per the current market needSupport materials/seed money, resource person, logistic supportActivity 1.4.2Provide initial support for women and youth including marginalized groups for establishment of entrepreneurship (Consider for establishment of agro vet service so that the community could also benefit further)Support materials/seed money, technical supportActivity 2.1.1Enhance knowledge about negative impact of environment degradation and climate change impact including environmentally-friendly technologyBudget and resource personActivity 2.1.2Facilitate the communities for VCA and DRRStudy/research, resource personActivity 2.1.2Organize skill development on smokeless stove constructionTechnical personnel, materials for trainingActivity 2.1.3Support technologies/materials for establishing smokeless stove at HH levelConstruction materials, resource personActivity 2.2.1To identify the potential land for tree plantation and conservation with stakeholders consultation Land preparation materials, logistic arrangementsActivity 2.2.2Provide sapling including required materials and equipment for plantationSaplings, secateurs, bucket, grafting knife, sprayer, watering cane, poly bags, rooting medium, technical personActivity 2.2.3Provide support for protection of planted saplingMaterials for sapling protectionActivity 2.2.4Material support to promote appropriate bioengineering technologyBroom grass saplings, construction materials as per needActivity 2.3.1Facilitate for organizing/strengthening municipal and district level agriculture and forest NetworksBudget, resource person, notebook, penActivity 2.3.2Carry out interraction program with stakeholders annuallyBudget, resource person, notebook, penActivity 2.3.3Coordination and colaboration for local initiativesBudget, resource per"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Tear Fund",
+      "donor_project_id": "3707",
+      "raw_payload": {
+        "id": 40808,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Tear Fund",
+        "organization_id": 609,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 103488.9,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Tear Fund",
+      "donor_id": null,
+      "financing_instrument": "Sector Wide Approach",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-05-27",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1596347.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Tear Fund",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3707",
+      "value": "3707"
+    }
+  ],
+  "implementing_agency": "International Nepal Fellowship",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Building resilient communities through protection and EES interventions in the project locations",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3707",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Economic Affairs – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Economic Affairs – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Community Development",
+      "donor_subsector": null,
+      "normalized_sector": "Community Development",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3707",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1699835.9,
+  "total_disbursement": 1218058.889,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.180397Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3707",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

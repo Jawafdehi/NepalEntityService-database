@@ -1,0 +1,149 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.787458Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010262",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.787461Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The main objectives of the Third Narayani Irrigation Project are to increase dry-season agricultural production and reduce the risks to monsoon crop production by introducing an equitable, predictable and reliable irrigation system in the Narayani irrigation scheme.  The proposed project is the third phase of an IDA-supported program and will complete the development of irrigation and drainage infrastructure over about 37,400 ha served by the Nepal Eastern Canal in the Narayani Zone of the Central Region of Nepal.  The project will also provide for:  flood protection and river training works; improvements to village roads and canal service roads; as well as support to agricultural extension and research; a regional workshop; training of project staff; consulting services; funding for project establishment and O&M; a small component for groundwater development; and monitoring and evaluation."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010262",
+        "raw_payload": {
+          "boardapprovaldate": "1986-06-19T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "envassesmentcategorycode": "C",
+          "id": "P010262",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AI",
+                    "sector_name": "Irrigation and Drainage",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "Irrigation and Drainage",
+          "proj_id": "P010262",
+          "project_abstract": "The main objectives of the Third Narayani Irrigation Project are to increase dry-season agricultural production and reduce the risks to monsoon crop production by introducing an equitable, predictable and reliable irrigation system in the Narayani irrigation scheme.  The proposed project is the third phase of an IDA-supported program and will complete the development of irrigation and drainage infrastructure over about 37,400 ha served by the Nepal Eastern Canal in the Narayani Zone of the Central Region of Nepal.  The project will also provide for:  flood protection and river training works; improvements to village roads and canal service roads; as well as support to agricultural extension and research; a regional workshop; training of project staff; consulting services; funding for project establishment and O&M; a small component for groundwater development; and monitoring and evaluation.",
+          "project_name": "NARAYANI III (CONSOL",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010262",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010262",
+        "value": "p010262"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "NARAYANI III (CONSOL",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010262",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010262",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.787458Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010262",
+      "id": "version:entity:project/development_project/wb-p010262:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

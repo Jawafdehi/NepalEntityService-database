@@ -1,0 +1,243 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.001066Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-870",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.001068Z",
+    "dates": [
+      {
+        "date": "2009-04-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-04-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Empowering communities and community organisations to participate in local governance\r\n\r\n\t  UNDP will draw on its more than ten years of experience of mobilising local communities to help citizens and communities engage more actively with local governments and for them to hold local governments to account. An important activity will be developing a mechanism for local bodies to systematically involve communities in planning and implementing programmes.\r\n\r\n\r\n\r\n\tEnabling local body capacity building\r\n\r\n\t  The Ministry of Local Development will be assisted to establish and implement a system for building up the capacity of local bodies to provide basic services inclusively and equitably. Two key support areas will be enabling DDCs to better backstop and mentor VDCs, and funding training programmes for local governments, community organisations, user groups and other service delivery agencies. These programmes will emphasise gender sensitivity and social inclusiveness and enable Nepal's 3,915 VDCs to make the best use of the grants of 1.5 million rupees plus ($20,000) they receive each year.\r\n\r\n\r\n\r\n\tEnabling central government and national NGOs to support local governments\r\n\r\n\t  UNDP, UNICEF, UNFPA, and UNCDF will work together to strengthen the policy and national institutional framework for decentralisation, devolution and community development. This will include strengthening the capacity of the Ministry of Local Development to facilitate sector-wise devolution, to design and use a local government performance monitoring system and to mainstream gender equality and social inclusion issues into decentralisation processes. Other key tasks are to support the implementation of the national capacity building strategy for local bodies and to support the three local government associations (ADDCN, MuAN, NAVIN) to work on behalf of their member DDCs, VDCs and municipalities."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_project_id": "870",
+        "raw_payload": {
+          "id": 1522,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 32,
+          "organization__development_cooperation_group__name": "United Kingdom",
+          "organization__logo": "",
+          "organization__name": "Foreign, Commonwealth & Development Office",
+          "organization_id": 31,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "United Nations Capital Development Fund",
+        "donor_project_id": "870",
+        "raw_payload": {
+          "id": 1523,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Capital Development Fund",
+          "organization_id": 167,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "Danish International Development Agency",
+        "donor_project_id": "870",
+        "raw_payload": {
+          "id": 1524,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 8,
+          "organization__development_cooperation_group__name": "Denmark",
+          "organization__logo": "",
+          "organization__name": "Danish International Development Agency",
+          "organization_id": 21,
+          "percentage": 25
+        }
+      },
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "870",
+        "raw_payload": {
+          "id": 1526,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 25
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Federal Affairs & General Administration",
+    "financing": [
+      {
+        "amount": 2305209.774,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Foreign, Commonwealth & Development Office",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-02-24",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 50000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Capital Development Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-06-30",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 2250000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Capital Development Fund",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-04-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 4700000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-04-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-870",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/870",
+        "value": "870"
+      }
+    ],
+    "implementing_agency": "Ministry of Federal Affairs & General Administration",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "UN Joint  programme of support to LGCDP",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/870",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-870",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 9305209.774,
+    "total_disbursement": 6377748.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.001066Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-870",
+      "id": "version:entity:project/development_project/dfmis-870:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

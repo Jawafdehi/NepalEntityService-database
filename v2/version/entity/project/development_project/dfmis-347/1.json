@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.356523Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-347",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.356525Z",
+    "dates": [
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2012-08-09",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "-Conduct a baseline study and situation analysis\r\n\r\n\t-Establish the Korak Development Planning Committee.\r\n\r\n\t-Form 20 farmer groups, 6 irrigation committees, 6 road user committees, 1 seed committee and 2 nursery committees.\r\n\r\n\t-Organize and conduct initial 3 one-week trainings for 60 leading members of SHGs in management, administration, good governance and leadership\r\n\r\n\t-Elaborate development and action plans with the Planning Committee and SHGs\r\n\r\n\t-Design and construct 2 community centers / organize management of community centers / link the centers with local authorities, service providers and the Learning Center Program of the Government.\r\n\r\n\t-Develop and construct with the farmer groups 4 new irrigation Systems. Rehabilitate 2 irrigation Systems.  Train irrigation committees.\r\n\r\n\t-Organize and conduct 18 Farmer Field Schools for 450 members of the farmer groups.\r\n\r\n\t-Organize special trainings for 180 farmers in organic vegetable farming, fruit cultivation and livestock raising.\r\n\r\n\t-Organize and conduct 7 five-days training in kitchen gardening for 140 households.\r\n\r\n\t-Establish on seed bank. Train 20 members of the seed committees 2-3 weeks in seed production and multiplication. Coordinate with DADO for seed certification.\r\n\r\n\t-Establish of cooperative (approx. 3000 members).\r\n\r\n\t-Organize and conduct workshops and trainings for 80 members of the cooperative in management, administration, credit and saving, marketing.\r\n\r\n\t-Conduct marketing analysis and value chain analysis for 2-3 products\r\n\r\n\t-Develop operational plans for the production, processing and marketing of these products.\r\n\r\n\t-Organize and conduct trainings in post harvesting, processing and marketing for 60 members of the cooperative.\r\n\r\n\t-Provide inputs for production, processing and marketing (material, tools, truck).\r\n\r\n\t-Design and construct a storage for the cooperative\r\n\r\n\t-Organize and conduct exposure/exchange programs for 90 cooperative members to successful organic farms, agricultural and NTPF business, etc.\r\n\r\n\t-Organize and conduct 2 years training program for 20 youths in organic farming (curriculum development, identification of resource persons, etc.)\r\n\r\n\t-Training of 40 leading members of the 8 forest user groups in sustainable forest management (development of forest use plan, marketing of NTFPs, sustainable use of forest resources, etc.).\r\n\r\n\t-Organize and establish 2 nurseries. Conduct training for 20 nursery committee members. Provide seedlings.\r\n\r\n\t-Organize the reforestation of 125 ha deforested / damaged forest land"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_project_id": "347",
+        "raw_payload": {
+          "id": 3645,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Deutsche Welthungerhilfe e.V",
+          "organization_id": 529,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Deutsche Welthungerhilfe e.V",
+    "financing": [
+      {
+        "amount": 638977.8077,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Deutsche Welthungerhilfe e.V",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-347",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/347",
+        "value": "347"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Integrated rural development and nature conservation in the mountainous regions of Chitwan District",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/347",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-347",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 638977.8077,
+    "total_disbursement": 597556.66999,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.356523Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-347",
+      "id": "version:entity:project/development_project/dfmis-347:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

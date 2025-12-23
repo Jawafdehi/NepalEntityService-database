@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.515633Z",
+  "dates": [
+    {
+      "date": "2011-12-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-05-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Develop a templete for generating MDG-related disaggregated statistics and indicators developed:\r\n\t\r\n\t\tApply the template to the latest ppopulation and housing census data and produce in selected countries and disseminate disaggregated stastistics;\r\n\t\r\n\t\tDevelop a methodology for generating estimates of selected health or education-related MDG Indicators;\r\n\t\r\n\t\tApply the SAE methodology in producing estimates in selected countries;\r\n\t\r\n\t\tConduct a regional inception workshop to share knowledge and good practices among member states and arrive at a common understanding among all country teams on the objectives, mtethodologies and implementation process of the initiative.\r\n\t\r\n\t\tConduct a regional training /workshop to share knowledge  and experience on census data tabulation, small area estimation and master sample construction  among countries and to plan possible future capacity development work on data disaggregation."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "The United Nations Economic and Social Commission for Asia and the Pacific",
+      "donor_project_id": "4395",
+      "raw_payload": {
+        "id": 36415,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "The United Nations Economic and Social Commission for Asia and the Pacific",
+        "organization_id": 183,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "National Planning Commission",
+  "financing": [
+    {
+      "amount": 7000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "The United Nations Economic and Social Commission for Asia and the Pacific",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2011-12-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4395",
+      "value": "4395"
+    }
+  ],
+  "implementing_agency": "Central Bureau of Statistics",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Supporting the achievement of the Millineum\r\n\r\ngoals in Asia and the Pacific(Phase III)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4395",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Research and Development – Economic Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "Research and Development – Economic Affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4395",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 7000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.515631Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4395",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

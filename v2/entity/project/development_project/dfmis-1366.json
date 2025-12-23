@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.555168Z",
+  "dates": [
+    {
+      "date": "2020-06-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-04-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Coordination meeting with local, provincial and national government on MMH and overall response based on BCC strategyFocus group discussions (if feasible) with existing groups (e.g., mother’s groups, men and children’s groups) – if context permitting. - Partners NepalImplementation of and monitoring use of bucket with tap and lid, hygiene items along with MMH behavior for handwashing at household level - Partners NepalInstallation of foot-oriented hand washing station with regular water supply and drainage facilities at institutions, market place - Partners NepalHand washing station at HHs level (Bucket with tap and lid) - Partners NepalDevelopment of behavior change communication (BCC) strategy based on the local context for Community Health and Hygiene Promotion adopting MMH as one of the key programmes – roles, responsibilities and care work norms - Partners NepalImplementation of behavior change communication strategy based on local context including use of adapted Mums Magic Hands for Covid-19 - Partners NepalHygiene Kit and mosquito net distribution in quarantine, isolation centers and communitiesOrientation on hygiene kit and distribution to targeted beneficiariesSupport to local government to provide numbers of bed, and safety measure for quarantine centers,Support fix and install temporary toilet in quarantine Centre-coordinationSupport to establish foot operated hand washing station,Support to provide temporary bathing units in quarantine Centre-coordinationHand hygiene promotion in health facilities, quarantine centers and community through trained community volunteersPaddle operated hand washing station with proper water supply, and drainage facilities in Quarantine, Isolation and Public places and strategic location of communities and government officeRegular provision of water supply for hand washing stationsProvision of temporary toilet establish and Improvement of toilet ensuring Child Gender Disability and ventilation with focus on Menstrual hygiene managementBroadcasting revised COVID-19 prevention message through televisionJingle through local FMAwareness raising of available protection and other services toward to community (posters, flyers, radio, videos, or social media)Dignity KitEstablished health desk, and help desk to share message regarding, COVID-19, GBV, referral mechanisms and linked with likeminded government agencies for protection issue in local levelSharing the real experiences of the handwashing focusing on MMH and Covid-19 and gender /care work through story- telling, question answers, video blog, interview Partners NepalSupport health and help desk in municipality to 1) provide information on culturally appropriate hygiene and health practices and behaviors focusing on MMH and 2) to dispel fake information on Covid-19 - Partners NepalGender sensitive awareness raising through local FM radio, mobile messaging, mobile booths, print media, social media, testimonials and local service providers such as disc home - Partners NepalDraw attention to handwashing messages by rotation of message in strategic location - Partners NepalPsychosocial Counselling service at transit point including Psychological First Aid (PFA) and Psychosocial Support (PSS)Anti-stigma message including protection and GBV messaging (Protection and SGBV flyer distribution)Training to    local men and women leaders, self-help groups (e.g., mother’s groups, children’s groups, FCHVs) on MMH and covid through online or, face to face maintaining physical distancing   - Partners NepalMobilization of trained local men and women leaders/ MMH champions to roll out MMH sessions at HHs level with application of PPE - Partners NepalLocal level behavior through # tag campion on hand hygiene promotion through social mediaAwareness raising and capacity building on Code of Conduct, Safeguarding, Care Work BurdenCoordinate with local government separating people by both sex and time of arrival at the quarantine centers,Support local authorities to develop plan on which migrants goes to which quarantine center-coordination with local authorities at home district,Baseline Assessment (knowledge, attitude, perceptions, fears, gender dynamics) and end line assessment with Gender Audit - Oxfam NepalDevelop learning, sharing and knowledge management documentsOrganize learning and sharing workshopConduct stakeholder joint monitoring visitLocal level coordination for advocacy, influencing and lobby for COIVD-19 preventionRegular Monitoring and Photo story collection of all activities.Rapid Assessment and Planning   with gender analysis at community levelApply community perception tracker using Mobenzi/SurveyCTO to update MMH behavior and general practices - Oxfam NepalReview reflection and learning sharing workshop- Oxfam in NepalDevelopment of Best Practices and Learning Document- Oxfam in Nepal"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_project_id": "1366",
+      "raw_payload": {
+        "id": 13777,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 32,
+        "organization__development_cooperation_group__name": "United Kingdom",
+        "organization__logo": "",
+        "organization__name": "Foreign, Commonwealth & Development Office",
+        "organization_id": 31,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Oxfam GB",
+  "financing": [
+    {
+      "amount": 1828118.87,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Foreign, Commonwealth & Development Office",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1366",
+      "value": "1366"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "COVID-19 Response Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1366",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1366",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1828118.87,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.555165Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1366",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from ADB IATI XML Feed",
+  "created_at": "2025-12-23T19:12:08.709273Z",
+  "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-56302-001-ln4397",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from ADB on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "ADB"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:12:08.709276Z",
+    "dates": [
+      {
+        "date": "2023-11-29",
+        "source": "ADB",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "- Senior loan up to $30,000,000 (including B Loans of up to $10,000,000) to support financing for small and medium-sized enterprises (SMEs) in Nepal.\n\n- Grant of $1,300,000 under ADF-PSW's blended finance solution to address affordability issues for disadvantaged women-owned SMEs (WSMEs) (i.e., interest concessions for onward lending to WSMEs)\n\n- Contingent grant of up to $1,000,000, through an unfunded risk transfer arrangement, under ADF-PSW's loan guarantee solution, to cover a portion of the bank's portfolio of uncollateralized loans to WSMEs.\n\n- Technical assistance (TA) from an existing TA of up to $250,000 to support the bank's digitization initiatives."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ADB",
+        "donor_project_id": "XM-DAC-46004-56302-001-LN4397",
+        "raw_payload": {
+          "activity_status": "2",
+          "contact": {
+            "organisation": "Asian Development Bank",
+            "person_name": "Oli, Nikunj",
+            "website": "https://www.adb.org/forms/request-information-form?topic=projects&source=PDS&subject=56302-001 (Approved)&officer= noli@adb.org&division= Private Sector Financial Institutions Division&projectcountry= Nepal"
+          },
+          "default_currency": "USD",
+          "hierarchy": "1",
+          "iati_identifier": "XM-DAC-46004-56302-001-LN4397",
+          "last_updated": "2025-11-24T08:42:07+08:00",
+          "locations": [
+            {
+              "exactness": "2",
+              "lat": 28.25855,
+              "location_id": "9036855",
+              "lon": 83.94523,
+              "name": "Nepal",
+              "reach": "1"
+            }
+          ],
+          "recipient_country": "NP",
+          "reporting_org_ref": "XM-DAC-46004"
+        }
+      }
+    ],
+    "executing_agency": "Asian Development Bank",
+    "financing": null,
+    "id": "entity:project/development_project/adb-xm-dac-46004-56302-001-ln4397",
+    "identifiers": null,
+    "implementing_agency": "Global IME Bank Limited",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Global IME Supporting Small and Medium-Sized Enterprises Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": null,
+    "sectors": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_sector": "1:24040",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "adb-xm-dac-46004-56302-001-ln4397",
+    "stage": "ongoing",
+    "sub_type": "development_project",
+    "tags": [
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Gender Equity and Mainstreaming",
+        "normalized_tag": null
+      },
+      {
+        "category": "GENDER",
+        "donor": "Asian Development Bank",
+        "donor_tag": "Accelerating progress in gender equality",
+        "normalized_tag": null
+      }
+    ],
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from ADB IATI XML Feed",
+      "created_at": "2025-12-23T19:12:08.709273Z",
+      "entity_or_relationship_id": "entity:project/development_project/adb-xm-dac-46004-56302-001-ln4397",
+      "id": "version:entity:project/development_project/adb-xm-dac-46004-56302-001-ln4397:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

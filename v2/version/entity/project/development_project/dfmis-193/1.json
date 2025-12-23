@@ -1,0 +1,146 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.920293Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-193",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.920296Z",
+    "dates": [
+      {
+        "date": "2012-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Initial meetings and consultations were held with Nepal National Commission for UNESCO, teacher training centres, curriculum development centres and other key stakeholder in order to prepare modalities to build the capacity of education officials on DRR and its integration in education sector.\r\n\t• Participating regularly in Education Cluster Group Meeting on emergency on disaster risk reduction and emergency support response\r\n\t• A 2 days' workshop was jointly organized by MOE, UNICEF, SC and UNESCO with the support of UNESCO Bangkok Office on DRR in education sector with a view to reach agreement on a coherent and holistic approach to DRR in the education sector and to explore strategic options for integrating DRR into education sectorial planning, and how partners can support this. 70 participants from MOE, UN agencies, development partners and I/NGOs participated in the workshop. Workshop was facilitated by UNESCO, UNICEF and Nepal Risk reduction consortium's expert\r\n\t\r\n\t• With the support of NRC secondee a mapping of DRR activities in Nepal's Education Sector has been undertaken and shared during the 2 days joint workshop on DRR in education sector held in January 2012.\r\n\t• A flyer on \"DRR in Education an imperative for education policymakers\" prepared by UNESCO Bangkok has been chosen by education cluster group for its adaption and translation into Nepali language as an advocacy materials.\r\n\t\r\n\t• Meetings with key stakeholders have contributed to enhance understanding on the importance of DRR in education and bring all key stakeholders on board and work together to build the capacity of education officials on DRR in education including integration of DRR into teacher training and curriculum.\r\n\t\r\n\t• A 2 days' workshop contributed to enhance understating on DRR in education among education officials and other key stakeholders. The workshop agreed on 10 key actions to be undertaken in next 12 months as road map for DRR in education. • Analysis of mapping and other materials shared during the workshop further contributed in raising the awareness among participants on DRR in education.\r\n\t\r\n\t• Integrating DRR in education demand huge capacity including conceptual clarity among key stakeholder\r\n\t\r\n\t• Collaboration with Nepal National commission for UNESCO, MOE, UN agencies contributes brings key stakeholders to work together and also ensures cost effectiveness and sustainability of teh programme."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_project_id": "193",
+        "raw_payload": {
+          "id": 3694,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+          "organization_id": 168,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "financing": [
+      {
+        "amount": 20000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Educational, Scientific and Cultural Organization",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-193",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/193",
+        "value": "193"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "61-13104012-KAT (Education) Promoting education for sustainable development with a particular focus on integrating disaster risk reduction and management in the education sector",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/193",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-193",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 20000.0,
+    "total_disbursement": 20000.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.920293Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-193",
+      "id": "version:entity:project/development_project/dfmis-193:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

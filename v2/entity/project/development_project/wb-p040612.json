@@ -1,0 +1,247 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.570455Z",
+  "dates": [
+    {
+      "date": "2004-07-15",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Basic and Primary Education Project aims to strengthen institutional capacities at national, district, and school levels for more efficient and better quality education services. There are three project components. 1) Strengthening institutional capacity, at the national level, will provide staff development and training to strengthen the technical support functions of the Ministry of Education and its newly established agencies and develop information systems to manage a decentralized school system. At the district level, the component will provide training to district education staff for basic district planning; and at the community level, the component will provide training to headteachers in school improvement planning. 2) Raising learning achievement will improve teaching and learning process by reviewing the curriculum content of grades 1 to 3, carry out action research with teachers in small, multigrade schools, and increase textbook availability through the introduction of a voucher system. It will also expand teacher professional support systems and improve teacher quality through demand driven training. 3) Increasing equitable access and improving retention will develop funding mechanism to utilize nongovernmental organizations and community-based organizations to deliver early childhood development programs and provide incentives targeted at the most disadvantaged families through supplying free textbooks and scholarships to needy girls."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P040612",
+      "raw_payload": {
+        "boardapprovaldate": "1999-03-30T00:00:00Z",
+        "closingdate": "2004-07-15",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "55700000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "40800000",
+        "id": "P040612",
+        "major_sector_code": "BX,EX",
+        "major_sector_name": "FY17 - Education,FY17 - Public Administration",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "FY17 - Central Government (Central Agencies)",
+                  "sector_percent": "15.0"
+                },
+                {
+                  "sector_code": "BH",
+                  "sector_name": "FY17 - Sub-National Government",
+                  "sector_percent": "15.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "EX",
+              "major_sector_name": "FY17 - Education",
+              "sectors": [
+                {
+                  "sector_code": "EC",
+                  "sector_name": "FY17 - Early Childhood Education",
+                  "sector_percent": "10.0"
+                },
+                {
+                  "sector_code": "EP",
+                  "sector_name": "FY17 - Primary Education",
+                  "sector_percent": "48.0"
+                },
+                {
+                  "sector_code": "ET",
+                  "sector_name": "FY17 - Tertiary Education",
+                  "sector_percent": "12.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Central Government (Central Agencies),FY17 - Early Childhood Education,FY17 - Primary Education,FY17 - Sub-National Government,FY17 - Tertiary Education",
+        "proj_id": "P040612",
+        "project_abstract": "The Basic and Primary Education Project aims to strengthen institutional capacities at national, district, and school levels for more efficient and better quality education services. There are three project components. 1) Strengthening institutional capacity, at the national level, will provide staff development and training to strengthen the technical support functions of the Ministry of Education and its newly established agencies and develop information systems to manage a decentralized school system. At the district level, the component will provide training to district education staff for basic district planning; and at the community level, the component will provide training to headteachers in school improvement planning. 2) Raising learning achievement will improve teaching and learning process by reviewing the curriculum content of grades 1 to 3, carry out action research with teachers in small, multigrade schools, and increase textbook availability through the introduction of a voucher system. It will also expand teacher professional support systems and improve teacher quality through demand driven training. 3) Increasing equitable access and improving retention will develop funding mechanism to utilize nongovernmental organizations and community-based organizations to deliver early childhood development programs and provide incentives targeted at the most disadvantaged families through supplying free textbooks and scholarships to needy girls.",
+        "project_name": "Basic and Primary Education Project II",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Human Development and Gender",
+          "FY17 - Public Sector Management",
+          "FY17 - Public Sector Management",
+          "FY17 - Social Development and Protection"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Education",
+          "FY17 - Education",
+          "FY17 - Gender",
+          "FY17 - Public Administration",
+          "FY17 - Public Administration",
+          "FY17 - Social Inclusion"
+        ],
+        "totalamt": "12500000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 40800000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "IDA Grant",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "1999-03-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P040612",
+      "value": "p040612"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Basic and Primary Education Project II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P040612",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Education",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p040612",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Human Development and Gender",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Public Sector Management",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Social Development and Protection",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 12500000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.570453Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p040612",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

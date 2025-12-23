@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.941139Z",
+  "dates": [
+    {
+      "date": "2019-12-24",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-01-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-04-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1: 18 project team and LEU received of 12 days ToT on the training components (disability inclusion)1.2:  Mobilization 6 Itinerant Teachers after 10 days Training to support ECED Teacher and the parents on strategies to include children with disabilities.1.3: 265 head teachers and ECED teacher are trained on early screening and inclusion pedagogical approaches.1.4:  All children of planned ECED are screened (3000 in year 1 and 3000 in year 2) in the centre and catchment area1.5: 140 ECED teachers received training based inclusive Activity bank, picture-aided communication materials1.6: 140 teachers are oriented on disability inclusion policy, practice and provisions2.1: 250 SMC/PTA members oriented on inclusive education guideline (Mangalsen and Rautahat)2.2.: 120 ECED centre received supplementary learning materials and improve learning area of (Mangalsen and Rautahat)2.3: 250 parents of the children with functional limitation are oriented on integrated family support plan and process (Mangalsen, Rautahat) 2.4: at least quarterly mobile meeting among the ECED teacher carried out to share good practice, challenge and lesson learned.2.5: 216 children identified functional limitation are screened for Secondary level screening that identify functional limitations.2.6: 50 children received of appropriate and need base assistive devices (vision, hearing and mobility)2.7: 500 copies of Referral directory developed and provided to the concerned stakeholders2.8: 140 packages of the additional picture-aided communication materials developed and practiced at ECED.3.1.: at least 3 project Inception meeting conducted at local level and continuous coordination established3.2. at least 2 annual Joint Program Review at National Level conducted 3.3. 66 LG representatives, OPD leaders and Head Teachers received of 3 days Inclusive Education Training in 3 districts.3.4: at least 2 disability coordination committee meeting at local level supported to discuss agenda of the children with disabilities.3.5: at least quarterly supportive supervision and monitoring of the progress carried out by central team3.6: meaningful participation of the persons with disabilities ensured throughout provision of reasonable accommodations through the project cycle.3.7: 2 formative assessments (baseline and end line) of project conducted3.8: 1 best practice and lesson learned documented and shared for future reference. 3.8: 1 best pedagogical approach of the inclusive ECED developed and publicly shared.3.9: MPAC Meeting at 3 Municipality once in a year conducted and recommended incorporated into the project frame.3.10: CPAC meeting conducted once in a year at Social Welfare Council Nepal3.11. 2 Joint Monitoring Visit with stakeholders from CEHRD, MoEST and SWC for capturing the replicating practice3.12: at least 1 SWC- Monitoring and Evaluation visit to project implementation districts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Handicap International Nepal",
+      "donor_project_id": "4152",
+      "raw_payload": {
+        "id": 37245,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Handicap International Nepal",
+        "organization_id": 496,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Non Governmental Organisations",
+  "financing": [
+    {
+      "amount": 864620.3,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Handicap International Nepal",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-12-24",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4152",
+      "value": "4152"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Inclusion of children with disabilities in Early Childhood Development and Education (Inclusive ECED)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4152",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4152",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 864620.3,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.941137Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4152",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

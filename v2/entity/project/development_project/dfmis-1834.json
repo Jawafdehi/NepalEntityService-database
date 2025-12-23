@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.082661Z",
+  "dates": [
+    {
+      "date": "2016-12-20",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2021-12-19",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Coordination and MeetingField visit, data collection, analysis, ReportingOrientation program, model schools visit, checklist, action plan formatPhysical Set up of classroomsTraining program, Trainers, handouts, training materials and equipmentMGML TLMVisit plan, field visits, mentoring,Workshop plan, workshops, StationeriesStationaries and consumablesEquipmentEducational materialsSports and music materialsMeeting, MinuteStudents workbooksMonitoring plan, checklist, monitoringTraining program, Trainers, handouts, training materials and equipmentMeeting, status reportsPlan, Facilitators, StationeriesField visit, surveyor, survey toolsField visit, surveyor, survey toolsWorkshop plan, workshops, StationeriesSubject experts, writers, IT experts, stationeries, reference materialsQuotation, PRCTraining program, Trainers, handouts, training materials and equipmentMonitoring visit plan, checklist, monitoringSubject experts, writers, ICT experts, stationeries, reference materialsSubject experts, writers, IT experts, stationeries, reference materialsMaterials design workshops, ICT tools and  experts, subject expertsParticipation"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "German-Nepalese Help Association",
+      "donor_project_id": "1834",
+      "raw_payload": {
+        "id": 10691,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "German-Nepalese Help Association",
+        "organization_id": 695,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 1331184.115,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "German-Nepalese Help Association",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-12-20",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1834",
+      "value": "1834"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Education and Training",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1834",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1834",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1331184.115,
+  "total_disbursement": 1069829.057,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.082658Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1834",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

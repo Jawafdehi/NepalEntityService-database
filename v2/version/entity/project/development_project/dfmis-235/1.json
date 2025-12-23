@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.243713Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-235",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.243715Z",
+    "dates": [
+      {
+        "date": "2010-09-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-09-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2013-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1. Institutional Capacity Building\r\n·  Design and Conduct need based ToT training for DoA officers/Junior technicians \r\n·  Arrange study tour for two technical government officers from DoA \r\n·  Support in conduction of 6 monthly meetings/workshops of inter-departmental cooperation within DoA  \r\n·  Implement HLB/greening management programs\r\n·  Establish Bud wood/scion certification system to produce and distribute disease free saplings.\r\n·  Upgrade capacity of Government and private nurseries \r\n·  Preparation of a proposal on a sustainable Bud Wood/scion Certification system\r\n \r\n2.Capacity building of Farmer Groups\r\n·   Provide basic training to selected farmers groups on citrus production and rejuvenation technologies and GAP for citrus growing.\r\n·  Conduct survey to identify, collect and document good practices\r\n·  Implement local awareness and social mobilization campaign \r\n·  Train self-help groups, associations and cooperatives to enhance their organizational and managerial capacity.\r\n·  Conduct Field demonstrations of proven technologies for improved citrus production and rejuvenation of declined orchard\r\n·  Up-scale the anti-citrus decline technology (good agriculture practices)\r\n \r\n3. Upgrading Monitoring and Information System\r\n·  Establish monitoring system at district and regional level\r\n·  Establish databases and information system at district and regional level\r\n·  Implement Mid-term evaluation on project outcomes \r\nPrepare Project completion report with achievements and suggested strategies and plans to combat citrus decline."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "235",
+        "raw_payload": {
+          "id": 985,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 303000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-09-03",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 303000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-09-03",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-235",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/235",
+        "value": "235"
+      }
+    ],
+    "implementing_agency": "Department of Agriculture",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Combating Citrus Decline Problem in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/235",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-235",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 606000.0,
+    "total_disbursement": 290346.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.243713Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-235",
+      "id": "version:entity:project/development_project/dfmis-235:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

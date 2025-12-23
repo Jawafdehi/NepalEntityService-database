@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.822079Z",
+  "dates": [
+    {
+      "date": "2017-05-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-05-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-05-01",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Brief introduction of project location containing geographical, economical, demographic, educational, health service, environment, and public infrastructure related information.\r\n\r\n\r\n \r\n\r\nKathmandu District\r\n\r\n \r\n\r\nKathmandu District is a district located in Kathmandu Valley, Province No. 3 of Nepal, a landlocked country in South Asia. It is one of the 75 districts of Nepal, covers an area of 395 km2 (153 sq mi), and is the most densely populated district of Nepal with 1,744,240 in 2011. The district's headquarters is Kathmandu Metropolitan City, also the capital of Nepal. Kathmandu district is one of the three districts located in Kathmandu Valley, which itself is located in the hills of Bagmati Zone, Central Development Region, Nepal. The district is located from 27°27′E to 27°49′E longitude and 85°10′N to 85°32′N latitude.\r\n\r\nThe people of the district are primarily Newars (Source: Census Report 2011 & District Profile, Kathmandu DDC).\r\n\r\n \r\n\r\nAs per the recommendation of DCC/DDRC, DCA has chosen the following two locations for project execution.\r\n\r\n \r\n\r\n \r\n\r\nTable 3:  Geographical Locations and targeted households in Kathmandu district\r\n\r\n \r\n\r\nSN\r\n\r\nName of the Municipality\r\n\r\nNumber of households\r\n\r\nTotal population\r\n\r\n1\r\n\r\nSankharapur Municipality\r\n\r\nWard no 6,7 & 9\r\n\r\n2044\r\n\r\n9449\r\n\r\nSource: Census 2011, CBS\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nBhaktapur district\r\n\r\nBhaktapur district is located in the eastern part of Kathmandu valley, is the smallest among the seventy-five districts of Nepal. It is part of Province No. 3. The district, with Bhaktapur as its district headquarters, covers an area of 119 km2 (46 sq mi) and in 2011 had a population of 304,651.\r\n\r\n \r\n\r\nTable 4:  Geographical Locations and targeted households in Bhaktapur district\r\n\r\n \r\n\r\nSN\r\n\r\nName of the Municipality\r\n\r\nNumber of households\r\n\r\nTotal population\r\n\r\n1\r\n\r\nChangunarayan Municipality\r\n\r\nWard no 6 & 8\r\n\r\n \r\n\r\n2535\r\n\r\n11,825\r\n\r\nSource: Census 2011, CBS\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n5.2.2 Need analysis containing problem tree related to proposed project and need identification process \r\n\r\n \r\n\r\nThe assessment for this action was undertaken during the period 15 December 2016 to 16 January 2017. More specifically, the field assessments were done on the following dates:\r\n\r\n22 - 24 December 2016: Rapid Assessment through field visits to Shankharapur, Mahalaxmi, Karyabinayak and Mahamanjushree-Nagarkot (current Changunarayan) Municipalities and short qualitative interviews with private sector representatives\r\n\r\n2 - 3 January 2017: Focal group and individual interviews at Shankharapur Municipality.\r\n\r\n4 January 2017: Focal group and individual interviews in Nagarkot Municipality.\r\n\r\n15 January 2017: Observation of Earthquake Safety day and interviews in Shankharapur Municipality mainly with private sector representatives (local cement blocks producers, rice mill owners, construction materials suppliers).\r\n\r\n16 January 2017: Meetings and interviews with Nagarkot Naldum Tourism Management Committee, Homestay Association and with CBOs - Friends Help Groups.\r\n\r\nThe Needs assessment used mainly qualitative methods and information sources to identify the key issues and needs for the two selected municipalities. Analysing the collective experience of the consortium partners, DCA-ADRA-VSO served as the initial foundation of the formulation (ToRs) of the assessment. To avoid bias, the consortium employed an external consultant with extensive experience on Disaster Risk Management in Nepal and abroad to lead the Needs Assessment.  Initially a rapid assessment was conducted in four municipalities in Kathmandu Valley namely Mahamanjushree-Nagarkot, Mahalaxmisthan, Shankharapur and Karyabinayak Municipalities. The selection of these municipalities for the initial study was due to the presence of the consortium partners in these municipalities. The assessment included an initial disaster risk assessment and a need assessment for all the four municipalities. This involved physical observation and random interviews with local communities, private entities and the local authorities. Based on the findings from the four municipalities, two were selected for comprehensive disaster risk and needs assessment namely Mahamanjushree-Nagarkot Municipality (Current Changunarayan) from Bhaktapur District and Shankharapur Municipality in Kathmandu District.\r\n\r\n \r\n\r\nFocal group discussions and individual interviews were then carried out with local authority and community representatives in each of the two municipalities including DDCs (current DCCs), District Administration Offices (DAO), Civil Society Organisations (CSOs), CBOs and NGOs working on disaster management and other development programmes. The assessment team also participated in the periodic District Disaster Relief Committee (DDRC) meetings. Consultation meetings (focus discussions) were carried out with selected private sector entities from both the municipalities. These included Nagarkot-Naldum Tourism Development Committee, Nati"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "European Commission",
+      "donor_project_id": "840",
+      "raw_payload": {
+        "id": 10945,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Dan Church Aid",
+  "financing": [
+    {
+      "amount": 660000.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-05-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 593400.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-08-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/840",
+      "value": "840"
+    }
+  ],
+  "implementing_agency": "NGOs, Adventist Development and Relief Agency, Voluntary Service Overseas LBG",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "PRAGATI – “Promoting Resilient And sustainable urban Growth by Augmenting DRR capacity of Local Authorities Through active private sector Involvement”",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/840",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-840",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1253400.0,
+  "total_disbursement": 474720.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.822076Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-840",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

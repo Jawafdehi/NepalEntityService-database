@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Global Fund to Fight AIDS, Tuberculosis and Malaria",
+  "created_at": "2025-12-23T19:11:06.673747Z",
+  "entity_or_relationship_id": "entity:organization/international_org/global-fund-to-fight-aids-tuberculosis-and-malaria",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Multilateral Partners",
+      "group": "Global Fund to Fight Aids,  Tuberculosis and Malaria"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Multilateral Partners"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.673750Z",
+    "description": null,
+    "id": "entity:organization/international_org/global-fund-to-fight-aids-tuberculosis-and-malaria",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "global-fund-to-fight-aids-tuberculosis-and-malaria",
+    "sub_type": "international_org",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "created_at": "2025-12-23T19:11:06.673747Z",
+      "entity_or_relationship_id": "entity:organization/international_org/global-fund-to-fight-aids-tuberculosis-and-malaria",
+      "id": "version:entity:organization/international_org/global-fund-to-fight-aids-tuberculosis-and-malaria:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

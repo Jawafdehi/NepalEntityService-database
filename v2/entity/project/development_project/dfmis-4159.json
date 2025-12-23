@@ -1,0 +1,200 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.964589Z",
+  "dates": [
+    {
+      "date": "2023-03-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-03-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-02-28",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1: Capacity building of selected local civil society organizations (CSOs) and local government on GBV victims’ data collection and safely storage.Activity 1.2: Capacity building of media, service providers, CSOs and community leaders to empower women and girls.Activity 1.3: Capacity building of community health workers on psychosocial and mental health.Activity 2.1: Develop IEC materials, document and disseminate stories for gender empowerment to reduce GBV at the community level.Activity 2.2: Hardware support to strengthen access to justice service for women and girls.Activity 2.3: Conduct gender and entrepreneurship empowerment to women suffered from GBV.Activity 2.4: Provide psychosocial counseling and health support to GBV survivors and their families.Activity 3.1: Establish and strengthen Municipality Citizens Network for justice (MCNJ).Activity 3.2: Establish linkages with existing resources to improve the livelihood opportunities for GBV victims.Activity 3.3: Develop and implement joint action plans among the local government CSOs and community using the CSC approach to enhance mutual accountability and improve service delivery.Activity 3.4: Collaborative dialogues and meeting among elected/political representatives (women, Dalit and marginalized) and JSPs at provincial level and federal level to improve service delivery."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "UNOPS",
+      "donor_project_id": "4159",
+      "raw_payload": {
+        "id": 41063,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "UNOPS",
+        "organization_id": 166,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "U.S. Agency for International Development",
+      "donor_project_id": "4159",
+      "raw_payload": {
+        "id": 41062,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 47,
+        "organization__development_cooperation_group__name": "United States of America",
+        "organization__logo": "",
+        "organization__name": "U.S. Agency for International Development",
+        "organization_id": 32,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "European Commission",
+      "donor_project_id": "4159",
+      "raw_payload": {
+        "id": 41061,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 9,
+        "organization__development_cooperation_group__name": "European Union Institutions",
+        "organization__logo": "",
+        "organization__name": "European Commission",
+        "organization_id": 22,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 681201.1,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "European Commission",
+      "donor_id": null,
+      "financing_instrument": "Others",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-03-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 1405563.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-10-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 143289.9,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "UNOPS",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-04-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4159",
+      "value": "4159"
+    }
+  ],
+  "implementing_agency": "International Alert",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening Gender Justice to Women and Marginalized Groups",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4159",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4159",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2230054.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.964586Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4159",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

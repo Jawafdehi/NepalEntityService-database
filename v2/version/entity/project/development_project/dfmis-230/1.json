@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.222435Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-230",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.222438Z",
+    "dates": [
+      {
+        "date": "2010-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2009-10-25",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "National Expert on CCA and DRM\r\n\r\nField Monitors\r\n\r\n Contracts \r\n\r\nTraining support and preparation of district DRM plans in agriculture\r\n\r\nDemonstration of CCA and DRM practices\r\n\r\nHazard and Vulnerability Mapping\r\n\r\nEvaluation of e-learning tool on CCA\r\n\r\nEnhancing EWS Information products \r\n\r\nEconomic Impact of CCA/DRM practices\r\n\r\nFollow-up project proposal development\r\n\r\n Locally Contracted Labour \r\n\r\nCasual Labour - Temporary Assistance\r\n\r\nCapacity building, training and workshops\r\n\r\nRegional training participation for 2 DOA staff\r\n\r\nInternational field trips (Bangladesh)\r\n\r\nParticipation in national level training\r\n\r\nField trip within Nepal to other project districts\r\n\r\nTraining/workshop expenditure including local travel\r\n\r\nProject workshop\r\n\r\nFinal synthesis workshop\r\n\r\nResource mobilization workshops\r\n\r\nExpendable Equipment\r\n\r\nSeed supply and storage systems\r\n\r\nInputs for field demonstrations\r\n\r\nNon Expendable Equipment\r\n\r\nComputers for the district (2)\r\n\r\nProject vehicle\r\n\r\nDisaster impact data base management system\r\n\r\nUpgrading meteorological observatories\r\n\r\nTechnical Support Services\r\n\r\nReport Costs\r\n\r\nTravel TSS\r\n\r\nHonorarium TSS\r\n\r\n General Operating Expenses \r\n\r\nGeneral Operating Expenses Budget"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "United Nations Development Programme",
+        "donor_project_id": "230",
+        "raw_payload": {
+          "id": 548,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "United Nations Development Programme",
+          "organization_id": 8,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 252555.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "United Nations Development Programme",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-230",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/230",
+        "value": "230"
+      }
+    ],
+    "implementing_agency": "United Nations Development Programme",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing Capacities for Climate Change Adaptation and Disaster Risk Management for Sustainable Livelihoods in the Agriculture Sector",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/230",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-230",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 252555.0,
+    "total_disbursement": 233560.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.222435Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-230",
+      "id": "version:entity:project/development_project/dfmis-230:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

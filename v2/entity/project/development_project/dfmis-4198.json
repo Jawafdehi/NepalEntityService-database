@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.096526Z",
+  "dates": [
+    {
+      "date": "2023-10-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-10-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1   Survey/design and construction of school buildings (2 storey, 6-8-10 rooms)2.1  Establishment of science, computer lab, library, educational materials/equipment support3.1 Teachers capacity development training; pedagogy and subject specific3.2 Grant support to schools to implement their learning in classroom based T-L processes3.3 Prepare Individual Education Plan of students and implement accordingly (disability schools)3.4 Specialised training to the teachers engaged in T-L process of student with disabilities (deaf, blind & ID4.1 Training to SMC, PTA, HTs and its functioning on their overarching roles4.2 Social audit events annually for greater transparency and for increased stakeholders trust4.3 Develop system for feedback to PTA, SMC and teachers 4.4 SIP preparation and review workshop4.5 Support schools to have 'child safeguarding policies & complain handling mechanism5.1 Remedial teaching and exam preparation classes5.2 Enterprenuership-business planning training and grant support to student-parents-entrepreneurships5.3 Formation of child clubs/sub clubs and their operation   5.4 Life/soft skills classes for students (self-awareness, relationship building, SRH, first aid, CSE, self defense, yoga, meditation, social media, Entrepreneurships, gender violence and response)  5.5 Training to school graduates on different IT packages (graphic design, digital marketing, web development, cyber security, image/video/3D Annotation)"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Human Practice Foundation",
+      "donor_project_id": "4198",
+      "raw_payload": {
+        "id": 42016,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Human Practice Foundation",
+        "organization_id": 730,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 13069621.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Human Practice Foundation",
+      "donor_id": null,
+      "financing_instrument": "Sector Wide Approach",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-10-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4198",
+      "value": "4198"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "School Infrastructure, Facilities and Learning Improvement Project (SIFLIP) 2",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4198",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4198",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 13069621.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.096524Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4198",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

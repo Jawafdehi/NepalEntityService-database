@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.819132Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-403",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.819135Z",
+    "dates": [
+      {
+        "date": "2008-12-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2008-12-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2011-02-28",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activities with Milestones\r\n \r\n\r\nOutput 1: MPPW, MLD, MOES, and NPC implement an MfDR approach in planning, budgeting, and monitoring their mandated responsibilities \r\n \r\n\r\n1.1  Help establish steering committee, focal points, and groups, by March 2009.\r\n1.2  Review and revise the results frameworks, business plans, and other MfDR initiatives in line with TYIDP and emerging priorities of the Government.\r\n1.3  Support the ministries to integrate their business plans and results frameworks into the planning, budgeting, and monitoring systems, projects, and programs.\r\n1.4 Help NPC to streamline results criteria in its project screening system in close consultation with line ministries and MOF.  \r\n \r\nOutput 2: Results frameworks, indicators, and business plans implemented in MOAC and MOWR operations\r\n \r\n2.1 Assess status of MfDR practices in the two ministries, including review of their mandates, vision, mission, and goals.\r\n2.2 Help the ministries to develop result frameworks, performance indicators, and business plans in line with the sectoral results framework of the TYIDP and development priorities of the Government, in close consultation with NPC and relevant stakeholders.\r\n2.3 Support the ministries to integrate business plans and results frameworks into the annual planning, budgeting, and monitoring systems, projects, and programs.\r\n \r\nOutput 3: Results-based budgets implemented by two public agencies\r\n \r\n3.1 Assess the readiness of agencies for RBB using ADB’s MfDR readiness tool.\r\n3.2 Develop RBB modules for two agencies, with performance indicators on delivery of effective and efficient services.\r\n3.3 Support, guide, and monitor the implementation of RBB, and report regularly to MOF and NPC.\r\n3.4 Design and conduct a survey to assess the impact of pilots on service delivery improvements, and organize dissemination programs.\r\n \r\nOutput 4: Capacity of staff in selected agencies to apply MfDR approaches enhanced\r\n \r\n4.1 Assess MfDR capacity in NPC and pilot ministries and establish baseline data on capacity.\r\n4.2 Specify training needs of institutions (including scope/content of external training), and design capacity-development programs and training materials.\r\n4.3 Organize capacity-development programs for strategic managers and for the operational level, and training-of-trainers programs.\r\n4.4  Undertake training impact assessment and reflect improvements in competency in applying core MfDR skills."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "403",
+        "raw_payload": {
+          "id": 3131,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "National Planning Commission",
+    "financing": [
+      {
+        "amount": 500000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Others",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2008-12-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-403",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/403",
+        "value": "403"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "TA 7158-NEP: Strengthening Capacity for Management for Development Results",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/403",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Research and Development – Economic Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "Research and Development – Economic Affairs",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-403",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 500000.0,
+    "total_disbursement": 409200.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.819132Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-403",
+      "id": "version:entity:project/development_project/dfmis-403:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

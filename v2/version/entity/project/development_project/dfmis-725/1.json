@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:11.348207Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-725",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:11.348210Z",
+    "dates": [
+      {
+        "date": "2013-03-29",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-03-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.2.3. Describe and define the target groups and final beneficiaries, their needs and constraints and how the action will address these needs\r\n\t\r\n\tTarget groups:\r\n\tThe three main target groups are journalists, local \"change agents\" (teachers, lawyers and civil society activists) and government officials.\r\n\tThe 250 journalists to be selected to participate in the training provided by the project come from the areas mostly affected by press freedom violations. These incidents have been, since 2007, most intense in Nepal's central plains and the eastern hills. Therefore, while journalists in the capital and urban centres have been largely secure, those working in the plains in general and in the eastern hills have been attacked, threatened, or continuously harassed by different interest groups, many of which are also armed. Therefore this project will focus mainly on these areas, where, according to FNJ estimates, there are around 1,500 journalists in the eastern region and around 1,500 to 2,000 journalists in the central plains. These are the areas where working as a journalist is most dangerous, and where the journalists need most support in building their capacity both in investigative journalism and personal safety. Many of these journalists have not had any training in journalism, and do not understand their possibilities and responsibilities in serving the public with accurate, non-partisan information. Therefore through building their capacity, we can improve the access to information for people on district level. The journalists will be selected in cooperation with the local chapters of Federation of Nepali journalists, ensuring equal representation of women, lower castes and other marginalized groups. A special focus will be given to journalists who have already made attempts to practice investigative journalism, but who do not necessarily have the necessary skills yet.\r\n\tThe 250 local mediators (teachers, lawyers and civil society activists, depending on the area) are people who are active in their community and to whom people come to ask for help. These mediators will be trained as local focal points to raise awareness on the RTI Act and its relevance locally as well as for helping local people with their information requests to the government offices. In order to increase the synergies between project components the local mediators will be selected from the same areas as the journalists. That way the journalists and mediators can support each other's work.\r\n\tThe third target group of the project are government officials who are responsible for the implementation of the Right to Information law. Many government offices have information officers, but in many cases their capacity remains low. By organizing local level orientation sessions for the government information officers the project seeks to build their capacity and to orient them to their public service task. In addition, through linking the trained journalists and mediators to these sessions, the project aims at building local level multi-stakeholder networks that on a local level work jointly to increase and improve people's access to public information.\r\n\t\r\n\tThe project mainstreams gender throughout all its activities. In addition, the project will ensure women's equal participation in all training programmes. Individual women will be identified and encouraged to apply, and the trainings will be organized in a manner that suits the time constraints of women.\r\n\tIt is much more challenging for a woman to step up and speak for herself because of the cultural and social norms of gender in Nepal, let alone to demand for information from government officials who often are men. In addition, a woman is likely to be treated differently from a man if she approaches a government office and requests for information. This specific approach will be emphasized in the training of local mediators, so that they will be able to offer locally-relevant solutions - e.g. cooperating with local women's groups, where the information request does not come from an individual woman but a group of women could help ease the social challenges. In addition, the issue of gender equality and women's specific needs will be addressed also in the orientation given to government officials.\r\n\tThe gender equality aspect will also be covered in the handbook for journalists and the handbook for local mediators, both to be published in the course of the project. In addition, the project will ensure all promotional products, such as posters or leaflets, go through a gender analysis, ensuring the material is also suitable for women and doesn't support gender stereotypes.\r\n\t\r\n\tThe overall objective of this action is to improve the transparency of Nepal's government and the accountability of decision-making through a broader implementation of the Right to Information Act. The action also has three specific objectives: 1) Citizens have access to information that is relevant to them and a"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "European Commission",
+        "donor_project_id": "725",
+        "raw_payload": {
+          "id": 6618,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 9,
+          "organization__development_cooperation_group__name": "European Union Institutions",
+          "organization__logo": "",
+          "organization__name": "European Commission",
+          "organization_id": 22,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "financing": [
+      {
+        "amount": 393488.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "European Commission",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-03-29",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-725",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/725",
+        "value": "725"
+      }
+    ],
+    "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "549NEP5000 (CI) - Empowering people to enjoy their Right to Information for greater accountability of Nepal's power holders",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/725",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Communication",
+        "donor_subsector": null,
+        "normalized_sector": "Communication",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-725",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 393488.0,
+    "total_disbursement": 317778.83874,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:11.348207Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-725",
+      "id": "version:entity:project/development_project/dfmis-725:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

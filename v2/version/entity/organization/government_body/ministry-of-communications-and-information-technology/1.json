@@ -1,0 +1,73 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Ministry of Communications and Information Technology ",
+  "created_at": "2025-12-23T19:11:23.749410Z",
+  "entity_or_relationship_id": "entity:organization/government_body/ministry-of-communications-and-information-technology",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Development Partner"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.749415Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/ministry-of-communications-and-information-technology",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ministry of Communications and Information Technology ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "ministry-of-communications-and-information-technology",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Ministry of Communications and Information Technology ",
+      "created_at": "2025-12-23T19:11:23.749410Z",
+      "entity_or_relationship_id": "entity:organization/government_body/ministry-of-communications-and-information-technology",
+      "id": "version:entity:organization/government_body/ministry-of-communications-and-information-technology:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,123 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.611862Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010483",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.611865Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Third Arun Hydroelectric project is the first of 201 MW stage of a 402 MW run-of-the river hydroelectric power scheme, located on the Arun river. Major project components include a 122 km access road, a 68 m dam and power intake, desanding basins and appurtenant structures, an 11.4 km headrace tunnel, a surge tank leading to a power cavern to house three 67 MW turbo-generators, a downstream surge tank and tailrace tunnel, and outlet structures. Electro-mechanical equipment includes: hydraulic steel structures, turbo-generators and construction power supply. Transmission equipment includes a 120 km, 220 kv double-circuit line to a 200 kv/132 kv substation at Duhabi. The project also provides for implementation of an Environmental Management Plan, comprised of a Land Acquisition, Compensation and Rehabilitation Plan, an Environmental Mitigation Plan to address the project's direct impacts and a Regional Action Program (RAP). In addition, the project provides for engineering consultancy services, technical assistance and training. Finally, the project includes a facility to promote private sector involvement in power development."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010483",
+        "raw_payload": {
+          "boardapprovaldate": "1996-06-30T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "envassesmentcategorycode": "A",
+          "id": "P010483",
+          "proj_id": "P010483",
+          "project_abstract": "The Third Arun Hydroelectric project is the first of 201 MW stage of a 402 MW run-of-the river hydroelectric power scheme, located on the Arun river. Major project components include a 122 km access road, a 68 m dam and power intake, desanding basins and appurtenant structures, an 11.4 km headrace tunnel, a surge tank leading to a power cavern to house three 67 MW turbo-generators, a downstream surge tank and tailrace tunnel, and outlet structures. Electro-mechanical equipment includes: hydraulic steel structures, turbo-generators and construction power supply. Transmission equipment includes a 120 km, 220 kv double-circuit line to a 200 kv/132 kv substation at Duhabi. The project also provides for implementation of an Environmental Management Plan, comprised of a Land Acquisition, Compensation and Rehabilitation Plan, an Environmental Mitigation Plan to address the project's direct impacts and a Regional Action Program (RAP). In addition, the project provides for engineering consultancy services, technical assistance and training. Finally, the project includes a facility to promote private sector involvement in power development.",
+          "project_name": "POWER GEN - ARUN III",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Dropped"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010483",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010483",
+        "value": "p010483"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "POWER GEN - ARUN III",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010483",
+    "sectors": null,
+    "short_description": null,
+    "slug": "wb-p010483",
+    "stage": "terminated",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.611862Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010483",
+      "id": "version:entity:project/development_project/wb-p010483:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.278019Z",
+  "dates": [
+    {
+      "date": "2023-03-07",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-08-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2027-07-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Project kick-off workshop,Baseline survey,Construction and rehabilitation of School toilets,Construction and rehabilitation of HCF toilets,Installation of Water treatment System in schools and HCFs,Hand washing System (HWS) installation in HCF and schools,Waste management system,Water Quality testing,Hygiene and Environmental activities in Schools inc. capacity building,Municipal WASH plan update & Roadmap development support,WaSH FIT and IPC trainings for facility staff,Support Operation and Maintenance training including local entrepreneurship development for WASH,WASH and Environment conservation activities in schools and communities (Green School/star activities),Local system strengthening; incl. plan/ policy and local curriculum development supports,Communication materials and joint events with the government,Contribution to plan/ Policy development and/or update inc. joint initiatives at provincial and federal levels,Evidence generation on WASH and Health care waste management in collaboration with government (Research/ studies),Results Dissemination and report publication,Central project advisory committee meeting,Local project advisory committee meeting and Social Audits,SWC led project evaluations (financial and program)M-PAC with municipalities and Social Audits,Endline survey and disseminations"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Terre des hommes, Lausanne",
+      "donor_project_id": "2496",
+      "raw_payload": {
+        "id": 14642,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Terre des hommes, Lausanne",
+        "organization_id": 492,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Terre des hommes, Lausanne",
+  "financing": [
+    {
+      "amount": 855962.1305,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Terre des hommes, Lausanne",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-03-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2496",
+      "value": "2496"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SAFAL:  Strengthening Local System for Improved Water, Sanitation and Hygiene (WASH) in Institutions",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2496",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2496",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 855962.1305,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.278017Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2496",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

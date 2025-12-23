@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.653947Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1029",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.653950Z",
+    "dates": [
+      {
+        "date": "2015-04-06",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-04-06",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-07-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity Cluster 1: Promoting and facilitating the switch to sustainable production. \r\n\r\n\t\r\n\t\tDevelop cleaner production awareness campaigns through workshops and its wider dissemination through Central Carpet Industries Association (CCIA), Nepal Wool Dyeing Industry Association (NWDIA) and the National Pashmina Industries Association (NPIA) by distribution of information packs.\r\n\t\r\n\t\tUndertake assessment of sample production units and develop CP implementation plans.\r\n\t\r\n\t\tLead training workshops for the design, implementation and maintenance of CP techniques for unit owners, managers and workers.\r\n\t\r\n\t\tDevelop model units for dyeing and washing sub-sectors and carry out cross-visits.\r\n\t\r\n\t\tProduce and disseminate cleaner production practice operating manual for carpet dyeing, washing and pashmina operations.\r\n\t\r\n\t\tProvide technical support to implement cleaner production activities to the participating industries.\r\n\t\r\n\t\tConduct an assessment of suitable hardware suppliers and explore possibilities or and negotiate group purchase discounts.\r\n\t\r\n\t\tCarry out assessment and explore potential of solar water heaters as supplemental energy supply\r\n\r\n\r\n\t \r\n\r\n\tActivity Cluster 2: Increased access to green finance to facilitate the switch to Sustainable Cleaner Production by Small and Medium Enterprises (SMEs):\r\n\r\n\t\r\n\t\tFacilitate development of business plans\r\n\t\r\n\t\tDevelop feasible financial product for SMEs to access appropriate technology in partnership with CCIA and NMB Bank/other financial institutions.\r\n\t\r\n\t\tCreate and promote suitable financial products through NMB Bank and other financial institutions to facilitate loans to promote energy efficiency activities.\r\n\t\r\n\t\tProvide financial literacy and business plan training to target SMEs in the action to ensure successful uptake and management of financial products.\r\n\t\r\n\t\tCarry out training activities with local commercial financial institutions to build access to financial services for Cleaner Production(CP) activities\r\n\r\n\r\n\t \r\n\r\n\tActivity Cluster 3: Building the capacity of industry stakeholders to promote and reward adoption of cleaner practices at scale:\r\n\r\n\t\r\n\t\tBuild the capacity of the CCIA, NPIA and NWDIA\r\n\t\r\n\t\tBuild the operational capacity of CP service suppliers to allow them to provide technical services\r\n\r\n\r\n\t\r\n\t\tWork with pashmina association on the promotion of Cleaner Production approaches, including cross-visits with carpet industry.\r\n\r\n\r\n\t \r\n\r\n\tActivity Cluster 4: Promotion of policy instruments:\r\n\r\n\t\r\n\t\tPromote dialogue between stakeholders through a work group between Ministry of Industry, MOSTE, producer associations and trade associations\r\n\r\n\r\n\t\r\n\t\tCreate systems to distribute results of CP uptake among initial units disseminated throughout the sector\r\n\r\n\r\n\t\r\n\t\tBuild links to knowledge hubs such as existing cleaner production centers in neighboring countries and to SWITCH-Asia Network Facility.\r\n\r\n\r\n\t\r\n\t\tSupport the advocacy programme of the CCIA, NWIDA and NPIA aimed at encouraging tax incentives for cleaner production.\r\n\r\n\r\n\t\r\n\t\tSupport the Ministry of Industry and the Ministry of Science Technology and Environment in developing enforcement mechanisms for existing regulations."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "MercyCorps",
+        "donor_project_id": "1029",
+        "raw_payload": {
+          "id": 8830,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "MercyCorps",
+          "organization_id": 284,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "MercyCorps",
+    "financing": [
+      {
+        "amount": 933078.144,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "MercyCorps",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-04-06",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1029",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1029",
+        "value": "1029"
+      }
+    ],
+    "implementing_agency": "NGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing Sustainability and Profitability of the Carpet and Pashmina Industries in the Kathmandu Valley (Switch-Asia)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1029",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Other Industries",
+        "donor_subsector": null,
+        "normalized_sector": "Other Industries",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1029",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 933078.144,
+    "total_disbursement": 364202.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.653947Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1029",
+      "id": "version:entity:project/development_project/dfmis-1029:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

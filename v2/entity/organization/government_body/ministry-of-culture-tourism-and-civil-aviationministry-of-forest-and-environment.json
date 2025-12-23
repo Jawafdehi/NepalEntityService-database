@@ -1,0 +1,59 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Development Partner"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.774577Z",
+  "description": null,
+  "government_type": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ministry of Culture, Tourism and Civil Aviation,Ministry of Forest and Environment",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "ministry-of-culture-tourism-and-civil-aviationministry-of-forest-and-environment",
+  "sub_type": "government_body",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Ministry of Culture, Tourism and Civil Aviation,Ministry of Forest and Environment",
+    "created_at": "2025-12-23T19:11:23.774575Z",
+    "entity_or_relationship_id": "entity:organization/government_body/ministry-of-culture-tourism-and-civil-aviationministry-of-forest-and-environment",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

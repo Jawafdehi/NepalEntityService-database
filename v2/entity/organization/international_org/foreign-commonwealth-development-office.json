@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Bilateral Partners",
+    "group": "United Kingdom"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Bilateral Partners"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.553646Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Foreign, Commonwealth & Development Office",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "foreign-commonwealth-development-office",
+  "sub_type": "international_org",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Foreign, Commonwealth & Development Office",
+    "created_at": "2025-12-23T19:11:06.553643Z",
+    "entity_or_relationship_id": "entity:organization/international_org/foreign-commonwealth-development-office",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

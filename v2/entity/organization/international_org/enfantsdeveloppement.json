@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "architecture": "Non-Government Organisation",
+    "group": "INGO"
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Organization from MoF DFMIS - Non-Government Organisation"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "MoF DFMIS Organization"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:06.588128Z",
+  "description": null,
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Enfants&Developpement",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "enfantsdeveloppement",
+  "sub_type": "international_org",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import organization from MoF DFMIS: Enfants&Developpement",
+    "created_at": "2025-12-23T19:11:06.588125Z",
+    "entity_or_relationship_id": "entity:organization/international_org/enfantsdeveloppement",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

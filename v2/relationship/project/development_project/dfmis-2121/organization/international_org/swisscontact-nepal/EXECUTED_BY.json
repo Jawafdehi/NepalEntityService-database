@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:18.171160Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-2121",
+  "start_date": null,
+  "target_entity_id": "entity:organization/international_org/swisscontact-nepal",
+  "type": "EXECUTED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project executed by Swisscontact Nepal",
+    "created_at": "2025-12-23T19:11:18.171170Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-2121:organization/international_org/swisscontact-nepal:EXECUTED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

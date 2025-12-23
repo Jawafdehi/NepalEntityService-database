@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:11.029105Z",
+  "dates": [
+    {
+      "date": "2014-01-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2014-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Support youth in Vocational training, Job placement and families in Economic activities\r\n\tImplement Child friendly activities and awareness activities for children at risk\r\n\tBuild operational network of service providers (in health, education, legal, economic and psychosocial sectors) for the benefit of vulnerable families and children and refer the families to the service providers members of the network\r\n\tBuild-up structured processes to monitor the quality and accessibility of external services and encourage the service providers to improve the access to quality service for the vulnerable families\r\n\tOrganize Coordination committees in each covered area and dissemination seminar.\r\n\tTrain technical team in Family development methodology, practice, monitoring, reporting\r\n\tPublish and disseminate tools and methodology of the project (brochures, web-sites)\r\n\tImprove management capacities and institutional sustainability of local partners in social work"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Enfants&Developpement",
+      "donor_project_id": "657",
+      "raw_payload": {
+        "id": 7954,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Enfants&Developpement",
+        "organization_id": 524,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Enfants&Developpement",
+  "financing": [
+    {
+      "amount": 989273.7276,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Enfants&Developpement",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2014-01-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/657",
+      "value": "657"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Continuation of Support and protection for vulnerable children and their families in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/657",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-657",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 989273.7276,
+  "total_disbursement": 371640.39751,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:11.029102Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-657",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

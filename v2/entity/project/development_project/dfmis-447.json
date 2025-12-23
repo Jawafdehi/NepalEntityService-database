@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.099804Z",
+  "dates": [
+    {
+      "date": "2013-09-06",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-09-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2015-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity 1.1:  Inception mission to set up the country’s multisectoral taskforce for discussing and planning the activities of both FBS and NHS in line with their terms of reference.\r\n\r\nActivity 1.2: Regional workshop (of five days on the FAO methodological framework of preparing the supply and utilization accounts (SUA) for compiling the FBS for representatives of MoA and NSO of  participating countries.\r\n\r\nActivity 1.3: Representatives of MoA of each country will prepare the SUA for the past four years based on the available agricultural and food data and compile the yearly FBS.\r\n\r\nActivity 1.4: National workshop among the members of the country multisectoral taskforce to identify and to assess the progress in preparation of the SUA.\r\n\r\nActivity 2.1: Country’s NSO staff  prepare the required data files on food consumption derived from the NHS as per FAO data files instructions. \r\n\r\n Activity 2.2: Country’s NSO staff, together with the support of nutritionist from Ministry of Health, prepare the Food Composition Table of nutrients conversion factors which are essential for both updating the inputs of the SUA and for deriving FSNS.\r\n\r\nActivity 2.3: Regional workshop of five days on the FAO methodological framework of deriving food security and nutrition statistics from the NHES for representatives of NSO and MoA of participating countries.\r\n\r\nActivity 2.4:  Country’s NSO staff draft the food security analysis based on the results derived from the NHS in the regional workshop.\r\n\r\nActivity 2.5: Institutional structure and the capacity of concerned departments/institutions which are engaged in nutrition statistical data collection and analysis, and their inter-linkages reviewed and technical advice provided with an aim to strengthen the institutional capacity and promote inter-ministerial/departmental coordination.\r\n\r\nActivity 3.1: A five day National Writeshop among all representatives of the different national institutions constituting the country’s multisectoral taskforce to analyse and interpret the FBS and FSNS for the write up of the Country flagship technical “Food Security and Nutrition Status” report.\r\n\r\nActivity 3.2:  The multisectoral taskforce finalizes the Country flagship technical “Food Security and Nutrition Status” report  within one month after the writeshop with the technical backstopping assistance of the food security analysis consultant.\r\n\r\nActivity 3.3: Check and edit of the country flagship technical “Food Security and Nutrition Status” report by Food Security Analysis consultant and FAORAP .\r\n\r\nActivity 3.4: National Seminar for the presentation and discussion of the country flagship technical “Food Security and Nutrition Status” by the multisectoral taskforce.\r\n\r\nActivity 3.5:  Printing of 250 copies of the country flagship technical report, “Food Security and Nutrition Status” for dissemination.\r\n\r\nActivity 3.6: A three day Regional Workshop will be held among representatives of the participating countries coming from the NSO, MoA and the Multisectoral taskforce coordinator for presenting countries’ results, findings and recommendations."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "447",
+      "raw_payload": {
+        "id": 6706,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 110000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": false,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-09-06",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 110000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-09-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/447",
+      "value": "447"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Building statistical capacity for quality food security and nutrition information in support of better informed policies",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/447",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-447",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 220000.0,
+  "total_disbursement": 96937.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.099801Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-447",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

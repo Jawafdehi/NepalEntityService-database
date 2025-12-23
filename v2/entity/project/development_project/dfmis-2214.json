@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.357875Z",
+  "dates": [
+    {
+      "date": "2020-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2020-01-07",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "·         Conduct refresher training to Choice’s facilitators: 49 Choices facilitator (28 Female, 21 Male) from 44 wards of Saptari district received the Choices Refresher Training. Participants learnt about tools and techniques to enhance adolescent girls’ and boys’ knowledge and practice to promote gender norms in their family and schools.·         Total 6 testimonial videos, 44 posters (covering the content of Gender equality) are completed for parenting session.·         Developed customized module Manual of  Voices, Promises and Parenting without Violence and print 1400 copies for community facilitator so they can conduct the session confidently.·         5,200 copies of Choices Manual were printed for disseminating during the Choices session planned in 196 community-based child clubs.·         Total 25 PNGOs and SC staff members trained on customized module (Voices, Promises and PwV) to roll out to community facilitators·         Total 48 community facilitators (35 Female, 13 Male) trained on customized training to roll out parenting session (Voices, Promises and PwV) in the community.·         School me and Gender Champion training Manual for teachers training is translated in to English and print 5000 copies to used in teachers training in SC working area·         The Radio messages on Gender Equality targeting Adolescents Girls and boys and Parenting without Violence 19-episode session for parents in community ongoing through 7  Local FM"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2214",
+      "raw_payload": {
+        "id": 13400,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Labour, Employment and Social Security",
+  "financing": [
+    {
+      "amount": 749454.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-07-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2214",
+      "value": "2214"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SCK Gender Centric Sponsorship Complementary Project 2020-21",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2214",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2214",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 749454.0,
+  "total_disbursement": 917709.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.357872Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2214",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

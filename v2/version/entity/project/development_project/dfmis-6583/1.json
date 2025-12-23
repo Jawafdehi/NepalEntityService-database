@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.055716Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6583",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.055719Z",
+    "dates": [
+      {
+        "date": "2024-06-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-06-24",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2027-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1 Organize or strengthen local communities as FUGs and capacitate institutional and good governanceActivity 1.2 Support  to prepare sustainable forest management (SFM) plan.Activity 1.3 Support FUG to Implement sustainable forest and ecosystem management activitiesActivity 1.4 Capacitate FUGs in prevention and control of forest fires and other disastersActivity 1.5 FUGs and farmer groups apply Gender transformative practicesActivity 1.6 Technical Support for sustainable forest management preparation and mobilizationActivity 2.1 Organize farmers groupsActivity 2.2 Support farmers groups on climate smart and wildlife resistant farming practicesActivity 2.3 Demonstration of climate smart and wildlife resistant practices and technologiesActivity 3.1 Identify most promising forest and farm based products and ecosystem servicesActivity 3.2 support inCommunity-based Enterprises CBEs on proposal writing, business planning and enterprise developmentActivity 3.3 Provide financial support for Community-based Enterprises CBEs  in Third party financing modalityActivity 3.4 Facilitation for Community-based Enterprises  CBEs access to marketingActivity 3.5 Technical support for Farmers groups facilitation, mobilization, monitoring and enterprise developmentActivity 4.1 Establish and operationalize Public Private Community Alliance (PPCA) at local levelActivity 4.2 Support FUG networks at local, provincial and national level for evidence-based knowledge generation and policy dialogue generation and policy dialogueActivity 4.3 Facilitate local government in implementation  of Local Forest Act and wildlife damage relief guideline and strategic plan on Sustainable Forest and farm managementActivity 4.4 Technical support for Farmers groups facilitation, mobilization, monitoring and enterprise developmentActivity 5.1 Generate evidence and document lesson learnt on implementation of national policies and international commitmentsActivity 5.2 Capacitate key stakeholders in implementation and monitoring of national policies and international convention and treatiesActivity 5.3 Disseminate information in biodiversity and environment among FUGs, women, youth, school childrenActivity 5.4 Engage YSB members in project areas for capacity building of youths and participation in biodiversity conservationProject Inception Meeting (National, Provincincal, Local)DIP Preparation and planning workshopJoint Monitoring by stakeholderCentral Advisory project committee meeting (CPAC/LPAC/Social Audit)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Adventist Development and Relief Agency",
+        "donor_project_id": "6583",
+        "raw_payload": {
+          "id": 44017,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Adventist Development and Relief Agency",
+          "organization_id": 340,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forest, Tourism and Water Supply",
+    "financing": [
+      {
+        "amount": 1070979.31,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Adventist Development and Relief Agency",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-06-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6583",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6583",
+        "value": "6583"
+      }
+    ],
+    "implementing_agency": "Adventist Development and Relief Agency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CSOs actions for resilient ecosystem and community (Samvardhan) Project In Banke and Bardiya District",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6583",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Protection of Biodiversity and Landscape",
+        "donor_subsector": null,
+        "normalized_sector": "Protection of Biodiversity and Landscape",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6583",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1070979.31,
+    "total_disbursement": 533819.819635725,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.055716Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6583",
+      "id": "version:entity:project/development_project/dfmis-6583:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

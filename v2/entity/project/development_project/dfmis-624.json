@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.878141Z",
+  "dates": [
+    {
+      "date": "2015-01-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-01-12",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2016-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1:  Review and propose improvements in national legislations, regulations, policies, plans and SOP in view of effective management of pesticides and risk reduction;\r\n\r\n1.2   Design curricula, conduct ToT and in country trainings on pesticide risk analysis;\r\n\r\n1.3:  Develop/adapt training modules and curricula for pesticide management   and risk reduction training for the pesticide regulators and inspectors;\r\n\r\n1.4:    Conduct pesticide management and risk reduction training for government staff involved in EIA/IEE, import and handling, registration and approval of pesticides and their compliance monitoring, and policy making;\r\n\r\n1.5:  Using FAO Guidelines, develop pesticide registration guidelines for different types of pesticides and pesticide registration software Pesticide Registration and Management Section under Plant Protection Directorate;\r\n\r\n2.1: Develop Standard Operating Procedures (SOP) for the RBRP laboratories established for pesticide residue analysis\r\n\r\n2.2: Organize abroad training for two laboratory analysts in lab handling, pesticide analysis and residues analysis;\r\n\r\n2.3:  Conduct hands on in-country training of laboratory analysts and technicians on pesticide residues analysis using RBPR;\r\n\r\n2.4: Provide AChE-Test reagents, chemicals and Spectrophotometers with RBPR programme pack, lab accessories and computers necessary for the hands-on in-country training in RBPR labs;\r\n\r\n2.5: Support RBPR labs for field verification of pesticide applications and sample verification of tests from public and private sector laboratories.\r\n\r\n3.1: Using FAO Guidelines, develop Code of Practices (CoP) for pesticide manufacturers, importers, agro-vets (retailers) and applicators;\r\n\r\n3.2: Develop training modules and curricula incorporating the CoP for training of pesticide entrepreneurs, agro-vets (retailers), and traders;\r\n\r\n3.3:  Conduct training of pesticide entrepreneurs, retailers, and traders.\r\n\r\n3.4: Develop and demonstrate a pesticide recording system for agrovets to keep information on purchases, sales and uses of pesticides.  \r\n\r\n4.1:  Develop/adapt training modules and materials including CoP for farmers for efficient use and handling of pesticide and other chemical inputs;\r\n\r\n4.2:  Organize refresher ToT on IPM based GAP, CoP on pesticide handling and management to 60 IPM Farmers’ Facilitators (15 in each of the 4 districts) for safer crop production;\r\n\r\n4.3 Conduct 60 trainings (15 in each district) to the established crop producer groups on IPM based GAP, CoP on pesticide handling and management for safer crop production\r\n\r\n4.4: Conduct  training to 60 established crop producer groups on internal group based quality assurance system for safer crop production (IPM based) and maintaining traceability of the farm products;\r\n\r\n4.5: Provide follow up support to the farmers’ groups to consolidate and strengthen the compliance procedures on IPM GAP, CoP on pesticide handling and group based internal quality assurance system for production of safer products;\r\n\r\n4.6: Establish/Strengthen and register Community Resource Centers (1 per  project district) for production of biological and  botanical pest control agents, facilitation of plant clinics in coordination with DADOs and disseminate messages on CoP of  pesticide handing and management  to wider farming community;\r\n\r\n5.1:  Document success stories and good practices on pesticide management and disseminate to wider users;\r\n\r\n5.2: Develop ICT materials (printed materials, newspaper articles, video/audio jingles etc.) for launching mass media campaign on pesticide problems;\r\n\r\n5.3: Launch mass media campaign in collaboration with consumers’ organizations to create awareness on pesticide residues, and their health and environmental implications."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "624",
+      "raw_payload": {
+        "id": 9139,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Agriculture and Livestock Development",
+  "financing": [
+    {
+      "amount": 350000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-01-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/624",
+      "value": "624"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening pesticide management in agriculture to reduce risks to health and environment",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/624",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-624",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 350000.0,
+  "total_disbursement": 350269.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.878138Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-624",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

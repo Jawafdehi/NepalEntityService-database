@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.663826Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1562",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.663829Z",
+    "dates": [
+      {
+        "date": "2020-12-24",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2019-07-15",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2020-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "3 community irrigation schemes will be constructed2 farmer’s agriculture collection center will be constructed10 youth individuals will be provided certified entrepreneurial skill trainings200 farmers will be supported with agriculture production inputs for off-seasonal, seasonal small scale commercial farming, and trained on Integrated Pest Management, Nutrient Management, intercropping, crop diversification20 farmers will be supported with training & inputs for mushroom farming3 coffee processing units will be established16 farmers will be trained & supported for bee keeping30 farmers groups/cooperatives will be trained on financial literacy, revolving fund management8 groups will be provided collective farming support1 small scale Agro-vet establishment support2 trainings for each market linkage, crop insurance, business plan will be provided1 EPRP will be developed in one municipality1 DRR information portal will be developed for one municipality"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "ICCO COOPERATION",
+        "donor_project_id": "1562",
+        "raw_payload": {
+          "id": 14019,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "ICCO COOPERATION",
+          "organization_id": 502,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "ICCO COOPERATION",
+    "financing": [
+      {
+        "amount": 285288.648,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "ICCO COOPERATION",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2020-12-24",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1562",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1562",
+        "value": "1562"
+      }
+    ],
+    "implementing_agency": "ICCO COOPERATION",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "EMERGE- Gearing towards resilience and self-reliance (EMERGE)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1562",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "General Economic Commercial and Labor Affairs",
+        "donor_subsector": null,
+        "normalized_sector": "General Economic Commercial and Labor Affairs",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Community Development",
+        "donor_subsector": null,
+        "normalized_sector": "Community Development",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1562",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 285288.648,
+    "total_disbursement": 285288.648,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.663826Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1562",
+      "id": "version:entity:project/development_project/dfmis-1562:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

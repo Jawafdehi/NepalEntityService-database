@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:21.067005Z",
+  "dates": [
+    {
+      "date": "2023-09-21",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2028-09-21",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Revised scholarship policy to transition from category-based to need-based. Capacity-strengthening of Local Government (LG) education committees to manage and distribute scholarship funds.Parent peer-to-peer mentoring to shift attitudes and practices around student learning.Small grant opportunities to provide marginalized youth with access to small-scale funding.Workshops with CEHRD’s Non-Formal and Alternative Education Sections to develop an Accelerated Learning (AL) framework and program requirements. Strengthening of Community Learning Centers (CLC) to align with the AL framework.Development of low-cost technology, self-learning modules in core subjects for grades 6-10.Creation of Equity & Inclusion (E&I) subcommittees to ensure Primary Minimum Enabling Conditions (PMECs) are integrated in the School Improvement Plan with budget allocations. Construction of girl-friendly and accessible latrines for schools with the greatest need.Development and implementation of school report cards emphasizing equity and inclusion.Integration of Universal Design for Learning (UDL) into teacher training and support framework. Ongoing teacher professional support (TPS) and mentoring.Development of an early warning system to identify and provide additional support to struggling learners.Development of user-friendly templates, guidance, and training for entry of DLI data into the web-based Integrated Educational Management Information System.Annual DLI Workshops with GoN counterparts from federal, province, and district levels, and targeted LGs. Support to local governments on Equity Strategy Improvement Plan (ESIP) development and implementation, as well as ESIP rollout at the school level.Technical assistance and embedded support for reporting data on equity and inclusion-related activities under ESIP and for DLIs."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "U.S. Agency for International Development",
+      "donor_project_id": "4185",
+      "raw_payload": {
+        "id": 41541,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 47,
+        "organization__development_cooperation_group__name": "United States of America",
+        "organization__logo": "",
+        "organization__name": "U.S. Agency for International Development",
+        "organization_id": 32,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 20000000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "U.S. Agency for International Development",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2023-09-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4185",
+      "value": "4185"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "USAID Education: Equity and Inclusion",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4185",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4185",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 20000000.0,
+  "total_disbursement": 8263619.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:21.067003Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4185",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

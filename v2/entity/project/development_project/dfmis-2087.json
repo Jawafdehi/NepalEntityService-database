@@ -1,0 +1,157 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.080680Z",
+  "dates": [
+    {
+      "date": "2022-11-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-10-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-09-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1: Stakeholder Mapping and Resource Mapping in Kathmandu and province and collect DRRM resource data collection and well documentation of the resources.2: A-PAD platform Coordination MTG (KTM) and province to establish national and provincial level A-PAD multi-sectorial platform.3: Organize International Symposium in Kathmandu and province4 : Print PR materials5: Increased knowledge and skills of disaster-prone communities on DRRM7: Trained Vols from community and mobilized them for DRRM8: Strengthen local governments mechanism for effective DRRM through capacity building and  Reviewed/update the existing DRR policies, acts, strategies and plans9: Well-equipped LEOC and DEOC with basic DIMS equipment"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Asia Pacific Alliance for Disaster Management",
+      "donor_project_id": "2087",
+      "raw_payload": {
+        "id": 14343,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Asia Pacific Alliance for Disaster Management",
+        "organization_id": 790,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Ministry of Foreign Affairs",
+      "donor_project_id": "2087",
+      "raw_payload": {
+        "id": 14344,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 17,
+        "organization__development_cooperation_group__name": "Japan",
+        "organization__logo": "",
+        "organization__name": "Ministry of Foreign Affairs",
+        "organization_id": 2,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Japan International Cooperation Agency",
+  "financing": [
+    {
+      "amount": 1088068.602,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Ministry of Foreign Affairs",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-11-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2087",
+      "value": "2087"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Disaster Risk Reduction and Strengthening Through Community Resilient and Multi-stakeholder Engagement Project (DRISTE-Project)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2087",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2087",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1088068.602,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.080678Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2087",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

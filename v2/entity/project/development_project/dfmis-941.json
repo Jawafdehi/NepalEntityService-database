@@ -1,0 +1,156 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:12.307348Z",
+  "dates": [
+    {
+      "date": "2014-03-28",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2013-05-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Safe Migration and Preventing Trafficking\r\n\t\r\n\t\tServices for Child Laborers and Children at Risk in the Brick and Zari\r\n\t\r\n\t\tStrengthening the Response to the Needsof  Vulnerable and Migrant Girls\r\n\t\r\n\t\tStrengthening Economic Literacy/Options and Reducing Vulnerablility of Most Disadvantaged Communities"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "JSI Research & Training Institute Inc/World Education",
+      "donor_project_id": "941",
+      "raw_payload": {
+        "id": 6710,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "organization/logos/worldeducation.png",
+        "organization__name": "JSI Research & Training Institute Inc/World Education",
+        "organization_id": 285,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "JSI Research & Training Institute Inc/World Education",
+  "financing": [
+    {
+      "amount": 2083844.707,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "JSI Research & Training Institute Inc/World Education",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2013-05-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 570500.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "JSI Research & Training Institute Inc/World Education",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-12-31",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/941",
+      "value": "941"
+    }
+  ],
+  "implementing_agency": "JSI Research & Training Institute Inc/World Education",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Naya Bato Naya Paila - Phase II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/941",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-941",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2654344.707,
+  "total_disbursement": 2654256.518,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:12.307345Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-941",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

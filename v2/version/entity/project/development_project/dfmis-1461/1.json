@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:14.959291Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1461",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:14.959293Z",
+    "dates": [
+      {
+        "date": "2016-10-20",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-10-20",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2019-10-19",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "People Served’ and ‘Service Delivery’ by 5 Centers 15,000 people receive rehab services200 people benefit with reconstructive surgeries45,000 treatment sessions6,375 assistive devices (3,716 P&O devices and 2,659 mobility aids)30 set of mobile camps (30 assessments, 30 fitments and 30 follow up events)Awareness on prevention and rehabilitation services by partners30 awareness and disability prevention events (2 event x 5 partner x 3 year)24 District PAC meetings (2 meetings x 4 partners x 3 years)66 VDRCs supports/facilitations (14 in Morang, 33 in Sarlahi, 19 in Kanchanpur)39 coordination meetings with health facilities (12 by CBRB, 6 by NDF, 3 by NNSWA, 15 by Prerana, 3 by NGMC)30 IDD celebration (1 event x 5 centre x 3 years for objective 1 and 1 event x 4 partners + national level x 3 years for objective 2)PersonnelHI National/Regional Staff8 persons         Project Managers/Officers/Assistants2 persons         Qualified Physiotherapist1 person           Qualified P&OPartners’ Staff37        Technical staff (PT, RTA and P&O Technicians)25        Community Disability Workers5          Counsellors5          Data Entry Persons16        Management and Admin Staff10        Guard/Cleaner12        Community Development WorkersTravel and Transportation73 local monitoring and support visits x 3 years (49 for objective 1 and 24 for objective 2 per year)Running cost of 2 vehicles x 36 months Supplies (Consumables, materials, tools and accessories) for 5 rehab centresRaw materials and consumables for Prosthetic and Orthotic devicesMobility aids (including wheelchairs, crutches, walking aids, special chairs, tricycle) Training and capacity building for Partners Staff4 LLPOs with 6-months course on Upper limbs (Cat-I)3 Short term trainings for LLOs/LLPs (1 training per year)3 Short term trainings for PTs (1 training per year)3 Short term trainings for Counsellors (1 training per year)3  Short term trainings for CDWs (1 training per year)3 Management/ Fund raising trainings (1 per year) to Centre Managers during Partner Interaction Workshop1 International exposure visit for Centre ManagersInteraction Workshops/Joint Monitoring and Evaluation Committee Meetings3 Partner Interaction Workshops/ JMEC Meetings (1 per year)3 Technical Interaction Workshops (1 per year)12 Quarterly review meeting with partners (4 per year)Operating costRunning cost for 5 rehab centresRunning cost of HI officeLocal Government/SWC Evaluations/Reviews1 Mid-term evaluation (in year 2)1 Final evaluation (in year 3)6 Project Advisory Committee (PAC) Meetings (2 per year)Visibility/Publications1000 diaries (250 per year)300 bags and T-shirts (150 in year 1 and 150 in year 3)4000 IEC materials/fact sheets (1000 per year)300 changes documents (100 in each year 1, 2 and 3) Operational Research/ Impact Document3 Operational research/QOL measurement studySustainability InitiativesSustainability initiatives supports to partnersSupport to national associations"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Handicap International Nepal",
+        "donor_project_id": "1461",
+        "raw_payload": {
+          "id": 10540,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Handicap International Nepal",
+          "organization_id": 496,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Handicap International Nepal",
+    "financing": [
+      {
+        "amount": 1763406.882,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Handicap International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-10-20",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1461",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1461",
+        "value": "1461"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Strengthening the Sustainability of the Physical Rehabilitation Sector for Greater Access to Services in Nepal 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1461",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1461",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1763406.882,
+    "total_disbursement": 1858657.559,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:14.959291Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1461",
+      "id": "version:entity:project/development_project/dfmis-1461:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

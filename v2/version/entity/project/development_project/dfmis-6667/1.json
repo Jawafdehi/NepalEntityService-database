@@ -1,0 +1,177 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.515253Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6667",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.515269Z",
+    "dates": [
+      {
+        "date": "2023-01-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2023-01-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2028-01-01",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1 Organise poor and marginalised families in farmers’ groups1.1.2 Conduct training on various aspects of crop production and marketing (nursery mgt, production/plantation, and IPM, post-harvest handling and marketing, conservation farming, etc)1.1.3 Support families with different production inputs (seeds, IPM materials, breeding bucks, fruit saplings, fodder and forages etc)1.1.4 Construction and renovation of collection centers/marketing sheds1.1.5 Organise market exposure visit to the producers1.1.6 Support Producers, SMEs and collection centers with grading, packaging and branding materials1.1.7 Support disaster affected families with CVA and FSL initiatives1.2.1 Support farmers with required production inputs on conservation farming1.2.2 Support farmers for the demonstration and promotion of polyhouse production1.2.3 Support farmers for water efficient irrigation system (drips, water harvesting ponds, solar pumps etc)1.2.4 Training and business startup support to the youths on Green jobs and other Enterprises1.2.5 Organise awareness raising events on climate change and green jobs1.2.6 Reinforce existing youth-led campaigns on climate justice at community, municipality, provinces and federal level (Including training, events, support on planning on DPRP/LDCRP etc...)2.1.1 Capacitate local governments and wards to undertake eligibility mapping, to conduct registration camps, open bank accounts and build awareness on social protection schemes (registration process, banking payments, renewal process) through different means of communication.2.1.2 Support social protection eligible people from 9 local governments who are from the deprived and most marginalized community to access the schemes (documentation, transportation etc.)2.1.3 Conduct disability screening campaigns in municipalities2.1.4 Support local government to conduct activities that promote transparency and accountability of social protection programmes2.1.5 Support local governments to effectively implement Child Grants Plus (CG+) programme including evidence generation2.1.6 Pilot Shock Responsive Social Protection programme in selected municipalities2.1.7 Support SPCSN to actively engage in promoting inclusive social protection in Nepal2.1.8 Cash top up: Cash top up to 10404 <2 years child grant beneficiaries3.1.1 Conduct LS4S training for adolescents and youths (AYs)3.1.2 Conduct Micro-enterprise Development training to AYs and support them with business start-up supports3.1.3 Provide vocational skill training to the selected youths and support them for apprenticeship, job placement and business start up Emergency fund for disaster response (DRR)1.1.1 health facilities /hospitals supported with essential equipment1.1.2 PHC- ORC clinics supported with essential equipment1.2.1 birthing centers supported by renovation1.3.1 beneficiaries reached through SBCC on MNCHN and WASH1.3.2 children and adults reached by SC and its partners through evidence-based Child Health, Maternal and Newborn Health and (Adolescent) Sexual and Reproductive Health and Rights programming (above 2 yrs)2.1.1 health facilities supported with WASH2.2.2 toilets constructed/ renovated at community level2.3.1 children in schools having safely managed sanitation and water supply systems2.3.2 toilets constructed/ renovated at school and health facilities3.1.1 HWS trained on MNH update training3.1.2 nurses/ HW trained on SBA training3.1.3 HWs trained on ASRH training3.1.4 HW trained on Small and sick newborn care3.1.5 HFOMC members trained on management training3.1.6 HWs trained on CBIMNCI training3.2.1 facilities assessed using MSS tools1.1.1. Roll out of Positive parenting/positive discipline sessions amongst parents, caregivers and teachers to increase their understanding and awareness of non-violent parenting and of child-friendly teaching, including on government laws, polices and directives1.1.2 Establishment of complaint box in schools1.1.3. IEC materials development and dissemination in collaboration/coordination with government at all levels on child protection1.1.4 Emergency support to vulnerable children (School uniforms, text books, stationery materials, legal support, medical support1.2.1. Set up child emergency/support fund in collaboration with the local government to support girls/boys at risk to return them to school1.2.2. Formation/reformation and capacity building training to adolescent girls and boys groups on comprehensive sexuality education and menstrual hygiene management1.2.3 School based adolescent boys and girls trained/oriented on CSE2.1.1 Seed money (to start up small scall business; not exceeding 50,000 NPR per family) to children/families at risk2.1.2. Support for rehabilitation, re-integration of working children with their families and communities in close coordination/collaboration with NCRC and Local level governments3.1.1. Support the governments at all levels to bring multi-sectoral plan/policies/costed action plans to end violence against"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "6667",
+        "raw_payload": {
+          "id": 44483,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population, Ministry of Women, Children and Senior Citizens, Ministry of Education, Science and Technology, Ministry of Agriculture and Livestock Development",
+    "financing": [
+      {
+        "amount": 52854253.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2023-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6667",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6667",
+        "value": "6667"
+      }
+    ],
+    "implementing_agency": "PNGOs",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Programs for Realisation of the Right of Children in Nepal - (Bal Hak Pariyojana)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6667",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6667",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 52854253.0,
+    "total_disbursement": 11478249.88,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.515253Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6667",
+      "id": "version:entity:project/development_project/dfmis-6667:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

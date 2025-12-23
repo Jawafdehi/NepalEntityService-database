@@ -1,0 +1,132 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:15.837502Z",
+  "dates": [
+    {
+      "date": "2015-10-07",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The project aims at contributing to the consolidation and restoration of selected damaged monuments and temples of the Hanumandhoka (Kathmandu) Durbar Square of the Kathmandu Valley World Heritage Site. The project will provide continuous monitoring of the damaged monuments, assess further risk and provide immediate protection. Selected monuments at risk of collapse will be consolidated and restored. The project will contribute to establishing the basis for long-term reconstruction and rehabilitation of the Nepali cultural heritage. The project will also contribute to the restoration of local economies by creating employment and on-the-job training opportunities."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_project_id": "1612",
+      "raw_payload": {
+        "id": 9241,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "United Nations Educational, Scientific and Cultural Organization",
+        "organization_id": 168,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "financing": [
+    {
+      "amount": 128317.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "United Nations Educational, Scientific and Cultural Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-10-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1612",
+      "value": "1612"
+    }
+  ],
+  "implementing_agency": "United Nations Educational, Scientific and Cultural Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "536 NEP 4003 - Recovery and rehabilitation of cultural heritage in the Hanumandhoka (Kathmandu) Durbar Square of the Kathmandu Valley World Heritage Site, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1612",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Recreational and sporting Services",
+      "donor_subsector": null,
+      "normalized_sector": "Recreational and sporting Services",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1612",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 128317.0,
+  "total_disbursement": 88540.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:15.837500Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1612",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

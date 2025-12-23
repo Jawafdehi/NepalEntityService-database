@@ -1,0 +1,187 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:23.170567Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-6607",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:23.170706Z",
+    "dates": [
+      {
+        "date": "2024-07-11",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2024-12-11",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2030-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The project aims to build target community households’ resilience by mitigating water insecurity and diversifying livelihoods to cope with the impacts of climate change. It will improve watershed management across approximately 200,000 hectares (ha) to mitigate water insecurity and benefit about 50,000 rural households across 24 municipalities and five districts in Karnali and Sudurpashchim provinces. It will invest in (i) 200 small community drinking water supply schemes; (ii) 160 small irrigation schemes; (iii) catchment treatment, including small infrastructure such as filtering dams and bioengineering measures for slope stabilization and stream bank protection; and (iv) the establishment of 60 community-run nurseries, and adopting silviculture principles for barren land plantation and agroforestry. It will support livelihood diversification, with a focus on women, by providing matching grants to promote investments in non-timber forest products (NTFPs), medicinal and aromatic plants (MAPs), and indigenous crops-based enterprises.1 Additionally, it will promote ecotourism by upgrading 57 kilometers (km) of hiking trails and associated infrastructure and support 850 community forest user groups to strengthen climate resilient forest planning through integrated watershed management."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Asian Development Bank",
+        "donor_project_id": "6607",
+        "raw_payload": {
+          "id": 44138,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 1,
+          "organization__development_cooperation_group__name": "Asian Development Bank",
+          "organization__logo": "",
+          "organization__name": "Asian Development Bank",
+          "organization_id": 1,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 22000000.0,
+        "assistance_type": "grant",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2024-07-11",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 10000000.0,
+        "assistance_type": "loan",
+        "budget_type": "on_budget",
+        "currency": "United States Dollar",
+        "donor": "Asian Development Bank",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": {
+          "grace_period_years": null,
+          "interest_rate": null,
+          "repayment_period_years": null,
+          "tying_status": "Untied"
+        },
+        "transaction_date": "2024-07-11",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-6607",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/6607",
+        "value": "6607"
+      }
+    ],
+    "implementing_agency": "Ministry of Industry, Tourism, Forests and Environment, Ministry of Industry, Tourism, Forests and Environment, Ministry of Physical Infrastructure Development, Ministry of Water Supply, Irrigation and Energy",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Climate Resilient Landscapes and Livelihood Project",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "जलवायु उत्थानशील परिदृश्य र जीविकोपार्जन परियोजना",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/6607",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-6607",
+    "stage": "unknown",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 32000000.0,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:23.170567Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-6607",
+      "id": "version:entity:project/development_project/dfmis-6607:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

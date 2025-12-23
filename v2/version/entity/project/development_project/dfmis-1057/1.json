@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.784783Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1057",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.784785Z",
+    "dates": [
+      {
+        "date": "2016-09-02",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2016-09-02",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2018-01-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity 1.1.1: Working with ICIMOD and government partners at both national and district-levels, review existing survey results and High Resolution Satellite Imagery (Digital Global, NASA,.SERVIR) of identified district to determine areas and communities where threat and interventions are most critical,\r\n\r\nActivity 1.1.2: Development of user-friendly Hazard Mapping and Vulnerability Analysis (HVMA) Tool Kit which incorporates concepts of the Geo-Design Approach prioritization of communities  where preparedness and mitigation activities are most required – with particular focus on local agriculture context,\r\n\r\nActivity 1.1.3: In prioritized communities, conduct on-the-ground AHVMA to identify critical landslides-affected and prone areas, which impact on  agricultural production and irrigation infrastructure – using simple, yet scientifically informed tools,\r\n\r\nActivity 1.1.4: Review and/or establish comprehensive watershed management plans through a community-based integrated livelihoods.\r\n\r\n Activity 1.2.1: Working with the Department of Soil Conservation and Watershed Management, implement a campaign to seal off smaller land cracks in order to avoid water infiltration and expansion.\r\n\r\nActivity 1.2.2: Stabilize the prioritized landslides with a combination of bioengineering techniques (plantations, bamboo, ground cover, etc.) and engineering structures (gabion walls, check dams, etc.)\r\n\r\nActivity 1.2.3: Provide training in contingency planning to community members within existing cooperatives, Watershed Management Committees or Forest User Groups.\r\n\r\nActivity 1.2.4: Work with MOAD, provide training to farmer organizations and cooperatives on improved technologies for agro-forestry, slope stabilization and soil conservation.\r\n\r\n Activity 2.1.1: Provide key leaders from MOAD and MOFSC at both national and district levels (DADO, DSCO) with tools, protocols and training for identifying landslide affected prone agricultural areas;\r\n\r\n \r\n\r\nActivity 2.1.2: Working with partners of the Landslide Sub-Groups for Mitigation and Capacity Building, test and refine community-based mitigation and rehabilitation strategies and technologies in coordination with existing government partners to promote scale-up and replication to further districts;\r\n\r\nActivity 2.1.3: Lessons learnt and best practice documents are created and shared through stakeholder dissemination events and used to advocate for continued budget support for the maintenance and operation of established systems;\r\n\r\nActivity 2.1.4: Conduct work shop for the incorporation of best practices and strategies into development programming at the relevant ministries;"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "U.S. Agency for International Development",
+        "donor_project_id": "1057",
+        "raw_payload": {
+          "id": 10177,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 47,
+          "organization__development_cooperation_group__name": "United States of America",
+          "organization__logo": "",
+          "organization__name": "U.S. Agency for International Development",
+          "organization_id": 32,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 490074.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "U.S. Agency for International Development",
+        "donor_id": null,
+        "financing_instrument": "Humanitarian Assistance",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-09-02",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1057",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1057",
+        "value": "1057"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Building Resilience to Landslides through Support for Community-Based Rehabilitation and Mitigation Actions and the Establishment of Early Warning Systems in Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1057",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1057",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 490074.0,
+    "total_disbursement": 482681.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.784783Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1057",
+      "id": "version:entity:project/development_project/dfmis-1057:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

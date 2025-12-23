@@ -1,0 +1,149 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.842574Z",
+  "dates": [
+    {
+      "date": "2017-06-06",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-06-06",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2022-06-05",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activities of Output – 1Provision of Drinking Water Supply in 230 schoolsProvision of Furniture and Fixture in 06 schools (Desks benches, office furniture, boards teaching material)Construction of toilets+ electric pump and overhead water tank in 40 schoolsPromoting and strengthening of extracurricular activities through inter schools competition and sports galaSupport for the quality education through Missing facilities/ Teaching Aid to 10 schoolsScholarship Support to 45 (school fee, education material, medical allowance etc.) to needy and meritorious studentsActivities of Output- 2Livelihood Support ProgrammeSupport to establish 400 Poultry businesses to poor familiesRestocking of livestock through  provision of Goats/buffaloes among 150 familiesSupport to establish 50 Shops (Grocery, sanitary, tailoring, Vegetable etc.)Support to 125 families for Tailoring through sewing machinesVocational/Technical trainings to 400 on entrepreneurship (On farm/off farm)Social Protection (Children, Women,  and poor Family Support)Sponsorship to 600 OrphansSupport for 30 differently able personsLivelihood support for 200 families for matrimonialNutritional food support for needy individuals, women and childrenActivities of Output-3Provision of Drinking water through installation of 1750 water pumps at different placesConstruction of 60 toilets with water pump  and overhead water tank at community and institutional levelsConstruction of 15 deep bores with storage facilityConstruction of multipurpose community welfare buildings, orphanage, health center, vocational training center etc.Construction of class rooms/schoolHealth and hygiene awareness campaignActivities of output-4Distribution of food and non-food items to disaster affectees"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Qatar Charity Nepal",
+      "donor_project_id": "1934",
+      "raw_payload": {
+        "id": 11074,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Qatar Charity Nepal",
+        "organization_id": 740,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "INGO",
+  "financing": [
+    {
+      "amount": 6374066.422,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Qatar Charity Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-06-06",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1934",
+      "value": "1934"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Integrated Development Programme (NIDP)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1934",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1934",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 6374066.422,
+  "total_disbursement": 5761657.594,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.842572Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1934",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

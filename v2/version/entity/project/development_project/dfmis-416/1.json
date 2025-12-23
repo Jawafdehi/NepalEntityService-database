@@ -1,0 +1,158 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:09.946855Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-416",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:09.946858Z",
+    "dates": [
+      {
+        "date": "2012-06-14",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Extensive community mobilization work will be carried out into 7 poorest performing birthing centers of the Rupandehi district where the rate of Institutional delivery is 7% (Karmahawa health Post/Birthing Center. The average % of Institutional delivery in these 7 VDCs is 19 %  (918 mother delivering into these BC out of 4914 expected pregnancies DPHO 068/69). The Birthing Centers planned to  be supported are; Ferana SHP ( Birthing Centre), Karmahawa HP (Birthing Centre), Sickthan SHP, Kerwani SHP (Birthing Centre), Devdaha SHP (Birthing Centre), Semarabazar- -Illaka HP(Birthing Centre), Basantapur PHC -Illaka (Birthing Centre) .\r\n\tIn Navalparasi, all VDCs will be covered with various MNH related activities particularly focusing on community based/women empowerment, HFOMC strengthening. However, the extensive community mobilization activities will be carried out in 17 VDCs which are selected  jointly with DHO  on the basis of remoteness and DAG mapping by DDC Nawalparasi. Out of 17 VDCs 7 are on lowest category ie IV category and 5 VDCs on III B and 7 VDCs on III A category. (Selected VDCs are; Ratanpur, Gaidakot, Rajahar, Mukundapur, Rakachuli, Dhurkot, Benimanipur, Dumkibas HP, Arkhala, Dadhajheri, Kotthar, Bulingtar PHC, Devchuli, Divaypuri, Germi, Sanai, and Palhi PHC)\r\n\tActivate FCHVs and mothers’ groups to organize monthly meetings to analyze and address the causes of maternal death and overall position of women in society; track pregnancies and support expectant mothers to receive antenatal care, including distributing iron and folic acid supplements;\r\n\tMobilize mothers’ groups and FCHVs to foster behavior change by increasing the participation of decision-makers, such as mother-in-laws and men in the areas of pregnancy care and birth preparedness (i.e., identifying danger signs, place of delivery and emergency actions needed in case of complications);\r\n\tWork with local radio and folk media to disseminate health education and behavior change messages on maternal health;\r\n\tEngage mother-in-laws, men and youth clubs to educate them on their role to make all deliveries safe;\r\n\tConduct a study to identify social norms that restrict women from accessing reproductive rights, specifically maternal health services; and\r\n\tStrengthen FCHV capacity and leadership roles, and advocate for local resources for community-based health services.\r\n\tRenovate and provide essential equipment and supplies to 24 birthing centers in both districts where the commitment from VDCs and HFOMCs is higher to upgrade and strengthen birthing centers at the sub health post and health post levels;\r\n\tProvide training/refresher courses on birth preparedness to 1,500 FCHVs and 550 health workers;\r\n\tEstablish and/or improve referral systems between communities, local health facilities and district service providers;\r\n\tProvide technical support to the CBNCP and IMCI follow up and strengthening\r\n\tTrain 15 health providers to conduct normal and complicated birth deliveries (per the government’s mandate on skilled birth attendants); and\r\n\tOrganize/facilitate linkages between communities and health care providers, especially in areas where health conditions are the worst. Specifically, CARE will replicate our experience working on Partnership Defined Quality, a proven tool that involves supervisor observation checklists, exit interviews and scorecards to enhance health provider performance and client satisfaction. This process will help health facilities identify their needs, explore resources to address them and upgrade their capabilities.\r\n\r\n\r\n \r\n\r\n\r\n\tSensitize all Health Facility Operation and Management Committee (HFOMC) members  in Navalparasi and selected VDCs’s HFOMC members in Rupendehi on various health issues affecting their communities, with a particular focus on maternal health and issues related to social and geographic exclusions, and supporting the VDC annual planning process to ensure local resources are allocated to increase access to quality maternal health care for women;\r\n\tOrganize annual review meetings with VDC-appointed secretaries to update them on project progress and provide feedback and support to VDC-initiated health activities;\r\n\tParticipate in annual planning and review meetings, working with the Ministry of Health and Population/District Reproductive Health Coordination Committees and District Public Health Offices/District Development Committees to develop a strategy, verifiable and attainable maternal health objectives and a training package for health workers;\r\n\tTrain 135 HFOMCs using a module developed by CARE and the Ministry of Health and Population to improve local health governance and service quality by promoting responsibility, accountability, transparency and predictability in health services; and\r\n\tFacilitate annual review meetings with HFOMCs in the 135 health facilities to update progress and discuss constraints, review strategies, policies and program targets"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "416",
+        "raw_payload": {
+          "id": 3895,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Non Governmental Organisations",
+    "financing": [
+      {
+        "amount": 252808.9888,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-06-14",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-416",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/416",
+        "value": "416"
+      }
+    ],
+    "implementing_agency": "CARE Nepal",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Saving Mothers’ and Infants’ Lives (SMILE)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/416",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-416",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 252808.9888,
+    "total_disbursement": 271597.73544,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:09.946855Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-416",
+      "id": "version:entity:project/development_project/dfmis-416:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

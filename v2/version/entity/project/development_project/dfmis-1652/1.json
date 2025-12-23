@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:15.972439Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1652",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:15.972441Z",
+    "dates": [
+      {
+        "date": "2011-06-07",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-06-07",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-06-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Self-help group formation and strengthening: About 4150 self-help groups will be formed and strengthened with different training and other activities.Livestock raising: 3000 large animals (buffalo, cow, ox) and 120804 small animals (goat, sheep, pigs and birdsVegetable and fodder grasses and fruits production: All project families (106500) will get this supportGroup savings/credit: All 4150 groups will develop their fund and have saving/credit activitiesTrainings: Over 106500 project family members and others will get cornerstones and gender and justice training all the group members will get improved animal management, fodder and forage development, kitchen\\ gardening, group management, and pre cooperativeTechnical services and evaluation-Participatory Self Review and Assessment, CAHW mobilization, joint monitoring of program by district line agencies:  All the 4150 groups and 100 NGOs partners will do their PSRP; 1 or 2 community animal health workers will work in every project; and all the project will have provision for joint monitoring of program by district level line agencies, stakeholders and media"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Heifer International Nepal",
+        "donor_project_id": "1652",
+        "raw_payload": {
+          "id": 3354,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Heifer International Nepal",
+          "organization_id": 578,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Heifer International Nepal",
+    "financing": [
+      {
+        "amount": 22632411.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Heifer International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2011-06-07",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1652",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1652",
+        "value": "1652"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Heifer Project International/Nepal Program, Phase IV",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1652",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Fuel and Energy",
+        "donor_subsector": null,
+        "normalized_sector": "Fuel and Energy",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1652",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 22632411.0,
+    "total_disbursement": 22521946.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:15.972439Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1652",
+      "id": "version:entity:project/development_project/dfmis-1652:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

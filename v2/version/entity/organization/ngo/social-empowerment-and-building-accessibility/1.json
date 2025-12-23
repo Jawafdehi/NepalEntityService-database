@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Social Empowerment and Building Accessibility",
+  "created_at": "2025-12-23T19:11:06.675071Z",
+  "entity_or_relationship_id": "entity:organization/ngo/social-empowerment-and-building-accessibility",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Non-Government Organisation",
+      "group": "NGO"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Non-Government Organisation"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.675073Z",
+    "description": null,
+    "id": "entity:organization/ngo/social-empowerment-and-building-accessibility",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Social Empowerment and Building Accessibility",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "social-empowerment-and-building-accessibility",
+    "sub_type": "ngo",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Social Empowerment and Building Accessibility",
+      "created_at": "2025-12-23T19:11:06.675071Z",
+      "entity_or_relationship_id": "entity:organization/ngo/social-empowerment-and-building-accessibility",
+      "id": "version:entity:organization/ngo/social-empowerment-and-building-accessibility:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

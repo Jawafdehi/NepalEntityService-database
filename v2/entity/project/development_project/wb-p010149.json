@@ -1,0 +1,134 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.836965Z",
+  "dates": null,
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The proposed project would assist the Government in implementing its foodgrain policies by providing good storage facilities and strengthening NFC and the Rice Export Companies (RECs), so that they may be able to meet foodgrain procurement, distribution and export requirements and reduce quantitative and qualitative storage losses. The project would also provide necessary information for further development of the storage, processing and distribution sub-sector and for future Government foodgrain marketing and price policy formulation. The project would consist of: (i) construction of 40,000 MT of bagged grain storage warehouses comprising 37,000 MT storage capacity at eight procurement centers in the Terai and a 3,000 MT transshipment storage facility at Hetauda; (ii) technical assistance for NFC in management and organization, and in finance and accounting, and for NFC and RECs in grain quality control and godown maintenance; (iii) training and study tours for NFC and RECs managers; and (iv) studies on future needs for foodgrain storage and processing facilities and on foodgrain marketing and price policy. The project faces no special risks."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P010149",
+      "raw_payload": {
+        "boardapprovaldate": "1980-08-26T00:00:00Z",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "0",
+        "id": "P010149",
+        "major_sector_code": "AX",
+        "major_sector_name": "Agriculture, Fishing and Forestry",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "AX",
+              "major_sector_name": "Agriculture, Fishing and Forestry",
+              "sectors": [
+                {
+                  "sector_code": "AM",
+                  "sector_name": "(Historic)Agro-industry and marketing",
+                  "sector_percent": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "(Historic)Agro-industry and marketing",
+        "proj_id": "P010149",
+        "project_abstract": "The proposed project would assist the Government in implementing its foodgrain policies by providing good storage facilities and strengthening NFC and the Rice Export Companies (RECs), so that they may be able to meet foodgrain procurement, distribution and export requirements and reduce quantitative and qualitative storage losses. The project would also provide necessary information for further development of the storage, processing and distribution sub-sector and for future Government foodgrain marketing and price policy formulation. The project would consist of: (i) construction of 40,000 MT of bagged grain storage warehouses comprising 37,000 MT storage capacity at eight procurement centers in the Terai and a 3,000 MT transshipment storage facility at Hetauda; (ii) technical assistance for NFC in management and organization, and in finance and accounting, and for NFC and RECs in grain quality control and godown maintenance; (iii) training and study tours for NFC and RECs managers; and (iv) studies on future needs for foodgrain storage and processing facilities and on foodgrain marketing and price policy. The project faces no special risks.",
+        "project_name": "GRAIN STORAGE",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010149",
+      "value": "p010149"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "GRAIN STORAGE",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010149",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "Agriculture, Fishing and Forestry",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p010149",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": null,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.836962Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p010149",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

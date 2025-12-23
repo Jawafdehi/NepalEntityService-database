@@ -1,0 +1,151 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.833215Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-609",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.833218Z",
+    "dates": [
+      {
+        "date": "2013-05-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2014-10-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Development of Emergency Trauma Guidelines on Head and Burn Injuries including institutionalization.\r\n\t\r\n\t\tTraining manual development on emergency trauma guidelines, and roster mechanism and early deployment mechanism of health human resources.\r\n\t\r\n\t\tIEC materials development and production cost\r\n\t\r\n\t\tTraining and workshops (materials, Resource Person/consultant Fee, refreshments, venue charge, stationaries etc.)\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tFirst aid to community health volunteers\r\n\t\t\t\r\n\t\t\t\tTraining on emergency trauma guideline to health professionals\r\n\t\t\t\r\n\t\t\t\tTraining on roster mechanism and early deployment mechanism of health human resources\r\n\t\t\r\n\t\r\n\t\r\n\t\tCost for studies on the potential role of FVHVs and traditional community institutions in emergency\r\n\t\r\n\t\tHuman resources (regular staffs and consultants)\r\n\t\r\n\t\tAccidental Insurance"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Handicap International Nepal",
+        "donor_project_id": "609",
+        "raw_payload": {
+          "id": 7173,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Handicap International Nepal",
+          "organization_id": 496,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Handicap International Nepal",
+    "financing": [
+      {
+        "amount": 349255.1554,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Handicap International Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-05-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-609",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/609",
+        "value": "609"
+      }
+    ],
+    "implementing_agency": "Nepal Red Cross Society",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing the health sector crisis preparedness in the event of a high intensity earthquake in Kathmandu Valley and selected districts of Nepal.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/609",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-609",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 349255.1554,
+    "total_disbursement": 183769.9794,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.833215Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-609",
+      "id": "version:entity:project/development_project/dfmis-609:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

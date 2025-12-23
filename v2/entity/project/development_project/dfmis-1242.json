@@ -1,0 +1,171 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.049327Z",
+  "dates": [
+    {
+      "date": "2015-06-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-06-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Activity-1: Engage government and local stakeholder to inform about Solar MUS-II project and complete required statutory requirement with government agencies at district and national level; including signing of project agreement;\r\n\r\nActivity-2: Produce Solar MUS marketing material and hold marketing events at regional and district level;\r\n\r\nActivity-3: Develop and mobilise poor friendly loan product through local and national financial institution; agree with the community on the funding mechanism to install Solar MUS system;\r\n\r\nActivity-4: Identify, establish a district level supply chain partners and organise capacity building training for supply chain partners;\r\n\r\nActivity-5: Establish economically sustainable committee institution with legal status to own and manage the system and build their capacity;\r\n\r\nActivity-6: Install 19 solar system and construct associated Multiple Water System (MUS) system in 19 sites;\r\n\r\nActivity-7: Develop and support community to implement watershed and water resource management plan;\r\n\r\nActivity-8: install metering system and develop a mechanism with the community to record and collect user fees;\r\n\r\nActivity-9: Organise capacity building training for Solar MUS beneficiaries in agriculture and micro enterprises;\r\n\r\nActivity 10- Project Monitoring and Project outcome and Impact evaluation;\r\n\r\nActivity 11- Technical Support, Capacity Building and Institutional Development for implementation of new 20x Solar MUS projects (beyond 19 x projects from Solar MUS-II);\r\n\r\nActivity 12- Installation of one unit of Hydram Pump and Control testing between hydraulic ram pumps and solar PV pumps"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Renewable World UK",
+      "donor_project_id": "1242",
+      "raw_payload": {
+        "id": 8907,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Renewable World UK",
+        "organization_id": 604,
+        "percentage": 83
+      }
+    },
+    {
+      "donor": "International Development Enterprises",
+      "donor_project_id": "1242",
+      "raw_payload": {
+        "id": 8909,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "International Development Enterprises",
+        "organization_id": 287,
+        "percentage": 17
+      }
+    }
+  ],
+  "executing_agency": "Renewable World UK, International Development Enterprises",
+  "financing": [
+    {
+      "amount": 839603.2156,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Renewable World UK",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-06-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1242",
+      "value": "1242"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Solar MUS-II",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1242",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1242",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 839603.2156,
+  "total_disbursement": 692236.08082,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.049325Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1242",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

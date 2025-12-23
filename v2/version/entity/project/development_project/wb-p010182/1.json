@@ -1,0 +1,148 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import from World Bank Projects API",
+  "created_at": "2025-12-23T19:11:52.803062Z",
+  "entity_or_relationship_id": "entity:project/development_project/wb-p010182",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from World Bank on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:52.803064Z",
+    "dates": null,
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The Cash Crop Development Project will promote cash crop production. Specifically, it aims to increase production of sugarcane, tobacco and oilseeds (mustard and rapeseed). Pilot development of sericulture and groundnuts will also be initiated and existing ginger research facilities strengthened. The Cash Crop Development Project will improve support services for these crops and will build on existing efforts to upgrade agricultural extension and research in Nepal. The Cash Crop Development Project will also provide for credit to match the increased input requirements. In addition, to facilitate the movement of cane to the sugar factory, the project will provide for upgrading of about 59 kms of feeder roads, construction of about 5 kms of new roads, and construction of two small bridges. The major benefits from the project will be: (a) increased agricultural production (cash crops); (b) savings in foreign exchange, primarily through import substitution; and (c) increased net farm income."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "WB",
+        "donor_project_id": "P010182",
+        "raw_payload": {
+          "boardapprovaldate": "1983-03-22T00:00:00Z",
+          "countrycode": [
+            "NP"
+          ],
+          "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+          "countryshortname": "Nepal",
+          "curr_project_cost": "0",
+          "id": "P010182",
+          "major_sector_code": "AX",
+          "major_sector_name": "Agriculture, Fishing and Forestry",
+          "major_sectors": [
+            {
+              "major_sector": {
+                "major_sector_code": "AX",
+                "major_sector_name": "Agriculture, Fishing and Forestry",
+                "sectors": [
+                  {
+                    "sector_code": "AA",
+                    "sector_name": "(Historic)Agriculture adjustment",
+                    "sector_percent": "0"
+                  }
+                ]
+              }
+            }
+          ],
+          "mjsector": "(Historic)Agriculture adjustment",
+          "proj_id": "P010182",
+          "project_abstract": "The Cash Crop Development Project will promote cash crop production. Specifically, it aims to increase production of sugarcane, tobacco and oilseeds (mustard and rapeseed). Pilot development of sericulture and groundnuts will also be initiated and existing ginger research facilities strengthened. The Cash Crop Development Project will improve support services for these crops and will build on existing efforts to upgrade agricultural extension and research in Nepal. The Cash Crop Development Project will also provide for credit to match the increased input requirements. In addition, to facilitate the movement of cane to the sugar factory, the project will provide for upgrading of about 59 kms of feeder roads, construction of about 5 kms of new roads, and construction of two small bridges. The major benefits from the project will be: (a) increased agricultural production (cash crops); (b) savings in foreign exchange, primarily through import substitution; and (c) increased net farm income.",
+          "project_name": "CASH CROPS",
+          "regionhomepageurl": "http://www.worldbank.org/sar",
+          "regionname": "South Asia",
+          "status": "Closed"
+        }
+      }
+    ],
+    "executing_agency": null,
+    "financing": null,
+    "id": "entity:project/development_project/wb-p010182",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "World Bank Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010182",
+        "value": "p010182"
+      }
+    ],
+    "implementing_agency": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "CASH CROPS",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P010182",
+    "sectors": [
+      {
+        "donor": "World Bank",
+        "donor_sector": "Agriculture, Fishing and Forestry",
+        "donor_subsector": null,
+        "normalized_sector": null,
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "wb-p010182",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": null,
+    "total_disbursement": null,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import from World Bank Projects API",
+      "created_at": "2025-12-23T19:11:52.803062Z",
+      "entity_or_relationship_id": "entity:project/development_project/wb-p010182",
+      "id": "version:entity:project/development_project/wb-p010182:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

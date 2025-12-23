@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:10.895351Z",
+  "dates": [
+    {
+      "date": "2017-11-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-11-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2019-05-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Baseline study at the beginning of the project\r\n\r\nEnd line study and final evaluation at the end of the\r\n\r\nproject\r\n\r\nParticipatory Needs Assessment\r\n\r\nFacilitator training before NFE clas\r\n\r\nGroup formation before literacy class\r\n\r\nNon Formal Education Classes\r\n\r\nFinancial Literacy Training\r\n\r\nTechnical Assistance to beneficiaries on household financial planning and decisions\r\n\r\nFinancial Training of Advisers (Executive\r\n\r\n Committee)\r\n\r\nTraining in Remittances and Transfer Systems\r\n\r\nEstablishment of Linkages with existing Transfer\r\n\r\nSystems\r\n\r\nStrengthening capacity of potential local\r\n\r\nremittance services providers\r\n\r\nAnalysis of local women's savings and micro\r\n\r\ncredit and/or agricultural cooperatives\r\n\r\nTraining in women's savings and micro credit and or agricultural cooperatives\r\n\r\nConnect women with relevant cooperatives\r\n\r\nStrengthen capacities for products and services\r\n\r\ndelivery of a linked cooperative\r\n\r\nLocal market analysis\r\n\r\nBusiness and Marketing Classes\r\n\r\nDevelop local hen enterprises\r\n\r\nBean enterprises (cultivation, grading, labeling,\r\n\r\npackaging, marketing)\r\n\r\nPotato enterprise (improved practices and seed\r\n\r\nproduction)\r\n\r\nVegetable Enterprise (cauliflower, cabbage and\r\n\r\ntomato in PH)\r\n\r\nWoollen product diversification\r\n\r\nSkill training on basic veterinary skills\r\n\r\nFair\r\n\r\nLivelihood related mobile camp (Ghumti camp)\r\n\r\nEstablish market linkage for products\r\n\r\nStrengthen cooperative for inputs and products\r\n\r\nmarketing and sales\r\n\r\nRadio broadcasting through partnership with a\r\n\r\nlocal radio\r\n\r\nConsultations with local leaders, authorities,\r\n\r\nNGOs active in migration issues\r\n\r\nSchool children awareness about migration issues\r\n\r\nAwareness workshop about registration of\r\n\r\nmigration (potential migrants)\r\n\r\nAwareness workshop about registration of\r\n\r\nmigration (VDC officials)\r\n\r\nTraining in self-governance and leadership\r\n\r\nMediation and Advice by EC\r\n\r\nTraining for separate groups of women and men\r\n\r\nTraining for mixed groups of women and men\r\n\r\nGender advisers\r\n\r\nAwareness raising about women and girls' health\r\n\r\n issues\r\n\r\nParticipatory Needs Assessment\r\n\r\nTraining on new technologies (usages, maintenance\r\n\r\nand repair)\r\n\r\nIntroduction of drudgery reducing, women friendly technologies\r\n\r\nEstablishment of a rotating child care system among\r\n\r\nwomen\r\n\r\nGender Expertise Gap Analysis\r\n\r\n \r\n\r\nGender mainstreaming Training of Trainers (ToT)\r\n\r\n \r\n\r\nDistrict Stakeholder's Capacity Development by\r\n\r\nTrained ToT\r\n\r\n \r\n\r\nNetworking among Gender Professionals /\r\n\r\n Institutions and Potentials of Partnerships\r\n\r\n \r\n\r\nAnalyze Policies on Gender and Migration"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Norlha-Helping People in the Himalayas",
+      "donor_project_id": "628",
+      "raw_payload": {
+        "id": 10730,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Norlha-Helping People in the Himalayas",
+        "organization_id": 546,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Norlha-Helping People in the Himalayas",
+  "financing": [
+    {
+      "amount": 340076.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Norlha-Helping People in the Himalayas",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-11-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/628",
+      "value": "628"
+    }
+  ],
+  "implementing_agency": "Norlha-Helping People in the Himalayas",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Empowerment of women and girls in rural communities affected by out migration",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/628",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-628",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 340076.0,
+  "total_disbursement": 62181.64182,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:10.895349Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-628",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

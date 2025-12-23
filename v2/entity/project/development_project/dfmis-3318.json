@@ -1,0 +1,184 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:19.731172Z",
+  "dates": [
+    {
+      "date": "2016-02-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2016-02-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Training of managers and executive committee members of focus and non-focus VDCs on gender , GBV and RHForm 180 WGs and meet regularly on a monthly basis and implement action plansConduct TOT and refresher training among 60  WC members from focussed VDCsTrain 1,000 watch group members on GBV (180 WGs X approx. 6 members) (20 members in each batchProvide technical support to WGs to review update training package for couples, managers, MTOT and TOTForm 54 adolescent girls groups and 6 girls circle and meet on a monthly basisProvide TOT to WC Facilitators  and 3 WCO staff for one month in two batches on Social and Financial Skills Package (SFSP)Train 60 peer leaders on SFSP in 4 batches of 6 days eachDevelop training material for couple trainingsConduct orientation with 1000 couplesFollow-up meetings with men who participated in the orientationTrain 300 boys and support them to implement their plansLaunch at least 6 initiatives to engage boys in promoting gender equityOrientation Support research organization to develop concepts for action research on project approaches; accompany and regularly review the research processDesign and prepare media broadcasts for FM stationsDesign and conduct multi media campaignDevelop and print IEC materialSupport district based women’s rights groupsCall for proposals for studies on gaps in the implementation of policy frameworkSupport women’s rights organizations to organize advocacy eventsOrganize Advocacy events at district level on women’s rightsConduct TOT for 18  district level trainers on women’s rights, GBV and Reproductive healthTrain 45 WCO staff on women’s rights, GBV and Reproductive healthOrganize quarterly meeting of WCs of focus VDCsTrain 300 bar association members/government attorney on GBVTrain 300 police staff on GBVOrient 30 LGCDP Social Mobilizers and 30 VDC Secretaries on their role to reduce GBVOrient 50 DDC Organize district level conferenceSupport resource persons for district level trainingsOrganise at least 15 joint monitoring visits of district based authoritiesFacilitate quarterly meetings of Gender Empowerment and Ending GBV coordination committeesProvide equipment and supplies to WCO in 3 districtsEstablish 3 Safe HousesTrain 15 Service Center staff and 9 WC member for 5 days every yearTechnical support  to Service CentersRefresher trainings for safe house staff in Kathmandu to improve their capacity to handle complex casesSupport one shelter in Kathmandu to provide referral supportSupport one shelter in Kathmandu for mental health rehabilitationConsultation/orientation to case manager including care for care giversSet up/strengthen District Hospital/OCMC to provide health services and referral to GBV survivorsTechnical support to strengthen District hospital/OCMC for quality services to GBV survivors and appropriate referralOrganize Technical working group meetings to finalize competency based training packagePrinting of Training Package, job aids, training related materialConduct Clinical Training Skills Modified Computerized Learning (CTS MODCAL) to subject matter expertsConduct MTOT+Training Skills-Field test of the training package among 20 participantsConduct 3 batch TOT among 45 district hospital staffTraining site strengthening (District hospital and PHC/HP)Conduct on the job training in 3 district hospitals (3 batches per site)Conduct 19 batches of blended learning trainingTrain 6 case managers on how to provide community level psychosocial supportDistrict planning and review meetings on health response to GBV (2 times a year in each district)Develop GBV programme implementation guideline for health workersDevelop 5 policy briefs based on good practices in programmeOrganise a National ConferenceConduct a comparative study of OCMCs/district hospital with and without psychosocial outreachDiscussion of study results with MoHPShare the progress of the project with WDOs and DHOs during their review meetingTwo days orientation on psychosocial skills to WDOsSupport DWC to implement women development programme in 3 programme area.Joint monitoring visitDevelop GBV programme implementation guideline for health workersDevelop 5 policy briefs based on good practices in programmeOrganise National ConferenceConduct a comparative study of OCMCs with and without psychosocialDiscussion of study results with MoHPShare the progress of the project with WDOs and DHOs during their review meetingTwo days orientation on psychosocial skills to WDOsSupport DWC to implement women development programme in 3 programme area. Joint monitoring"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "3318",
+      "raw_payload": {
+        "id": 37659,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 109932.1,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-06-30",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 3037037.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-02-15",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 787406.2,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-03-04",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": -111370.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-06-30",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/3318",
+      "value": "3318"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Gender Based Violence Prevention and Response Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/3318",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-3318",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 3823005.3,
+  "total_disbursement": 3784898.05,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:19.731165Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-3318",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

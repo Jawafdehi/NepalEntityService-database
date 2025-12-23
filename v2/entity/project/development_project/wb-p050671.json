@@ -1,0 +1,224 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from World Bank on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:52.561113Z",
+  "dates": [
+    {
+      "date": "2009-08-31",
+      "source": "WB",
+      "type": "CLOSING"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Telecommunications Sector Reform project aims at supporting Nepal's ongoing reform process, by assisting in building the Government's capacity to set policies, and establish the regulatory framework, as well as enabling private sector participation in the telecommunication infrastructure, and services in rural areas. Through its components, the project will: 1) finance local, and international consulting services, studies, training, and equipment, to strengthen the Ministry of Information and Communications'(MOIC) policy, and radio spectrum management functions, by building capacity, and services, through technical cooperation, and information sharing. This component will also support, and strengthen the Project Coordination Unit (PCU) to successfully implement, and coordinate the project; 2) strengthen the Nepal Telecommunications Authority's (NTA) capacity to respond to regulatory issues in a competitive sector, by financing consulting services, and providing resources for institutional capacity building, through training provision. In addition, this component will also support the award of a rural license to a private rural telecommunications service operator, financing an upfront capital subsidy, to service the Eastern Development Region; and, 3) assist NTA in policy implementation for expanding access to information, and telecommunications services, by financing public information and communications technology access centers, in addition to supporting the project management unit to enable successful implementation of NTA's functions."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "WB",
+      "donor_project_id": "P050671",
+      "raw_payload": {
+        "boardapprovaldate": "2001-12-11T00:00:00Z",
+        "closingdate": "2009-08-31",
+        "countrycode": [
+          "NP"
+        ],
+        "countryhomepageurl": "http://www.worldbank.org/en/country/nepal",
+        "countryshortname": "Nepal",
+        "curr_project_cost": "24550000",
+        "envassesmentcategorycode": "C",
+        "grantamt": "0",
+        "id": "P050671",
+        "major_sector_code": "BX,CX",
+        "major_sector_name": "FY17 - Information and Communications Technologies,FY17 - Public Administration",
+        "major_sectors": [
+          {
+            "major_sector": {
+              "major_sector_code": "BX",
+              "major_sector_name": "FY17 - Public Administration",
+              "sectors": [
+                {
+                  "sector_code": "BC",
+                  "sector_name": "FY17 - Central Government (Central Agencies)",
+                  "sector_percent": "45.0"
+                }
+              ]
+            }
+          },
+          {
+            "major_sector": {
+              "major_sector_code": "CX",
+              "major_sector_name": "FY17 - Information and Communications Technologies",
+              "sectors": [
+                {
+                  "sector_code": "CI",
+                  "sector_name": "FY17 - ICT Infrastructure",
+                  "sector_percent": "55.0"
+                }
+              ]
+            }
+          }
+        ],
+        "mjsector": "FY17 - Central Government (Central Agencies),FY17 - ICT Infrastructure",
+        "proj_id": "P050671",
+        "project_abstract": "The Telecommunications Sector Reform project aims at supporting Nepal's ongoing reform process, by assisting in building the Government's capacity to set policies, and establish the regulatory framework, as well as enabling private sector participation in the telecommunication infrastructure, and services in rural areas. Through its components, the project will: 1) finance local, and international consulting services, studies, training, and equipment, to strengthen the Ministry of Information and Communications'(MOIC) policy, and radio spectrum management functions, by building capacity, and services, through technical cooperation, and information sharing. This component will also support, and strengthen the Project Coordination Unit (PCU) to successfully implement, and coordinate the project; 2) strengthen the Nepal Telecommunications Authority's (NTA) capacity to respond to regulatory issues in a competitive sector, by financing consulting services, and providing resources for institutional capacity building, through training provision. In addition, this component will also support the award of a rural license to a private rural telecommunications service operator, financing an upfront capital subsidy, to service the Eastern Development Region; and, 3) assist NTA in policy implementation for expanding access to information, and telecommunications services, by financing public information and communications technology access centers, in addition to supporting the project management unit to enable successful implementation of NTA's functions.",
+        "project_name": "NP: Telecommunications Sector Reform Project",
+        "regionhomepageurl": "http://www.worldbank.org/sar",
+        "regionname": "South Asia",
+        "status": "Closed",
+        "themev2_level1_exact": [
+          "FY17 - Finance",
+          "FY17 - Private Sector Development",
+          "FY17 - Private Sector Development",
+          "FY17 - Urban and Rural Development",
+          "FY17 - Urban and Rural Development"
+        ],
+        "themev2_level2_exact": [
+          "FY17 - Business Enabling Environment",
+          "FY17 - Financial Infrastructure and Access",
+          "FY17 - Jobs",
+          "FY17 - Rural Development",
+          "FY17 - Urban Development"
+        ],
+        "totalamt": "22560000"
+      }
+    }
+  ],
+  "executing_agency": null,
+  "financing": [
+    {
+      "amount": 22560000.0,
+      "assistance_type": "other",
+      "budget_type": "on_budget",
+      "currency": "USD",
+      "donor": "World Bank",
+      "donor_id": null,
+      "financing_instrument": "Investment Project Financing",
+      "is_actual": true,
+      "source": "WB",
+      "terms": null,
+      "transaction_date": "2001-12-11",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "World Bank Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P050671",
+      "value": "p050671"
+    }
+  ],
+  "implementing_agency": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "NP: Telecommunications Sector Reform Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://projects.worldbank.org/en/projects-operations/project-detail/P050671",
+  "sectors": [
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Public Administration",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    },
+    {
+      "donor": "World Bank",
+      "donor_sector": "FY17 - Information and Communications Technologies",
+      "donor_subsector": null,
+      "normalized_sector": null,
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "wb-p050671",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": [
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Finance",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Private Sector Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    },
+    {
+      "category": "THEME",
+      "donor": "World Bank",
+      "donor_tag": "FY17 - Urban and Rural Development",
+      "normalized_tag": null
+    }
+  ],
+  "total_commitment": 22560000.0,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Import from World Bank Projects API",
+    "created_at": "2025-12-23T19:11:52.561110Z",
+    "entity_or_relationship_id": "entity:project/development_project/wb-p050671",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

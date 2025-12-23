@@ -1,0 +1,163 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:08.194403Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-225",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:08.194406Z",
+    "dates": [
+      {
+        "date": "2010-01-18",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2010-01-18",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-09-02",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Prevention services through establishing linkages with the existing government services in the source, transit and destination locations.\r\n\t\r\n\t\tTreatment, care and support through establishing linkages with public and private service providers at source and destination points to ensure continuity of services across the continuum of mobility without interruption\r\n\t\r\n\t\tReducing the vulnerability of mobile women in sex work and wives of mobile men at the source areas\r\n\t\r\n\t\tEstablishing and strengthening community based organizations, local government and NGO’s to reduce vulnerability of mobile populations\r\n\t\r\n\t\tLinking NGOs and CBOs at source, transit and destination through use of appropriate information and communication technology and establishment of a database to connect between mobile populations and their families in source, transit and destination areas\r\n\t\r\n\t\tSensitizing and orienting people with whom mobile populations will come into contact such as transport organizations, highway hoteliers, traders, border security personnel,  customs and other local officials at transit points; improving their ability and effectiveness in advising mobile populations, with a particular focus on the specific vulnerabilities and denial of rights faced by mobile women.\r\n\t\r\n\t\tA regional research centre - the project envisages the establishment of a regional research centre on HIV and mobility, managed by The Overseas Development Institute (ODI), which will house all the information and data about mobility and HIV in the region and undertake specific research, surveys and studies on a regular basis to ensure availability and quality of information to support the efforts of evidence based advocacy at national and regional levels\r\n\t\r\n\t\tResearch studies - will be conducted to better understand the gender dynamics and gender based vulnerabilities of mobile populations and their family members\r\n\t\r\n\t\tMonitoring and Evaluation - The project management unit will work with the research centre to monitor and evaluate the project, in order to guarantee that the learning cycle is active and constantly feeds into more effective implementation, resulting in better practice"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "CARE Nepal",
+        "donor_project_id": "225",
+        "raw_payload": {
+          "id": 1903,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "CARE Nepal",
+          "organization_id": 304,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 1479849.93,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "CARE Nepal",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2010-01-18",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-225",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/225",
+        "value": "225"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing Mobile Population Access to HIV/AIDs Service, Information & Support (EMPHASIS)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/225",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Family and Infant Welfare",
+        "donor_subsector": null,
+        "normalized_sector": "Family and Infant Welfare",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-225",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1479849.93,
+    "total_disbursement": 1465816.8402,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:08.194403Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-225",
+      "id": "version:entity:project/development_project/dfmis-225:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

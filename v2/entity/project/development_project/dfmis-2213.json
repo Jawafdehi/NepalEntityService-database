@@ -1,0 +1,170 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.355511Z",
+  "dates": [
+    {
+      "date": "2017-03-31",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2017-03-31",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-03-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Input (Project themes and subthemes):                                           Strengthening Health Security Scheme in Nepal (Earlier called as Community-based Micro-health Insurance project in Nepal) has been implemented to strengthen the National Health Insurance Program of Nepal. The interventions are being implemented to support Health Insurance Board (HIB), basically in the areas of policy formulation as well as implementation support in selected districts.  Health insurance program was launched in Nepal in the year 2016 and the program has been expanded up to 58 out of 77 districts of the country by the end of Fiscal year 2019/2020.  This shows the program has covered two-third of the total districts. However, only 8% of the population (18% of the population in program implemented districts) has been enrolled. The program aims to enroll 40% of the population by the next year. The major challenge associated with national health insurance program is the disinterest of people towards health insurance program.  The recent report suggests that almost 2.2 million population were enrolled in health insurance program of which 0.5 million (almost 24% of total enrolled) did not renew their policy. With this trend, it is quiet challenging to achieve the targets of enrolling two-third of the population by 2025 and 100% enrollment by 2030. MISEREOR has been funding the implementation social health security in Nepal since 2010. During the first phase (October 2010- December 2013), pilot project of CBMHI was implemented in two districts (Banke and Dhading) together with a team of Save the Children (SC), Micro Security Academy (MIA), NIRDHAN and DEPROSC Nepal. The project was conceptually new in Nepal and envisioned that the health security schemes helped reduce unforeseeable or unaffordable health care costs through calculable and regularly paid premiums among 45,000 marginal populations in two districts. The second phase (January 2014 to March 2017) of the project was the continuation of the first phase.          Based on the learning of the first and second phase of community based micro health insurance program in Nepal, some issues have been identified, which were proposed for third phase (April 2017 to September 2020) of the program, the issues were:1.          Community scheme should have government registration to get legal standing2.          Provide complete handover of the scheme to the community and local government bodies3.          Continue working together with government on national health security scheme and extend the coverage."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Save the Children",
+      "donor_project_id": "2213",
+      "raw_payload": {
+        "id": 11369,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Save the Children",
+        "organization_id": 282,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "NGOs",
+  "financing": [
+    {
+      "amount": 246454.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2017-04-01",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 6522.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2020-05-20",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 17203.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Save the Children",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2021-06-21",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2213",
+      "value": "2213"
+    }
+  ],
+  "implementing_agency": "Save the Children",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Community based Micro Health Project in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2213",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Health – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Health – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2213",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 270179.0,
+  "total_disbursement": 270179.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.355509Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2213",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

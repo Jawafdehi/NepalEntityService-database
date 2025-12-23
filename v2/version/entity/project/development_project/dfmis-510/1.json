@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:10.412404Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-510",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:10.412407Z",
+    "dates": [
+      {
+        "date": "2013-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-11-01",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-08-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Support MOHP to develop a dissemination strategy to roll out the national emergency referral guidelines (ERG), with intensive mentoring support for targeted health facilities in Kathmandu Valley\r\n\tDevelop MCM plan inclusive of emergency WASH in 11 health facilities.\r\n\tTrain health professionals including Ambulance drivers on Emergency Health Care (incorporating First Aid, and Psychological First Aid) and Emergency Referral guideline developed to manage MCI.\r\n\tConduct non-structural and functional capacity assessment including Emergency WASH in 2 hospitals and Structural, non-structural, and functional capacity assessment with emergency WASH in 3 PHCCs, 3 HPs, and 3 SHPs.\r\n\tConduct Non-structural retrofitting including WASH components in 2 hospitals.\r\n\tMentoring and capacity support to 6 Health facilities management committees to enhance coordination and communication between health facilities and their catchment's communities in preparation for a MCI.\r\n\tCommunity information sessions held at start of project with VDCs at 10 health facilities\r\n\tTraining of 20 health facility staff (2 per facility) on MCM plans and ERGs; development of ERF\r\n\tCommunication plan development workshops and meetings with health facilities.\r\n\tFirst Aid and Light Search and Rescue and PFA training for health staff and individual in communities (first responders) including HFMC members\r\n\tPLGs (for communities served by 10 health facilities (at least 60 beneficiaries per facility).\r\n\t4 street dramas to increase awareness on earthquake safety.\r\n\tStructural, non-structural and function assessments of 10 health facilities\r\n\t20 facility staff (2 per health facility) will be trained on cost-effective, efficient and context appropriate non-structural mitigation measure to be implemented in all 10 facilities\r\n\tNon-Structural retrofitting on 10 targeted health facilities."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "510",
+        "raw_payload": {
+          "id": 7164,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Save the Children",
+    "financing": [
+      {
+        "amount": 205084.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-510",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/510",
+        "value": "510"
+      }
+    ],
+    "implementing_agency": "Save the Children",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Enhancing Health Sector Crisis Preparedness in the Event of High Intensity Earthquake in Kathmandu Valley. Increasing the resilience of the Kathmandu Valley's Health System",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/510",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-510",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 205084.0,
+    "total_disbursement": 148465.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:10.412404Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-510",
+      "id": "version:entity:project/development_project/dfmis-510:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

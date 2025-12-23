@@ -1,0 +1,165 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.172613Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-70",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.172615Z",
+    "dates": [
+      {
+        "date": "2009-11-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activity # 3.1 Support to the joint assessment of the HIV and AIDS reponse 2008-2011 (based on the NSP)\r\nActivity # 3.2 Support to the development of a costed National HIV and AIDS Strategy 2011-2016 and National Action Plan 2011-2013.\r\nActivity # 3.3. Support in the technical assistance (TA) needs assessment, and the development of National Technical Support Plan, 2010-2011\r\nActivity # 3.4. Support to effective functioning of HSCB Partnership Forum, 4th National AIDS Conference and other advocay events including dissemination of policies and bill \r\nActivity # 3.5. Support to strengthen human resources of HSCB (in the area of policy formulation, coordination, resource mobilization)"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_project_id": "70",
+        "raw_payload": {
+          "id": 2676,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Joint United Nations Programme on HIV/AIDS",
+          "organization_id": 172,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Health and Population",
+    "financing": [
+      {
+        "amount": 115000.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-11-01",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 115000.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Joint United Nations Programme on HIV/AIDS",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2009-11-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-70",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/70",
+        "value": "70"
+      }
+    ],
+    "implementing_agency": "Joint United Nations Programme on HIV/AIDS",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Human resources and systems of government and civil society enhanced to develop, implement and scale up evidence informed comprehensive HIV responses.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/70",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Health – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Health – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-70",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 230000.0,
+    "total_disbursement": 87689.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.172613Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-70",
+      "id": "version:entity:project/development_project/dfmis-70:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

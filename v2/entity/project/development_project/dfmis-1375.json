@@ -1,0 +1,170 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.596609Z",
+  "dates": [
+    {
+      "date": "2015-07-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2015-07-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2018-04-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Water Sanitation and Hygiene  Rehabilitation of Earthquake Damaged Gravity flow System Drinking water schemesDevelopment of community water safety planDevelopment of community Water Treatment planReformation of Commination Committee (Ward, VDC)Revision and update sanitation and hygiene master plan for VDC and DistrictWater Storage Containers distribution to households and schoolsLearning visit of coordination committeeReview meeting with coordination committee and stakeholdersCommunity Sensitization meetingOrientation on Nepal Water Act to CC membersPublic Radio Messaging on Sanitation and hygieneStreet Drama on Sanitation, hygiene and personal behaviourWater Resource management plan developed at Ward and VDC levelProvide assistance to construct earthquake damaged permanent latrinesConstruction of gender friendly bathing facilities Training on waste managementCommunity Orientation on public health, water management and solid waste managementNFICGI Sheet , Tarpaulin support to households whose house has been damaged by EQWinterization Support at HH levelSupport to protect vulnerable people during rainy seasonShelterLocal Craftsmen Training on Earthquake Resilient and Safe Construction techniquesMaster ToT for Government Engineers recruited for Makwanpur district (150 Engineers)Refresher Training to Trained CraftsmenSkills training to sustainable building construction such as electricians, plumbing, carpentry etcCommunity orientation to safer construction practicesIEC materials and checklists production and distribution to craftsmen, stakeholders and household level beneficiariesSupport DUDBC to produce and distribute safer building construction design and construction catalogueModel House Construction at Ward level and handover to most vulnerable HHSupport Individual earthquake affected households to construct permanent shelterOrientation, Training and input on eco-friendly construction techniquesNew tree plantation as replacement of deforestation to construct new houses Child Protection, Education and child Development Construction of temporary learning CentersCGI sheet support to schools to continue classes with temporary arrangement till the permanent structure constructionChild Clubs formation-reformationSupport Child Clubs with sports materials, books and stationeries for their holistic developmentInter School competitionsTraining and Workshops on Child rights, life skills and child protectionTeachers Training on Child friendly teaching and learningTeachers, PTA and SMC orientation on Child rights and ProtectionSchools painting with learning picturesTeaching Aid Distribution (Child Friendly Teaching and Learning Materials)School Enrolment CampaignsSpecial Day Celebration (Children Day, School Day, Sports days etc.)School Construction (permanent classrooms at Nuawakot) Gender and ProtectionTraining on GVB, Child Protection, Anti Trafficking and Safe MigrationCommunity visit and support to Vulnerable individualsPsychosocial Support to Traumatised individualsStrengthening Information Resources Centers at VDC levelCommunity Level Awareness campaignsIEC Materials development and DisseminationTraining to Local Leaders and stakeholders on Protection and MigrationTraining for Women Cooperative Members on Leadership and household financial management skills Nutrition support to Pregnant and Lactating Women (PLW)Training and Orientation to PLW on methods of making nutritional food using local available food commoditiesNetworking and strengthening referral mechanism Disaster Risk Reduction, Emergency Preparedness and AdaptationFormation and Reformation of WDMCFormation and reformation of LDMCTraining WDMC and LDMC on Disaster ManagementParticipatory Vulnerability and Capacity Assessments (community and ward level)Develop Ward Level Disaster Management Plan (WDMP)Develop VDC level Disaster Management Plan (LDRMP)School Level Workshop on DRR / CCAIDRR day and Environment Day CelebrationEstablishment of Ward level Emergency Fund along with fund mobilization guidelineFormation of task ForcesTraining for Volunteers on First Aid, Light Search and RescueProvision of Life Saving Equipment at LDMC levelSimulation exerciseSmall Scale mitigation Measures (Check dams, gulley control, reforestation, protection of water sources, Strengthening Regional Emergency Operating System with linking communication channel and emergency communication treeMainstreaming DRM/CRM from LDRMP into annual VDC development planning processMainstreaming DRM/CRM from WDRMP into annual VDC development planning process Livelihood and Food SecurityHouseholds supported for Livestock and Agricultural livelihoodHouseholds supported for Cash Crops production and marketingHouseholds supported for off seasonal vegetable seeds and agriculture toolsTraining on Livestock and agricultural livelihood strategiesTraining on Cash Crops ProductionTraining on off seasonal vegetable productionTraining on local composting and use of bio-fertiliser and pesticidesRehabili"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Tear Fund",
+      "donor_project_id": "1375",
+      "raw_payload": {
+        "id": 9314,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Tear Fund",
+        "organization_id": 609,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Tear Fund",
+  "financing": [
+    {
+      "amount": 4039835.217,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Tear Fund",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2015-07-16",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2112368.259,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Tear Fund",
+      "donor_id": null,
+      "financing_instrument": "Humanitarian Assistance",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2016-10-19",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1375",
+      "value": "1375"
+    }
+  ],
+  "implementing_agency": "Tear Fund",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Recovery, rehabilitation, and resilience building for vulnerable earthquake-affected populations in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1375",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Housing",
+      "donor_subsector": null,
+      "normalized_sector": "Housing",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1375",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 6152203.476,
+  "total_disbursement": 6247445.163435,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.596607Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1375",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

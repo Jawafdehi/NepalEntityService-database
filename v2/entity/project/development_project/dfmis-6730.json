@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:23.692438Z",
+  "dates": [
+    {
+      "date": "2025-11-12",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2026-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2028-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Dignified Youth Migration and Advancing Livelihood for Socio-economic Reintegration in the Sudurpaschim Province, NepalA-1.1.1: Strengthen Citizen Help Desks at the Nepal-India border in collaboration with the Ministry of Internal Affairs of Sudurpaschhim Province.A-1.1.2: Dialogue with government representatives/officials to initiate Social Security Funds in the informal sector in the region.A-1.1.3: Provide technical support to the local government to institutionalize the social security fund for informal migrants to India.A-1.1.4: Strengthen the Labour Desk as Migration Information Hub at the Integrated Employment Service Centre in the respective Municipality.A-1.1.5: Engage with local government and stakeholders to create migration and gender focused services and resource planning.A-1.1.6: Submit petitions to provincial government (Ministry of Social Development) to urge ratification of Domestic Workers Convention (ILO C-189 and ILO C-190) for protection against all forms of abuse, harassment and violence.A-1.1.7:  Conduct workshop on Indo-Nepal migration issues with governments and stakeholders, Safe migration networks, CSOs and the private sectors.A-1.1.8: National migration trends analysis in collaboration with development agencies to update the migration atlasA-1.1.9: Conduct training on digital migration data management for local governments and stakeholders to improve for migrant communities.A-1.1.10: Organize dialogues with policy experts, governments and migration specialists to analyse current challenges, identify policy gaps and propose reforms (National and International level).A-1.2.1: Enhance the capacity of Spouse Groups, to improve financial literacy, and support leadership and institutional development. This initiative aims to mitigate unsafe migration and combat human trafficking within vulnerable communities.A-1.2.2: Strengthen municipal-level Safe Migration Network to effectively address issues related to informal migration to India.A-1.2.3: Strengthen District level Networks for Safe Migration to address India migration issues.1.2.4: Strengthen the provincial-level network dedicated to promoting and safeguarding cross boarder safe migration in order to effectively address migration-related issues associated with India migration.A-1.2.5: Orient social structures on safe migration and social security fund's benefits, and relevant associations.A-1.2.6: Develop and distribute educational and communication resources to increase awareness (e.g. safe migration, combat human trafficking, and promote social security and protection).A-1.2.7: Celebrate national and international days where participants learn about the significance of the day and engage in activities that promote awareness and understanding of the celebrated occasions and important issues on the themeA-1.2.8: Organize media campaigns on informal and migration workers to India aiming on enrolling in social security funds to address India migration issues and enroll informal workers in social security funds.A- 1.3.1: Provide technical assistance to local governments in developing a sector plan for agri-tourism.A-1.3.2: Conduct training on vocational (non-farm) skill (E.g. motorcycle/power triller maintenance, building electrician, maintenance of electrical devices, etc.) to selected beneficiaries and provide start-up support for business ventures.A-1.3.3: Conduct on-farm initiatives focusing on various agricultural practices (E.g. vegetable, rhizome, fruits (fruits), mango, beekeeping, Akabare chilly, etc. ), and these training should be tailored according to the priorities of the selected beneficiaries and correspondingly, provide them with necessary input support.A-1.3.4: Organize on-farm training for livestock management (including but not limited to goats, cows, buffalo, and pigs) and provide start-up offer input support to participants upon completion.A-1.3.5: Facilitate Conduct off-farm training on value-added products, such as sugar cane candy, dairy products, pickles, dried ginger, turmeric, and Chiuri ghee and provide entrepreneurial support for business start-up.A-1.3.6: Enhance existing cooperatives, (such as savings and credit cooperatives/agriculture cooperatives) to improve financial access and market linkages for the targeted beneficiaries.A-1.3.7: Establish market linkage with entrepreneurs (value chain actors) to promote agricultural products.A-1.3.8: Construct/ repair the basic irrigation system (E.g. small canal, water lift system, irrigation reservoirs, rainfall water harvesting and collection system, percolation tank, etc.) in collaboration with local government and stakeholders.A-1.4.1: Develop an organizational migration strategic plan with future milestones.A-1.4.2: Participate National and regional migration platform for capacity building and exposure.A-1.4.3: Support to develop the MEAL system.A-1.4.4: TOT training on Financial Literacy and Business Plan Development to project staff.Empowering Migrants"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "AWO International",
+      "donor_project_id": "6730",
+      "raw_payload": {
+        "id": 44779,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "AWO International",
+        "organization_id": 516,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 1550932.57672182,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "AWO International",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2025-11-12",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6730",
+      "value": "6730"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Safe migration and combating human trafficking in Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6730",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "General Economic Commercial and Labor Affairs",
+      "donor_subsector": null,
+      "normalized_sector": "General Economic Commercial and Labor Affairs",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6730",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1550932.57672182,
+  "total_disbursement": null,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:23.692435Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6730",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

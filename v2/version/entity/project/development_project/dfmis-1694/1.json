@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:16.108147Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1694",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:16.108150Z",
+    "dates": [
+      {
+        "date": "2015-04-25",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2015-04-25",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2016-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "NPL Pooled Appeal Earthquake 2015 SoF: 99700163 On Saturday, 25th of April 2015, a powerful earthquake of magnitude 7.8 on the Richter scale hit Nepal. The epicentre of the earthquake was in Gorkha District, about 80 km north-west of the capital, Kathmandu. The quake was felt as far as Dhaka in Bangladesh and Delhi in India, making it the biggest earthquake Nepal has seen in 80 years. Less than 3 weeks later, another earthquake measuring 7.3 in magnitude struck on Tuesday May 12th with an epicentre southeast of Kodari, in Sindhupalchowk District, 76 km northeast of Kathmandu. The heavy destruction and damage resulting from the first earthquake was further exacerbated as some eight million people across 39 of Nepal’s 75 districts were affected, with 14 districts considered to be the ‘worst affected’.A total of 498,852 houses were categorized as fully collapsed or damaged beyond repair and 256,697 houses were partly damaged, according to the Ministry of Home Affairs. In addition, numerous schools were destroyed and damaged and the earthquakes greatly impacted on public health infrastructures.  As of 30th October 2015, UN OCHA reported that 8,891 individuals lost their lives and 22,309 people were injured.  From that figure, 2,737 children lost their lives and 2,107 children were injured.Save the Children adapted and updated its response projects to ensure they are relevant. One of the major initiatives over the last several months was to focus on beneficiary selection (versus blanket coverage), so that the most affected and marginalized people receive benefits"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Save the Children",
+        "donor_project_id": "1694",
+        "raw_payload": {
+          "id": 9610,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "",
+          "organization__name": "Save the Children",
+          "organization_id": 282,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Save the Children",
+    "financing": [
+      {
+        "amount": 4014718.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2015-04-25",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 11886202.0,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Save the Children",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2016-01-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1694",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1694",
+        "value": "1694"
+      }
+    ],
+    "implementing_agency": "Save the Children",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "NPL Pooled Appeal Earthquake 2015 SoF: 99700163",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1694",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1694",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 15900920.0,
+    "total_disbursement": 9910474.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:16.108147Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1694",
+      "id": "version:entity:project/development_project/dfmis-1694:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

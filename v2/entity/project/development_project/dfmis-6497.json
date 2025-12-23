@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:22.782514Z",
+  "dates": [
+    {
+      "date": "2022-07-15",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2022-07-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2025-07-14",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.     Policy analysis- gaps, opportunities and assess enforcement of the prevalent policies on DRR/ Flood Resilience2.     Expenditure tracking of municipalities in CCA/DRR-Research3.     Collect qualitative information in the FRMC endline to understand communities' perceptions of their access to government-led activities and resources that strengthen their resilience to floods and other climate-related hazards.4.     Landscape assessment of disaster and climate vulnerability of two river watersheds in Sudurpaschim Province5.     Conduct Capacity Building -Training/Refresher on budget allocation on flood resilience including DRR/CCA-6.     Conduct province-level stakeholder meetings to share the policy analysis and discuss the opportunities to include climate-hazard resilience in local/provincial DRM Plans, policies and strategies7.     Sharing Meeting at CBDRM Platform, NDRRMA and related stakeholders8.     Support continuation/activation of monitoring & evaluation committees of local governments9.     Sensitization Workshop/Discussion with private sector associations (FNCCI, CNI and foundations) on the potential of private sector engagement in disaster risk reduction, climate adaptation10.  Consultancy/Research on CCA and DRR, IBI, EWS, SRSP- Response11.  CDMC Follow up and Capacity Building in Rangun River Watershed12.  Research, Advocacy on Climate Change Adaptation, Disaster Risk Reduction and Flood Resilience13.  Develop/Update/revise DRM plans and LDCRP14.  Provide design and implementation model of activities by CDMCs and local governments15.  Develop knowledge product, including findings and recommendations of budget allocation, and Municipal DRR/CCA governance mechanism16.  Consolidate high impact cases on flood resilience and integration in development plans to advocate with the provincial and federal government to influence models/guidelines for local governments.17.  Community Intervention for Disaster Mitigation18.  Development of a multi-stakeholder platform for enhancing resilience to flood /disasters and climate change19.  Develop knowledge products on learnings from FRMC process, landscape approach and share with local, and sub-national governments20.  Province Level Coordination Meetings21.  Program Inception, MPAC Meetings, Stakeholder Monitoring22.  Baseline23.  Post Flood Studies24.  Training - Capacity Building - Advocacy Events for CDMCs25.  End line26.  Province Level Sharing and Review Workshop27.  National Level Sharing Workshop28.  Media Engagement"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "MercyCorps",
+      "donor_project_id": "6497",
+      "raw_payload": {
+        "id": 42993,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "MercyCorps",
+        "organization_id": 284,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Federal Affairs & General Administration, Ministry of Forests and Environment",
+  "financing": [
+    {
+      "amount": 834659.54,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "Nepalese Rupee",
+      "donor": "MercyCorps",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2022-07-15",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/6497",
+      "value": "6497"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Flood Resilience for Communities (ZFRA/FRMC)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/6497",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-6497",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 834659.54,
+  "total_disbursement": 206957.03,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:22.782511Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-6497",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

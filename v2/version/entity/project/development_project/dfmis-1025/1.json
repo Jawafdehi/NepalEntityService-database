@@ -1,0 +1,156 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:12.638387Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-1025",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:12.638393Z",
+    "dates": [
+      {
+        "date": "2013-06-01",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2013-07-16",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2017-12-31",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "1.1.1. Support to establish forest and farm producers' policy dialogue and technical support network\r\n\r\n\t1.1.2. Facilitate the network meeting in the first two years and help the network to conduct it by itself in the third year\r\n\r\n\t1.2.1. Support local and national level policy dialogues\r\n\r\n\t1.2.2. Conduct evidence based policy debates\r\n\r\n\t1.2.3. Support documentation of policy debate outcomes\r\n\r\n\t1.2.4. Support advocacy strategy workshop\r\n\r\n\t1.2.5. Develop and publish educational materials on policy analysis and advocacy\r\n\r\n\t1.2.6. Facilitate networking and linkages\r\n\r\n\t1.2.7. Support emergence and strengthening of producers' organisations and their higher level unions and federations\r\n\r\n\t1.2.8. Support formation of resource alliance\r\n\r\n\t2.1.1. Support conduction of public/field hearing\r\n\r\n\t2.1.2. Support the development and implementation of criteria and tools for self assessment of their organisation (emphasising inclusion)\r\n\r\n\t2.1.3. Provide organisational development support (management, human resource, monitoring mechanisms, infrastructure, etc)\r\n\r\n\t2.1.4. Support training on approaches and tools on gender and social inclusion, and equitable development\r\n\r\n\t2.2.1. Provide proposal and report writing training\r\n\r\n\t2.2.2. Support action research on financial resource survey\r\n\r\n\t2.2.3.  Provide training on fund raising\r\n\r\n\t3.1.1. Support development of methodology for annual review of communities' changing needs and priorities\r\n\r\n\t3.1.2. Provide business plan development training\r\n\r\n\t3.1.3. Support conduction of review workshops\r\n\r\n\t4.1.1. Support consultations and formation of cross-sectoral platform model at the national level\r\n\r\n\t4.1.2. Establish and facilitate the platform meeting system\r\n\r\n\t4.1.3. Support capacity development of related unit of NPC to give continuity to the platform\r\n\r\n\t4.2.1. Support consultations and formation of cross-sectoral platform model at the district level in DDC\r\n\r\n\t4.2.2. Establish and facilitate the joint meeting mechanism\r\n\r\n\t4.2.3. Support capacity development of DDC to establish the system\r\n\r\n\t4.3.1. Develop training packages on participatory joint planning, monitoring and evaluation\r\n\r\n\t4.3.2. Support joint planning, coordination, monitoring and linkage initiatives\r\n\r\n\t5.1.1. Support for sustainable resource management and utilisation\r\n\r\n\t5.1.2. Promote diversification of livelihoods opportunities (high value crops, livestock and dairy farming, sustainable NTFP-MAPDs, etc.)\r\n\r\n\t5.1.3. Support development of production infrastructure (micro-irrigation, local storage, processing, etc)\r\n\r\n\t5.1.4. Support entrepreneurial skill development and marketing\r\n\r\n\t5.1.5. Support to promote micro/off-farm enterprise development\r\n\r\n\t5.1.6. Support business literacy programme\r\n\r\n\t5.2.1. Support development of extension service delivery mechanisms within producers' organisations\r\n\r\n\t5.2.2. Support transfer of production technologies to farmer's organisations extension units\r\n\r\n\t5.2.3. Support action research on technology demonstration\r\n\r\n\t5.2.4. Provide technical support on accessing technology\r\n\r\n\t5.3.1. Support to analyse market opportunities\r\n\r\n\t5.3.2. Support producers' organisations to develop their business plan\r\n\r\n\t5.3.3. Support product value chain development\r\n\r\n\t5.3.4. Promote marketing of products (exhibitions, trade show, fair, media campaigning, etc)\r\n\r\n\t5.3.5. Promote business group/cooperatives for group marketing of produce"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Food and Agriculture Organization",
+        "donor_project_id": "1025",
+        "raw_payload": {
+          "id": 6514,
+          "organization__development_cooperation_group__architecture__id": 1,
+          "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+          "organization__development_cooperation_group__id": 46,
+          "organization__development_cooperation_group__name": "United Nations",
+          "organization__logo": "",
+          "organization__name": "Food and Agriculture Organization",
+          "organization_id": 206,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Ministry of Forests and Environment",
+    "financing": [
+      {
+        "amount": 629082.0,
+        "assistance_type": "technical_assistance",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Food and Agriculture Organization",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2013-06-01",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-1025",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/1025",
+        "value": "1025"
+      }
+    ],
+    "implementing_agency": "Food and Agriculture Organization",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Forest and Farm Facility",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/1025",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "donor_subsector": null,
+        "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-1025",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 629082.0,
+    "total_disbursement": 595892.0,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:12.638387Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-1025",
+      "id": "version:entity:project/development_project/dfmis-1025:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

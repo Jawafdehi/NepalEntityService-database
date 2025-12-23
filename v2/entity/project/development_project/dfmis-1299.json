@@ -1,0 +1,163 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:14.287043Z",
+  "dates": [
+    {
+      "date": "2018-12-01",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-01-01",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-01-30",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1       Deliver 3 days entrepreneurship training. 1.1.2       Orientation and Preparation on Business Plan to                               trainees.1.1.3       Technical training (Basic Livestock management training-                 BLMT, Climate smart vegetables and farming                                     technology,                   poultry)1.1.4       Deliver tailored market driven 390 Hrs level 1 vocational                   training to 350 Youths across target districts with Job                        placement support.1.1.5     Farmers' orientation on compost manure production and                 Effective Microorganisms in Agriculture (EM) support1.2.1       Agriculture Subsector analysis – 4 districts.1.2.2      Technological equipment and material support to                              existing  and new enterprises. (milk chilling centre-2, milk                cans, milk test equipment, micro irrigation, seeds, plastic                 tunnels, bee hives, seedlings/sapling) 1.2.3       Support target families on high value crops and                                  commodity promotion1.2.4       Small scale agri-infrastructure support (irrigation canal,                  deep boring in 7 locations of Kamaiya Camps, drip                            irrigation, conservation pond, sprinkle, water canes)1.2.5       Support Solar Pumps installation for water lifting in                          Kamaiya Camps- 6 location. 1.3.1       Training and support on processing, branding, labelling                  and packaging of local products1.3.2       Byers and seller interactions (producers, suppliers,                           buyers, financial institutions and government agencies)1.3.3       Agriculture Festival Fair1.3.4       Capacity Building and mobilization of agrovets and                          paravet in line with government curriculum. 1.3.5       Construction and renovation of collection centre and                       market centres1.3.6       Financial Literacy Training1.3.7       Exposure visit for market exploration (for local market                     actors, producers, representatives from local                                     government)1.3.8       Capacity building of 10 cooperatives (leadership,                               management, product development and business plan.)                 with seed money support. 2.1.1       Capacity building and support local institutions including                 local government on disaster preparedness planning2.1.2      Support local government to mock drill of DRR plan and                 roll out of disaster preparedness plan including VCA                         process.   2.1.3       Support municipalities to produce and display digital                       information of hazard, vulnerability and resources.2.1.4       Support exposure visit for target beneficiaries and rural                  municipality officials.   2.1.5       Search and rescue/first aid kit support to Municipality                       level DMCs2.2.1       Orientation to community on climate change impact,                      adaptation need and climate smart agriculture2.2.2       Organize discourse with local governments on climate                    trend, impact and potential adaptation interventions-                      (incorporating in municipal plan.)2.3.1       Renovation, new constriction of water supply schemes-                  15 schemes in three target districts,2.3.2       Activation/formation of 20 WUGs/WUC and capacity                         building on renovation, governance and leadership.2.3.3       Support 2 municipalities and 1 district authorities to                         prepare WASH strategy and post ODF follow up2.3.4       Multi Use water System (MUS) construction support                         including promotion of kitchen garden with using waste                   water from individual HHs taps.2.3.5       Hygiene and sanitation promotion (trainings,                                    orientations and campaigns)2.3.6       Contingency stockpiling at Tamakoshi RM, Dolakha for                    emergency WASH need.3.1.1       Support local health institutions in collaboration with RM                to conduct uterine prolapse screening campaign3.1.2       Capacity building of rural municipalities (RMs), health                      facilities, schools, and individuals in addressing uterine                    prolapse and child marriage3.1.3       Kits support to local health institutions for Uterine                             Prolapse Treatments as per need reflected by RM.3.1.4       Sanitary pad making training and raising awareness on                     menstrual hygiene3.1.5       Broadcast community radio programme on uterine                           prolapse and child marriage3.1.6       Share lesson learn workshop municipalities to address                     uterine prolapse issues and child marriage issues3.2.1"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Christian Aid Nepal",
+      "donor_project_id": "1299",
+      "raw_payload": {
+        "id": 11692,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Christian Aid Nepal",
+        "organization_id": 654,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Christian Aid Nepal",
+  "financing": [
+    {
+      "amount": 2305349.65,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Christian Aid Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2018-12-01",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1299",
+      "value": "1299"
+    }
+  ],
+  "implementing_agency": "NGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Strengthening Community Resilience Through Diversification of Livelihood and Promoting Disaster Preparedness",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1299",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Fuel and Energy",
+      "donor_subsector": null,
+      "normalized_sector": "Fuel and Energy",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Environmental Protection – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Environmental Protection – Not Elsewhere Classified",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Drinking Water",
+      "donor_subsector": null,
+      "normalized_sector": "Drinking Water",
+      "percentage": null
+    },
+    {
+      "donor": null,
+      "donor_sector": "Family and Infant Welfare",
+      "donor_subsector": null,
+      "normalized_sector": "Family and Infant Welfare",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1299",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 2305349.65,
+  "total_disbursement": 687137.4665,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:14.287040Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1299",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

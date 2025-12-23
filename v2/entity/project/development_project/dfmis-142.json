@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:07.500001Z",
+  "dates": [
+    {
+      "date": "2012-12-07",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-12-07",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2013-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Orientation program on safe migration with local CBO’s and local government bodies.\r\n\r\n\tAwareness program on safe migration to students in schools\r\n\r\n\tAwareness program on safe migration in community.\r\n\r\n\tTraining on safe migration to existing networks in the community\r\n\r\n\tTraining on strengthening of networks and its sustainability to the local CBOs and networks, women groups\r\n\r\n\tDeveloping and Printing of IEC materials about Safe Migration.\r\n\r\n\tSocial Audit\r\n\r\n\tProject Pre-launch meeting with DDC\r\n\r\n\t Baseline Survey of economic status of the women of community.\r\n\r\n\tMarket Survey for enterprise development\r\n\r\n\tEntrepreneurship training for the vulnerable women of the 3 clusters.\r\n\r\n\tSkill/technical/Vocational training to the participants of entrepreneurship training.\r\n\r\n\tLinkage and cooperation meetings with micro finance institution\r\n\r\n\tPeriodic monitor of the entrepreneurs\r\n\r\n\tReview training of entrepreneurship training.\r\n\r\n\tDocumentary on women entrepreneurs\r\n\r\n\t Roundtable meetings on Effective implementation of existing law and policies\r\n\r\n\tInternational Migration day\r\n\r\n\tStrengthening existing counseling services on safe migration at Tribhuvan Airport"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "AWO International",
+      "donor_project_id": "142",
+      "raw_payload": {
+        "id": 3711,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "AWO International",
+        "organization_id": 516,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "AWO International",
+  "financing": [
+    {
+      "amount": 107468.5514,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "AWO International",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2012-12-07",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/142",
+      "value": "142"
+    }
+  ],
+  "implementing_agency": "PNGOs",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Minimization of unsafe and forced migration among the vulnerable women (potential and returnees) of suburbs of Kathmandu district (7 VDC).",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/142",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Social Security – Not Elsewhere classified",
+      "donor_subsector": null,
+      "normalized_sector": "Social Security – Not Elsewhere classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-142",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 107468.5514,
+  "total_disbursement": 113731.5288,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:07.499998Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-142",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

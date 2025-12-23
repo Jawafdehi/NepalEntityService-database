@@ -1,0 +1,190 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.398416Z",
+  "dates": [
+    {
+      "date": "2010-10-26",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2010-10-26",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2014-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Capacity building of Transport Management Department and improvement of public transport in KathmanduImprovement in traffic managementImprovement of pedestrian services in the cityMonitoring of air quality in the city"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Global Environment Facility",
+      "donor_project_id": "1881",
+      "raw_payload": {
+        "id": 1821,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 39,
+        "organization__development_cooperation_group__name": "Global Environment Facility",
+        "organization__logo": "",
+        "organization__name": "Global Environment Facility",
+        "organization_id": 169,
+        "percentage": 0
+      }
+    },
+    {
+      "donor": "Asian Development Bank",
+      "donor_project_id": "1881",
+      "raw_payload": {
+        "id": 1822,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 1,
+        "organization__development_cooperation_group__name": "Asian Development Bank",
+        "organization__logo": "",
+        "organization__name": "Asian Development Bank",
+        "organization_id": 1,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Urban Development",
+  "financing": [
+    {
+      "amount": 10000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2010-10-26",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 10000000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Asian Development Bank",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-10-26",
+      "transaction_type": "commitment"
+    },
+    {
+      "amount": 2520000.0,
+      "assistance_type": "grant",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "Global Environment Facility",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2010-10-26",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1881",
+      "value": "1881"
+    }
+  ],
+  "implementing_agency": "Department of Urban Development and Building Construction",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kathmandu Sustainable Urban Transport Project",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1881",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Transport",
+      "donor_subsector": null,
+      "normalized_sector": "Transport",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1881",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 22520000.0,
+  "total_disbursement": 8849699.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.398413Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1881",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

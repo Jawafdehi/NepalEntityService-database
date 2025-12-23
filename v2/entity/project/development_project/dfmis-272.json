@@ -1,0 +1,137 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:08.455598Z",
+  "dates": [
+    {
+      "date": "2008-07-03",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2011-12-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1. Consolidate existing  VSBKs, increase capacity to master VSBK industries for existing and new comers, promote VSBK Technology, perfrom Technology and Environment Monitoring,\r\n2. Promote CESEF mainstream technologies in focus areas and increase capacity for the technology production and application,establish joint ventures with real estate developers, establish alliances for CESEF Technology sustainability, promote energy reduction at incremental housing sector through CESEF household level building materials\r\n3. Consolidate the demonstrated the win win approaches brought by the introduction of CCC ( Brick industry specific), Negotiate and convince EPs to invest on basic facilities[1], Provide backstopping and coaching to field workers, Workers empowerment through self determination, Dissemination of lessons learned in the techno-social integration area\r\n 4.Establish Regional construction related climate change platform \r\nCooperate with active regional partners\r\nCoordination of a Techno-social exchange platform for cleaner construction technologies \r\nSupport to GoN / MoEST\r\n \r\n5. Develop options for commercialization of project services\r\n\r\nImplement out-house financed clean technology projects\r\nAssess the possibilities for a commercial VSBK best practice production unit\r\n \r\nCapacity building Internal\r\n\r\n \r\n\r\n\r\n\r\n[1] Clean drinking water, sanitation and separate living shelters"
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_project_id": "272",
+      "raw_payload": {
+        "id": 658,
+        "organization__development_cooperation_group__architecture__id": 2,
+        "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+        "organization__development_cooperation_group__id": 28,
+        "organization__development_cooperation_group__name": "Switzerland",
+        "organization__logo": "",
+        "organization__name": "Swiss Agency for Development and Cooperation",
+        "organization_id": 33,
+        "percentage": 100
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology",
+  "financing": [
+    {
+      "amount": 5066345.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Swiss Agency for Development and Cooperation",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2008-07-03",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/272",
+      "value": "272"
+    }
+  ],
+  "implementing_agency": "SKAT Swiss Resource Centre and Consultancies for Development",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Vertical Shaft Brick Kiln Project Phase 5",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/272",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Other Industries",
+      "donor_subsector": null,
+      "normalized_sector": "Other Industries",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-272",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 5066345.0,
+  "total_disbursement": 3759666.79493,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:08.455594Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-272",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

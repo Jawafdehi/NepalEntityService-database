@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:07.548696Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-154",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:07.548698Z",
+    "dates": [
+      {
+        "date": "2011-05-03",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2011-05-03",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2014-09-30",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "South Asia Food and Nutrition Security Initiative (SAFANSI) forms part of the Government's commitment to advance Millennium Development Goals (MDG) in South Asia: MDG 1C reduce hunger; MDG 4 reduce child deaths; and MDG 5 improve maternal health. Malnutrition's most devastating impact is on foetal growth, and during the first two years of a child's life. Malnutrition accounts for up to 40% of child deaths each year. Despite healthy levels of economic growth, many of South Asia's countries have persistent and unacceptable levels of malnutrition with complex causality. South Asia has both the highest rates and the largest numbers of malnutrition in the world. Gender inequality and social exclusion are at the heart of the malnutrition problem in South Asia. About 23% (336 million) of the population in South Asia are routinely hungry, without access to enough calories, every day. This is greatly undermining human development and limiting South Asia's productivity with potential GDP loss estimates up to 3%. The funding of this initiative for SAFANSI will be a grant payment to a multi-donor trust fund administered by the World Bank, who will oversee activities to advance MDGs 1c, 4 and 5. The total value of this multi-country initiative is $5.77 million over 3 years, starting 2010-11."
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_project_id": "154",
+        "raw_payload": {
+          "id": 3595,
+          "organization__development_cooperation_group__architecture__id": 2,
+          "organization__development_cooperation_group__architecture__name": "Bilateral Partners",
+          "organization__development_cooperation_group__id": 3,
+          "organization__development_cooperation_group__name": "Australia",
+          "organization__logo": "",
+          "organization__name": "Department of Foreign Affairs and Trade",
+          "organization_id": 85,
+          "percentage": 100
+        }
+      }
+    ],
+    "executing_agency": "Department of Foreign Affairs and Trade",
+    "financing": [
+      {
+        "amount": 160926.9392,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": false,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-03-05",
+        "transaction_type": "commitment"
+      },
+      {
+        "amount": 159455.7245,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "United States Dollar",
+        "donor": "Department of Foreign Affairs and Trade",
+        "donor_id": null,
+        "financing_instrument": "Program-Based Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2012-03-09",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-154",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/154",
+        "value": "154"
+      }
+    ],
+    "implementing_agency": "World Bank Trust Funds",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "South Asia Food and Nutrition Security Initiative (SAFNSI)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/154",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Social Security – Not Elsewhere classified",
+        "donor_subsector": null,
+        "normalized_sector": "Social Security – Not Elsewhere classified",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-154",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 320382.6637,
+    "total_disbursement": 159455.7245,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:07.548696Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-154",
+      "id": "version:entity:project/development_project/dfmis-154:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

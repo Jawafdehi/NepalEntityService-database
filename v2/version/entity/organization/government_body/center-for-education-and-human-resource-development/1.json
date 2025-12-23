@@ -1,0 +1,76 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Import organization from MoF DFMIS: Center for Education and Human Resource Development",
+  "created_at": "2025-12-23T19:11:06.625444Z",
+  "entity_or_relationship_id": "entity:organization/government_body/center-for-education-and-human-resource-development",
+  "snapshot": {
+    "attributes": {
+      "architecture": "Government of Nepal",
+      "group": "Departments"
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Organization from MoF DFMIS - Government of Nepal"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "MoF DFMIS Organization"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:06.625447Z",
+    "description": null,
+    "government_type": null,
+    "id": "entity:organization/government_body/center-for-education-and-human-resource-development",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Center for Education and Human Resource Development",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "center-for-education-and-human-resource-development",
+    "sub_type": "government_body",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Import organization from MoF DFMIS: Center for Education and Human Resource Development",
+      "created_at": "2025-12-23T19:11:06.625444Z",
+      "entity_or_relationship_id": "entity:organization/government_body/center-for-education-and-human-resource-development",
+      "id": "version:entity:organization/government_body/center-for-education-and-human-resource-development:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

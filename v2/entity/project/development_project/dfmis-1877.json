@@ -1,0 +1,147 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:17.388826Z",
+  "dates": [
+    {
+      "date": "2012-07-13",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2012-12-20",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2017-07-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Major components:a) Planning, technical design and quality control of bridgesb) Major and monor maintenance of existing bridge assetsc) Imvestments in new bridge construction."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "International Development Association",
+      "donor_project_id": "1877",
+      "raw_payload": {
+        "id": 3966,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 48,
+        "organization__development_cooperation_group__name": "World Bank Group",
+        "organization__logo": "",
+        "organization__name": "International Development Association",
+        "organization_id": 17,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Physical Infrastructure and Transport",
+  "financing": [
+    {
+      "amount": 60000000.0,
+      "assistance_type": "loan",
+      "budget_type": "on_budget",
+      "currency": "United States Dollar",
+      "donor": "International Development Association",
+      "donor_id": null,
+      "financing_instrument": "Program-Based Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": {
+        "grace_period_years": null,
+        "interest_rate": null,
+        "repayment_period_years": null,
+        "tying_status": "Tied"
+      },
+      "transaction_date": "2012-07-13",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/1877",
+      "value": "1877"
+    }
+  ],
+  "implementing_agency": "Department of Roads",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Bridges Improvement and Maintenance Programme",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/1877",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Transport",
+      "donor_subsector": null,
+      "normalized_sector": "Transport",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-1877",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 60000000.0,
+  "total_disbursement": 92018593.83,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:17.388823Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-1877",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

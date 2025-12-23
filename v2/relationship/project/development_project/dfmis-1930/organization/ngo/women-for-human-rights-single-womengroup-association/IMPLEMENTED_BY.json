@@ -1,0 +1,22 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "created_at": "2025-12-23T19:11:17.818644Z",
+  "end_date": null,
+  "source_entity_id": "entity:project/development_project/dfmis-1930",
+  "start_date": null,
+  "target_entity_id": "entity:organization/ngo/women-for-human-rights-single-womengroup-association",
+  "type": "IMPLEMENTED_BY",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Project implemented by Women For Human Rights Single Womengroup Association",
+    "created_at": "2025-12-23T19:11:17.818656Z",
+    "entity_or_relationship_id": "relationship:project/development_project/dfmis-1930:organization/ngo/women-for-human-rights-single-womengroup-association:IMPLEMENTED_BY",
+    "type": "RELATIONSHIP",
+    "version_number": 1
+  }
+}

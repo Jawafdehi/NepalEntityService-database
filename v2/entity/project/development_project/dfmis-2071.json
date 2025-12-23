@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:18.043373Z",
+  "dates": [
+    {
+      "date": "2019-10-18",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2019-10-18",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2021-10-31",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1 Prepare and conduct inception workshop of the Project1.2 Selection of the districts and villages to undertake the project implementation1.3 Selection of beneficiaries1.4 Gender sensitive assessment1.5 Pre-selection of machines, equipment and tools for drudgery reduction2.1 Identify and agree with the project supports: machines, equipment and tools, sheds construction materials, improved seeds, mulching and irrigation facilities suitable for the location2.2 Design and implement trainings to build service delivery capacity of the extension workers and technical capacity of the farmers on agricultural mechanization2.3 Design and implement repairing and maintenance training course for the local service providers (blacksmiths and other local workshops operators and repairing centers nearby cities or  at the selected villages)2.4 Design and implement trainings to build the capacity of the Mechanization Service Groups (MSG) for adoption of mechanization  in selected production systems2.5 Design and implement awareness raising and training activities on the importance of  agriculture mechanization for commercialization3.1 Design, pilot and validate the Custom Hiring Service Centers adapted to the local needs and conditions3.2 Facilitate the  formation of Mechanization Service Groups (MSG) to operate the Custom Hiring Centers (CHC) in target districts3.3 Design and implement trainings to build the business and management capacity of the Mechanization Service Groups (MSG)3.4 Establish Custom Hiring Centers (CHC) in target districts3.5 Document and disseminate lesson learnt and good practices  on mechanized agro-enterprise to the wide audience though electronic and printing media3.6 Develop project document for up scaling large-scale outcomes and impacts."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Food and Agriculture Organization",
+      "donor_project_id": "2071",
+      "raw_payload": {
+        "id": 12560,
+        "organization__development_cooperation_group__architecture__id": 1,
+        "organization__development_cooperation_group__architecture__name": "Multilateral Partners",
+        "organization__development_cooperation_group__id": 46,
+        "organization__development_cooperation_group__name": "United Nations",
+        "organization__logo": "",
+        "organization__name": "Food and Agriculture Organization",
+        "organization_id": 206,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Food and Agriculture Organization",
+  "financing": [
+    {
+      "amount": 200000.0,
+      "assistance_type": "technical_assistance",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Food and Agriculture Organization",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2019-10-18",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/2071",
+      "value": "2071"
+    }
+  ],
+  "implementing_agency": "Food and Agriculture Organization",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Technical support for sustainable agricultural mechanization of smallholder farms for enhancing agricultural productivity and production, and reducing drudgery of women and young farmers",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/2071",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "donor_subsector": null,
+      "normalized_sector": "Agriculture, Forestry, Fishing and Hunting",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-2071",
+  "stage": "completed",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 200000.0,
+  "total_disbursement": 199143.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:18.043370Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-2071",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

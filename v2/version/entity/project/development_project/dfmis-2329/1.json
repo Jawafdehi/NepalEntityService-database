@@ -1,0 +1,170 @@
+{
+  "author": {
+    "id": "author:nava-yuwa-central",
+    "name": "Nava Yuwa Central",
+    "slug": "nava-yuwa-central"
+  },
+  "change_description": "Initial sourcing from MoF DFMIS API",
+  "created_at": "2025-12-23T19:11:18.663232Z",
+  "entity_or_relationship_id": "entity:project/development_project/dfmis-2329",
+  "snapshot": {
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Imported from DFMIS on 2025-01-26"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-12-23T19:11:18.663240Z",
+    "dates": [
+      {
+        "date": "2021-04-27",
+        "source": "MoF DFMIS",
+        "type": "APPROVAL"
+      },
+      {
+        "date": "2022-02-14",
+        "source": "MoF DFMIS",
+        "type": "START"
+      },
+      {
+        "date": "2025-02-13",
+        "source": "MoF DFMIS",
+        "type": "COMPLETION"
+      }
+    ],
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Activities related to Outcome 1Education Materials support to marginalized studentsEarly Childhood Development Centers upgradingImprovement of child friendly drinking water facilities and toiletsImprovement of child-friendly classroom environment (incl. Foam and carpet)Construction and renovation of girls’ toiletEnglish medium teaching material support for grades 1,2,3Material support for “Hamro Kachha Ramro Kachha” and “Hamro School Ramro School” (Our Class Good Class for reward basis as motivation)Implement baseline study, mid line and final evaluationTeacher training and orientation on child friendly teaching techniquesECD focused Child friendly teaching trainingTeaching skills and Child friendly teaching trainingsSchool leaders meeting and orientation on SIP and extra curriculum activities developmentChild Rights club and adolescence group formationLocal government meetings on project orientation / review/ monitoring and stakeholder meetings and reviewMental Health and Psychosocial support training for teachers, school management committee and local municipality representativesOperating Community Managed Coaching Centers (CMCCs) (50 CMCC @32 Months)Travelling Seminar to a model schoolSchool Meet (Coordination and collaboration within two schools)District level learning and sharing meetings and workshopsStaff Orientation and trainingOrganisational Monitoring and support / review /  reporting / Documentation and printing / publication and promotion/ planning and reporting / project staff annual review / SAHAS project monitoring Activities related to Outcome 2:Equipping ECED classrooms with Carpet, P-foam, basic learning materials and furnitureEquipping all Grade 1 to 3 classrooms with Carpet, P-foam, basic learning materials and furnitureImproving child friendly school infrastructure (outdoor play materials with outdoor playground)Coordination meetings with DCC/ RM / Inception meeting/ review meeting / project orientation / reporting and joint monitoringFormation of RM level ECD committee and workshop on  of Standard Operating Procedure (SOP) of ECED to Grade 3Conduct formative Study of the Project (Baseline and End line study).Developing training resource materials for Grade 2 and 3 based on integrated curriculum jointly with Centre for Education Human Resource and Development (CEHRD) - 2 manualECED teacher training to 33 ECD facilitators based on ELDS - Phase I and IITraining on integrated curriculum to Grade 1 to 3 teachersOrientation and meeting of schools leaders ( SMC, Headmaster, PTA) on school improvement and Child friendly school environmentConduct psycho-social and behavioral management workshopPTA meetings and parenting education at community levelSupport the local government in conducting campaigns (hoarding boards, radio announcements, celebration days)Project monitoring  and evaluation / annual review meeting, reporting  and field travelActivities related to Outcome 3:Preparing and organizing 2 literature festivalsstory and creative writing awardsstory writing awards to teachersPublication of creative story writing of students, collection of arts and story written by teachersProduction of story based-radio program and on-air broadcastingProviding quality education through Montessori CentreProviding scholarship to needy studentsProject preparatory measure (baseline and evaluation included)Project infrastructure, support and monitoring"
+      },
+      "ne": null
+    },
+    "donor_extensions": [
+      {
+        "donor": "Childaid Network Foundation",
+        "donor_project_id": "2329",
+        "raw_payload": {
+          "id": 13161,
+          "organization__development_cooperation_group__architecture__id": 3,
+          "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+          "organization__development_cooperation_group__id": 49,
+          "organization__development_cooperation_group__name": "INGO",
+          "organization__logo": "organization/logos/CA-Logo-RGB_4.jpg",
+          "organization__name": "Childaid Network Foundation",
+          "organization_id": 796,
+          "percentage": 0
+        }
+      }
+    ],
+    "executing_agency": "Childaid Network Foundation",
+    "financing": [
+      {
+        "amount": 1583296.24,
+        "assistance_type": "grant",
+        "budget_type": "off_budget",
+        "currency": "Nepalese Rupee",
+        "donor": "Childaid Network Foundation",
+        "donor_id": null,
+        "financing_instrument": "Project Support",
+        "is_actual": true,
+        "source": "DFMIS",
+        "terms": null,
+        "transaction_date": "2021-04-27",
+        "transaction_type": "commitment"
+      }
+    ],
+    "id": "entity:project/development_project/dfmis-2329",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "DFMIS Project ID"
+          },
+          "ne": null
+        },
+        "scheme": "other",
+        "url": "https://dfims.mof.gov.np/projects/2329",
+        "value": "2329"
+      }
+    ],
+    "implementing_agency": "Non Governmental Organisations",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Education and Youth Empowerment Project (EYEP)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": null
+      }
+    ],
+    "pictures": null,
+    "project_url": "https://dfims.mof.gov.np/projects/2329",
+    "sectors": [
+      {
+        "donor": null,
+        "donor_sector": "Drinking Water",
+        "donor_subsector": null,
+        "normalized_sector": "Drinking Water",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Education – Not Elsewhere Classified",
+        "donor_subsector": null,
+        "normalized_sector": "Education – Not Elsewhere Classified",
+        "percentage": null
+      },
+      {
+        "donor": null,
+        "donor_sector": "Recreational and sporting Services",
+        "donor_subsector": null,
+        "normalized_sector": "Recreational and sporting Services",
+        "percentage": null
+      }
+    ],
+    "short_description": null,
+    "slug": "dfmis-2329",
+    "stage": "completed",
+    "sub_type": "development_project",
+    "tags": null,
+    "total_commitment": 1583296.24,
+    "total_disbursement": 1519075.39,
+    "type": "project",
+    "version_summary": {
+      "author": {
+        "id": "author:nava-yuwa-central",
+        "name": "Nava Yuwa Central",
+        "slug": "nava-yuwa-central"
+      },
+      "change_description": "Initial sourcing from MoF DFMIS API",
+      "created_at": "2025-12-23T19:11:18.663232Z",
+      "entity_or_relationship_id": "entity:project/development_project/dfmis-2329",
+      "id": "version:entity:project/development_project/dfmis-2329:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

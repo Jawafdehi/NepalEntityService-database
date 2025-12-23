@@ -1,0 +1,142 @@
+{
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Imported from DFMIS on 2025-01-26"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-12-23T19:11:20.914756Z",
+  "dates": [
+    {
+      "date": "2024-02-05",
+      "source": "MoF DFMIS",
+      "type": "APPROVAL"
+    },
+    {
+      "date": "2023-03-15",
+      "source": "MoF DFMIS",
+      "type": "START"
+    },
+    {
+      "date": "2026-03-15",
+      "source": "MoF DFMIS",
+      "type": "COMPLETION"
+    }
+  ],
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "1.1.1 Construction classroom, toilets, hand washing & drinking water stations and MHM corner1.1.2 Repair and maintenance of classroom, toilets, hand washing stations and solid waste management.1.2.1 Support furniture and furnishing (carpeting, seating arrangement support, eg. Desk, bench, round table)1.2.2 Conduct capacity building events for students, teachers, SMC, PTA on the importance of school safety and facility maintenance.2.1.1 Train teachers on child protection and gender equality in education and on gender transformative pedagogy and early gender socialization.2.2.1 Train teachers, SMC/PTA members and parents on early grades learning, reading and playing materials development.2.2.2 Strengthen teachers' capacity to continue monitoring of classroom based early grade assessment3.1.1 Support education assistance materials (uniforms, bag, hygiene kit, stationary etc) to children with disabilities, girls and children difficult circumstances and out of school children for school enrollment.3.1.2 Provide remedial classes support to poor learning performer girls, boys, children with disabilities and out of school children.3.1.3 Train teacher and youth volunteer of remedial class on student assessment and remedial class running.3.2.1 Training to SMC/PTA members on gender transformative inclusive management WASH and MHM at schools and cascading knowledge to student on WASH and MHM.3.2.2 Orientation on child protection, gender equality, learn without fear, inclusion to SMC/PTA members, teachers and students.3.2.3 Support to develop code of conduct on child protection, gender equality and inclusion in schools3.3.1 Develop and distribute flyers, posters, wall painting designs, awareness campaigns and address the myths with gender transformative approach and disseminate through CoC mobilization.3.3.2 Mobilize Champion of Change (CoC) for leading/supporting school enrollment campaign working with SMC/PTA, teachers and different days celebration eg. Literacy day, girls children day, children day, Env. Day, disability day, women day.3.3.3 Support for PSA (radio) and visual aids/social media platform for risk messaging, awareness campaigns and address the myths with gender transformative approach.4.1.1 Support to develop, revise municipal and provincial education plan, policies and budget.4.1.2 Workshop at municipal level for education plan, policies and budget."
+    },
+    "ne": null
+  },
+  "donor_extensions": [
+    {
+      "donor": "Plan Nepal",
+      "donor_project_id": "4141",
+      "raw_payload": {
+        "id": 41900,
+        "organization__development_cooperation_group__architecture__id": 3,
+        "organization__development_cooperation_group__architecture__name": "Non-Government Organisation",
+        "organization__development_cooperation_group__id": 49,
+        "organization__development_cooperation_group__name": "INGO",
+        "organization__logo": "",
+        "organization__name": "Plan Nepal",
+        "organization_id": 277,
+        "percentage": 0
+      }
+    }
+  ],
+  "executing_agency": "Ministry of Education, Science and Technology, Ministry of Women, Children and Senior Citizens",
+  "financing": [
+    {
+      "amount": 1760915.0,
+      "assistance_type": "grant",
+      "budget_type": "off_budget",
+      "currency": "United States Dollar",
+      "donor": "Plan Nepal",
+      "donor_id": null,
+      "financing_instrument": "Project Support",
+      "is_actual": true,
+      "source": "DFMIS",
+      "terms": null,
+      "transaction_date": "2024-02-05",
+      "transaction_type": "commitment"
+    }
+  ],
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "DFMIS Project ID"
+        },
+        "ne": null
+      },
+      "scheme": "other",
+      "url": "https://dfims.mof.gov.np/projects/4141",
+      "value": "4141"
+    }
+  ],
+  "implementing_agency": "Non Governmental Organisations",
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Promoting gender equality through education SIKSHYA Pariyojana- in Dhanusha District",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": null
+    }
+  ],
+  "pictures": null,
+  "project_url": "https://dfims.mof.gov.np/projects/4141",
+  "sectors": [
+    {
+      "donor": null,
+      "donor_sector": "Education – Not Elsewhere Classified",
+      "donor_subsector": null,
+      "normalized_sector": "Education – Not Elsewhere Classified",
+      "percentage": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dfmis-4141",
+  "stage": "unknown",
+  "sub_type": "development_project",
+  "tags": null,
+  "total_commitment": 1760915.0,
+  "total_disbursement": 1104147.0,
+  "type": "project",
+  "version_summary": {
+    "author": {
+      "id": "author:nava-yuwa-central",
+      "name": "Nava Yuwa Central",
+      "slug": "nava-yuwa-central"
+    },
+    "change_description": "Initial sourcing from MoF DFMIS API",
+    "created_at": "2025-12-23T19:11:20.914753Z",
+    "entity_or_relationship_id": "entity:project/development_project/dfmis-4141",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
