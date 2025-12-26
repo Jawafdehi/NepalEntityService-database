@@ -1,0 +1,222 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Redact family information for privacy",
+  "created_at": "2025-12-26T19:19:41.480589Z",
+  "entity_or_relationship_id": "entity:person/rakesh-kumar-kushwaha",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "हरिखेतान बहुमुखि क्यामपस बीरगंज"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Has been involved in public service and development work and contributing."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "जनताको सेवा तथा बिकास कार्यमा संलग्न रही योगदान गर्दै आएको ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "+2"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "‌‍‍+2"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.595531Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334015,
+          "constituency_id": "entity:location/constituency/bara-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 223,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Fan"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "पङ्खा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 16
+        }
+      ]
+    },
+    "id": "entity:person/rakesh-kumar-kushwaha",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334015"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Rakesh Kumar Kushwaha",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राकेश कुमार कुशवाहा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bara Simraungadh Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बारा सिम्रौनगढ नगरपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1993-07-31",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bara"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Intermediate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Harikhetan Bahumukhi Campus Birgunj"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हरिखेतान बहुमुखि क्यामपस बीरगंज"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334015.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "rakesh-kumar-kushwaha",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Redact family information for privacy",
+      "created_at": "2025-12-26T19:19:41.480589Z",
+      "entity_or_relationship_id": "entity:person/rakesh-kumar-kushwaha",
+      "id": "version:entity:person/rakesh-kumar-kushwaha:2",
+      "type": "ENTITY",
+      "version_number": 2
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 2
+}

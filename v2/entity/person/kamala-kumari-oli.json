@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kshetra Bahadur Oli"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "क्षेत्र बहादुर ओली"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ran Bahadur Budha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रण बहादुर बुढा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.286919Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.466366Z",
     "entity_or_relationship_id": "entity:person/kamala-kumari-oli",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

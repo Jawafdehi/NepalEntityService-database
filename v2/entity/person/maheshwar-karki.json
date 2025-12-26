@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "N. Krishna Kumari Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ङ्कृक्ष्ण कुमारी कार्की"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Rajkumari Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राजकुमारि कार्की"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.085356Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.320956Z",
     "entity_or_relationship_id": "entity:person/maheshwar-karki",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

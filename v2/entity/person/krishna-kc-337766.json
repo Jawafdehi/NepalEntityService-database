@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/makwanpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bishnu K.C."
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "विष्‍णु के.सी."
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shrinjana K.C."
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "श्रृजना के.सी."
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.482940Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.482330Z",
     "entity_or_relationship_id": "entity:person/krishna-kc-337766",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/rautahat"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Prem Narayan Jha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "प्रेम नारायण झा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dimpal Kumari Jha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "डिम्पल कुमारी झा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.840133Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.063319Z",
     "entity_or_relationship_id": "entity:person/anil-kumar-jha-334982",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

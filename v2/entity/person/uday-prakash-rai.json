@@ -153,29 +153,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jit Bahadur Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जित वहादुर राई"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Pramila Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "प्रमिला राई"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -199,10 +181,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.137911Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.487032Z",
     "entity_or_relationship_id": "entity:person/uday-prakash-rai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -1,0 +1,16 @@
+{
+  "migration_name": "007-redact-family-info",
+  "author": "Damodar Dahal",
+  "date": "2025-12-14T00:00:00",
+  "description": "Redact family information from PersonDetails for privacy reasons",
+  "executed_at": "2025-12-27T08:20:53.491693",
+  "duration_seconds": 14.531414031982422,
+  "status": "completed",
+  "changes": {
+    "entities_created": 0,
+    "relationships_created": 0,
+    "versions_created": 5635,
+    "summary": "Created 0 entities, 0 relationships, and 5635 versions",
+    "has_diff": true
+  }
+}

@@ -162,16 +162,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Tamding Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ताम्डिङ गुरुङ"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -200,10 +191,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.060008Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.972774Z",
     "entity_or_relationship_id": "entity:person/namdu-gurung",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

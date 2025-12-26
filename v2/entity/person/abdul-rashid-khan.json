@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kapilvastu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Subhan Allah Musalman"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शुभान अल्लाह मुसलमान"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Noor Jahan Khatun"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "नुर जहाँ खातुन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.027319Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.868229Z",
     "entity_or_relationship_id": "entity:person/abdul-rashid-khan",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

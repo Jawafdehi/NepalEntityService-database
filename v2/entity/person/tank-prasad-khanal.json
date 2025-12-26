@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/parasi"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Tulsi Ram Khanal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "तुल्सी राम खनाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sita Devi Khanal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सिता देवी खनाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.372416Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:42.208703Z",
     "entity_or_relationship_id": "entity:person/tank-prasad-khanal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

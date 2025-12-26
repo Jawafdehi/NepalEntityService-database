@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gyanu Prasad Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ज्ञानु प्रसाद अधिकारी्"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sumitra Parajuli Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सुमित्रा पराजुली अधिकारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.284066Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.273979Z",
     "entity_or_relationship_id": "entity:person/ramhari-adhikari",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

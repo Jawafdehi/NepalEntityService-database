@@ -177,29 +177,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dandabir Basnet"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "डण्डवीर वस्नेत"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Satya Pahadi"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सत्य पहाडी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -224,10 +206,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.882380Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.508048Z",
     "entity_or_relationship_id": "entity:person/shakti-bahadur-basnet",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

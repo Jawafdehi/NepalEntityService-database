@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/doti"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sher Bahadur Bohara"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शेर बहादुर बोहरा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dummy Devi Bohara"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "डम्मी देवी बोहरा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.307635Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.391115Z",
     "entity_or_relationship_id": "entity:person/lal-bahadur-bohara",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

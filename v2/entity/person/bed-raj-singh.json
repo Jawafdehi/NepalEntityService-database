@@ -171,29 +171,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lal Bhakta Singh"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लाल भक्त सिंह"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhan Kumari Shah Singh"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धन कुमारी शाह सिंह"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -218,10 +200,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.165697Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.587696Z",
     "entity_or_relationship_id": "entity:person/bed-raj-singh",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

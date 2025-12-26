@@ -156,29 +156,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhan Bahadur Kuwar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धन बहादुर कुवर"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Laxmi Kumari Kuwar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लक्ष्मी कुमारी कुवर"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -203,10 +185,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.080475Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.929398Z",
     "entity_or_relationship_id": "entity:person/bhakta-bahadur-kuwar",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -150,29 +150,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Prem Bahadur Limbu"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "प्रेम वहादुर लिम्वु"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gangamaya Limbu"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गंगामाया लिम्वु"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -197,10 +179,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.504443Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.864588Z",
     "entity_or_relationship_id": "entity:person/dig-bahadur-limbu",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

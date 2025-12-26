@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhim Bahadur Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भिम बहादुर राई"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shukrim Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शुक्रिम राई"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.262386Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.152525Z",
     "entity_or_relationship_id": "entity:person/sumitra-rai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

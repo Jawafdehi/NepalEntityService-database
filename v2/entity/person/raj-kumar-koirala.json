@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/bara"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhim Bahadur Koirala"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भिम बहादुर कोइराला"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Topali Koirala (sigdel)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "टोपली कोइराला(सिग्देल)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.109982Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.508766Z",
     "entity_or_relationship_id": "entity:person/raj-kumar-koirala",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -165,29 +165,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Satya Narayan Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सत्य नारायण यादव"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ram Ekbal Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राम एकवाल यादव"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -211,10 +193,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.667956Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.164576Z",
     "entity_or_relationship_id": "entity:person/ganga-devi-yadav",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhim Narayan Chaudhary"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भिम नारायण चौधरी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shanti Devi Chaudhary"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शान्‍ति देवी चौधरी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.387086Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.916812Z",
     "entity_or_relationship_id": "entity:person/pancharam-chaudhary",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

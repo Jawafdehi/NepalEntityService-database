@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/dhading"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Arjun Prasad Bhattarai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अर्जुन प्रसाद भट्टरार्इ"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.967474Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.573270Z",
     "entity_or_relationship_id": "entity:person/janak-bhattarai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

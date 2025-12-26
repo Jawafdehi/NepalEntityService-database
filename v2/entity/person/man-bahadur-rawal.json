@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhairav Singh Rawal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भैरव सिंह रावल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kesar Rawal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "केशर रावल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.261304Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.294488Z",
     "entity_or_relationship_id": "entity:person/man-bahadur-rawal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

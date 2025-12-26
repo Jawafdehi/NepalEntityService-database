@@ -168,29 +168,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bam Bahadur Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बम बहादुर कार्की"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Anjana Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अन्जना कार्की"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -215,10 +197,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.134476Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.624477Z",
     "entity_or_relationship_id": "entity:person/hikmat-kumar-karki",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/sunsari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shreevilas Khatiwada"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "श्रीविलास खतिवडा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Goma Devi Khatiwada"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गोमा देवी खतिवडा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.591976Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.157076Z",
     "entity_or_relationship_id": "entity:person/sharmanand-khatiwada",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

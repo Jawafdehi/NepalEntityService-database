@@ -142,29 +142,11 @@
       "location_id": "entity:location/district/palpa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dan Bahadur Rana Magar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "दान बहादुर राना मगर"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Pabitra Rana"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "पवित्रा राना"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -188,10 +170,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.888817Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.679334Z",
     "entity_or_relationship_id": "entity:person/tek-bahadur-rana",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

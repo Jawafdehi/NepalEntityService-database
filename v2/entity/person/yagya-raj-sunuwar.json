@@ -142,29 +142,11 @@
       "location_id": "entity:location/district/okhaldhunga"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Man Bahadur Sunuwar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मान बहादुर सुनुवार"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sanjana Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सन्जना राई"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -188,10 +170,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.634994Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.739905Z",
     "entity_or_relationship_id": "entity:person/yagya-raj-sunuwar",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

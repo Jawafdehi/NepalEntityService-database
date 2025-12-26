@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/baitadi"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Hari Singh Bisht"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "हरि सिह विष्ट"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Radhika Bisht"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राधिका विष्ट"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.993375Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.525607Z",
     "entity_or_relationship_id": "entity:person/man-singh-bisht",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

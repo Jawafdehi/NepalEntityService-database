@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/pyuthan"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Khadga Bahadur Thapa"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "खड्ग बहादुर थापा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -171,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.104938Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.277574Z",
     "entity_or_relationship_id": "entity:person/saroj-thapa",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

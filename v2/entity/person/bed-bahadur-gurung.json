@@ -171,16 +171,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Tek Shahi Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "टेक शाही गुरुङ्ग"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": [
@@ -204,16 +195,7 @@
         }
       }
     ],
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shir Shobha Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शिर शोभा गुरुङ्ग"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -238,10 +220,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.796226Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.716008Z",
     "entity_or_relationship_id": "entity:person/bed-bahadur-gurung",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

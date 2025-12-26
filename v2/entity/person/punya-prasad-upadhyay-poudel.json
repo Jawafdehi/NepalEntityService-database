@@ -159,29 +159,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shiva Prasad Upadhyay"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शिव प्रसाद उपाध्याय"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Saraswati Devi Poudel"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सरस्वती देवी पौडेल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -205,10 +187,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.369428Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.678853Z",
     "entity_or_relationship_id": "entity:person/punya-prasad-upadhyay-poudel",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

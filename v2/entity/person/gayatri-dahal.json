@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/nuwakot"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kedar Prasad Dahal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "केदार प्रसाद दाहाल"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhan Prasad Sapakota"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धन प्रसाद सापाकोटा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.993268Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.765059Z",
     "entity_or_relationship_id": "entity:person/gayatri-dahal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -120,29 +120,11 @@
       "location_id": "entity:location/district/manang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Yungdung Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "युङडुङ गुरुङ"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dixhen Dolma Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "दिक्षेन डोल्मा गुरुङ"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -167,10 +149,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.784307Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.292136Z",
     "entity_or_relationship_id": "entity:person/rajiv-gurung",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/jhapa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Guru Prasad Khatiwada"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गुरु प्रसाद खतिवडा"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Madhusudan Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मधुसुदन अधिकारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.006595Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.769749Z",
     "entity_or_relationship_id": "entity:person/goma-khatiwada-adhikari",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

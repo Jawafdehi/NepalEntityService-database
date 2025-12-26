@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Upendra Bahadur Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "उपेन्‍द्र बहादुर कार्की"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sabita Karki"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सविता कार्की"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.347082Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.209524Z",
     "entity_or_relationship_id": "entity:person/surya-kumar-karki",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

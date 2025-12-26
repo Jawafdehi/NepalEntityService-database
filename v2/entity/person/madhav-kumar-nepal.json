@@ -177,29 +177,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Mangal Kumar Upadhyay"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मंगल कुमार उपाध्याय"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gayatri Acharya (nepal)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गायत्री आचार्य (नेपाल)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -224,10 +206,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.262230Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.797710Z",
     "entity_or_relationship_id": "entity:person/madhav-kumar-nepal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

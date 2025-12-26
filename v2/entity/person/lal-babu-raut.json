@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/parsa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dasharath Raut Gaddi"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "दशरथ राउत गद्दी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jalekha Khatun"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जलेखा खातुन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.671746Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.000663Z",
     "entity_or_relationship_id": "entity:person/lal-babu-raut",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

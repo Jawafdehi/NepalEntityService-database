@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/dailekh"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gang Bahadur Thapa Chhetri"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गंग वहादुर थापा क्षेत्री"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bal Kumari Thapa"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बाल कुमारी थापा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.890689Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.733438Z",
     "entity_or_relationship_id": "entity:person/bhupal-bahadur-thapa",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

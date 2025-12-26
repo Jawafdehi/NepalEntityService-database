@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ganesh Bahadur Malla"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गणेश बहादुर मल्ल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Indira Malla"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "इन्दीरा मल्ल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.267528Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.306390Z",
     "entity_or_relationship_id": "entity:person/birendra-bahadur-malla",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

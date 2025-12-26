@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/baitadi"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Uday Singh Bhandari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "उदय सिंह भण्डारी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kavita Bhandari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कविता भण्डारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.989842Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.529757Z",
     "entity_or_relationship_id": "entity:person/damodar-bhandari-334023",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/parsa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Thag Raut Ahir"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ठग राउत अिहर"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ramkali Devi Ahir"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रामकली देवी अहिर"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.667382Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.819126Z",
     "entity_or_relationship_id": "entity:person/mathu-raut-ahir",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

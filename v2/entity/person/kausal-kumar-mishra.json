@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/banke"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shiv Kumar Mishra"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शिव कुमार मिश्र"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Junu Rani Mishra"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जुनु रानी मिश्र"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.220263Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.634370Z",
     "entity_or_relationship_id": "entity:person/kausal-kumar-mishra",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

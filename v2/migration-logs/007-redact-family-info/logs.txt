@@ -1,0 +1,13 @@
+Migration: 007-redact-family-info
+Executed at: 2025-12-27T08:20:53.576316
+Duration: 14.5s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Starting migration: Redact family information
+Found 5637 person entities
+Updated 5635 person entities
+Skipped 2 person entities (no family info)
+Migration completed successfully

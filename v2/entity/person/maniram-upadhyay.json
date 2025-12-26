@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/pyuthan"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Rudra Prasad Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रुद्र प्रसाद अधिकारी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Isa Devi Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "इसा देवी अधिकारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.041798Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.512306Z",
     "entity_or_relationship_id": "entity:person/maniram-upadhyay",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

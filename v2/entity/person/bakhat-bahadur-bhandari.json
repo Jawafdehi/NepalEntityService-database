@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/dailekh"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lok Bahadur Bhandari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लोक बहादुर भण्डारी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sandhya Bhandari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "संन्ध्या भण्डारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.893476Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.762116Z",
     "entity_or_relationship_id": "entity:person/bakhat-bahadur-bhandari",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

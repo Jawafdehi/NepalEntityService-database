@@ -177,29 +177,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jhalu Mahato"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "झलु महतो"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shobha Devi Mahato"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शोभा देवी महतो"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -224,10 +206,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.163921Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.600232Z",
     "entity_or_relationship_id": "entity:person/fakira-mahato",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

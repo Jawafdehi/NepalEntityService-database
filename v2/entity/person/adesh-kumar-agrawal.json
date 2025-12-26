@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/banke"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Naresh Kumar Agrawal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "नरेश कुमार अग्रवाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Aanchana Agrawal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "आँचना अग्रवाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.216840Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.890937Z",
     "entity_or_relationship_id": "entity:person/adesh-kumar-agrawal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

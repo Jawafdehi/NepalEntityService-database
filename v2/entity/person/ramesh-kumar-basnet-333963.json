@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/morang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Tek Bahadur Basnet"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "टेक बहादुर बस्नेत"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Indira Basnet"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "इन्दिरा बस्नेत"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.256272Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.573299Z",
     "entity_or_relationship_id": "entity:person/ramesh-kumar-basnet-333963",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

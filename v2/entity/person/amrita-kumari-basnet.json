@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/dang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jhaggu Prasad Dangi"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "झग्गु प्रसाद डाँगी"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Prem Bahadur Basnet"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "प्रेम बहादुर बस्नेत"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.137654Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.565100Z",
     "entity_or_relationship_id": "entity:person/amrita-kumari-basnet",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

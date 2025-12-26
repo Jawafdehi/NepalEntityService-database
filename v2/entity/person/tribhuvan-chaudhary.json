@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/saptari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Birendra Prasad Chaudhary"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "विरेन्‍द्र प्रसाद चौधरी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gita Chaudhary"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गिता चौधरी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.593636Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.793453Z",
     "entity_or_relationship_id": "entity:person/tribhuvan-chaudhary",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

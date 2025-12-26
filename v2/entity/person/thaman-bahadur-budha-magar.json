@@ -162,16 +162,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Khadga Singh Budha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "खड्ग सिङ बुढा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -199,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.669000Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:30.994649Z",
     "entity_or_relationship_id": "entity:person/thaman-bahadur-budha-magar",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

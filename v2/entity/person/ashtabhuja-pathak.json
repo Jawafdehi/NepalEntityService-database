@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/rupandehi"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shrikant Pathak"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "श्रीकान्त पाठक"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Durgawati Devi Pathak"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "दुर्गावती देवी पाठक"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.976668Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.033493Z",
     "entity_or_relationship_id": "entity:person/ashtabhuja-pathak",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

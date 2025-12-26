@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/salyan"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shankar Prasad Sharma"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शंकर प्रसाद शर्मा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.111943Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.173958Z",
     "entity_or_relationship_id": "entity:person/narayan-kumar-sharma",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

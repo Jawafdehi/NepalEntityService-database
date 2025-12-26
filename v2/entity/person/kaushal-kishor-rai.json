@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/sarlahi"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dev Narayan Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "देव नारायण राय"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Nitu Kumari Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "नितु कुमारी राय"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.119911Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.203922Z",
     "entity_or_relationship_id": "entity:person/kaushal-kishor-rai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

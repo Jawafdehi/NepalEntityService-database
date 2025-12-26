@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/banke"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Abdul Rahim Halwai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अब्दुल रहिम हलवाई"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Nuri Wano Halwai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "नुरी वानो हलवाई"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.219180Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.406341Z",
     "entity_or_relationship_id": "entity:person/abdul-hakim-halwai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

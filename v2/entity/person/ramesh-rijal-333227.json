@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Hari Prasad Rijal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "हरि प्रसाद रिजाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Savitri Rijal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सावित्री रिजाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.215618Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:32.767409Z",
     "entity_or_relationship_id": "entity:person/ramesh-rijal-333227",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Krishna Bahadur Prajapati"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कृष्ण बहादुर प्रजापति"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kanchhi Betti Prajapati"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कान्छी बेत्ती प्रजापति"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.389690Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.701472Z",
     "entity_or_relationship_id": "entity:person/krishna-prasad-prajapati",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

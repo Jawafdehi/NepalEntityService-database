@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/bhaktapur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Buddhi Kumar Gosai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बुद्धि कुमार गोसाई"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Rita Lakhemaru"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रीता लाखेमरु"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.370989Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.031985Z",
     "entity_or_relationship_id": "entity:person/surendra-raj-gosai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

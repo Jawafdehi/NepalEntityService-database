@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/sunsari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Indra Bahadur Dhakal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ईन्द्र वहादुर ढकाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sahana Dhakal Shrestha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सहना ढकाल श्रैष्ठ"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.589473Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.133291Z",
     "entity_or_relationship_id": "entity:person/gajendra-bahadur-dhakal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

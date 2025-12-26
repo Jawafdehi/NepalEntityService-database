@@ -165,29 +165,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jawahar Lal Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जवाहर लाल राय"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ram Kailash Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राम कैलाश राय"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -211,10 +193,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.164569Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:32.548247Z",
     "entity_or_relationship_id": "entity:person/anita-devi",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

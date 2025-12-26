@@ -162,16 +162,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ishwari Prasad Dhakal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "इश्वरी प्रसाद ढकाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": [
@@ -195,16 +186,7 @@
         }
       }
     ],
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ganga Devi Dhakal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गंगा देवी ढकाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -229,10 +211,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.759937Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.518041Z",
     "entity_or_relationship_id": "entity:person/thakur-prasad-dhakal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

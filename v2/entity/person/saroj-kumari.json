@@ -168,29 +168,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Hare Krishna Das"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "हरे कृष्‍ण दास"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ram Babu Rai Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रामवावु राय यादव"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -214,10 +196,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.264675Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.739275Z",
     "entity_or_relationship_id": "entity:person/saroj-kumari",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

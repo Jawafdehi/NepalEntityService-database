@@ -137,16 +137,7 @@
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dambar Jang Gurung"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "डम्बर जङ्ग गुरुङ्ग"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.607117Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.475785Z",
     "entity_or_relationship_id": "entity:person/buddhi-kumari-gurung",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

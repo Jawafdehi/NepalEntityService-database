@@ -171,29 +171,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhan Bahadur Pulami Magar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धन बहादुर पुलामी मगर"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Rupa Pulami Magar"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रुपा पुलामी मगर"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -217,10 +199,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.773627Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.895145Z",
     "entity_or_relationship_id": "entity:person/rudra-bahadur-pulami-magar",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jit Bahadur Lama"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जित बहादुर लामा"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ketari Maya Lama"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "केटारी माया लामा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.320172Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.267574Z",
     "entity_or_relationship_id": "entity:person/lal-kumar-lama",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -142,29 +142,11 @@
       "location_id": "entity:location/district/kaski"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Nandalal Chuwai Subedi"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "नन्दलाल चुवाई सुवेदी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Luri Maya Subedi"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लुरी माया सुवेदी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -188,10 +170,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.615068Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.518920Z",
     "entity_or_relationship_id": "entity:person/jagat-prasad-subedi",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

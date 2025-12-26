@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/saptari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gulat Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गुलट यादव"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dharmanarayan Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धर्मनारायण यादव"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.572611Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.869971Z",
     "entity_or_relationship_id": "entity:person/bina-devi-yadav",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

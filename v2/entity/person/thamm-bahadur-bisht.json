@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/surkhet"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Beg Bahadur Bisht"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बेगबहादुर विष्ट"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Maghisara Bisht"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "माघिसरा विष्ट"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.182550Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.502932Z",
     "entity_or_relationship_id": "entity:person/thamm-bahadur-bisht",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

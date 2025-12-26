@@ -158,16 +158,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bal Bahadur Shah"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बल बहादुर शाह"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -195,10 +186,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.401130Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.806781Z",
     "entity_or_relationship_id": "entity:person/narayan-kumar-shah",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

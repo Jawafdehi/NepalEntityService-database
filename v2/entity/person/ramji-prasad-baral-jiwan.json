@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kaski"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shashidhar Baral"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शशिधर बराल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sita Baral"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सीता बराल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.613838Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.706119Z",
     "entity_or_relationship_id": "entity:person/ramji-prasad-baral-jiwan",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

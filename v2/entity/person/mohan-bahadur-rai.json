@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/morang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kahar Man Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कहर मान राई"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sita Devi Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सिता देवी राई"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.566806Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.468826Z",
     "entity_or_relationship_id": "entity:person/mohan-bahadur-rai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

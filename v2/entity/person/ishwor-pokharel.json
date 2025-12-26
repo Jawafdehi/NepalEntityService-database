@@ -156,29 +156,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shiva Raj Pokharel"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शिव राज पोखरेल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Mira Pokharel (dhwoju)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मिरा पोखरेल (ध्वजु)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -202,10 +184,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.062626Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.606149Z",
     "entity_or_relationship_id": "entity:person/ishwor-pokharel",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

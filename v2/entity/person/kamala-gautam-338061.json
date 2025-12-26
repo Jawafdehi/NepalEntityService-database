@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/makwanpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Arjun Prasad Gautam"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अर्जुन प्रसाद गौतम"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Saroj Adhikari"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सरोज अधिकारी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.484108Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.164841Z",
     "entity_or_relationship_id": "entity:person/kamala-gautam-338061",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

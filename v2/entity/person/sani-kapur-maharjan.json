@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/lalitpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Purna Lal Maharjan"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "पूर्ण लाल महर्जन"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Maheshwari Maharjan"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "महेश्वरी महर्जन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.423776Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.459108Z",
     "entity_or_relationship_id": "entity:person/sani-kapur-maharjan",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

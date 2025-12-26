@@ -153,29 +153,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Shankar Mahato"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "शंकर महतो"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Nirmala Koirin"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "निर्मला कोइरीन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -199,10 +181,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.376577Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.734600Z",
     "entity_or_relationship_id": "entity:person/ramashish-mahato-koiri",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

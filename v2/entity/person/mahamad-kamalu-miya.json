@@ -142,29 +142,11 @@
       "location_id": "entity:location/district/morang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Abhin Miya"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अभिन मिया"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bilkis Khatun"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "विलकिस खातुन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -188,10 +170,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.209677Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.974073Z",
     "entity_or_relationship_id": "entity:person/mahamad-kamalu-miya",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Yamunath Neupane"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "यमुनाथ न्यौपाने"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Hari Prasad Bhusal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "हरि प्रसाद भुसाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.752873Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.799670Z",
     "entity_or_relationship_id": "entity:person/sabitra-neupane",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

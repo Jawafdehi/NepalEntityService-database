@@ -177,16 +177,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Prem Kumar Pradhan"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "प्रेम कुमार प्रधान"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": [
@@ -204,16 +195,7 @@
         }
       }
     ],
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Laxmi Pokhrel"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लक्ष्‍मी पोख्रेल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -237,10 +219,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.402630Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.686245Z",
     "entity_or_relationship_id": "entity:person/shudarshan-pradhan",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

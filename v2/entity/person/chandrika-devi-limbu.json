@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/morang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Gaj Bahadur Limbu"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "गज बहादुर लिम्बु"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Chitra Bahadur Tamang"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "चित्र बहादुर तामाङ"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.525240Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:35.030257Z",
     "entity_or_relationship_id": "entity:person/chandrika-devi-limbu",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kapilvastu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ram Surat Pandey"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राम सुरत पाण्‍डेय"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lallan Shukla"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लल्लन शुक्‍ला"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.781646Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.550122Z",
     "entity_or_relationship_id": "entity:person/geeta-shukla",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

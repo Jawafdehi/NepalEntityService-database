@@ -171,16 +171,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Man Bahadur Shrestha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मान बहादुर श्रेष्ठ"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": [
@@ -204,16 +195,7 @@
         }
       }
     ],
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Indra Kumari Shrestha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "इन्द्र कुमारी श्रेष्ठ"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -237,10 +219,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.479811Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.335047Z",
     "entity_or_relationship_id": "entity:person/bhakta-narayan-shrestha",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

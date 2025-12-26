@@ -124,29 +124,11 @@
       "location_id": "entity:location/district/siraha"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kari Pasman"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कारी पासमान"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Binod Kumar Pasman"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बिनोद कुमार पासमान"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -170,10 +152,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.770670Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.641668Z",
     "entity_or_relationship_id": "entity:person/lalita-devi-pasman",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

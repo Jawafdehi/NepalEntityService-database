@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/sunsari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bishan Das Dhanuk"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बिषन दास धानुक"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Mira, Munna Devi Mandal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मिरा,मुन्ना देवी मण्डल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.313163Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:32.391535Z",
     "entity_or_relationship_id": "entity:person/sadannad-mandal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

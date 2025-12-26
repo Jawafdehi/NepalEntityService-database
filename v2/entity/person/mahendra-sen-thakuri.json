@@ -165,29 +165,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ram Bahadur Sen (thakuri)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राम बहादुर सेन (ठकुरी)"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Pavitra Hamal (sen)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "पवित्रा हमाल (सेन)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -211,10 +193,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.023372Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.666445Z",
     "entity_or_relationship_id": "entity:person/mahendra-sen-thakuri",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

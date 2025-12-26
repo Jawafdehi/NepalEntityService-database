@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/lalitpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Krishna Bahadur Shah"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कृष्ण बहादुर शाह"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Manju Giri"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मन्जु गिरी"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.430268Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.409325Z",
     "entity_or_relationship_id": "entity:person/bipin-shah",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

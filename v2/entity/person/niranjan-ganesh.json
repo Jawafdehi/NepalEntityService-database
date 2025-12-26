@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/lalitpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Beku Lal Ganesh"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "बेकु लाल गणेश"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Vidma Ganesh"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "विद्मा गणेश"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.191402Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.736697Z",
     "entity_or_relationship_id": "entity:person/niranjan-ganesh",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

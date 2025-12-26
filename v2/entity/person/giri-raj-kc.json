@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/dang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Chakra Bahadur K.C."
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "चक्र वहादुर के.सी."
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Hima Devi K.C."
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "हिमा देवी के.सी."
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.128032Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.740135Z",
     "entity_or_relationship_id": "entity:person/giri-raj-kc",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

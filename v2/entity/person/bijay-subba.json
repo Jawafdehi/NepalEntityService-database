@@ -177,29 +177,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lalit Bahadur Tamwahangphe"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ललित बहादुर तम्वाहाङफे"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jhuma Kumari Subba"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "झुमा कुमारी सुब्बा"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -223,10 +205,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.487762Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:33.589044Z",
     "entity_or_relationship_id": "entity:person/bijay-subba",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

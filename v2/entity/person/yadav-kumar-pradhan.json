@@ -177,16 +177,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ambar Bahadur Pradhan"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "अम्वर बहादुर प्रधान"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": [
@@ -210,16 +201,7 @@
         }
       }
     ],
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Maiya Basnet"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मैया बस्नेत"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -243,10 +225,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.560671Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:41.192135Z",
     "entity_or_relationship_id": "entity:person/yadav-kumar-pradhan",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/bhojpur"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Samser Bahadur Dhamala"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सम्सेर बहादुर धमला"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhan Maya Dhakal (dhamala)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धन माया ढकाल (धमला)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.325932Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:42.248636Z",
     "entity_or_relationship_id": "entity:person/kedar-bahadur-dhamala",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

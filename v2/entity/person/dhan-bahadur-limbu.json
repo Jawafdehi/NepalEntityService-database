@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/jhapa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhuwan Singh Limbu"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भुवन सिंह लिम्बु"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Babita Dhimal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "वविता धिमाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.546135Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.919510Z",
     "entity_or_relationship_id": "entity:person/dhan-bahadur-limbu",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

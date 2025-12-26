@@ -168,29 +168,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Ramudgar Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रामउदगार यादब"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Sujita Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "सुजीता यादब"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -214,10 +196,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.669262Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.634872Z",
     "entity_or_relationship_id": "entity:person/suresh-kumar-yadav-333566",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

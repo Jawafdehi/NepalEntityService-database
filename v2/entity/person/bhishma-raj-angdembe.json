@@ -168,29 +168,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dhanendra Raj Angdembe"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "धनेन्द्र राज आङदेम्वे"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lalita Devi Rai Limbu"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ललिता देबी राई लिम्बु"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -214,10 +196,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.393981Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:31.604289Z",
     "entity_or_relationship_id": "entity:person/bhishma-raj-angdembe",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

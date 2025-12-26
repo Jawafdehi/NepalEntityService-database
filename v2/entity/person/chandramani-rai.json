@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/khotang"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lal Bahadur Rai"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लाल बहादुर राई"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.632376Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.515317Z",
     "entity_or_relationship_id": "entity:person/chandramani-rai",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/nuwakot"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Dilli Man Amatya"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "डिल्ली मान अमात्‍य"
-      }
-    },
+    "father_name": null,
     "gender": "female",
     "mother_name": null,
     "positions": null,
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.218443Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.576623Z",
     "entity_or_relationship_id": "entity:person/gita-amatya",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

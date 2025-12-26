@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/saptari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Khatar Yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "खटर यादव"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Koshila/sumitra Gurung/yadav"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कोशिला/सुमित्रा गुरुङ्ग/यादव"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.671474Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:36.546000Z",
     "entity_or_relationship_id": "entity:person/dev-narayan-yadav",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

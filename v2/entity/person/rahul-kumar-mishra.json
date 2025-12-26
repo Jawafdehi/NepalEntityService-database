@@ -162,26 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lalan Mishra"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "ललन मिश्र"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "–"
-      },
-      "ne": null
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -205,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.264042Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:37.969842Z",
     "entity_or_relationship_id": "entity:person/rahul-kumar-mishra",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

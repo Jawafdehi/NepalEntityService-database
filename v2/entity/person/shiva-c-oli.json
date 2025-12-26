@@ -156,16 +156,7 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kamal C Oli"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कमल सि ओली"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -194,10 +185,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:25.271734Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.592670Z",
     "entity_or_relationship_id": "entity:person/shiva-c-oli",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/parsa"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Raghunath Lal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "रघुनाथ लाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Lila Devi Karna"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "लिला देवी कर्ण"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -179,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.349284Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:32.831935Z",
     "entity_or_relationship_id": "entity:person/laxman-lal-karna",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

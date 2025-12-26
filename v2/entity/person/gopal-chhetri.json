@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Karna Bahadur Chhetri"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कर्ण बहादुर क्षेत्री"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Bhakta Maya Katuwal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "भक्त मायाँ कटुवाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:21.561290Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:34.249348Z",
     "entity_or_relationship_id": "entity:person/gopal-chhetri",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

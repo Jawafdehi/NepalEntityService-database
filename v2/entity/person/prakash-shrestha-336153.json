@@ -133,29 +133,11 @@
       "location_id": "entity:location/district/kathmandu"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Kisan Shrestha"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "कीसान श्रेष्ठ"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Samita Tamang (shrestha)"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "समीता तामाङ्ग (श्रेष्ठ)"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -180,10 +162,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.318892Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.856992Z",
     "entity_or_relationship_id": "entity:person/prakash-shrestha-336153",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

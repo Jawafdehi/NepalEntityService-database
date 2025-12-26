@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Jayanath Bhusal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "जयनाथ भुसाल"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Maya Bhusal"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "माया भुसाल"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:22.705596Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:39.855937Z",
     "entity_or_relationship_id": "entity:person/ghanshyam-bhusal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -133,16 +133,7 @@
       "location_id": "entity:location/district/saptari"
     },
     "education": null,
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Radha Kant Thakur"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "राधा कान्त ठाकुर"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
@@ -170,10 +161,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:23.572050Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:40.710801Z",
     "entity_or_relationship_id": "entity:person/kanhaiya-kumar-thakur",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

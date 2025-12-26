@@ -162,29 +162,11 @@
         "start_year": null
       }
     ],
-    "father_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Mohamadsafik Mansuri"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मोहमदसफिक म‌‌ंसुरी"
-      }
-    },
+    "father_name": null,
     "gender": "male",
     "mother_name": null,
     "positions": null,
-    "spouse_name": {
-      "en": {
-        "provenance": "translation_service",
-        "value": "Mofida Khatun"
-      },
-      "ne": {
-        "provenance": "imported",
-        "value": "मोफीदा खातुन"
-      }
-    }
+    "spouse_name": null
   },
   "pictures": [
     {
@@ -208,10 +190,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing from 2079 election results",
-    "created_at": "2025-11-14T01:32:24.550535Z",
+    "change_description": "Redact family information for privacy",
+    "created_at": "2025-12-26T19:19:38.234791Z",
     "entity_or_relationship_id": "entity:person/kalimullah-mansuri",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }
