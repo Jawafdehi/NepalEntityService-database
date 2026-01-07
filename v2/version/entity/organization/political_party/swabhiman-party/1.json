@@ -1,0 +1,138 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Import additional political parties",
+  "created_at": "2026-01-07T08:01:36.417761Z",
+  "entity_or_relationship_id": "entity:organization/political_party/swabhiman-party",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Janakpur Sub-Metropolitan City-14, Dhanusha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "जनकपुर उपमहानगरपालिका-१४, धनुषा"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.417764Z",
+    "description": null,
+    "id": "entity:organization/political_party/swabhiman-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "215"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Swabhiman Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "स्वाभिमान पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "President: Satyawan Kumar Singh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्ष: सत्यवान कुमार सिंह"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2025-11-22",
+    "short_description": null,
+    "slug": "swabhiman-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Figure of a woman carrying crops"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बाली बोकेको महिलाको आकृति"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Import additional political parties",
+      "created_at": "2026-01-07T08:01:36.417761Z",
+      "entity_or_relationship_id": "entity:organization/political_party/swabhiman-party",
+      "id": "version:entity:organization/political_party/swabhiman-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

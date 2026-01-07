@@ -1,0 +1,138 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Import additional political parties",
+  "created_at": "2026-01-07T08:01:36.419238Z",
+  "entity_or_relationship_id": "entity:organization/political_party/janadesh-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Lalitpur Metropolitan City-10, Kopundol, Lalitpur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "ललितपुर महानगरपालिका-१०, कोपुण्डोल, ललितपुर"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.419241Z",
+    "description": null,
+    "id": "entity:organization/political_party/janadesh-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "218"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Janadesh Party Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जनादेश पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Coordinator: Raman Kumar Karna"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "संयोजक: रमण कुमार कर्ण"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2025-11-23",
+    "short_description": null,
+    "slug": "janadesh-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Handheld microphone held by one hand"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "एक हातले समाएको हाते माइक"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Import additional political parties",
+      "created_at": "2026-01-07T08:01:36.419238Z",
+      "entity_or_relationship_id": "entity:organization/political_party/janadesh-party-nepal",
+      "id": "version:entity:organization/political_party/janadesh-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

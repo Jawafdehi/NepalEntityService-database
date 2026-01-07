@@ -1,0 +1,138 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Import additional political parties",
+  "created_at": "2026-01-07T08:01:36.420720Z",
+  "entity_or_relationship_id": "entity:organization/political_party/jaya-matribhumi-party",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kathmandu Metropolitan City-9, Battisputali, Kathmandu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काठमाडौं महानगरपालिका-९, बत्तिसपुतली, काठमाडौं"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.420722Z",
+    "description": null,
+    "id": "entity:organization/political_party/jaya-matribhumi-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "221"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Jaya Matribhumi Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जय मातृभूमि पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "President: Sureshkumar Karki"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्ष: सुरेशकुमार कार्की"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2025-11-24",
+    "short_description": null,
+    "slug": "jaya-matribhumi-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mother holding a baby in her lap"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काखमा बच्चा लिएकी आमा"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Import additional political parties",
+      "created_at": "2026-01-07T08:01:36.420720Z",
+      "entity_or_relationship_id": "entity:organization/political_party/jaya-matribhumi-party",
+      "id": "version:entity:organization/political_party/jaya-matribhumi-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

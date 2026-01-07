@@ -1,7 +1,16 @@
 {
   "address": {
-    "description": "Kathmandu Metropolitan City-16, Chahmati, Banasthali, Kathmandu / काठमाडौं महानगरपालिका-१६, चःमति, वनस्थली, काठमाडौ",
-    "description2": null,
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Lalitpur Metropolitan City-10, Kopundol, Lalitpur"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "ललितपुर महानगरपालिका-१०, कोपुण्डोल, ललितपुर"
+      }
+    },
     "location_id": null
   },
   "attributes": null,
@@ -10,11 +19,11 @@
       "details": {
         "en": {
           "provenance": "human",
-          "value": "Registered Parties (2082) - imported 2025-11-11"
+          "value": "Registered Parties (2082) - imported 2026-01-07"
         },
         "ne": {
           "provenance": "human",
-          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
         }
       },
       "title": {
@@ -29,21 +38,8 @@
       }
     }
   ],
-  "contacts": [
-    {
-      "type": "PHONE",
-      "value": "+97715914591"
-    },
-    {
-      "type": "PHONE",
-      "value": "+9779851360666"
-    },
-    {
-      "type": "PHONE",
-      "value": "+9779851220699"
-    }
-  ],
-  "created_at": "2025-11-12T04:39:53.671990Z",
+  "contacts": null,
+  "created_at": "2026-01-07T08:01:36.419241Z",
   "description": null,
   "identifiers": [
     {
@@ -59,7 +55,7 @@
       },
       "scheme": "other",
       "url": null,
-      "value": "187"
+      "value": "218"
     }
   ],
   "misspelled_names": null,
@@ -67,7 +63,7 @@
     {
       "en": {
         "family": null,
-        "full": "Rastriya Swatantra Party (RSP)",
+        "full": "Janadesh Party Nepal",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -76,50 +72,38 @@
       "kind": "PRIMARY",
       "ne": {
         "family": null,
-        "full": "राष्ट्रिय स्वतन्त्र पार्टी",
+        "full": "जनादेश पार्टी नेपाल",
         "given": null,
         "middle": null,
         "prefix": null,
         "suffix": null
       }
-    },
-    {
-      "en": {
-        "family": null,
-        "full": "National Independent Party",
-        "given": null,
-        "middle": null,
-        "prefix": null,
-        "suffix": null
-      },
-      "kind": "ALTERNATE",
-      "ne": null
     }
   ],
   "party_chief": {
     "en": {
       "provenance": "translation_service",
-      "value": "President: Rabi Lamichhane"
+      "value": "Coordinator: Raman Kumar Karna"
     },
     "ne": {
       "provenance": "imported",
-      "value": "सभापतिः रवि लामिछाने"
+      "value": "संयोजक: रमण कुमार कर्ण"
     }
   },
   "pictures": null,
-  "registration_date": "2022-07-01",
+  "registration_date": "2025-11-23",
   "short_description": null,
-  "slug": "national-independent-party",
+  "slug": "janadesh-party-nepal",
   "sub_type": "political_party",
   "symbol": {
     "name": {
       "en": {
         "provenance": "translation_service",
-        "value": "Bell"
+        "value": "Handheld microphone held by one hand"
       },
       "ne": {
         "provenance": "imported",
-        "value": "घण्टी"
+        "value": "एक हातले समाएको हाते माइक"
       }
     }
   },
@@ -131,10 +115,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Update primary name to Rastriya Swatantra Party, move National Independent Party to alternate",
-    "created_at": "2026-01-07T08:01:36.378490Z",
-    "entity_or_relationship_id": "entity:organization/political_party/national-independent-party",
+    "change_description": "Import additional political parties",
+    "created_at": "2026-01-07T08:01:36.419238Z",
+    "entity_or_relationship_id": "entity:organization/political_party/janadesh-party-nepal",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 1
   }
 }

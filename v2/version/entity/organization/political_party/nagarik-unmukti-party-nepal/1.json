@@ -1,0 +1,138 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Import additional political parties",
+  "created_at": "2026-01-07T08:01:36.413123Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nagarik-unmukti-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sinamangal, Kathmandu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सिनामङ्गल, काठमाडौं"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.413128Z",
+    "description": null,
+    "id": "entity:organization/political_party/nagarik-unmukti-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "206"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nagarik Unmukti Party, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नागरिक उन्मुक्ति पार्टी, नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kabir Sop"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कविर सोप"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2025-11-10",
+    "short_description": null,
+    "slug": "nagarik-unmukti-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Chakiya (Grindstone)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "चकिया (जाँतो)"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Import additional political parties",
+      "created_at": "2026-01-07T08:01:36.413123Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nagarik-unmukti-party-nepal",
+      "id": "version:entity:organization/political_party/nagarik-unmukti-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,138 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Import additional political parties",
+  "created_at": "2026-01-07T08:01:36.416650Z",
+  "entity_or_relationship_id": "entity:organization/political_party/people-first-party",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Suryabinayak Municipality-4, Bhaktapur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सूर्यविनायक नगरपालिका-४, भक्तपुर"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.416653Z",
+    "description": null,
+    "id": "entity:organization/political_party/people-first-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "213"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "People First Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "पिपुल फर्स्ट पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Coordinator: Prashant Singh"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "संयोजक: प्रशान्त सिंह"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2025-11-20",
+    "short_description": null,
+    "slug": "people-first-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shape of a hand with two fingers open and three fingers closed"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दुई औंला खुलेको तीन औंला बन्द भएको हातको आकृति"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Import additional political parties",
+      "created_at": "2026-01-07T08:01:36.416650Z",
+      "entity_or_relationship_id": "entity:organization/political_party/people-first-party",
+      "id": "version:entity:organization/political_party/people-first-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}
