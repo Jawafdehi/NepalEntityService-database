@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Lalitpur Metropolitan City-2, Sanepa, Lalitpur / ललितपुर महानगरपालिका-२, सानेपा, ललितपुर",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -89,7 +90,15 @@
       "value": "अध्यक्षः अनन्तराज घिमिरे"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/hamro-nepali-party.png",
+      "width": null
+    }
+  ],
   "registration_date": "2022-07-13",
   "short_description": null,
   "slug": "hamro-nepali-party",
@@ -114,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.672464Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.352587Z",
     "entity_or_relationship_id": "entity:organization/political_party/hamro-nepali-party",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

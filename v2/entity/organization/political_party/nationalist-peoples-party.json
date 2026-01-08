@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Kathmandu Metropolitan City-10, New Baneshwor, Kathmandu / काठमाडौं महानगरपालिका-१०, नयाँ बानेश्वर, काठमाडौं",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -89,7 +90,15 @@
       "value": "अध्यक्षः इन्द्र बहादुर थापा"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/nationalist-peoples-party.png",
+      "width": null
+    }
+  ],
   "registration_date": "2021-02-23",
   "short_description": null,
   "slug": "nationalist-peoples-party",
@@ -114,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.660068Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.320020Z",
     "entity_or_relationship_id": "entity:organization/political_party/nationalist-peoples-party",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

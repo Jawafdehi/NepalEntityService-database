@@ -90,7 +90,15 @@
       "value": "अध्यक्ष: योगेन्द्र मण्डल"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/rastriya-urjashil-party-nepal.png",
+      "width": null
+    }
+  ],
   "registration_date": "2025-11-19",
   "short_description": null,
   "slug": "rastriya-urjashil-party-nepal",
@@ -115,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Import additional political parties",
-    "created_at": "2026-01-07T08:01:36.416130Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.307898Z",
     "entity_or_relationship_id": "entity:organization/political_party/rastriya-urjashil-party-nepal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

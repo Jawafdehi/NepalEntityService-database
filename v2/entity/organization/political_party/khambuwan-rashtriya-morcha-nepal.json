@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Dharan Sub-Metropolitan City-11, Sunsari / धरान उपमहानगरपालिका-११, सुनसरी",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -113,7 +114,15 @@
       "value": "अध्यक्षः रामकुमार राई"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/khambuwan-rashtriya-morcha-nepal.png",
+      "width": null
+    }
+  ],
   "registration_date": "2016-12-15",
   "short_description": null,
   "slug": "khambuwan-rashtriya-morcha-nepal",
@@ -138,10 +147,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.632260Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.343972Z",
     "entity_or_relationship_id": "entity:organization/political_party/khambuwan-rashtriya-morcha-nepal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

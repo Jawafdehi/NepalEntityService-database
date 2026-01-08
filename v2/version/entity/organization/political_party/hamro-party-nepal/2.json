@@ -1,0 +1,146 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add 2082 election symbol pictures",
+  "created_at": "2026-01-08T06:45:48.372361Z",
+  "entity_or_relationship_id": "entity:organization/political_party/hamro-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Tokha Municipality-7, Kathmandu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "टोखा नगरपालिका-७, काठमाडौं"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.418265Z",
+    "description": null,
+    "id": "entity:organization/political_party/hamro-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "216"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hamro Party Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "हाम्रो पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Khagendra Sunar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सभापति: खगेन्द्र सुनार"
+      }
+    },
+    "pictures": [
+      {
+        "description": "2082 Election Symbol. Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/hamro-party-nepal.png",
+        "width": null
+      }
+    ],
+    "registration_date": "2025-11-22",
+    "short_description": null,
+    "slug": "hamro-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Like shape with raised thumb inside a circle"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गोलाकारभित्र बुढी औंला उठाएको लाइक आकृति"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add 2082 election symbol pictures",
+      "created_at": "2026-01-08T06:45:48.372361Z",
+      "entity_or_relationship_id": "entity:organization/political_party/hamro-party-nepal",
+      "id": "version:entity:organization/political_party/hamro-party-nepal:2",
+      "type": "ENTITY",
+      "version_number": 2
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 2
+}

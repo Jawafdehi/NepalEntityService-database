@@ -1,0 +1,16 @@
+{
+  "migration_name": "009-party-election-symbols",
+  "author": "Damodar Dahal",
+  "date": "2026-01-08T00:00:00",
+  "description": "Add election symbol pictures to political parties",
+  "executed_at": "2026-01-08T19:46:33.558301",
+  "duration_seconds": 0.1533980369567871,
+  "status": "completed",
+  "changes": {
+    "entities_created": 0,
+    "relationships_created": 0,
+    "versions_created": 137,
+    "summary": "Created 0 entities, 0 relationships, and 137 versions",
+    "has_diff": true
+  }
+}

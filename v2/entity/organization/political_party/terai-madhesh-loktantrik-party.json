@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Janakpur Sub-Metropolitan City, Janakpur, Dhanusha / जनकपुर उपमहानगरपालिका, जनकपुर, धनुषा",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -97,7 +98,15 @@
       "value": "रवि शंकरकुमार कर्ण"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/terai-madhesh-loktantrik-party.png",
+      "width": null
+    }
+  ],
   "registration_date": "2021-11-25",
   "short_description": null,
   "slug": "terai-madhesh-loktantrik-party",
@@ -122,10 +131,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.666388Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.345941Z",
     "entity_or_relationship_id": "entity:organization/political_party/terai-madhesh-loktantrik-party",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

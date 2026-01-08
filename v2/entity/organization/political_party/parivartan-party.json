@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Kathmandu Metropolitan City-3, Kathmandu / काठमाडौं महानगरपालिका-३, काठमाडौं",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -89,7 +90,15 @@
       "value": "अध्यक्षः रमेश नाल्बु"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/parivartan-party.png",
+      "width": null
+    }
+  ],
   "registration_date": "2024-10-07",
   "short_description": null,
   "slug": "parivartan-party",
@@ -114,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.678152Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.379153Z",
     "entity_or_relationship_id": "entity:organization/political_party/parivartan-party",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Kathmandu Metropolitan City-10, New Baneshwor / काठमाडौँ महानगरपालिका-१०, नयाँवानेश्वर",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -89,7 +90,15 @@
       "value": "अध्यक्षः सन्ध्या लिवारी"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/peoples-democratic-party-nepal.png",
+      "width": null
+    }
+  ],
   "registration_date": "2020-08-19",
   "short_description": null,
   "slug": "peoples-democratic-party-nepal",
@@ -114,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.658880Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.381917Z",
     "entity_or_relationship_id": "entity:organization/political_party/peoples-democratic-party-nepal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

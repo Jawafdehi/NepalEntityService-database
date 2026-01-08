@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Kathmandu Metropolitan City-11, Thapathali, Kathmandu / काठमाडौं महानगरपालिका-११, थापाथली, काठमाडौं",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -101,7 +102,15 @@
       "value": "अध्यक्षः दल मर्दन कामी"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/united-citizen-party.png",
+      "width": null
+    }
+  ],
   "registration_date": "2022-02-15",
   "short_description": null,
   "slug": "united-citizen-party",
@@ -126,10 +135,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.668521Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.308892Z",
     "entity_or_relationship_id": "entity:organization/political_party/united-citizen-party",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

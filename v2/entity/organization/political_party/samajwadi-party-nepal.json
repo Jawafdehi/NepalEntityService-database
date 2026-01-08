@@ -1,6 +1,7 @@
 {
   "address": {
     "description": "Kathmandu Metropolitan City-10, Pipalbot Marga, Purano Baneshwor / काठमाडौं महानगरपालिका-१०, पिपलबोट मार्ग, पुरानो वानेश्वर",
+    "description2": null,
     "location_id": null
   },
   "attributes": null,
@@ -89,7 +90,15 @@
       "value": "अध्यक्षः विष्णुराज अर्याल"
     }
   },
-  "pictures": null,
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/samajwadi-party-nepal.png",
+      "width": null
+    }
+  ],
   "registration_date": "2016-12-15",
   "short_description": null,
   "slug": "samajwadi-party-nepal",
@@ -114,10 +123,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-12T04:39:53.635690Z",
+    "change_description": "Add 2082 election symbol pictures",
+    "created_at": "2026-01-08T06:45:48.390770Z",
     "entity_or_relationship_id": "entity:organization/political_party/samajwadi-party-nepal",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }
