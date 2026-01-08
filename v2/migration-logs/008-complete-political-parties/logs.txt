@@ -1,0 +1,49 @@
+Migration: 008-complete-political-parties
+Executed at: 2026-01-07T21:02:19.624097
+Duration: 0.1s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Migration started: Importing additional political parties and updating existing party names
+Using existing author: (author:damodar-dahal)
+Stage 0: Updating National Independent Party name...
+Updating National Independent Party name...
+✓ Updated National Independent Party names
+Loaded 27 parties from parties-data-en.json
+Stage 1: Building party data structures...
+Stage 1 complete: Prepared 27 parties
+Stage 2: Checking for slug collisions...
+Stage 2 complete: No slug collisions found for 27 parties
+Stage 3: Creating entities in database...
+Created party entity:organization/political_party/shram-sanskriti-party: Shram Sanskriti Party
+Created party entity:organization/political_party/gatishil-loktantrik-party: Gatishil Loktantrik Party
+Created party entity:organization/political_party/nagarik-unmukti-party-nepal: Nagarik Unmukti Party, Nepal
+Created party entity:organization/political_party/nepali-communist-party: Nepali Communist Party
+Created party entity:organization/political_party/rastriya-parivartan-party: Rastriya Parivartan Party
+Created party entity:organization/political_party/rastriya-janamat-party: Rastriya Janamat Party
+Created party entity:organization/political_party/nepal-communist-party-maoist: Nepal Communist Party (Maoist)
+Created party entity:organization/political_party/rastra-nirman-party-nepal: Rastra Nirman Party Nepal
+Created party entity:organization/political_party/rastriya-urjashil-party-nepal: Rastriya Urjashil Party, Nepal
+Created party entity:organization/political_party/people-first-party: People First Party
+Created party entity:organization/political_party/ujyalo-nepal-party: Ujyalo Nepal Party
+Created party entity:organization/political_party/swabhiman-party: Swabhiman Party
+Created party entity:organization/political_party/hamro-party-nepal: Hamro Party Nepal
+Created party entity:organization/political_party/nagarik-sarwochhata-party-nepal: Nagarik Sarwochhata Party Nepal
+Created party entity:organization/political_party/janadesh-party-nepal: Janadesh Party Nepal
+Created party entity:organization/political_party/sarvabhaum-nagarik-party: Sarvabhaum Nagarik Party
+Created party entity:organization/political_party/nagarik-sewa-party: Nagarik Sewa Party
+Created party entity:organization/political_party/jaya-matribhumi-party: Jaya Matribhumi Party
+Created party entity:organization/political_party/pragatisheel-nagarik-party: Pragatisheel Nagarik Party
+Created party entity:organization/political_party/sarvodaya-party: Sarvodaya Party
+Created party entity:organization/political_party/samunnat-nepal-party: Samunnat Nepal Party
+Created party entity:organization/political_party/nagarik-bachau-party-nepal: Nagarik Bachau Party, Nepal
+Created party entity:organization/political_party/nepal-janasewa-party: Nepal Janasewa Party
+Created party entity:organization/political_party/samaveshi-samajwadi-party: Samaveshi Samajwadi Party
+Created party entity:organization/political_party/aawaj-party: Aawaj Party
+Created party entity:organization/political_party/janata-loktantrik-party-nepal: Janata Loktantrik Party, Nepal
+Created party entity:organization/political_party/jan-adhikaar-party: Jan Adhikaar Party
+Stage 3 complete: Created 27 political parties
+Final verification: 151 total political_party entities in database
+Migration completed successfully

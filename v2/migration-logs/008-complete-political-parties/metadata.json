@@ -1,0 +1,16 @@
+{
+  "migration_name": "008-complete-political-parties",
+  "author": "Damodar Dahal",
+  "date": "2026-01-07T00:00:00",
+  "description": "Complete the political party database by importing remaining parties (204-230)",
+  "executed_at": "2026-01-07T21:02:19.623131",
+  "duration_seconds": 0.061241865158081055,
+  "status": "completed",
+  "changes": {
+    "entities_created": 27,
+    "relationships_created": 0,
+    "versions_created": 28,
+    "summary": "Created 27 entities, 0 relationships, and 28 versions",
+    "has_diff": true
+  }
+}
