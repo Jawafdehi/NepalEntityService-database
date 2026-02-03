@@ -1,0 +1,221 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:06.689227Z",
+  "entity_or_relationship_id": "entity:person/ramesh-pariyar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 40 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 40 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "The country's politics have become unstable. There is an economic crisis in the country. And the number of unemployed youth in my area is high. My candidacy is to solve all these problems and to make strong laws. The main goal is national development, youth self-employment, and ending discrimination."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "देशको राजनीतिक स्थिर भएको छ। देशमा आर्थिक संकट छ। र मेरो क्षेत्रमा बेरोजगारी युवाहरुको संख्या बढी छ। यिनी सबैको समस्या हल गर्नका निम्ति र बलियो कानून बनाउन मेरो उम्मेद्वारी रहेको छ। देश विकास र युवा स्वरोजगार विभेद अन्त्य नै प्रमुख लक्ष्य रहेको छ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "+2 pass"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "‌‌+2 pass"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:06.689229Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 340604,
+          "constituency_id": "entity:location/constituency/surkhet-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": null,
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2670,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Log"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "मुढा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/ramesh-pariyar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "340604"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ramesh Pariyar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "रमेश परियार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Surkhet Birendranagar Municipality Amritdada"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सुर्खेत बीरेन्द्रनगर नगरपालिका अमृतडाडा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Intermediate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Vijay Memorial Dillibazar Kathmandu"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "विजय मेमोरियल डिल्लीबजार काठमाडौं"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/340604.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "ramesh-pariyar",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:06.689227Z",
+      "entity_or_relationship_id": "entity:person/ramesh-pariyar",
+      "id": "version:entity:person/ramesh-pariyar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

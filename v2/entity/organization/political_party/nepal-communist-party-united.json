@@ -1,0 +1,132 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Maitidevi Setopul, Kathmandu"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मैतिदेवी सेतोपुल, काठमाडौं"
+      }
+    },
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:01.362956Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "105"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Communist Party (United)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "General Secretary: Kedar Chandra Sharma"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "महासचिव: केदार चन्द्र शर्मा"
+    }
+  },
+  "pictures": [
+    {
+      "description": "2082 Election Symbol. Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/nepal-communist-party-united.png",
+      "width": null
+    }
+  ],
+  "registration_date": "2025-11-02",
+  "short_description": null,
+  "slug": "nepal-communist-party-united",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sickle"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "हँसिया"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:01.361739Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-united",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

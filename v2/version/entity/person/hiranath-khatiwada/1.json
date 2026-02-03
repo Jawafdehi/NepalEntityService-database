@@ -1,0 +1,212 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:05.655373Z",
+  "entity_or_relationship_id": "entity:person/hiranath-khatiwada",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 58 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 58 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I pledge to play my role as a legislator in favor of the policies and programs of a socialist system with unique Nepali characteristics, further strengthening the federal democratic republican system, and to serve as a public servant for social justice, good governance, and prosperity for the people of Nuwakot District's Constituency No. 2."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "संघीय लोकतान्त्रिक गणतन्त्रात्मक व्यवस्थालाई थप मजबुद गराउदै नेपाली मौलिक बिशेषता सहितको समाजवादी व्यवस्थाको नीति तथा कार्यक्रमको पक्षमा विधायकको रूपमा भ‍ूमिका निर्वाह गरी समग्र नुवाकोट जिल्लाको 2 नं. निर्वाचन क्षेत्रका जनताको सामाजिक न्याय, सुशासन तथा समृद्धीको लागि आफ्नो भूमिका जनताको सेवकको रूपमा लाग्ने संकल्प गर्दछु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate Level"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "प्रविणता तह"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:05.655376Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 340386,
+          "constituency_id": "entity:location/constituency/nuwakot-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepali-communist-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2557,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Five-pointed Star"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "पाँचकुने तारा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/hiranath-khatiwada",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "340386"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hiranath Khatiwada",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "हिरानाथ खतिवडा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Nuwakot Bidur Municipality Majhbari"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नुवाकोट विदुर नगरपालिका माझबारी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रि वि वि"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/340386.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "hiranath-khatiwada",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:05.655373Z",
+      "entity_or_relationship_id": "entity:person/hiranath-khatiwada",
+      "id": "version:entity:person/hiranath-khatiwada:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

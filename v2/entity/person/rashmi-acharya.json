@@ -1,0 +1,198 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 45 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 45 वर्ष"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Postgraduate, Ph.D. Scholar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्नातकोत्तर, पि.एच.डि स्कलर"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.268764Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339977,
+        "constituency_id": "entity:location/constituency/kaski-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2598,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सुर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339977"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rashmi Acharya",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रश्‍मि आचार्य",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kaski Pokhara Metropolitan City Gairagaun"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कास्की पोखरा महानगरपालिका गैरागाउ"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "PhD"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339977.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "rashmi-acharya",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.268761Z",
+    "entity_or_relationship_id": "entity:person/rashmi-acharya",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

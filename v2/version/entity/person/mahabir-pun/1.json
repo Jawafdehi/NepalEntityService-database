@@ -1,0 +1,221 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:06.543746Z",
+  "entity_or_relationship_id": "entity:person/mahabir-pun",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 71 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 71 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Prioritizing science and technology, innovation, research, and invention to improve the country's economy"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "देशको अर्थतन्त्रमा सुधार गर्नका लागि विज्ञान प्रविधि, नवप्रवर्तन, अनुसन्धान, आविस्कारलाई उच्च प्राथमिकता दिने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Master Degree"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Master Degree"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:06.543749Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 339417,
+          "constituency_id": "entity:location/constituency/myagdi-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": null,
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2646,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Triangle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "त्रिभुज"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/mahabir-pun",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "339417"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Mahabir Pun",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "महावीर पुन",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Chitwan Rapti Municipality Khurkhure"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "चितवन राप्ती नगरपालिका खुरखरे"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "University of Nebraska Kearney, USA"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "युनिभर्सिटी अफ नेब्रास्का कर्नी, अमेरिका"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339417.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "mahabir-pun",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:06.543746Z",
+      "entity_or_relationship_id": "entity:person/mahabir-pun",
+      "id": "version:entity:person/mahabir-pun:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

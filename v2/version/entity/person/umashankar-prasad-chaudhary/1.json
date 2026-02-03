@@ -1,0 +1,227 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:06.389531Z",
+  "entity_or_relationship_id": "entity:person/umashankar-prasad-chaudhary",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 65 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 65 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Studied about the culture, traditions, customs, social aspects, and inclusivity of communities. Advocated for the rights and interests of marginalized communities in Nepal, and has been debating and lobbying for the creation of an egalitarian society."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "समुदायहरुकाे संस्कृति, परम्परा, रितिरिवाज, सामाजिक तथा समावेशिता सम्बन्धी अध्ययन गरेको। नेपालको सिमान्तकृत समुदायको हक,हित तथा अधिकारको वकालत गरेको, समतामुलक समाज निर्माणको लागि बहस,पैरवी गर्दै आएको।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Postgraduate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातकोत्तर"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:06.389534Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 341156,
+          "constituency_id": "entity:location/constituency/rupandehi-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nagarik-unmukti-party-nepal",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2531,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Chakiya (Grinding Stone)"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "चकिया (जाँतो)"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/umashankar-prasad-chaudhary",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "341156"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Umashankar Prasad Chaudhary",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "उमाशंकर प्रसाद चौधरी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Nawalparasi (Bardaghat Susta West) Palhinandan Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) पाल्हीनन्दन गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Social Sciences"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्वविद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/341156.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "umashankar-prasad-chaudhary",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:06.389531Z",
+      "entity_or_relationship_id": "entity:person/umashankar-prasad-chaudhary",
+      "id": "version:entity:person/umashankar-prasad-chaudhary:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

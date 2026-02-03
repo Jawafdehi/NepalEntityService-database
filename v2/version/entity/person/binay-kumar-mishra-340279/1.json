@@ -1,0 +1,227 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:05.480990Z",
+  "entity_or_relationship_id": "entity:person/binay-kumar-mishra-340279",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 73 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 73 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Fully devoted to Hindu religion and maintaining harmony so that other religions do not harm the Hindu religion."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "हिन्दु धर्म प्रति पूर्ण आशवान रही अन्य धर्मवाट हिन्दु धर्म माथि आघात नपुग्ने गरि सदभाव कायम राख्ने।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "B.Com."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "वि.कम."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:05.480992Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 340279,
+          "constituency_id": "entity:location/constituency/mahottari-3",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepal-janata-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2507,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Lotus flower"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "कमलको फूल"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/binay-kumar-mishra-340279",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "340279"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Binay Kumar Mishra",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "विनय कुमार मिश्र",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Mahottari Jaleshwar Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "महोत्तरी जलेश्वर नगरपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Commerce"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Bihar University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "विहार विश्व विधालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/340279.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "binay-kumar-mishra-340279",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:05.480990Z",
+      "entity_or_relationship_id": "entity:person/binay-kumar-mishra-340279",
+      "id": "version:entity:person/binay-kumar-mishra-340279:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

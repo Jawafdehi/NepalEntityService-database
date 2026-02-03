@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 1805
+      },
+      {
+        "candidate_id": 342644,
+        "constituency_id": "entity:location/constituency/rupandehi-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-socialist-party-naya-shakti",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2516,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Open Single Eye"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "खुलेको एकल आँखा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -172,7 +197,8 @@
   "slug": "shree-bahadur-kuwar",
   "sub_type": null,
   "tags": [
-    "provincial-election-2079-candidate"
+    "provincial-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -181,10 +207,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:35.602099Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:04.211593Z",
     "entity_or_relationship_id": "entity:person/shree-bahadur-kuwar",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

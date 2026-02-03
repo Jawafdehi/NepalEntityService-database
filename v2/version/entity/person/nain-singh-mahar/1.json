@@ -1,0 +1,221 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:06.858842Z",
+  "entity_or_relationship_id": "entity:person/nain-singh-mahar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 51 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 51 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I will strongly present myself on behalf of the Nepali Congress in the House of Representatives to establish the rule of law and strengthen democracy by bringing the current uncertain politics back on track. I will work nationally for political stability, the establishment of a democratic socialist society, and economic and social change. I will strive to the best of my ability for the development of Dadeldhura. With the blessings of the highly respected leader and former Prime Minister Sher Bahadur Deuba, President of the Nepali Congress, and under his successful guardianship."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "प्रतिनिधि सभामा नेपाली काँग्रेसको तर्फबाट शसक्त रूपमा प्रस्तुत भई विधिको शासन स्थापित गर्न तथा वर्तमान अन्योल राजनीतिलाई लयमा ल्याई लोकतन्त्रलाई मजबुत गर्नमा लागि पर्ने छु। राजनीतिक स्थिरता, लोकतन्त्र समाजवाद उन्मुख समाज निर्माण तथा आर्थिक सामाजिक परिवर्तनका लागि राष्ट्रिय रूपमा लागि पर्नेछु। डडेल्धुराको विकासका लागि आफ्नो क्षमता बल बुझले भ्याए सम्म प्रयासरत रहने छु। नेपाली काँग्रेसका सभापति परम आदरणीय नेता पूर्व प्रधानमन्त्री शेर बहादुर देउवाज्यूको आर्शिवाद र वहाँको सफल अभिभावकत्वमा"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Postgraduate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातकोत्तर"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:06.858847Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 341455,
+          "constituency_id": "entity:location/constituency/dadeldhura-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepali-congress",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2583,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tree"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "रुख"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/nain-singh-mahar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "341455"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nain Singh Mahar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नैन सिंह महर",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Lamikand, Bhageshwar Rural Municipality, Dadeldhura"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "डडेलधुरा भागेश्वर गाउँपालिका लामीकाँड"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्व विद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/341455.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "nain-singh-mahar",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:06.858842Z",
+      "entity_or_relationship_id": "entity:person/nain-singh-mahar",
+      "id": "version:entity:person/nain-singh-mahar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

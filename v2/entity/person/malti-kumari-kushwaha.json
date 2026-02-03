@@ -1,0 +1,201 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 53 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 53 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Has been working closely with the community for years on local education, health, agricultural irrigation, roads, drinking water, and employment issues. My priority is the development of Madhesh, women's safety and purification, and programs to connect youth towards employment/entrepreneurship. If elected, I pledge to adopt a transparent, accountable, and service-oriented style as a public representative."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्थानिय शिक्षा, स्वास्थ्य, कृषि सिचाई सडक खानेपानी तथा रोजगारी विषयमा वर्षो देखि समुदाय सँग नजिकबाट काम गर्दै आएको, मधेशको विकाश महिला सुरक्षा  शुद्धिकरण र युवाहरुलाई रोजगारी / उद्यम तर्फ जोड्ने कार्यक्रम मेरो प्राथमिकता हो । निर्वाचनमा निर्वाचित भए जनप्रतिनिधिका रुपमा पारदर्शी, जवाफदेही र सेवा कन्द्रित शैली आपनाउने प्रतिबद्धता व्यक्त गर्दछु ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "एस एल सी"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.177304Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 341469,
+        "constituency_id": "entity:location/constituency/parsa-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/janamat-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2585,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Loudspeaker"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "लाउड स्पिकर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "341469"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Malti Kumari Kushwaha",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मालती कुमारी कुशवाहा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Parsa Bahudarmai Municipality"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पर्सा बहुदरमाई नगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": null
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "female",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/341469.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "malti-kumari-kushwaha",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.177301Z",
+    "entity_or_relationship_id": "entity:person/malti-kumari-kushwaha",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -58,12 +58,25 @@
       "value": "101"
     }
   ],
-  "misspelled_names": null,
+  "misspelled_names": [
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "विमल नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
   "names": [
     {
       "en": {
         "family": null,
-        "full": "Bimal Nepal",
+        "full": "Trimul Nepal",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -72,7 +85,7 @@
       "kind": "PRIMARY",
       "ne": {
         "family": null,
-        "full": "विमल नेपाल",
+        "full": "त्रिमूल नेपाल",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -123,10 +136,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Add 2082 election symbol pictures",
-    "created_at": "2026-01-08T06:45:48.373826Z",
+    "change_description": "Fix party name: विमल नेपाल → त्रिमूल नेपाल",
+    "created_at": "2026-02-03T03:04:01.377369Z",
     "entity_or_relationship_id": "entity:organization/political_party/bimal-nepal",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

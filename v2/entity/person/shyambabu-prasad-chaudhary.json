@@ -1,0 +1,213 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 35 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 35 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I will pursue strong politics of developmentalism, socialism, and law and order. The law and order situation in our Nepal is weaker than expected. To develop Nepal, we must first strengthen law and order. Only then can corruption be controlled. Thank you!"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "म विकासवाद, समाजवाद, कानून व्यवस्था बलियो खालको राजनीतिक गर्नेछु। हाम्रो नेपालमा कानून व्यवस्था सोचे भन्दा कमजोर छ। हामी नेपाललाई विकाश गर्नलाई सबभन्दा पहिले कानून व्यवस्था बलियो बनाउनु पर्छ। त्यसपछि माात्र भ्रष्टचार नियन्त्रण गर्न सकिन्छ। धन्यवाद!"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "BSC (Bachelor in science)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "BSC (Bachelor in science)"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.095701Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339680,
+        "constituency_id": "entity:location/constituency/bara-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/janata-loktantrik-party-nepal",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2574,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Buffalo"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "भैँसी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339680"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shyambabu Prasad Chaudhary",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "श्यामबाबु प्रसाद चौधरी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Haraia, Karaiyamai Rural Municipality, Bara"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बारा करैयामाई गाउँपालिका हरैया"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Science"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Birendra Multiple Campus, Bharatpur Chitwan"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Birendra Multiple Campus, Bharatpur chitwan"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339680.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shyambabu-prasad-chaudhary",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.095699Z",
+    "entity_or_relationship_id": "entity:person/shyambabu-prasad-chaudhary",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

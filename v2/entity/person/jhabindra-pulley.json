@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 880
+      },
+      {
+        "candidate_id": 342062,
+        "constituency_id": "entity:location/constituency/arghakhanchi-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/national-democratic-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2604,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Plough"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हलो"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -169,7 +194,8 @@
   "slug": "jhabindra-pulley",
   "sub_type": null,
   "tags": [
-    "provincial-election-2079-candidate"
+    "provincial-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -178,10 +204,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:32.661572Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:04.203080Z",
     "entity_or_relationship_id": "entity:person/jhabindra-pulley",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

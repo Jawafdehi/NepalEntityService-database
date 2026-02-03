@@ -74,6 +74,31 @@
           "url": null
         },
         "votes_received": 996
+      },
+      {
+        "candidate_id": 342341,
+        "constituency_id": "entity:location/constituency/saptari-4",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nagarik-unmukti-party-nepal",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2531,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Chakiya (Janto)"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "चकिया (जाँतो)"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -187,7 +212,8 @@
   "slug": "rama-kant-chaudhary",
   "sub_type": null,
   "tags": [
-    "provincial-election-2079-candidate"
+    "provincial-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -196,10 +222,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:36.817451Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:02.937225Z",
     "entity_or_relationship_id": "entity:person/rama-kant-chaudhary",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

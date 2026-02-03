@@ -1,0 +1,213 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 54 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 54 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Continuously involved in the campaign to transform society since 2041 BS. The great campaign to establish socialist federalism with priority rights is ongoing."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "समाज परिवर्तन गर्ने अभियानमा 2041 सालदेखि आजसम्म निरन्तर लागिरहेको छु। अग्राधिकार सहितको समाजवादी, संघियता स्थापना गर्ने महान अभियान जारी।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "M.Ed."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "एम.एड."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:04.906417Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339647,
+        "constituency_id": "entity:location/constituency/sankhuwasabha-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-communist-party-maoist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2526,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Rose flower with two leaves inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलो घेराभित्र दुई पात भएको गुलाफको फूल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339647"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Pushpa Koirala",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "पुष्प कोईराला",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Paudel, Chainpur Municipality, Sankhuwasabha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "संखुवासभा चैनपुर नगरपालिका पौडेल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Education"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभूवन विश्वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339647.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "pushpa-koirala",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:04.906415Z",
+    "entity_or_relationship_id": "entity:person/pushpa-koirala",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Fix party name: नेपाल कम्युनिस्ट पार्टी (माओबादी) → नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "created_at": "2026-02-03T03:04:01.375846Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-maoist",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shivaraj Municipality-9, Anchalpur, Kapilbastu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "शिवराज नगरपालिका-९, अञ्चलपुर, कपिलवस्तु"
+        }
+      },
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2026-01-07"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2026-01-07 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-01-07T08:01:36.415169Z",
+    "description": null,
+    "id": "entity:organization/political_party/nepal-communist-party-maoist",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "210"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Communist Party (Maoist)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "नेपाल कम्युनिस्ट पार्टी (माओबादी)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "General Secretary: Netra Bikram Chand"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "महासचिव: नेत्र विक्रम चन्द"
+      }
+    },
+    "pictures": [
+      {
+        "description": "2082 Election Symbol. Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/2082-election-symbols/nepal-communist-party-maoist.png",
+        "width": null
+      }
+    ],
+    "registration_date": "2025-11-17",
+    "short_description": null,
+    "slug": "nepal-communist-party-maoist",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rose flower with two leaves inside a circle"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गोलो घेराभित्र दुई पात भएको गुलाबको फूल"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Fix party name: नेपाल कम्युनिस्ट पार्टी (माओबादी) → नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+      "created_at": "2026-02-03T03:04:01.375846Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-maoist",
+      "id": "version:entity:organization/political_party/nepal-communist-party-maoist:3",
+      "type": "ENTITY",
+      "version_number": 3
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 3
+}

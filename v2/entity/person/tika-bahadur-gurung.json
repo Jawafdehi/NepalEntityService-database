@@ -1,0 +1,184 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 69 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 69 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "My candidacy against political instability, corruption, and misgovernance"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राजनितिक अस्थिरता भ्रष्टचार कुशासन विरुद्ध मेरो उम्मेदवारी"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "General"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "साधारण"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.196708Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 342422,
+        "constituency_id": "entity:location/constituency/parsa-4",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2676,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Syringe"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सिरिन्ज"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "342422"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Tika Bahadur Gurung",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "टिका बहादुर गुरुङ",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ramnagar, Thori Rural Municipality, Parsa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पर्सा ठोरी गाउँपालिका रामनगर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": null,
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/342422.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "tika-bahadur-gurung",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.196701Z",
+    "entity_or_relationship_id": "entity:person/tika-bahadur-gurung",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

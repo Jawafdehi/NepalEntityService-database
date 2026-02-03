@@ -1,0 +1,207 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 41 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 41 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "My candidacy is to elevate the overall development of Myagdi district to a new height, establish corruption-free good governance, voice the dreams of youth in parliament, and with economic and political awareness and understanding of the modern world, to consider politics as a service, not a profession, and to always stand by the people of Myagdi in their joys and sorrows."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "समग्र म्याग्दी जिल्लाको विकासलाई नयाँ उचाइमा पुर्‍याउन, भ्रष्टाचारमुक्त सुशासन कायम गर्न, युवाहरुको सपनालाई संसदमा वुलन्द पार्न तथा आधुनिक विश्वको आर्थिक राजनैतिक चेत र सुझवुझ साथै राजनीतिलाई पेशा होइन सेवा ठान्न र सदैव म्याग्देली जनताको सुखदुःखमा साथ रहने तत्परताका साथ मेरो उम्मेदवार रहेको ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "M.A."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "M.A."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.537884Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 340362,
+        "constituency_id": "entity:location/constituency/myagdi-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepali-communist-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2557,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Five-pointed Star"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पाँचकुने तारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "340362"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Arjun Bahadur Thapa",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "अर्जुन बहादुर थापा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Jamdaratol, Dhaulagiri Rural Municipality, Myagdi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "म्याग्दी धवलागिरी गाउँपालिका जम्दारटोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "T.U."
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/340362.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "arjun-bahadur-thapa",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.537882Z",
+    "entity_or_relationship_id": "entity:person/arjun-bahadur-thapa",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

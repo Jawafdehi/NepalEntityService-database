@@ -1,0 +1,221 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "2082 Election - Political Party Updates",
+  "created_at": "2026-02-03T03:04:06.687163Z",
+  "entity_or_relationship_id": "entity:person/hridayendra-adhikari",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "age": {
+          "en": {
+            "provenance": "imported",
+            "value": "Aged 26 as of January 2026"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०८२ माघमा 26 वर्ष"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "My main objective for running in Surkhet Constituency 2 is that citizens here must have access to state governance, and since it is not possible for others to establish good governance and eradicate corruption, and policies that sustainably impact citizens' daily lives need to be made, I am registering my candidacy."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म यस निर्वाचन क्षेत्र सुर्खेत २ मा उम्मेद्वारी दिनुको प्रमुख उद्देश्य यहाँको नागरिकको पहुँच राज्य चलाउने सम्मको पहुँच हुन जरुरी छ र भ्रष्टचार /सुशासन कायम गर्न अरुबाट सम्भव नभएको र नागरिकको दैनिकी दिगो रुपमा प्रभाव पार्ने नीति बनाउनुपर्ने भएकोले म उम्मेद्वारी दर्ता गर्दैछु।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातक"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2082 Election Candidates - imported 2026-01-27"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2082 candidates"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2026-02-03T03:04:06.687165Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 342237,
+          "constituency_id": "entity:location/constituency/surkhet-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2082,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepal-janasewa-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2599,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "White and Black Shoes"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "सेतो र कालो रङगको जुत्ता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": null
+        }
+      ]
+    },
+    "id": "entity:person/hridayendra-adhikari",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "342237"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hridayendra Adhikari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "हृदयन्द्र अधिकारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Uttarganga, Birendranagar Municipality, Surkhet"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सुर्खेत बीरेन्द्रनगर नगरपालिका उत्तरगंगा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "citizenship_place": null,
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्वविद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": null,
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/342237.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "hridayendra-adhikari",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2082-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "2082 Election - Political Party Updates",
+      "created_at": "2026-02-03T03:04:06.687163Z",
+      "entity_or_relationship_id": "entity:person/hridayendra-adhikari",
+      "id": "version:entity:person/hridayendra-adhikari:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

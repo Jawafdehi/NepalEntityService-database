@@ -74,6 +74,31 @@
           "url": null
         },
         "votes_received": 70
+      },
+      {
+        "candidate_id": 341809,
+        "constituency_id": "entity:location/constituency/dhanusha-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2658,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Pressure Cooker"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "प्रेसर कुकर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -181,7 +206,8 @@
   "slug": "ajay-kumar-yadav-334729",
   "sub_type": null,
   "tags": [
-    "federal-election-2079-candidate"
+    "federal-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -190,10 +216,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:38.166815Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:03.619645Z",
     "entity_or_relationship_id": "entity:person/ajay-kumar-yadav-334729",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

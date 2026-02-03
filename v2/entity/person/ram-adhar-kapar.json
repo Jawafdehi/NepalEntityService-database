@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 12733
+      },
+      {
+        "candidate_id": 340816,
+        "constituency_id": "entity:location/constituency/mahottari-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2610,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mango"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "आँप"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -152,7 +177,8 @@
   "slug": "ram-adhar-kapar",
   "sub_type": null,
   "tags": [
-    "federal-election-2079-candidate"
+    "federal-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -161,10 +187,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:41.153771Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:03.673494Z",
     "entity_or_relationship_id": "entity:person/ram-adhar-kapar",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

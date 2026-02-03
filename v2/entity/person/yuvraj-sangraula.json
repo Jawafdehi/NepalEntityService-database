@@ -1,0 +1,233 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 66 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 66 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Approximately 39 years of teaching in various universities and colleges, retired from Shrawan 2082 BS. Published 23 books on various subjects to date. Guest Professor in China, India, Bangladesh, Thailand, and America. Worked as a non-salaried expert in the Education Commission Bagmati Higher Education Council and Defense University until a few months ago, and worked in the Security Body Strengthening Task Force in 2009."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "39 वर्ष करिब विभिन्न विश्वविध्यालय कलेजहरुमा अधे्यापन र 2082 श्रावण देखि अवकास\nहाल सम्म विभिन्न विद्याका २३ वठा पुस्तक प्रकाशन\nचीन, भारत, बङ्गलादेश, थाइल्याण्ड तथा अमेरीकामा अतिथी प्रध्यापक\nशिक्षा आयोग बाग्मती उच्च शिक्षापरिषद तथा प्रतिरक्षा विश्वविध्यालयमा अवैतरिक विज्ञका रुपमा केही महिना अगाडी सम्म कार्य गरेको र सन 2009 मा शुरक्षा निकाय सुदृढिकरण कार्यदतामा काम गरेको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "PhD, Delhi University 2007"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विद्यावारिधी देल्लि विश्वविद्यालय 2007"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:04.865592Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339645,
+        "constituency_id": "entity:location/constituency/jhapa-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2651,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Fan"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पंखा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339645"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Yuvraj Sangraula",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "युवराज संग्रौला",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhaktapur Suryavinayak Municipality Pani Tanki"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भक्तपुर सूर्यविनायक नगरपालिका पानी ट्‍याङकी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "PhD"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Law"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Delhi University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "देल्हि विश्वविद्यालय कानुन संकाय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": [
+      {
+        "description": null,
+        "end_date": null,
+        "organization": {
+          "en": {
+            "provenance": "llm",
+            "value": "Tribhuvan University Prithvi Narayan Campus, Tribhuvan University Faculty of Law, Kathmandu School of Law, Government of Nepal, Education Commission Bagmati Higher Education Council, Defense University"
+          },
+          "ne": null
+        },
+        "start_date": null,
+        "title": {
+          "en": {
+            "provenance": "llm",
+            "value": "Associate Professor, Attorney General, Consultant, Committee Member, Guest Professor, Non-salaried Expert"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339645.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "yuvraj-sangraula",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:04.865589Z",
+    "entity_or_relationship_id": "entity:person/yuvraj-sangraula",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

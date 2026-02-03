@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 34950
+      },
+      {
+        "candidate_id": 339753,
+        "constituency_id": "entity:location/constituency/makwanpur-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2598,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सुर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -170,7 +195,8 @@
   "sub_type": null,
   "tags": [
     "federal-election-2079-candidate",
-    "federal-election-2079-elected"
+    "federal-election-2079-elected",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -179,10 +205,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:37.950795Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:04.047128Z",
     "entity_or_relationship_id": "entity:person/mahesh-kumar-bartaula",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

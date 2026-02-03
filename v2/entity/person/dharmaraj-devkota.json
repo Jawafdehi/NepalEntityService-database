@@ -1,0 +1,207 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "age": {
+        "en": {
+          "provenance": "imported",
+          "value": "Aged 41 as of January 2026"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०८२ माघमा 41 वर्ष"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Since 2058 BS, I have been continuously working for the country and its people, standing against injustice and oppression and in favor of Nepal's historical change, and I am determined to continue doing so with dedication in the future."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "वि.सं. २०५८ साल देखि देशमा अन्याय अत्याचारको बिरुद्धमा नेपालको ऐतिहासिक परिवर्तनको पक्षमा उभिई निरन्तर देश र जनताको लागि हालको दिनसम्म पनि लागिपरेको, आगामी दिनहरुमा पनि दत्तचित्तका साथ लाग्ने मेरो अठोट छ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "+2"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "+2"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2082 Election Candidates - imported 2026-01-27"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०८२ निर्वाचन उम्मेदवार - आयात मिति 2026-01-27 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2082 candidates"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०८२ को उम्मेदवार"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2026-02-03T03:04:06.685951Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339700,
+        "constituency_id": "entity:location/constituency/surkhet-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-communist-party-maoist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2526,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Rose flower with two leaves inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलो घेराभित्र दुई पात भएको गुलाफको फूल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339700"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dharmaraj Devkota",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "धर्मराज देवकोटा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Jamunarsi, Panchapuri Municipality, Surkhet"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सुर्खेत पञ्चपुरी नगरपालिका जामु नारसी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": null,
+    "birth_place": null,
+    "citizenship_place": null,
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Suryodaya Higher Secondary School, Masina, Rolpa"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सुर्योदय उमावि मसिना रोल्पा"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": null,
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2082-pictures/339700.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dharmaraj-devkota",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2082-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "2082 Election - Political Party Updates",
+    "created_at": "2026-02-03T03:04:06.685949Z",
+    "entity_or_relationship_id": "entity:person/dharmaraj-devkota",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

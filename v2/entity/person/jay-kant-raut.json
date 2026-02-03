@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 19996
+      },
+      {
+        "candidate_id": 342037,
+        "constituency_id": "entity:location/constituency/saptari-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/janamat-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2585,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Loudspeaker"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "लाउड स्पिकर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -152,7 +177,8 @@
   "slug": "jay-kant-raut",
   "sub_type": null,
   "tags": [
-    "federal-election-2079-candidate"
+    "federal-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -161,10 +187,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:39.266697Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:02.904778Z",
     "entity_or_relationship_id": "entity:person/jay-kant-raut",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

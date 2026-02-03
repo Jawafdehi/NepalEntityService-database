@@ -1,0 +1,16 @@
+{
+  "migration_name": "010-source-2082-direct-candidates",
+  "author": "Damodar Dahal",
+  "date": "2026-01-27T00:00:00",
+  "description": "Create new political parties and fix existing party names for 2082 election",
+  "executed_at": "2026-02-02T19:05:01.738898",
+  "duration_seconds": 5.672958850860596,
+  "status": "completed",
+  "changes": {
+    "entities_created": 2773,
+    "relationships_created": 0,
+    "versions_created": 3415,
+    "summary": "Created 2773 entities, 0 relationships, and 3415 versions",
+    "has_diff": true
+  }
+}

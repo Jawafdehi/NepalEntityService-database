@@ -68,6 +68,31 @@
           "url": null
         },
         "votes_received": 11043
+      },
+      {
+        "candidate_id": 340715,
+        "constituency_id": "entity:location/constituency/bara-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2542,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tilting Umbrella"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "ढल्केको छाता"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -152,7 +177,8 @@
   "slug": "ramkishor-prasad-yadav",
   "sub_type": null,
   "tags": [
-    "federal-election-2079-candidate"
+    "federal-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -161,10 +187,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:42.643747Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:04.086053Z",
     "entity_or_relationship_id": "entity:person/ramkishor-prasad-yadav",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }

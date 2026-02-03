@@ -83,6 +83,31 @@
           "url": null
         },
         "votes_received": 14556
+      },
+      {
+        "candidate_id": 342143,
+        "constituency_id": "entity:location/constituency/okhaldhunga-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2082,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepali-communist-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2557,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Five-pointed Star"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पाँचकुने तारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": null
       }
     ]
   },
@@ -190,7 +215,8 @@
   "slug": "ambir-babu-gurung",
   "sub_type": null,
   "tags": [
-    "provincial-election-2079-candidate"
+    "provincial-election-2079-candidate",
+    "federal-election-2082-candidate"
   ],
   "type": "person",
   "version_summary": {
@@ -199,10 +225,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Redact family information for privacy",
-    "created_at": "2025-12-26T19:19:38.310606Z",
+    "change_description": "Added 2082 election candidacy",
+    "created_at": "2026-02-03T03:04:02.863034Z",
     "entity_or_relationship_id": "entity:person/ambir-babu-gurung",
     "type": "ENTITY",
-    "version_number": 2
+    "version_number": 3
   }
 }
