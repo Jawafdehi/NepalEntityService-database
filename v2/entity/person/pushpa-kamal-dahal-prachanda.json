@@ -139,6 +139,18 @@
         "prefix": null,
         "suffix": null
       }
+    },
+    {
+      "en": {
+        "family": null,
+        "full": "Prachanda",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "ALIAS",
+      "ne": null
     }
   ],
   "personal_details": {
@@ -213,14 +225,14 @@
   "type": "person",
   "version_summary": {
     "author": {
-      "id": "author:damodar-dahal",
-      "name": "Damodar Dahal",
-      "slug": "damodar-dahal"
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
     },
-    "change_description": "Added 2082 election candidacy",
-    "created_at": "2026-02-03T03:04:04.290138Z",
+    "change_description": "Adding commonly used alias Prachanda for Pushpa Kamal Dahal (submitted by Testuser1)",
+    "created_at": "2026-03-06T18:42:09.223033Z",
     "entity_or_relationship_id": "entity:person/pushpa-kamal-dahal-prachanda",
     "type": "ENTITY",
-    "version_number": 3
+    "version_number": 4
   }
 }
