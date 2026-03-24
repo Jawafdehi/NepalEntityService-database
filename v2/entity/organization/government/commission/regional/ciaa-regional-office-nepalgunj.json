@@ -1,0 +1,103 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Nepalgunj"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "नेपालगञ्ज"
+      }
+    },
+    "location_id": "entity:location/sub_metropolitan_city/nepalgunj-sub-metropolitan-city"
+  },
+  "attributes": {
+    "established": "1992-02-11"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97781550626"
+    },
+    {
+      "type": "PHONE",
+      "value": "+97781550627"
+    },
+    {
+      "type": "EMAIL",
+      "value": "ciaanepalgunj@gmail.com"
+    },
+    {
+      "type": "URL",
+      "value": "https://ciaa.gov.np"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:48.709033Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The CIAA Regional Office in Nepalgunj serves the mid-western region of Nepal, investigating cases of corruption and abuse of authority. It works under the supervision of the central CIAA office to ensure transparency and accountability in government operations across the mid-western districts."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "नेपालगञ्जमा रहेको CIAA क्षेत्रीय कार्यालयले नेपालको मध्य-पश्चिमी क्षेत्रमा सेवा प्रदान गर्दै भ्रष्टाचार र अख्तियारको दुरुपयोगका मुद्दाहरूको अनुसन्धान गर्दछ। यसले केन्द्रीय CIAA कार्यालयको पर्यवेक्षणमा मध्य-पश्चिमी जिल्लाहरूमा सरकारी कार्यहरूमा पारदर्शिता र जवाफदेहिता सुनिश्चित गर्न काम गर्दछ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/regional",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "CIAA Regional Office, Nepalgunj",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "क्षेत्रीय कार्यालय, अख्तियार दुरुपयोग अनुसन्धान आयोग, नेपालगञ्ज",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Regional office of CIAA investigating corruption and abuse of authority cases in mid-western Nepal."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "मध्य-पश्चिमी नेपालमा भ्रष्टाचार र अख्तियारको दुरुपयोगका मुद्दाहरूको अनुसन्धान गर्ने CIAA को क्षेत्रीय कार्यालय।"
+    }
+  },
+  "slug": "ciaa-regional-office-nepalgunj",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: ciaa-regional-office-nepalgunj (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:48.709011Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/regional/ciaa-regional-office-nepalgunj",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

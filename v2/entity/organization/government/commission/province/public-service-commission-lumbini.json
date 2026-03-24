@@ -1,0 +1,103 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Butwal, Rupandehi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "बुटवल, रुपन्देही"
+      }
+    },
+    "location_id": "entity:location/sub_metropolitan_city/butwal-sub-metropolitan-city"
+  },
+  "attributes": {
+    "established": "2019-09-13"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97771590599"
+    },
+    {
+      "type": "PHONE",
+      "value": "+97771534650"
+    },
+    {
+      "type": "EMAIL",
+      "value": "ppsc.lumbini@gmail.com"
+    },
+    {
+      "type": "URL",
+      "value": "https://ppsc.lumbini.gov.np"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:53.989384Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Province Public Service Commission of Lumbini Province serves as a cornerstone institution for building professional public administration in the province. As an autonomous constitutional body, it conducts comprehensive recruitment processes to select competent individuals for various provincial and local government positions. The commission's commitment to merit-based selection ensures that public services in Lumbini Province are delivered by qualified professionals who uphold the values of integrity, accountability, and service to citizens."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "लुम्बिनी प्रदेशको प्रदेश लोक सेवा आयोग प्रदेशमा व्यावसायिक सार्वजनिक प्रशासन निर्माण गर्ने आधारशिला संस्थाको रूपमा सेवा गर्दछ। स्वायत्त संवैधानिक निकायको रूपमा, यसले विभिन्न प्रादेशिक र स्थानीय सरकारी पदहरूका लागि सक्षम व्यक्तिहरू छनोट गर्न व्यापक भर्ना प्रक्रिया सञ्चालन गर्दछ। योग्यतामा आधारित छनोटप्रति आयोगको प्रतिबद्धताले लुम्बिनी प्रदेशमा सार्वजनिक सेवाहरू इमानदारी, जवाफदेहिता र नागरिकहरूको सेवाका मूल्यहरू कायम राख्ने योग्य पेशेवरहरूद्वारा प्रदान गरिने सुनिश्चित गर्दछ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/province",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Province Public Service Commission, Lumbini Province",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "प्रदेश लोक सेवा आयोग, लुम्बिनी प्रदेश",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Autonomous body with constitutional status selecting competent and professional human resources for Lumbini Province through merit-based system"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "योग्यतामा आधारित प्रणाली मार्फत लुम्बिनी प्रदेशका लागि सक्षम र व्यावसायिक जनशक्ति छनोट गर्ने संवैधानिक हैसियत भएको स्वायत्त निकाय"
+    }
+  },
+  "slug": "public-service-commission-lumbini",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: public-service-commission-lumbini (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:53.989363Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/province/public-service-commission-lumbini",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

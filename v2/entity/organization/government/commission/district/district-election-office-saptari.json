@@ -1,0 +1,99 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Rajbiraj-9, Rupani Road"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "Rajbiraj-9, Rupani Road"
+      }
+    },
+    "location_id": "entity:location/municipality/rajbiraj-municipality"
+  },
+  "attributes": {
+    "established": "1951-01-01"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97731531453"
+    },
+    {
+      "type": "EMAIL",
+      "value": "deo.saptari@election.gov.np"
+    },
+    {
+      "type": "URL",
+      "value": "https://election.gov.np/en/district/saptari"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:52.337701Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The District Election Office of Saptari operates under the Election Commission of Nepal to conduct elections and manage voter registration at the district level. It ensures proper implementation of electoral processes, maintains voter rolls, and facilitates democratic participation of citizens in Saptari district."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "Saptariको जिल्ला निर्वाचन कार्यालयले निर्वाचन आयोग नेपालको अधीनमा जिल्ला स्तरमा निर्वाचन सञ्चालन र मतदाता दर्ता व्यवस्थापन गर्दछ। यसले निर्वाचनी प्रक्रियाको उचित कार्यान्वयन सुनिश्चित गर्छ, मतदाता नामावली राख्छ र Saptari जिल्लाका नागरिकहरूको लोकतान्त्रिक सहभागितालाई सहज बनाउँछ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/district",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "District Election Office, Saptari",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जिल्ला निर्वाचन कार्यालय, Saptari",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "District-level election office responsible for conducting elections and voter registration in Saptari district."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "Saptari जिल्लामा निर्वाचन सञ्चालन र मतदाता दर्ता गर्ने जिल्ला स्तरको निर्वाचन कार्यालय।"
+    }
+  },
+  "slug": "district-election-office-saptari",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: district-election-office-saptari (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:52.337680Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/district/district-election-office-saptari",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Singha Durbar, Kathmandu"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सिंहदरबार, काठमाडौं"
+      }
+    },
+    "location_id": "entity:location/metropolitan_city/kathmandu-metropolitan-city"
+  },
+  "attributes": {
+    "established": "2017-03-07"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97714200592"
+    },
+    {
+      "type": "EMAIL",
+      "value": "info@nnrfc.gov.np"
+    },
+    {
+      "type": "URL",
+      "value": "https://nnrfc.gov.np"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:53.347849Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The National Natural Resources and Fiscal Commission is a constitutional body established under Article 250 of the Constitution of Nepal. It recommends formulas for revenue sharing and fiscal equalization grants between different levels of government. The commission plays a crucial role in ensuring balanced development, fiscal discipline, and equitable distribution of national resources across provinces and local governments."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग नेपालको संविधानको धारा २५० अन्तर्गत स्थापित संवैधानिक निकाय हो। यसले संघ, प्रदेश र स्थानीय तहबीच राजस्व बाँडफाँड र वित्तीय समानिकरण अनुदानका लागि सिफारिस गर्दछ। देशभर समान विकास र स्रोतको न्यायोचित वितरण सुनिश्चित गर्न आयोगले महत्त्वपूर्ण भूमिका खेल्छ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/federal",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "National Natural Resources And Fiscal Commission",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Constitutional body responsible for managing the distribution of natural resources and fiscal transfers among federal, provincial, and local governments."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "संघ, प्रदेश र स्थानीय तहबीच प्राकृतिक स्रोत र वित्तीय हस्तान्तरण व्यवस्थापन गर्ने संवैधानिक निकाय।"
+    }
+  },
+  "slug": "national-natural-resources-fiscal-commission",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: national-natural-resources-fiscal-commission (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:53.347829Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/federal/national-natural-resources-fiscal-commission",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

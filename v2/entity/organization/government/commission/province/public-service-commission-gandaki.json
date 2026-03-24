@@ -1,0 +1,99 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Mustang Chowk, Pokhara, Kaski"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मुस्ताङ चोक, पोखरा, कास्की"
+      }
+    },
+    "location_id": "entity:location/metropolitan_city/pokhara-metropolitan-city"
+  },
+  "attributes": {
+    "established": "2021-03-24"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97761457873"
+    },
+    {
+      "type": "EMAIL",
+      "value": "gandakipsc2076@gmail.com"
+    },
+    {
+      "type": "URL",
+      "value": "https://ppsc.gandaki.gov.np"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:53.828234Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Province Public Service Commission of Gandaki Province functions as an independent constitutional authority responsible for building a strong and capable public administration. Through merit-based selection processes, it identifies and recruits talented individuals for provincial civil service and local government positions. The commission's work is fundamental to ensuring that Gandaki Province has skilled professionals who can implement policies, deliver services, and respond to the needs of citizens effectively and efficiently."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "गण्डकी प्रदेशको प्रदेश लोक सेवा आयोग बलियो र सक्षम सार्वजनिक प्रशासन निर्माण गर्न जिम्मेवार स्वतन्त्र संवैधानिक प्राधिकरणको रूपमा कार्य गर्दछ। योग्यतामा आधारित छनोट प्रक्रिया मार्फत, यसले प्रादेशिक निजामती सेवा र स्थानीय सरकारी पदहरूका लागि प्रतिभाशाली व्यक्तिहरू पहिचान र भर्ना गर्दछ। आयोगको काम गण्डकी प्रदेशमा नीतिहरू कार्यान्वयन गर्न, सेवाहरू प्रदान गर्न र नागरिकहरूको आवश्यकतालाई प्रभावकारी र कुशलतापूर्वक प्रतिक्रिया दिन सक्ने दक्ष पेशेवरहरू छन् भन्ने सुनिश्चित गर्न आधारभूत छ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/province",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Province Public Service Commission, Gandaki Province",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "प्रदेश लोक सेवा आयोग, गण्डकी प्रदेश",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Constitutional body strengthening provincial administration by selecting suitable candidates based on merit system for Gandaki Province"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "योग्यता प्रणालीमा आधारित उपयुक्त उम्मेदवार छनोट गरी गण्डकी प्रदेशको प्रादेशिक प्रशासन सुदृढ गर्ने संवैधानिक निकाय"
+    }
+  },
+  "slug": "public-service-commission-gandaki",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: public-service-commission-gandaki (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:53.828215Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/province/public-service-commission-gandaki",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

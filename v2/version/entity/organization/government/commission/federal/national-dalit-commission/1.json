@@ -1,0 +1,113 @@
+{
+  "author": {
+    "id": "author:testuser1",
+    "name": null,
+    "slug": "testuser1"
+  },
+  "change_description": "Bulk NESQ submit from migration JSON: national-dalit-commission (submitted by Testuser1)",
+  "created_at": "2026-03-24T02:17:53.241996Z",
+  "entity_or_relationship_id": "entity:organization/government/commission/federal/national-dalit-commission",
+  "snapshot": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "imported",
+          "value": "Kupondole, Lalitpur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कुपन्डोल, ललितपुर"
+        }
+      },
+      "location_id": "entity:location/metropolitan_city/lalitpur-metropolitan-city"
+    },
+    "attributes": {
+      "established": "2018-03-07"
+    },
+    "attributions": null,
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+97715431148"
+      },
+      {
+        "type": "EMAIL",
+        "value": "info@ndc.gov.np"
+      },
+      {
+        "type": "URL",
+        "value": "https://ndc.gov.np"
+      }
+    ],
+    "created_at": "2026-03-24T02:17:53.242019Z",
+    "description": {
+      "en": {
+        "provenance": "imported",
+        "value": "The National Dalit Commission is responsible for safeguarding the rights and interests of Dalit communities. It monitors discrimination, recommends policy reforms, and supports social inclusion initiatives to eliminate caste-based discrimination in Nepal."
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "राष्ट्रिय दलित आयोग दलित समुदायको अधिकार र हित संरक्षणका लागि स्थापना गरिएको संवैधानिक निकाय हो। यसले जातीय विभेदको अनुगमन, नीति सुधार सिफारिस तथा सामाजिक समावेशीकरण प्रवर्द्धनका लागि काम गर्दछ।"
+      }
+    },
+    "entity_prefix": "organization/government/commission/federal",
+    "government_type": "provincial",
+    "id": "entity:organization/government/commission/federal/national-dalit-commission",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "National Dalit Commission",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राष्ट्रिय दलित आयोग",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "short_description": {
+      "en": {
+        "provenance": "imported",
+        "value": "Constitutional commission ensuring protection and upliftment of Dalit communities in Nepal."
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "दलित समुदायको संरक्षण र उत्थान सुनिश्चित गर्ने संवैधानिक आयोग।"
+      }
+    },
+    "slug": "national-dalit-commission",
+    "sub_type": "government_body",
+    "tags": [
+      "constitutional-body"
+    ],
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:testuser1",
+        "name": null,
+        "slug": "testuser1"
+      },
+      "change_description": "Bulk NESQ submit from migration JSON: national-dalit-commission (submitted by Testuser1)",
+      "created_at": "2026-03-24T02:17:53.241996Z",
+      "entity_or_relationship_id": "entity:organization/government/commission/federal/national-dalit-commission",
+      "id": "version:entity:organization/government/commission/federal/national-dalit-commission:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

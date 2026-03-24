@@ -1,0 +1,103 @@
+{
+  "address": {
+    "description": null,
+    "description2": {
+      "en": {
+        "provenance": "imported",
+        "value": "Kharji Chowk, Biratnagar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "खर्जी चोक, विराटनगर"
+      }
+    },
+    "location_id": "entity:location/metropolitan_city/biratnagar-metropolitan-city"
+  },
+  "attributes": {
+    "established": "2020-02-02"
+  },
+  "attributions": null,
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97721422075"
+    },
+    {
+      "type": "PHONE",
+      "value": "+97721422077"
+    },
+    {
+      "type": "EMAIL",
+      "value": "koshipsc@gmail.com"
+    },
+    {
+      "type": "URL",
+      "value": "https://psc.koshi.gov.np"
+    }
+  ],
+  "created_at": "2026-03-24T02:17:53.936082Z",
+  "description": {
+    "en": {
+      "provenance": "imported",
+      "value": "The Province Public Service Commission of Koshi Province is an independent constitutional body established under Article 267 of the Constitution of Nepal. It ensures merit-based, transparent, and competitive recruitment of civil servants for provincial and local government positions. The commission conducts examinations, interviews, and selection processes to build a capable and professional public workforce that serves the citizens of Koshi Province effectively."
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "कोशी प्रदेशको प्रदेश लोक सेवा आयोग नेपालको संविधानको धारा २६७ अन्तर्गत स्थापित एक स्वतन्त्र संवैधानिक निकाय हो। यसले प्रादेशिक र स्थानीय सरकारी पदहरूमा योग्यतामा आधारित, पारदर्शी र प्रतिस्पर्धात्मक निजामती कर्मचारी भर्ना सुनिश्चित गर्दछ। आयोगले कोशी प्रदेशका नागरिकहरूलाई प्रभावकारी रूपमा सेवा प्रदान गर्न सक्षम र व्यावसायिक सार्वजनिक कार्यबल निर्माण गर्न परीक्षा, अन्तर्वार्ता र छनोट प्रक्रिया सञ्चालन गर्दछ।"
+    }
+  },
+  "entity_prefix": "organization/government/commission/province",
+  "government_type": "provincial",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Province Public Service Commission, Koshi Province",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "प्रदेश लोक सेवा आयोग, कोशी प्रदेश",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": {
+    "en": {
+      "provenance": "imported",
+      "value": "Constitutional body responsible for recruiting provincial and local government employees in Koshi Province through merit-based selection"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "योग्यतामा आधारित छनोट मार्फत कोशी प्रदेशको प्रादेशिक र स्थानीय सरकारी कर्मचारी भर्ना गर्ने संवैधानिक निकाय"
+    }
+  },
+  "slug": "public-service-commission-koshi",
+  "sub_type": "government_body",
+  "tags": [
+    "constitutional-body"
+  ],
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:testuser1",
+      "name": null,
+      "slug": "testuser1"
+    },
+    "change_description": "Bulk NESQ submit from migration JSON: public-service-commission-koshi (submitted by Testuser1)",
+    "created_at": "2026-03-24T02:17:53.936062Z",
+    "entity_or_relationship_id": "entity:organization/government/commission/province/public-service-commission-koshi",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
