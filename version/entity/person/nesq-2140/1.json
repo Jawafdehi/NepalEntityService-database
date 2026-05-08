@@ -1,0 +1,58 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2140 (अमरेन्द्र कुमार मिश्र) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:12.804808Z",
+  "entity_or_relationship_id": "entity:person/nesq-2140",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:12.804826Z",
+    "description": null,
+    "electoral_details": null,
+    "entity_prefix": "person",
+    "id": "entity:person/nesq-2140",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "अमरेन्द्र कुमार मिश्र",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2140",
+    "sub_type": null,
+    "tags": null,
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2140 (अमरेन्द्र कुमार मिश्र) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:12.804808Z",
+      "entity_or_relationship_id": "entity:person/nesq-2140",
+      "id": "version:entity:person/nesq-2140:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

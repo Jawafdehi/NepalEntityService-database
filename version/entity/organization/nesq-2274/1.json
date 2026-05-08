@@ -1,0 +1,57 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2274 (Vanrise Solutions SAL) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:13.077967Z",
+  "entity_or_relationship_id": "entity:organization/nesq-2274",
+  "snapshot": {
+    "address": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:13.077984Z",
+    "description": null,
+    "entity_prefix": "organization",
+    "id": "entity:organization/nesq-2274",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "Vanrise Solutions SAL",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2274",
+    "sub_type": null,
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2274 (Vanrise Solutions SAL) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:13.077967Z",
+      "entity_or_relationship_id": "entity:organization/nesq-2274",
+      "id": "version:entity:organization/nesq-2274:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

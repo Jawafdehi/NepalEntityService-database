@@ -1,0 +1,44 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T21:19:12.704955Z",
+  "description": null,
+  "electoral_details": null,
+  "entity_prefix": "person",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": null,
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रञ्जित कुमार अधिकारी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": null,
+  "pictures": null,
+  "short_description": null,
+  "slug": "nesq-2215",
+  "sub_type": null,
+  "tags": null,
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:alanthegreat",
+      "name": null,
+      "slug": "alanthegreat"
+    },
+    "change_description": "Initial creation for backlog entity 2215 (रञ्जित कुमार अधिकारी) (submitted by AlanTheGreat)",
+    "created_at": "2026-05-08T21:19:12.704936Z",
+    "entity_or_relationship_id": "entity:person/nesq-2215",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

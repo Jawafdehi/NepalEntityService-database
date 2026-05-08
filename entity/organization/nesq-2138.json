@@ -1,0 +1,43 @@
+{
+  "address": null,
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T21:19:12.792150Z",
+  "description": null,
+  "entity_prefix": "organization",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": null,
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "हस्पिटेक इन्टरप्राइजेज प्रा.लि",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "nesq-2138",
+  "sub_type": null,
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:alanthegreat",
+      "name": null,
+      "slug": "alanthegreat"
+    },
+    "change_description": "Initial creation for backlog entity 2138 (हस्पिटेक इन्टरप्राइजेज प्रा.लि) (submitted by AlanTheGreat)",
+    "created_at": "2026-05-08T21:19:12.792133Z",
+    "entity_or_relationship_id": "entity:organization/nesq-2138",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "address": null,
+  "attributes": {
+    "address": "Kalanki, Kathmandu",
+    "blacklist_date_ad": "1969-05-27",
+    "blacklist_date_bs": "2026-02-14",
+    "effective_until_ad": "1970-05-27",
+    "effective_until_bs": "2027-02-14",
+    "proprietor_name": "M/S Dinesh Rijal, Dhading",
+    "reason": "सार्वजनिक खरिद ऐन, २०६३ को दफा ६३ को उपदफा (१) बमोजिम यो सुचना प्रकाशन भएको मिती देखी लागु हुने गरी तपशीलका निर्माण व्यवसायी / आपुर्तीकर्ताहरु लाई देहायको अवधिसम्म कालोसुचिमा राखिएकोले उक्त निर्माण व्यवसायी /आपुर्तीकर्ताहरुलाई कालोसुचिमा राखिएको अवधिभर सार्वजनिक निकाएको कुनैपनि खरिद कारवाहीमा भागलिन नसक्ने व्यहोरा सम्बधित सबै सार्वजनिक निकायहरुलाई जानकारीको लागी यो सुचना प्रकाशित गरिएको छ । \n \n\t  \n \n\t  \n \n\t    \n \n\tश्री Kasthamandap Construction Pvt. Ltd., Balkhu-14, Kathmandu \n \n\t(मुख्य व्यक्ति: M/S Dinesh Rijal, Dhading) \n \n\tश्री   Divya Jyoti Construction Pvt. Ltd. \n \n\t(मुख्य व्यक्ति: M/S Shivaram Bhandari, Dhading) \n \n\t  \n \n\t  \n \n\t  \n \n\t  \n \n\t( कालो सूचीमा राख्न लेखि पठाउने सार्बजनिक निकायको नाम :- श्री सडक डिभिजन, नुवाकोट। ) \n \n\t  \n \n\t  \n \n\t उच्च अदालत पाटनमा  उक्त निर्णय विरुद्ध रिट दर्ता गरेकोमा सम्मानित अदालतबाट मिति :२०८२/११/१२ मा \"सार्वजनिक खरिद अनुगमन कार्यालयको मिति २०८२/११/०१ को निर्णय कार्यन्वयन नगरी यथास्थितिमा राख्नु \" भनि उच्च अदालत नियमावली, २०७३ को नियम ४२ बमोजिम अल्पकालिन अन्तरिम आदेश जारी भएको हुँदा सोबमोजिम  श्री  Kasthamandap/ Divya Jyoti J.V लाई suspended गरिएको छ |",
+    "recommending_office": "-  सडक डिभिजन, नुवाकोट।"
+  },
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T22:36:27.046416Z",
+  "description": null,
+  "entity_prefix": "organization/contractor",
+  "grade": null,
+  "identifiers": null,
+  "license_number": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kasthamandap Divya Jyoti Jv",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "श्री  Kasthamandap/ Divya Jyoti J.V",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "kasthamandap-divya-jyoti-jv",
+  "sub_type": "contractor",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:ppmo-spider",
+      "name": null,
+      "slug": "ppmo-spider"
+    },
+    "change_description": "Imported from PPMO blacklist scraper",
+    "created_at": "2026-05-08T22:36:27.046390Z",
+    "entity_or_relationship_id": "entity:organization/contractor/kasthamandap-divya-jyoti-jv",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2267 (संदिप अधिकारी) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:13.120085Z",
+  "entity_or_relationship_id": "entity:person/nesq-2267",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:13.120102Z",
+    "description": null,
+    "electoral_details": null,
+    "entity_prefix": "person",
+    "id": "entity:person/nesq-2267",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "संदिप अधिकारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2267",
+    "sub_type": null,
+    "tags": null,
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2267 (संदिप अधिकारी) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:13.120085Z",
+      "entity_or_relationship_id": "entity:person/nesq-2267",
+      "id": "version:entity:person/nesq-2267:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

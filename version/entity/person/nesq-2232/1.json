@@ -1,0 +1,58 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2232 (निरन्जन लामीछाने) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:13.192630Z",
+  "entity_or_relationship_id": "entity:person/nesq-2232",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:13.192648Z",
+    "description": null,
+    "electoral_details": null,
+    "entity_prefix": "person",
+    "id": "entity:person/nesq-2232",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "निरन्जन लामीछाने",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2232",
+    "sub_type": null,
+    "tags": null,
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2232 (निरन्जन लामीछाने) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:13.192630Z",
+      "entity_or_relationship_id": "entity:person/nesq-2232",
+      "id": "version:entity:person/nesq-2232:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

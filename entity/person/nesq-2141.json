@@ -1,0 +1,44 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T21:19:12.811199Z",
+  "description": null,
+  "electoral_details": null,
+  "entity_prefix": "person",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": null,
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कर्मशिल प्रसाद गोप",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": null,
+  "pictures": null,
+  "short_description": null,
+  "slug": "nesq-2141",
+  "sub_type": null,
+  "tags": null,
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:alanthegreat",
+      "name": null,
+      "slug": "alanthegreat"
+    },
+    "change_description": "Initial creation for backlog entity 2141 (कर्मशिल प्रसाद गोप) (submitted by AlanTheGreat)",
+    "created_at": "2026-05-08T21:19:12.811182Z",
+    "entity_or_relationship_id": "entity:person/nesq-2141",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

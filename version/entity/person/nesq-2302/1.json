@@ -1,0 +1,58 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2302 (बबी सोडारी) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:13.258619Z",
+  "entity_or_relationship_id": "entity:person/nesq-2302",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:13.258643Z",
+    "description": null,
+    "electoral_details": null,
+    "entity_prefix": "person",
+    "id": "entity:person/nesq-2302",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "बबी सोडारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2302",
+    "sub_type": null,
+    "tags": null,
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2302 (बबी सोडारी) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:13.258619Z",
+      "entity_or_relationship_id": "entity:person/nesq-2302",
+      "id": "version:entity:person/nesq-2302:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

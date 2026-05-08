@@ -1,0 +1,58 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2278 (गीता सोडारी) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:13.265365Z",
+  "entity_or_relationship_id": "entity:person/nesq-2278",
+  "snapshot": {
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:13.265383Z",
+    "description": null,
+    "electoral_details": null,
+    "entity_prefix": "person",
+    "id": "entity:person/nesq-2278",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गीता सोडारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2278",
+    "sub_type": null,
+    "tags": null,
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2278 (गीता सोडारी) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:13.265365Z",
+      "entity_or_relationship_id": "entity:person/nesq-2278",
+      "id": "version:entity:person/nesq-2278:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

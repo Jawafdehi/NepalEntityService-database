@@ -1,0 +1,75 @@
+{
+  "author": {
+    "id": "author:ppmo-spider",
+    "name": null,
+    "slug": "ppmo-spider"
+  },
+  "change_description": "Imported from PPMO blacklist scraper",
+  "created_at": "2026-05-08T22:36:36.674210Z",
+  "entity_or_relationship_id": "entity:organization/contractor/firm-048500af",
+  "snapshot": {
+    "address": null,
+    "attributes": {
+      "address": "विदुर नगरपालिका-02,  नुवाकोट",
+      "blacklist_date_ad": "1969-05-24",
+      "blacklist_date_bs": "2026-02-11",
+      "effective_until_ad": "1970-05-24",
+      "effective_until_bs": "2027-02-11",
+      "proprietor_name": "विक्रम घले",
+      "reason": "सार्वजनिक खरिद ऐन, २०६३ को दफा ६३ को उपदफा (१) बमोजिम यो सुचना प्रकाशन भएको मिती देखी लागु हुने गरी तपशीलका निर्माण व्यवसायी / आपुर्तीकर्ताहरु लाई देहायको अवधिसम्म कालोसुचिमा राखिएकोले उक्त निर्माण व्यवसायी /आपुर्तीकर्ताहरुलाई कालोसुचिमा राखिएको अवधिभर सार्वजनिक निकाएको कुनैपनि खरिद कारवाहीमा भागलिन नसक्ने व्यहोरा सम्बधित सबै सार्वजनिक निकायहरुलाई जानकारीको लागी यो सुचना प्रकाशित गरिएको छ । \n \n\t  \n \n\t  \n \n\t(मुख्य व्यक्ति: श्री विक्रम घले) \n \n\t  \n \n\t  \n \n\t( कालो सूचीमा राख्न लेखि पठाउने सार्बजनिक निकायको नाम :- श्री सडक डिभिजन, नुवाकोट)",
+      "recommending_office": "-  सडक डिभिजन, नुवाकोट"
+    },
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T22:36:36.674222Z",
+    "description": null,
+    "entity_prefix": "organization/contractor",
+    "grade": null,
+    "id": "entity:organization/contractor/firm-048500af",
+    "identifiers": null,
+    "license_number": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Firm 048500Af",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "श्री लवकुश कन्स्ट्रक्सन प्रा.लि.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "firm-048500af",
+    "sub_type": "contractor",
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:ppmo-spider",
+        "name": null,
+        "slug": "ppmo-spider"
+      },
+      "change_description": "Imported from PPMO blacklist scraper",
+      "created_at": "2026-05-08T22:36:36.674210Z",
+      "entity_or_relationship_id": "entity:organization/contractor/firm-048500af",
+      "id": "version:entity:organization/contractor/firm-048500af:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

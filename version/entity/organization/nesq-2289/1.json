@@ -1,0 +1,57 @@
+{
+  "author": {
+    "id": "author:alanthegreat",
+    "name": null,
+    "slug": "alanthegreat"
+  },
+  "change_description": "Initial creation for backlog entity 2289 (पद्मा कोलोनी प्रा.लि.) (submitted by AlanTheGreat)",
+  "created_at": "2026-05-08T21:19:12.674250Z",
+  "entity_or_relationship_id": "entity:organization/nesq-2289",
+  "snapshot": {
+    "address": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2026-05-08T21:19:12.674269Z",
+    "description": null,
+    "entity_prefix": "organization",
+    "id": "entity:organization/nesq-2289",
+    "identifiers": null,
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": null,
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "पद्मा कोलोनी प्रा.लि.",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "pictures": null,
+    "short_description": null,
+    "slug": "nesq-2289",
+    "sub_type": null,
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:alanthegreat",
+        "name": null,
+        "slug": "alanthegreat"
+      },
+      "change_description": "Initial creation for backlog entity 2289 (पद्मा कोलोनी प्रा.लि.) (submitted by AlanTheGreat)",
+      "created_at": "2026-05-08T21:19:12.674250Z",
+      "entity_or_relationship_id": "entity:organization/nesq-2289",
+      "id": "version:entity:organization/nesq-2289:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

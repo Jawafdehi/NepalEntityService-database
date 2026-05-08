@@ -1,0 +1,44 @@
+{
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T21:19:12.798411Z",
+  "description": null,
+  "electoral_details": null,
+  "entity_prefix": "person",
+  "identifiers": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": null,
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "अमर दीप महतो",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": null,
+  "pictures": null,
+  "short_description": null,
+  "slug": "nesq-2139",
+  "sub_type": null,
+  "tags": null,
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:alanthegreat",
+      "name": null,
+      "slug": "alanthegreat"
+    },
+    "change_description": "Initial creation for backlog entity 2139 (अमर दीप महतो) (submitted by AlanTheGreat)",
+    "created_at": "2026-05-08T21:19:12.798394Z",
+    "entity_or_relationship_id": "entity:person/nesq-2139",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

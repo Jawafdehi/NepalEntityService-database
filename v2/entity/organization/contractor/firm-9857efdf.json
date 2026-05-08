@@ -1,0 +1,61 @@
+{
+  "address": null,
+  "attributes": {
+    "address": "बानेश्वर-10, काठमाडौँ",
+    "blacklist_date_ad": "1969-06-28",
+    "blacklist_date_bs": "2026-03-14",
+    "effective_until_ad": "1970-06-28",
+    "effective_until_bs": "2027-03-14",
+    "proprietor_name": "सरोज ठकुरी",
+    "reason": "सार्वजनिक खरिद ऐन, २०६३ को दफा ६३ को उपदफा (१) बमोजिम यो सुचना प्रकाशन भएको मिती देखी लागु हुने गरी तपशीलका निर्माण व्यवसायी / आपुर्तीकर्ताहरु लाई देहायको अवधिसम्म कालोसुचिमा राखिएकोले उक्त निर्माण व्यवसायी /आपुर्तीकर्ताहरुलाई कालोसुचिमा राखिएको अवधिभर सार्वजनिक निकाएको कुनैपनि खरिद कारवाहीमा भागलिन नसक्ने व्यहोरा सम्बधित सबै सार्वजनिक निकायहरुलाई जानकारीको लागी यो सुचना प्रकाशित गरिएको छ । \n \n\t  \n \n\t  \n \n\t(मुख्य व्यक्ति: श्री सरोज ठकुरी) \n \n\tश्री एरोन निर्माण तथा सप्लायर्स प्रा.लि,  \n \n\tकाठमाडौँ महानगरपालिका-१०, काठमाडौँ  \n \n\tश्री गुरु रिन्पोछे कन्स्ट्रक्सन प्रा.लि, \n \n\tदक्षिणकाली नगरपालिका-6, काठमाडौँ \n \n\tश्री सिपाली कन्स्ट्रक्सन प्रा.लि जे.भी. \n \n\tबलेफी गाउँपालिका-04, सिन्धुपाल्चोक \n \n\t  \n \n\t  \n \n\t ( कालो सूचीमा राख्न लेखि पठाउने सार्बजनिक निकायको नाम :- श्री कैलाश गाउँपालिका,गाउँ कार्यपालिकाको कार्यालय, कालिकाटार, मकवानपुर।)",
+    "recommending_office": "-  कैलाश गाउँपालिका,गाउँ कार्यपालिकाको कार्यालय, कालिकाटार, मकवानपुर।"
+  },
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2026-05-08T22:36:36.672517Z",
+  "description": null,
+  "entity_prefix": "organization/contractor",
+  "grade": null,
+  "identifiers": null,
+  "license_number": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Firm 9857Efdf",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "श्री एरोन-गुरू-सिपाली जे.भी.",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "pictures": null,
+  "short_description": null,
+  "slug": "firm-9857efdf",
+  "sub_type": "contractor",
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:ppmo-spider",
+      "name": null,
+      "slug": "ppmo-spider"
+    },
+    "change_description": "Imported from PPMO blacklist scraper",
+    "created_at": "2026-05-08T22:36:36.672503Z",
+    "entity_or_relationship_id": "entity:organization/contractor/firm-9857efdf",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
