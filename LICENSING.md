@@ -12,10 +12,13 @@ The Hippocratic License is an [Ethical Source](https://ethicalsource.dev) licens
 
 If you believe this software is being used in violation of the license, contact the licensor at [info@jawafdehi.org](mailto:info@jawafdehi.org).
 
+<<<<<<< HEAD
 ## SPDX compliance
 
 Source files should include an [SPDX](https://spdx.dev/) license identifier header: `SPDX-License-Identifier: Hippocratic-3.0`. A CI workflow ([`.github/workflows/spdx-header-check.yml`](./.github/workflows/spdx-header-check.yml)) verifies license headers.
 
+=======
+>>>>>>> origin/main
 ## Third-party code
 
 Dependencies and third-party code remain under their original licenses.
